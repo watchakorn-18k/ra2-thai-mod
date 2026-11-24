@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 2100,
+    "label": "VOX:iyuratd",
+    "en": "A new comrade joins us."
+  },
+  {
+    "id": 2101,
+    "label": "VOX:iyurate",
+    "en": "Look deeply into my eyes_"
+  },
+  {
+    "id": 2102,
+    "label": "VOX:iyurmoa",
+    "en": "Yes, of course."
+  },
+  {
+    "id": 2103,
+    "label": "VOX:iyurmob",
+    "en": "Predictable."
+  },
+  {
+    "id": 2104,
+    "label": "VOX:iyurmoc",
+    "en": "Thoughts received."
+  },
+  {
+    "id": 2105,
+    "label": "VOX:iyurmod",
+    "en": "My command is your wish."
+  },
+  {
+    "id": 2106,
+    "label": "VOX:iyursea",
+    "en": "Psychic ready."
+  },
+  {
+    "id": 2107,
+    "label": "VOX:iyurseb",
+    "en": "Tell me your wish."
+  },
+  {
+    "id": 2108,
+    "label": "VOX:iyursec",
+    "en": "I know your thoughts."
+  },
+  {
+    "id": 2109,
+    "label": "VOX:iyursed",
+    "en": "Your mind is clear."
+  },
+  {
+    "id": 2110,
+    "label": "VOX:iyursee",
+    "en": "The mind is quicker than the eye."
+  },
+  {
+    "id": 2111,
+    "label": "VOX:ma1ev01",
+    "en": "Don't forget, Sir! Order Tanya as you see fit, but we CANNOT afford to lose her. You must reach Fort Bradley before it is destroyed."
+  },
+  {
+    "id": 2112,
+    "label": "VOX:ma1ev02",
+    "en": "Looks like the bridge has been blown. We'll have to find another way to Fort Bradley."
+  },
+  {
+    "id": 2113,
+    "label": "VOX:ma1ev03",
+    "en": "The Soviet Navy is attacking the Statue of Liberty! We can't let them get away with that! Sir, is there anything you can do?"
+  },
+  {
+    "id": 2114,
+    "label": "VOX:ma1ev04",
+    "en": "Doesn't sound good, Sir! We're going to have to double-time it the rest the way to reach Fort Bradley in time!"
+  },
+  {
+    "id": 2115,
+    "label": "VOX:ma1ev05",
+    "en": "Congratulations! We've reestablished contact with Fort Bradley! They're turning over control of the base and its troops to you."
+  },
+  {
+    "id": 2116,
+    "label": "VOX:ma1ev06",
+    "en": "We seem to have lost power, sir! Build more power plants."
+  },
+  {
+    "id": 2117,
+    "label": "VOX:ma1ev07",
+    "en": "Looks like the bridge has collapsed. We'll have to get our Engineers to repair it!"
+  },
+  {
+    "id": 2118,
+    "label": "VOX:ma1ev08",
+    "en": "Watch out for those Petroleum barrels - They seem highly unstable! Perhaps we can use them to our advantage..."
+  },
+  {
+    "id": 2119,
+    "label": "VOX:ma1ev09",
+    "en": "Our GI's are too exposed to enemy fire! Maybe they should take shelter in nearby buildings!"
+  },
+  {
+    "id": 2120,
+    "label": "VOX:ma1ev10",
+    "en": "Sir, I'm sorry to report that we've lost Tanya_"
+  },
+  {
+    "id": 2121,
+    "label": "VOX:ma1ev11",
+    "en": "There's the Supply Base! Destroy all of the buildings, and we'll buy some time for the rest of the country!"
+  },
+  {
+    "id": 2122,
+    "label": "VOX:ma1ev12",
+    "en": "We've done it Sir! The Supply Base has been eliminated!"
+  },
+  {
+    "id": 2123,
+    "label": "VOX:ma1ev13",
+    "en": "You must hurry to reach Fort Bradley as quickly as possible!"
+  },
+  {
+    "id": 2124,
+    "label": "VOX:ma1ev14",
+    "en": "To earn more credits, command your Chrono Miners to gather ore."
+  },
+  {
+    "id": 2125,
+    "label": "VOX:ma1ev15",
+    "en": "This vehicle is known as a Chrono Miner - it can be used to gather valuable minerals, and when fully loaded will teleport back to the Refinery docking bay."
+  },
+  {
+    "id": 2126,
+    "label": "VOX:ma1ev16",
+    "en": "Additional Soviet forces are incoming, and will surely arrive soon!"
+  },
+  {
+    "id": 2127,
+    "label": "VOX:ma1ev17",
+    "en": "Soviet paratroopers detected."
+  },
+  {
+    "id": 2128,
+    "label": "VOX:ma1ev18",
+    "en": "Commander, you must reach Fort Bradley as quick... wait... What are those Dreadnoughts doing? They're attacking the Statue of Liberty? You can't let this happen!"
+  },
+  {
+    "id": 2129,
+    "label": "VOX:ma1ev19",
+    "en": "Liberty is fallen, sir. This looks like the beginning of the end."
+  },
+  {
+    "id": 2130,
+    "label": "VOX:ma1ev20",
+    "en": "Tanya has perished, sir. We can't do this without her!"
+  },
+  {
+    "id": 2131,
+    "label": "VOX:ma1ev21",
+    "en": "Sir, Fort Bradley just reported that the Soviets have managed to establish a small supply base just southeast of here. If we can eliminate the supply base, perhaps can stall the invasion for a short while!"
+  },
+  {
+    "id": 2132,
+    "label": "VOX:ma1ev22",
+    "en": "Deploy an occupied civilian structure to evacuate its occupants."
+  },
+  {
+    "id": 2133,
+    "label": "VOX:ma2ta01",
+    "en": "All right! This beacon's neutralized! Send in the cavalry"
+  },
+  {
+    "id": 2134,
+    "label": "VOX:ma3ev01",
+    "en": "You have discovered Allied units abandoned after the Soviet invasion."
+  },
+  {
+    "id": 2135,
+    "label": "VOX:ma3ev02",
+    "en": "The Psychic Beacon must be destroyed, Commander!"
+  },
+  {
+    "id": 2136,
+    "label": "VOX:ma3ev03",
+    "en": "Watch out for Soviet troops garrisoned in civilian structures throughout the city!"
+  },
+  {
+    "id": 2137,
+    "label": "VOX:ma4ev01",
+    "en": "Objective 1: Use your paradrop squad to take out the Soviet Tesla Reactors, shutting down their harbor defenses."
+  },
+  {
+    "id": 2138,
+    "label": "VOX:ma4ev02",
+    "en": "Objective 2:"
+  },
+  {
+    "id": 2139,
+    "label": "VOX:ma4ev03",
+    "en": "Seek out the Soviets' Tesla Reactors and take them out with your Destroyers, crippling their air defenses."
+  },
+  {
+    "id": 2140,
+    "label": "VOX:ma4ev04",
+    "en": "Perhaps we should send our Destroyers scouting up the Chicago River, they may reveal key installations in the Soviet base."
+  },
+  {
+    "id": 2141,
+    "label": "VOX:ma5ev01",
+    "en": "You can check one missile off your list, Sir! That bird will never fly again."
+  },
+  {
+    "id": 2142,
+    "label": "VOX:ma5ev02",
+    "en": "Sir, we managed to capture one of the Silos - instead of destroying it! Why don't we just turn it against the other missile Silo?"
+  },
+  {
+    "id": 2143,
+    "label": "VOX:ma5ev03",
+    "en": "If you can get a Spy into one of those Tesla Generators, he can probably shut down all of the base's power for a good 30 seconds."
+  },
+  {
+    "id": 2144,
+    "label": "VOX:ma5ev04",
+    "en": "I'm resizing your radar to compensate for the Nuclear missile coordinates that we just received. Stand by."
+  },
+  {
+    "id": 2145,
+    "label": "VOX:ma5ev05",
+    "en": "Sir! You just blew up the Soviet Battlelab! Without the Missile Silo coordinates, we can't complete our mission!"
+  },
+  {
+    "id": 2146,
+    "label": "VOX:ma5ev06",
+    "en": "Congratulations, Sir! With both nukes neutralized, the European Alliance can join the war! We may have just changed the course of history!"
+  },
+  {
+    "id": 2147,
+    "label": "VOX:ma5ev07",
+    "en": "If you can get a Spy into one of those Tesla Generators, he can probably shut down all of the base's power for a good 60 seconds."
+  },
+  {
+    "id": 2148,
+    "label": "VOX:ma5ev08",
+    "en": "Sir, Tanya is missing in action. Without her, our efforts here are in vain."
+  },
+  {
+    "id": 2149,
+    "label": "VOX:ma5i101",
+    "en": "Thanks for rescuing us, Sir! Our plane was shot down by Soviet anti-aircraft. There's probably more survivors around here."
+  },
+  {
+    "id": 2150,
+    "label": "VOX:ma5i201",
+    "en": "Glad you found us, Sir! We're freezing out here!"
+  },
+  {
+    "id": 2151,
+    "label": "VOX:ma5i301",
+    "en": "Good to see you, Sir! What are our orders?"
+  },
+  {
+    "id": 2152,
+    "label": "VOX:ma5i401",
+    "en": "Be on the lookout for spies, Comrade. It seems a little quiet tonight."
+  },
+  {
+    "id": 2153,
+    "label": "VOX:ma5i501",
+    "en": "(Laugh) We don't need to worry about stupid American spies. That's what the dogs are for."
+  },
+  {
+    "id": 2154,
+    "label": "VOX:ma5ta01",
+    "en": "Looks like we're going to need some more Spies, Sir!"
+  },
+  {
+    "id": 2155,
+    "label": "VOX:ma5ta02",
+    "en": "Sir, could you send some more Spies without neon camouflage this time?"
+  },
+  {
+    "id": 2156,
+    "label": "VOX:ma5ta03",
+    "en": "Looks like Spies are becoming an Endangered Species. Send some more!"
+  },
+  {
+    "id": 2157,
+    "label": "VOX:ma5ta04",
+    "en": "(Tanya swears several times and is 'beeped' out) Sorry, Sir, but we need some more Spies."
+  },
+  {
+    "id": 2158,
+    "label": "VOX:ma6ev01",
+    "en": "Hey! That's not Lincoln. They've put a Stalin head on him!"
+  },
+  {
+    "id": 2159,
+    "label": "VOX:ma6ev02",
+    "en": "Sir, several of our vehicles have been eaten by Terror Drones. Our Service Depot can remove the drones and save our vehicles."
+  },
+  {
+    "id": 2160,
+    "label": "VOX:ma7ev01",
+    "en": "Commander, Niihau Island has fallen. We should prepare the rest of Hawaii for invasion."
+  },
+  {
+    "id": 2161,
+    "label": "VOX:ma7ev02",
+    "en": "Commander, the Soviets have finished construction of a nuclear missile launcher on Niihau. We must build Gap Generators to hide our base before they can launch."
+  },
+  {
+    "id": 2162,
+    "label": "VOX:ma8ia01",
+    "en": "Can't concentrate voices in my head_ _victory to the Soviet Union."
+  },
+  {
+    "id": 2163,
+    "label": "VOX:ma8ia02",
+    "en": "victory to the Sov we're free! Get'em!"
+  },
+  {
+    "id": 2164,
+    "label": "VOX:ma8ta01",
+    "en": "Must reach the beacon just a little bit farther long live the glorious peoples Soviet state."
+  },
+  {
+    "id": 2165,
+    "label": "VOX:ma9se01",
+    "en": "We're going to need some help getting through those defenses."
+  },
+  {
+    "id": 2166,
+    "label": "VOX:ma9se02",
+    "en": "Hot Tamale! That's no Mayan Pyramid_ that's a Prism Cannon."
+  },
+  {
+    "id": 2167,
+    "label": "VOX:ma9se03",
+    "en": "Sir, these freedom fighters want to join up."
+  },
+  {
+    "id": 2168,
+    "label": "VOX:maaei01",
+    "en": "What does this button do?"
+  },
+  {
+    "id": 2169,
+    "label": "VOX:maaei02",
+    "en": "Commander! Look out! They are over here."
+  },
+  {
+    "id": 2170,
+    "label": "VOX:maaei03",
+    "en": "Get these commander! Here they are! Here!"
+  },
+  {
+    "id": 2171,
+    "label": "VOX:maaei04",
+    "en": "You should see this Commander!"
+  },
+  {
+    "id": 2172,
+    "label": "VOX:maaev01",
+    "en": "Please don't touch the auxiliary controls professor. They notify the commander of important events."
+  },
+  {
+    "id": 2173,
+    "label": "VOX:maaev02",
+    "en": "Professor please stay off this channel."
+  },
+  {
+    "id": 2174,
+    "label": "VOX:maaev03",
+    "en": "Professor Einstein! I'm sure the Commander sees that."
+  },
+  {
+    "id": 2175,
+    "label": "VOX:maaev04",
+    "en": "Professor if you touch the controls again_"
+  },
+  {
+    "id": 2176,
+    "label": "VOX:maaev05",
+    "en": "Sir, if you build and deploy a spy satellite you will be able to see the entire combat area."
+  },
+  {
+    "id": 2177,
+    "label": "VOX:maaev06",
+    "en": "We're rather low on resources in this location, sir. Perhaps you should construct an Ore Purifier so we can get more out of what we have."
+  },
+  {
+    "id": 2178,
+    "label": "VOX:mabev01",
+    "en": "Commander, Marine World has loaned us their trained dolphins. They can be use a sonic enhancer to attack the Squids and drive them off our ships."
+  },
+  {
+    "id": 2179,
+    "label": "VOX:macev01",
+    "en": "Attemping to jam Soviet Command's calls for help, but a few got through. Heavier Soviet reinforcements arriving soon."
+  },
+  {
+    "id": 2180,
+    "label": "VOX:macev02",
+    "en": "Teleporting troops arriving in 5_ 4_ 3_ 2_ 1."
+  },
+  {
+    "id": 2181,
+    "label": "VOX:macev03",
+    "en": "Intercepting broadcast from Soviet Command. Romanov's panicking, sir. He's called for air evacuation. The transports will arrive in 2 minutes."
+  },
+  {
+    "id": 2182,
+    "label": "VOX:macev04",
+    "en": "Soviet evacuation transports arriving in 1 minute."
+  },
+  {
+    "id": 2183,
+    "label": "VOX:macev05",
+    "en": "Soviet evacuation transports arriving in 30 seconds."
+  },
+  {
+    "id": 2184,
+    "label": "VOX:macev06",
+    "en": "Sir, Romanov is calling for evacuation again. He is trying to escape."
+  },
+  {
+    "id": 2185,
+    "label": "VOX:macev07",
+    "en": "Psionic Amplifier captured. Soviet units are defecting to our side."
+  },
+  {
+    "id": 2186,
+    "label": "VOX:macev08",
+    "en": "Psionic Amplifier destroyed."
+  },
+  {
+    "id": 2187,
+    "label": "VOX:macev09",
+    "en": "Romanov captured."
+  },
+  {
+    "id": 2188,
+    "label": "VOX:macev10",
+    "en": "Teleporting troops arriving in 5_"
+  },
+  {
+    "id": 2189,
+    "label": "VOX:macev11",
+    "en": "Chrono Reinforcements have arrived."
+  },
+  {
+    "id": 2190,
+    "label": "VOX:macev12",
+    "en": "Commander, the time to act is now. The bulk of our armies stand ready to be transported to this very location, but first Tanya must clear the way for them by eliminating the Psychic Amplifier."
+  },
+  {
+    "id": 2191,
+    "label": "VOX:macev13",
+    "en": "Tanya has failed, sir. Our best efforts have been all for naught."
+  },
+  {
+    "id": 2192,
+    "label": "VOX:macev14",
+    "en": "Sir, the Psychic Amplifier has been destroyed, and Soviet forces have begun to defect to our side!"
+  },
+  {
+    "id": 2193,
+    "label": "VOX:macev15",
+    "en": "Our objective now is simple: Tanya must capture Romanov from his hiding place - the Kremlin."
+  },
+  {
+    "id": 2194,
+    "label": "VOX:macev16",
+    "en": "To capture Romanov, Tanya must enter the Kremlin."
+  },
+  {
+    "id": 2195,
+    "label": "VOX:macev17",
+    "en": "The Soviet High Command has been alerted to our presence. Prepare for a Soviet counter attack."
+  },
+  {
+    "id": 2196,
+    "label": "VOX:macev18",
+    "en": "With Romanov captured and being interrogated as we speak, it seems the Soviet menace has come to an end."
+  },
+  {
+    "id": 2197,
+    "label": "VOX:macis01",
+    "en": "We will never surrender! Death to the Allies!"
+  },
+  {
+    "id": 2198,
+    "label": "VOX:macta01",
+    "en": "We can't let Romanov get away!"
+  },
+  {
+    "id": 2199,
+    "label": "VOX:macve01",
+    "en": "I'm going to be sick."
+  },
+  {
+    "id": 2200,
+    "label": "VOX:macve02",
+    "en": "Where are we?"
+  },
+  {
+    "id": 2201,
+    "label": "VOX:macve03",
+    "en": "Is this Russia?"
+  },
+  {
+    "id": 2202,
+    "label": "VOX:ms1so01",
+    "en": "Commander, this is the first step in our glorious conquest. Victory here is crucial! Remember, we must crush the Pentagon - above all else, the Pentagon must be destroyed!"
+  },
+  {
+    "id": 2203,
+    "label": "VOX:ms1so02",
+    "en": "We can't let a mere bridge delay our conquest, commander! Order your Engineers to enter the bridge's control station!"
+  },
+  {
+    "id": 2204,
+    "label": "VOX:ms1so03",
+    "en": "Commander, pay no heed to casualties. For every Conscript who dies in the crusade, there are a thousand more who stand eager to replace him!"
+  },
+  {
+    "id": 2205,
+    "label": "VOX:ms1so04",
+    "en": "Commander, you can order your Conscripts into nearby buildings to fortify them against the enemy."
+  },
+  {
+    "id": 2206,
+    "label": "VOX:ms1so05",
+    "en": "At last, the Pentagon is within our grasp! Destroy it, immediately."
+  },
+  {
+    "id": 2207,
+    "label": "VOX:ms1so06",
+    "en": "Ah... Our Comrades have decided to lend us support. These reinforcement Commander, are some of our most useful vehicles _ Flak Tracks! Their speed armor, and ability to carry infantry are the perfect support for our legion of Conscripts"
+  },
+  {
+    "id": 2208,
+    "label": "VOX:ms1so07",
+    "en": "Superb, Commander! The Pentagon has been destroyed!"
+  },
+  {
+    "id": 2209,
+    "label": "VOX:ms1so09",
+    "en": "Our base is out of power! We must build more generators to bring our radar and defenses back online!"
+  },
+  {
+    "id": 2210,
+    "label": "VOX:ms1so10",
+    "en": "Be wary of those barrels of petrol! If damaged, they will surely explode violently. Perhaps we can use them to our advantage..."
+  },
+  {
+    "id": 2211,
+    "label": "VOX:ms1so11",
+    "en": "Capture the airport commander in order to allow paratroopers to land in the area."
+  },
+  {
+    "id": 2212,
+    "label": "VOX:ms1so12",
+    "en": "Excellent, Comrade Commander! As soon as the Paratroopers are completely prepared, we will be able to strike anywhere you desire!"
+  },
+  {
+    "id": 2213,
+    "label": "VOX:ms1so13",
+    "en": "The building that you've just discovered is one of America's special civilian buildings. Use an Engineer to convert the building and gain its powers."
+  },
+  {
+    "id": 2214,
+    "label": "VOX:ms1so14",
+    "en": "Deploy an occupied civilian structure to remove its occupants."
+  },
+  {
+    "id": 2215,
+    "label": "VOX:ms1so15",
+    "en": "This useful vehicle is known as a War Miner - it can be used to gather valuable minerals, and will defend itself with a turret-mounted cannon."
+  },
+  {
+    "id": 2216,
+    "label": "VOX:ms1so16",
+    "en": "To earn more credits, command your War Miners to gather ore."
+  },
+  {
+    "id": 2217,
+    "label": "VOX:ms1so17",
+    "en": "Iron Curtained units detected."
+  },
+  {
+    "id": 2218,
+    "label": "VOX:ms1so18",
+    "en": "Incoming Kirovs detected."
+  },
+  {
+    "id": 2219,
+    "label": "VOX:ms1so19",
+    "en": "You must destroy the Kremlin, where Yuri is cowering."
+  },
+  {
+    "id": 2220,
+    "label": "VOX:ms3ca04",
+    "en": "(droned) By your command, Comrade."
+  },
+  {
+    "id": 2221,
+    "label": "VOX:ms3ca05",
+    "en": "(droned) Death to the capitalists!"
+  },
+  {
+    "id": 2222,
+    "label": "VOX:ms3ca06",
+    "en": "(droned) Glory to Mother Russia!"
+  },
+  {
+    "id": 2223,
+    "label": "VOX:ms3ca07",
+    "en": "I will obey the Soviet ooh! where am I?"
+  },
+  {
+    "id": 2224,
+    "label": "VOX:ms3ia01",
+    "en": "Yes master"
+  },
+  {
+    "id": 2225,
+    "label": "VOX:ms3so01",
+    "en": "Welcome to New York, Commander. Capture the Allied Battle Lab at the World Trade Center and use their technology to build the PSYCHIC BEACON"
+  },
+  {
+    "id": 2226,
+    "label": "VOX:ms3so02",
+    "en": "The beacon is placed, Commander, but it needs time to charge. Keep theAllies from destroying the beacon."
+  },
+  {
+    "id": 2227,
+    "label": "VOX:ms3so03",
+    "en": "Beacon deployed and online."
+  },
+  {
+    "id": 2228,
+    "label": "VOX:ms3so04",
+    "en": "Excellent, Commander. Now use our new _conscripts_ to deal with theremaining Allied forces."
+  },
+  {
+    "id": 2229,
+    "label": "VOX:ms3so05",
+    "en": "Commander, capture these OIL DERRICKS for extra resources."
+  },
+  {
+    "id": 2230,
+    "label": "VOX:ms3so06",
+    "en": "Conscripts are more effective when garrisoned inside civilian buildings, Commander."
+  },
+  {
+    "id": 2231,
+    "label": "VOX:ms4so01",
+    "en": "Allied fleet has arrived."
+  },
+  {
+    "id": 2232,
+    "label": "VOX:ms4so02",
+    "en": "I have displayed the estimated time remaining until the Allied fleet arrives, Commander."
+  },
+  {
+    "id": 2233,
+    "label": "VOX:ms4so03",
+    "en": "The Allied air forces are threatening our position. Deploy our flak cannon and they will turn the enemy's air units into scrap metal."
+  },
+  {
+    "id": 2234,
+    "label": "VOX:ms5so01",
+    "en": "Commander, there is an AIRPORT somewhere nearby. Capture it and you will be able to airdrop Conscripts."
+  },
+  {
+    "id": 2235,
+    "label": "VOX:ms5so02",
+    "en": "Look for reinforcements stationed throughout the city, Commander."
+  },
+  {
+    "id": 2236,
+    "label": "VOX:ms5so03",
+    "en": "Be careful, Commander, once you reach the Paris Tower the Allied forces are like to rush your position."
+  },
+  {
+    "id": 2237,
+    "label": "VOX:ms5te01",
+    "en": "Get me close to the tower and I'll take care of the rest commander."
+  },
+  {
+    "id": 2238,
+    "label": "VOX:ms6so01",
+    "en": "A small reinforcement fleet of new Soviet Dreadnoughts has arrived. Use them for long range shore bombardment."
+  },
+  {
+    "id": 2239,
+    "label": "VOX:aprotr1",
+    "en": "Join the Allies! We have hot food, women, and guns for everyone."
+  },
+  {
+    "id": 2240,
+    "label": "VOX:aprotr2",
+    "en": "Start a new life with the Allied Forces. You'll get all the bread and milk you could ever want."
+  },
+  {
+    "id": 2241,
+    "label": "VOX:aprotr3",
+    "en": "Join the winning side. Be a pioneer of freedom with the New Soviet Democracy!"
+  },
+  {
+    "id": 2242,
+    "label": "VOX:aprotr4",
+    "en": "Free TVs for all who join us! Act now... freedom is yours for the taking."
+  },
+  {
+    "id": 2243,
+    "label": "VOX:aprotr5",
+    "en": "Bring us the fat and lazy... come join in the decadent lifestyle of the west."
+  },
+  {
+    "id": 2244,
+    "label": "VOX:ms7so01",
+    "en": "Sources have reported that Allied troops are amassing outside their Chronosphere. A squad has just been teleported."
+  },
+  {
+    "id": 2245,
+    "label": "VOX:ms7so02",
+    "en": "Another enemy platoon has been teleported by the Chronosphere."
+  },
+  {
+    "id": 2246,
+    "label": "VOX:ms7so03",
+    "en": "One last Allied platoon has been teleported by the Chronosphere."
+  },
+  {
+    "id": 2247,
+    "label": "VOX:ms8so01",
+    "en": "Now that the beacon is destroyed, the Americans are free from Vladimir's mind control!"
+  },
+  {
+    "id": 2248,
+    "label": "VOX:ms8so02",
+    "en": "Destroy monuments to receive a cash bonus from Moscow."
+  },
+  {
+    "id": 2249,
+    "label": "VOX:ms9pr01",
+    "en": "Get me outta here!"
+  },
+  {
+    "id": 2250,
+    "label": "VOX:ms9pr02",
+    "en": "You Soviet scum, you'll never take me!"
+  },
+  {
+    "id": 2251,
+    "label": "VOX:ms9pr03",
+    "en": "They're breaking in! Do something!"
+  },
+  {
+    "id": 2252,
+    "label": "VOX:ms9pr04",
+    "en": "You don't want the Vice President running the country, do you!?"
+  },
+  {
+    "id": 2253,
+    "label": "VOX:ms9pr05",
+    "en": "<death>"
+  },
+  {
+    "id": 2254,
+    "label": "VOX:ms9se01",
+    "en": "Get the President out of here! Go go go!"
+  },
+  {
+    "id": 2255,
+    "label": "VOX:ms9so01",
+    "en": "Intelligence reports that there is another bridge south of your position."
+  },
+  {
+    "id": 2256,
+    "label": "VOX:ms9so02",
+    "en": "Yuri is in route to your position. Clear out the enemy defenses for his arrival."
+  },
+  {
+    "id": 2257,
+    "label": "VOX:ms9so03",
+    "en": "Careful not to destroy the bunker, Commander. We want the President alive for interrogation."
+  },
+  {
+    "id": 2258,
+    "label": "VOX:ms9so04",
+    "en": "The President is on the rescue ship. Sink the ship and we'll fish him from the water."
+  },
+  {
+    "id": 2259,
+    "label": "VOX:ms9yu01",
+    "en": "Perhaps he needs some gentle persuasion."
+  },
+  {
+    "id": 2260,
+    "label": "VOX:msaso01",
+    "en": "Greetings, Commander. Your forces need to invade the Allied base and take over their Battle Lab. Get an Engineer in there so we can pin-point the location of their Super Weapon."
+  },
+  {
+    "id": 2261,
+    "label": "VOX:msaso02",
+    "en": "When your men are ready, I suggest you begin your assault here, Commander."
+  },
+  {
+    "id": 2262,
+    "label": "VOX:msaso03",
+    "en": "This beach is well defended, but it is also the only place to land troops effectively. Good luck, Sir."
+  },
+  {
+    "id": 2263,
+    "label": "VOX:msaso04",
+    "en": "Ah-ha, there it is! A Weather Control Device. Luckily Intel says that it couldn't possibly be operational yet. Take it out, Commander."
+  },
+  {
+    "id": 2264,
+    "label": "VOX:msaso05",
+    "en": "Apparently our intelligence was wrong. Apologies, Commander. I'm now downloading schematics for a Nuclear Missile Silo so you can deal with this new threat."
+  },
+  {
+    "id": 2265,
+    "label": "VOX:msayu01",
+    "en": "Perhaps I could be of assistance."
+  },
+  {
+    "id": 2266,
+    "label": "VOX:msbso01",
+    "en": "Yuri will destroy us all. He must be stopped, no matter what the cost."
+  },
+  {
+    "id": 2267,
+    "label": "VOX:msbso02",
+    "en": "(commenting on Yuri's invulnerable Iron Curtained soldiers) Commander, Yuri must be using an Iron Curtain device to make his troops invulnerable to attack! Intel indicates that the Iron Curtain effect can't possibly be maintained for long."
+  },
+  {
+    "id": 2268,
+    "label": "VOX:msbso05",
+    "en": "Commander, looks like our Nuclear Silo has been noticed... Yuri's sending bunch of Kirovs our way!"
+  },
+  {
+    "id": 2269,
+    "label": "VOX:msbso06",
+    "en": "We'd better get some Flak Cannons in place."
+  },
+  {
+    "id": 2270,
+    "label": "VOX:msbyu01",
+    "en": "You don't really think that War Factory will help you defeat me, do you?"
+  },
+  {
+    "id": 2271,
+    "label": "VOX:msbyu02",
+    "en": "So you're building a Kirov I'm impressed."
+  },
+  {
+    "id": 2272,
+    "label": "VOX:msbyu03",
+    "en": "I wouldn't build that Psychic Sensor if I were you."
+  },
+  {
+    "id": 2273,
+    "label": "VOX:msbyu04",
+    "en": "You're not really planning to nuke mother Russia, are you?"
+  },
+  {
+    "id": 2274,
+    "label": "VOX:msbyu05",
+    "en": "Terror Drones are such mindless beasts. Why don't you train an Engineer instead?"
+  },
+  {
+    "id": 2275,
+    "label": "VOX:mscso03",
+    "en": "Now move up the coast. There is a small airfield there where we can build a base and reclaim our captured Kirov airships."
+  },
+  {
+    "id": 2276,
+    "label": "VOX:mscso04",
+    "en": "They are using the Chronosphere to transport troops into our base! We cannot stop this assault. Attack soon, Commander, or we will be overrun!"
+  },
+  {
+    "id": 2277,
+    "label": "VOX:mt1ds01",
+    "en": "Good morning commander and welcome to basic training. There's a war on so we have to make this a crash course. In front of you is your battlefield control interface. With this interface you can command any soldier on the field. Let's begin with the new recruit you see in the center of your screen. Move him away from his barracks and out into the field. Left click on the soldier to select him. Then left click on empty ground to move him to that location. Try not to get him killed on the way to the shooting range."
+  },
+  {
+    "id": 2278,
+    "label": "VOX:mt1ds02",
+    "en": "Notice how you can order your soldier to move into the dark area surrounding the base. This shroud indicates areas of the terrain that you have not yet explored."
+  },
+  {
+    "id": 2279,
+    "label": "VOX:mt1ds03",
+    "en": "Now that you've mastered the difficult task (said sarcastically) of commanding a single soldier, try ordering around a squad. First, select all of the men by left clicking and holding down the mouse button. In this mode you can drag a selection box around all of your men. Select all of the soldiers at once and order them north to the bridge."
+  },
+  {
+    "id": 2280,
+    "label": "VOX:mt1ds04",
+    "en": "This bridge was destroyed yesterday when the Navy SEALs used it for demolition practice. An engineer is en-route to repair it. When he arrives, left click on him to select him then left click on the repair hut next to the bridge. Once the bridge is repaired, move your men across."
+  },
+  {
+    "id": 2281,
+    "label": "VOX:mt1ds05",
+    "en": "This is the shooting range. Select your men by drag-selecting a box around the group. Once selected, left click on the targets down range. This will order your men to fire at these targets. Destroy all of the targets."
+  },
+  {
+    "id": 2282,
+    "label": "VOX:mt1ds06",
+    "en": "Excellent, your men are good shots. There is a row of targets just out of range of your GIs. Double click on one of your men. He will set himself up in a small defensive position. In this mode he can fire at a greater range. Many units have special abilities like this. Now, order him to destroy the remaining targets."
+  },
+  {
+    "id": 2283,
+    "label": "VOX:mt1ds07",
+    "en": "Notice that one of your men has a special symbol on him when he is selected. This unit is a veteran unit. Veterans are tougher, stronger and can fire more accurately than ordinary soldiers. Double click on the man who is set up in a defense position to order him to move-out. Now order your men to move on down the road."
+  },
+  {
+    "id": 2284,
+    "label": "VOX:mt1ds08",
+    "en": "In front of you is a derelict American Grizzly Battle Tank. Order your men to destroy the crippled tank."
+  },
+  {
+    "id": 2285,
+    "label": "VOX:mt1ds09",
+    "en": "It takes your men longer to destroy the tank than the targets at the rifle range. Regular soldiers are not efficient at destroying armored units. In turn, armored units may not be the most effective weapons for destroying dug in infantry. Pick the right unit when facing enemies. Good job today, you have completed an important part of your training."
+  },
+  {
+    "id": 2286,
+    "label": "VOX:mt1ds10",
+    "en": "Hurry up commander, you're boring me."
+  },
+  {
+    "id": 2287,
+    "label": "VOX:mt1ds11",
+    "en": "Keep it moving commander, your training has to go quickly, the Reds are already landing on our shores."
+  },
+  {
+    "id": 2288,
+    "label": "VOX:mt1ds12",
+    "en": "Commander, this is only one soldier. In a few days you will have to command armies. Now left click on him and then left click on open ground to get him moving out of the base."
+  },
+  {
+    "id": 2289,
+    "label": "VOX:mt2ds01",
+    "en": "Today you will fight a mock battle against another commander. He will command the red team, you will command of the blue team. Select your Mobil Construction Vehicle by left clicking on it and order it to move out of the base. Get it a safe distance away and try to find some open ground."
+  },
+  {
+    "id": 2290,
+    "label": "VOX:mt2ds02",
+    "en": "Your Mobile Construction Vehicle is now in open ground. Double click on it to deploy a Construction Yard."
+  },
+  {
+    "id": 2291,
+    "label": "VOX:mt2ds03",
+    "en": "Now that you have a Construction Yard you can begin to build a base. On the right hand side of your screen you can see that the icon for a Power Plant has appeared. Left click on that icon to start construction of the power plant. Notice how your remaining money decreases while the Power Plant is building. Each building has a cost to construct. When the Power Plant is done building, left click on it's image and then left click on an empty area near your Construction Yard. If you see red squares where you are trying to place the power plant then you are either trying to place the Power Plant too far away from your Construction Yard or you are trying to build on uneven ground."
+  },
+  {
+    "id": 2292,
+    "label": "VOX:mt2ds04",
+    "en": "Good, your base now has power and you are ready to build more structures. Each buiding you construct also has a power cost. If you run short of power for all of your buildings, some will stop working, and others will work inefficiently. Left click on the Ore Refinery Icon on the right hand side of your screen to build a refinery."
+  },
+  {
+    "id": 2293,
+    "label": "VOX:mt2ds05",
+    "en": "Now that you have placed a Power Plant you can build a barracks. Many buildings and units depend on one another. You cannot build a barracks until you have built a Power Plant. You cannot train soldiers until you have a barracks. Left click on the barracks to start its construction. When it is finished place it on the terrain just like you did with the Refinery and Power Plant."
+  },
+  {
+    "id": 2294,
+    "label": "VOX:mt2ds06",
+    "en": "On the right hand side of your screen you should see a button that looks like a soldier. When you press that button you will see the different types of soldiers that you can train. Right now all you can train is a GI. Left click on the GI to start training him. Left click multiple times to train a series of GIs."
+  },
+  {
+    "id": 2295,
+    "label": "VOX:mt2ds07",
+    "en": "Red team may attack soon. Your GIs are armed with rubber bullets for this mission. In real combat they would of course be shooting real bullets."
+  },
+  {
+    "id": 2296,
+    "label": "VOX:mt2ds08",
+    "en": "Here comes red team, make me proud commander."
+  },
+  {
+    "id": 2297,
+    "label": "VOX:mt2ds09",
+    "en": "Red team's strike force has been defeated. Now build some more soldiers commander and when you feel you are ready, move them out onto the map. Find Red team's Command Center and destroy it."
+  },
+  {
+    "id": 2298,
+    "label": "VOX:mt2ds10",
+    "en": "You really weren't ready for red team were you commander? If this had happened against the Soviets, your base would now be in flames. Red team will pull back to give you a chance to build some more troops."
+  },
+  {
+    "id": 2299,
+    "label": "VOX:mt2ds11",
+    "en": "Good job commander, you have defeated the red team. Your basic training complete."
+  },
+  {
+    "id": 2300,
+    "label": "VOX:mt2ds12",
+    "en": "Your new Chrono Miner will automatically begin to collect ore."
+  },
+  {
+    "id": 2301,
+    "label": "VOX:mt2ds13",
+    "en": "WARNING: The Red Team invasion imminent."
+  },
+  {
+    "id": 2302,
+    "label": "VOX:mt2ds14",
+    "en": "Deploy your GIs near the entrance to your base for a better defense."
+  },
+  {
+    "id": 2303,
+    "label": "VOX:mt2ds15",
+    "en": "Send your troops to garrison inside the barn for better protection from enemy fire."
+  },
+  {
+    "id": 2304,
+    "label": "VOX:mt2ds16",
+    "en": "Send your troops to garrison inside civilian structures for better protection from enemy fire."
+  },
+  {
+    "id": 2305,
+    "label": "VOX:mt2ds17",
+    "en": "Now is not the time for potty breaks, Commander."
+  },
+  {
+    "id": 2306,
+    "label": "VOX:mt2ds18",
+    "en": "No time to sit, Commander."
+  },
+  {
+    "id": 2307,
+    "label": "VOX:mt2ds19",
+    "en": "WARNING: The stench of Red Team is in the air."
+  },
+  {
+    "id": 2308,
+    "label": "VOX:mt2ds20",
+    "en": "Now that you'e mastered the difficult task (said sarcastically) of commanding a single soldier, try ordering around a squad. First, select all of the men by left clicking and holding down the mouse button. In this mode you can drag a selection box around all of your men. Select all of the soldiers at once and order them East to the bridge."
+  },
+  {
+    "id": 2309,
+    "label": "VOX:mt2ds21",
+    "en": "Notice that one of your men has a special symbol on him when he is selected. This unit is a veteran unit. Veterans are tougher, stronger and can fire more accurately than ordinary soldiers. Double click on the man who is set up in a defense position to order him to move-out. Now order your men to move on up the road."
+  },
+  {
+    "id": 2310,
+    "label": "VOX:tauam01",
+    "en": "Gosh darn it, I need more cash!"
+  },
+  {
+    "id": 2311,
+    "label": "VOX:tauam02",
+    "en": "Yippy-kai-aye, I'm going in!"
+  },
+  {
+    "id": 2312,
+    "label": "VOX:tauam03",
+    "en": "Anytime you want to get into the fight, just jump on in."
+  },
+  {
+    "id": 2313,
+    "label": "VOX:tauam04",
+    "en": "Try to distract him, I've got a plan."
+  },
+  {
+    "id": 2314,
+    "label": "VOX:tauam05",
+    "en": "If you give up now, I promise amnesty for you and your men."
+  },
+  {
+    "id": 2315,
+    "label": "VOX:tauam06",
+    "en": "Hahahaha."
+  },
+  {
+    "id": 2316,
+    "label": "VOX:tauam07",
+    "en": "That was a cowards tactic."
+  },
+  {
+    "id": 2317,
+    "label": "VOX:tauam08",
+    "en": "It's too late to surrender now."
+  },
+  {
+    "id": 2318,
+    "label": "VOX:taubr01",
+    "en": "I am running a little low of cash."
+  },
+  {
+    "id": 2319,
+    "label": "VOX:taubr02",
+    "en": "Attention, I am about to attack."
+  },
+  {
+    "id": 2320,
+    "label": "VOX:taubr03",
+    "en": "Your help would be greatly appreciated."
+  },
+  {
+    "id": 2321,
+    "label": "VOX:taubr04",
+    "en": "Try to get the enemies attention, me and the lads are going to try something."
+  },
+  {
+    "id": 2322,
+    "label": "VOX:taubr05",
+    "en": "Perhaps you should surrender, and avoid further bloodshed."
+  },
+  {
+    "id": 2323,
+    "label": "VOX:taubr07",
+    "en": "That was hardly fair, now was it?"
+  },
+  {
+    "id": 2324,
+    "label": "VOX:taubr08",
+    "en": "Heads up old boy, here I come."
+  },
+  {
+    "id": 2325,
+    "label": "VOX:taucu01",
+    "en": "How can I fight without money?"
+  },
+  {
+    "id": 2326,
+    "label": "VOX:taucu02",
+    "en": "I attack, now!"
+  },
+  {
+    "id": 2327,
+    "label": "VOX:taucu03",
+    "en": "Help me you fool."
+  },
+  {
+    "id": 2328,
+    "label": "VOX:taucu04",
+    "en": "If you would do something, I might do something."
+  },
+  {
+    "id": 2329,
+    "label": "VOX:taucu05",
+    "en": "Surrender!"
+  },
+  {
+    "id": 2330,
+    "label": "VOX:taucu07",
+    "en": "You cheap, sniveling little coward!"
+  },
+  {
+    "id": 2331,
+    "label": "VOX:taucu08",
+    "en": "As if there was ever any doubt."
+  },
+  {
+    "id": 2332,
+    "label": "VOX:taufr01",
+    "en": "I have run out of money."
+  },
+  {
+    "id": 2333,
+    "label": "VOX:taufr02",
+    "en": "I think I may actually attack."
+  },
+  {
+    "id": 2334,
+    "label": "VOX:taufr03",
+    "en": "I'm getting slaughtered, I will have to surrender in moments."
+  },
+  {
+    "id": 2335,
+    "label": "VOX:taufr04",
+    "en": "Distract our enemy and I may try something."
+  },
+  {
+    "id": 2336,
+    "label": "VOX:taufr05",
+    "en": "Surrender! No, I don't mean I surrender. I mean you surrender."
+  },
+  {
+    "id": 2337,
+    "label": "VOX:taufr07",
+    "en": "Even a trained monkey could execute that maneuver."
+  },
+  {
+    "id": 2338,
+    "label": "VOX:taufr08",
+    "en": "Are you ready for me to crush you like the bug that you are?"
+  },
+  {
+    "id": 2339,
+    "label": "VOX:tauge01",
+    "en": "I need money immediately."
+  },
+  {
+    "id": 2340,
+    "label": "VOX:tauge02",
+    "en": "The time to attack is now."
+  },
+  {
+    "id": 2341,
+    "label": "VOX:tauge03",
+    "en": "Send help or you will soon be on your own."
+  },
+  {
+    "id": 2342,
+    "label": "VOX:tauge04",
+    "en": "Distract him, I have something _clever_ in mind."
+  },
+  {
+    "id": 2343,
+    "label": "VOX:tauge05",
+    "en": "Surrender, you are all but beaten."
+  },
+  {
+    "id": 2344,
+    "label": "VOX:tauge07",
+    "en": "I will get you for that."
+  },
+  {
+    "id": 2345,
+    "label": "VOX:tauge08",
+    "en": "Ah, victory."
+  },
+  {
+    "id": 2346,
+    "label": "VOX:tauir01",
+    "en": "As unbelievable as it may seem, I am out of money."
+  },
+  {
+    "id": 2347,
+    "label": "VOX:tauir02",
+    "en": "I am about to attack."
+  },
+  {
+    "id": 2348,
+    "label": "VOX:tauir03",
+    "en": "You must send help, don't ask questions, just do as you are told."
+  },
+  {
+    "id": 2349,
+    "label": "VOX:tauir04",
+    "en": "If you distract our enemy, I will execute my master plan."
+  },
+  {
+    "id": 2350,
+    "label": "VOX:tauir05",
+    "en": "It will be very boring for me, but perhaps you should surrender."
+  },
+  {
+    "id": 2351,
+    "label": "VOX:tauir07",
+    "en": "I will make you pay for that."
+  },
+  {
+    "id": 2352,
+    "label": "VOX:tauir08",
+    "en": "Is not my army beautiful? Behold as it destroys everything you own."
+  },
+  {
+    "id": 2353,
+    "label": "VOX:tauko01",
+    "en": "My resources are exhausted."
+  },
+  {
+    "id": 2354,
+    "label": "VOX:tauko02",
+    "en": "My men are ready, soon we will attack."
+  },
+  {
+    "id": 2355,
+    "label": "VOX:tauko03",
+    "en": "My soldiers are being slaughtered, send help."
+  },
+  {
+    "id": 2356,
+    "label": "VOX:tauko04",
+    "en": "Distract our enemy commander and I will destroy him."
+  },
+  {
+    "id": 2357,
+    "label": "VOX:tauko05",
+    "en": "Surrender now and you will live."
+  },
+  {
+    "id": 2358,
+    "label": "VOX:tauko07",
+    "en": "That was without honor."
+  },
+  {
+    "id": 2359,
+    "label": "VOX:tauko08",
+    "en": "You are doomed."
+  },
+  {
+    "id": 2360,
+    "label": "VOX:tauli01",
+    "en": "I seem to be low on money."
+  },
+  {
+    "id": 2361,
+    "label": "VOX:tauli02",
+    "en": "The order is given: Attack!"
+  },
+  {
+    "id": 2362,
+    "label": "VOX:tauli03",
+    "en": "Your assistance is required."
+  },
+  {
+    "id": 2363,
+    "label": "VOX:tauli04",
+    "en": "You must distract our enemies while I make a secret attack."
+  },
+  {
+    "id": 2364,
+    "label": "VOX:tauli05",
+    "en": "You are beaten! Surrender while you yet have buildings to sell!"
+  },
+  {
+    "id": 2365,
+    "label": "VOX:tauli07",
+    "en": "What was that? You call that a tactic? You disgust me."
+  },
+  {
+    "id": 2366,
+    "label": "VOX:tauli08",
+    "en": "Look at the battle, your doom is at hand."
+  },
+  {
+    "id": 2367,
+    "label": "VOX:tauru01",
+    "en": "My resources are taxed to their limits."
+  },
+  {
+    "id": 2368,
+    "label": "VOX:tauru02",
+    "en": "I will soon crush our enemies."
+  },
+  {
+    "id": 2369,
+    "label": "VOX:tauru03",
+    "en": "Send me help comrade, before it is too late!"
+  },
+  {
+    "id": 2370,
+    "label": "VOX:tauru04",
+    "en": "Do something you idiot. I have a plan."
+  },
+  {
+    "id": 2371,
+    "label": "VOX:tauru05",
+    "en": "If you surrender now, perhaps I will kill you quickly."
+  },
+  {
+    "id": 2372,
+    "label": "VOX:tauru07",
+    "en": "You are fool to try such tactics."
+  },
+  {
+    "id": 2373,
+    "label": "VOX:tauru08",
+    "en": "There is no escape, there will be no mercy."
+  },
+  {
+    "id": 2374,
+    "label": "VOX:vbleata",
+    "en": "Gunner in position."
+  },
+  {
+    "id": 2375,
+    "label": "VOX:vbleatb",
+    "en": "Easy target!"
+  },
+  {
+    "id": 2376,
+    "label": "VOX:vbleatc",
+    "en": "Let's take'm out."
+  },
+  {
+    "id": 2377,
+    "label": "VOX:vbledia",
+    "en": "Eject! Eject!"
+  },
+  {
+    "id": 2378,
+    "label": "VOX:vbledib",
+    "en": "Bail out!"
+  },
+  {
+    "id": 2379,
+    "label": "VOX:vbledic",
+    "en": "We're going down."
+  },
+  {
+    "id": 2380,
+    "label": "VOX:vbledid",
+    "en": "(descending scream)"
+  },
+  {
+    "id": 2381,
+    "label": "VOX:vblemoa",
+    "en": "Command received."
+  },
+  {
+    "id": 2382,
+    "label": "VOX:vblemob",
+    "en": "In transit."
+  },
+  {
+    "id": 2383,
+    "label": "VOX:vblemoc",
+    "en": "Calibrating airspeed."
+  },
+  {
+    "id": 2384,
+    "label": "VOX:vbleseb",
+    "en": "Standing by."
+  },
+  {
+    "id": 2385,
+    "label": "VOX:vblesec",
+    "en": "At your service."
+  },
+  {
+    "id": 2386,
+    "label": "VOX:vblesed",
+    "en": "Black Eagle reporting."
+  },
+  {
+    "id": 2387,
+    "label": "VOX:vblesea",
+    "en": "Aircraft reporting."
+  },
+  {
+    "id": 2388,
+    "label": "VOX:vblesee",
+    "en": "Eagle squadron."
+  },
+  {
+    "id": 2389,
+    "label": "VOX:vblesef",
+    "en": "Korea's finest."
+  },
+  {
+    "id": 2390,
+    "label": "VOX:vblhata",
+    "en": "Fire on sight."
+  },
+  {
+    "id": 2391,
+    "label": "VOX:vblhatb",
+    "en": "Clearing a path."
+  },
+  {
+    "id": 2392,
+    "label": "VOX:vblhatc",
+    "en": "LZ is hot."
+  },
+  {
+    "id": 2393,
+    "label": "VOX:vblhatd",
+    "en": "Cut'n 'em down."
+  },
+  {
+    "id": 2394,
+    "label": "VOX:vblhmoa",
+    "en": "Maneuvers in progress."
+  },
+  {
+    "id": 2395,
+    "label": "VOX:vblhmob",
+    "en": "Gotcha."
+  },
+  {
+    "id": 2396,
+    "label": "VOX:vblhmoc",
+    "en": "Tour underway."
+  },
+  {
+    "id": 2397,
+    "label": "VOX:vblhmod",
+    "en": "Visibility clear."
+  },
+  {
+    "id": 2398,
+    "label": "VOX:vblhsea",
+    "en": "Need a lift?"
+  },
+  {
+    "id": 2399,
+    "label": "VOX:vblhseb",
+    "en": "Air transport ready."
+  },
+  {
+    "id": 2400,
+    "label": "VOX:vblhsec",
+    "en": "Pick'm up, set'm down."
+  },
+  {
+    "id": 2401,
+    "label": "VOX:vblhsed",
+    "en": "What's your request?"
+  },
+  {
+    "id": 2402,
+    "label": "VOX:vdemata",
+    "en": "For my people!"
+  },
+  {
+    "id": 2403,
+    "label": "VOX:vdematb",
+    "en": "I am prepared to die!"
+  },
+  {
+    "id": 2404,
+    "label": "VOX:vdematc",
+    "en": "It will be a smoking crater."
+  },
+  {
+    "id": 2405,
+    "label": "VOX:vdematd",
+    "en": "Don't wait up for me."
+  },
+  {
+    "id": 2406,
+    "label": "VOX:vdemate",
+    "en": "Akkkhah!"
+  },
+  {
+    "id": 2407,
+    "label": "VOX:vdemmoa",
+    "en": "One way trip."
+  },
+  {
+    "id": 2408,
+    "label": "VOX:vdemmob",
+    "en": "(solemn) As you wish."
+  },
+  {
+    "id": 2409,
+    "label": "VOX:vdemmoc",
+    "en": "Watch out for the bumps."
+  },
+  {
+    "id": 2410,
+    "label": "VOX:vdemsea",
+    "en": "My truck is loaded!"
+  },
+  {
+    "id": 2411,
+    "label": "VOX:vdemseb",
+    "en": "Let's make a delivery!"
+  },
+  {
+    "id": 2412,
+    "label": "VOX:vdemsec",
+    "en": "I shall avenge us!"
+  },
+  {
+    "id": 2413,
+    "label": "VOX:vdemsed",
+    "en": "Why don't you drive."
+  },
+  {
+    "id": 2414,
+    "label": "VOX:vgraata",
+    "en": "Weapon ready."
+  },
+  {
+    "id": 2415,
+    "label": "VOX:vgraatb",
+    "en": "Commencing assault!"
+  },
+  {
+    "id": 2416,
+    "label": "VOX:vgraatc",
+    "en": "Closing in!"
+  },
+  {
+    "id": 2417,
+    "label": "VOX:vgraatd",
+    "en": "Driver up!"
+  },
+  {
+    "id": 2418,
+    "label": "VOX:vgraate",
+    "en": "Fire zone confirmed."
+  },
+  {
+    "id": 2419,
+    "label": "VOX:vgramoa",
+    "en": "Securing Position!"
+  },
+  {
+    "id": 2420,
+    "label": "VOX:vgramob",
+    "en": "Good to go!"
+  },
+  {
+    "id": 2421,
+    "label": "VOX:vgramoc",
+    "en": "High speed, low drag."
+  },
+  {
+    "id": 2422,
+    "label": "VOX:vgramod",
+    "en": "On our way, sir."
+  },
+  {
+    "id": 2423,
+    "label": "VOX:vgramoe",
+    "en": "Outstanding!"
+  },
+  {
+    "id": 2424,
+    "label": "VOX:vgramof",
+    "en": "Bound forward!"
+  },
+  {
+    "id": 2425,
+    "label": "VOX:vgrasea",
+    "en": "Vehicle ready."
+  },
+  {
+    "id": 2426,
+    "label": "VOX:vgraseb",
+    "en": "Unit reporting!"
+  },
+  {
+    "id": 2427,
+    "label": "VOX:vgrasec",
+    "en": "Yes sir."
+  },
+  {
+    "id": 2428,
+    "label": "VOX:vgrased",
+    "en": "Ready to roll!"
+  },
+  {
+    "id": 2429,
+    "label": "VOX:vgrasee",
+    "en": "Destination Commander?"
+  },
+  {
+    "id": 2430,
+    "label": "VOX:vgrsata",
+    "en": "Target sighted."
+  },
+  {
+    "id": 2431,
+    "label": "VOX:vgrsatb",
+    "en": "Encounting enemy."
+  },
+  {
+    "id": 2432,
+    "label": "VOX:vgrsatc",
+    "en": "We will bury them."
+  },
+  {
+    "id": 2433,
+    "label": "VOX:vgrsmoa",
+    "en": "Location confirmed."
+  },
+  {
+    "id": 2434,
+    "label": "VOX:vgrsmoc",
+    "en": "Changing position."
+  },
+  {
+    "id": 2435,
+    "label": "VOX:vgrssea",
+    "en": "Vehicle reporting."
+  },
+  {
+    "id": 2436,
+    "label": "VOX:vgrsseb",
+    "en": "Ready comrade."
+  },
+  {
+    "id": 2437,
+    "label": "VOX:vgrssec",
+    "en": "Awaiting orders."
+  },
+  {
+    "id": 2438,
+    "label": "VOX:vintata",
+    "en": "Ready to strike!"
+  },
+  {
+    "id": 2439,
+    "label": "VOX:vintatb",
+    "en": "Watch my six."
+  },
+  {
+    "id": 2440,
+    "label": "VOX:vintatc",
+    "en": "We have'm on radar."
+  },
+  {
+    "id": 2441,
+    "label": "VOX:vintatd",
+    "en": "We're goin' in."
+  },
+  {
+    "id": 2442,
+    "label": "VOX:vintate",
+    "en": "Instruments locked on."
+  },
+  {
+    "id": 2443,
+    "label": "VOX:wdoma01",
+    "en": "Welcome to Worldwide Domination, Commander"
+  },
+  {
+    "id": 2444,
+    "label": "VOX:wdoma02",
+    "en": "Updating new tactical data, please stand by?"
+  },
+  {
+    "id": 2445,
+    "label": "VOX:wdoma03",
+    "en": "Allied forces have repelled numerous Soviet assaults."
+  },
+  {
+    "id": 2446,
+    "label": "VOX:wdoma04",
+    "en": "Soviet forces have taken control of a number of territories"
+  },
+  {
+    "id": 2447,
+    "label": "VOX:wdoma05",
+    "en": "Select a territory to attack"
+  },
+  {
+    "id": 2448,
+    "label": "VOX:wdoma06",
+    "en": "This territory is now under Allied control"
+  },
+  {
+    "id": 2449,
+    "label": "VOX:wdoma07",
+    "en": "The Allies are winning the battle in this territory"
+  }
+]

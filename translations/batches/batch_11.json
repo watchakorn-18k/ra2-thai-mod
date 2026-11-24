@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 3850,
+    "label": "MISSION:LosePowr",
+    "en": "There are not enough Power Plants left to charge the Time Machine"
+  },
+  {
+    "id": 3851,
+    "label": "Name:All02md",
+    "en": "Operation: Hollywood and Vain"
+  },
+  {
+    "id": 3852,
+    "label": "LoadMsg:All02md",
+    "en": "Operation: Hollywood and Vain - Location: Los Angeles, California"
+  },
+  {
+    "id": 3853,
+    "label": "LoadBrief:All02md",
+    "en": "Objective 1: Destroy all Grinders in the city \n Objective 2: Destroy all Yuri buildings \n \n Hint: Not all civilians have been mind controlled. Some of them may even be able to help us in the coming battle"
+  },
+  {
+    "id": 3854,
+    "label": "BRIEF:ALL02MD",
+    "en": "Yuri has mind controlled the population of Los Angeles and is feeding the civilians into his Grinders to fund his Psychic Dominator project. If we can eliminate the Grinders, Yuri will have lost a significant source of funds. \n \n Objective 1: Destroy all Grinders in the city \n Objective 2: Destroy all Yuri buildings \n \n Hint: Not all civilians have been mind controlled. Some of them may even be able to help us in the coming battle"
+  },
+  {
+    "id": 3855,
+    "label": "MISSION:Grinders",
+    "en": "Objective: Destroy all Grinders in the city"
+  },
+  {
+    "id": 3856,
+    "label": "MISSION:YuriBase",
+    "en": "Objective: Destroy all enemy buildings"
+  },
+  {
+    "id": 3857,
+    "label": "MISSION:LAX",
+    "en": "Hint: Capture LAX to gain access to paratroopers"
+  },
+  {
+    "id": 3858,
+    "label": "MISSION:Money",
+    "en": "Hint: We may be able to salvage funds from Yuri's Grinders when they are destroyed."
+  },
+  {
+    "id": 3859,
+    "label": "MISSION:Heroes",
+    "en": "Hint: Action Heroes are excellent against infantry. Use them to eliminate Yuri Clones"
+  },
+  {
+    "id": 3860,
+    "label": "MISSION:Lose",
+    "en": "Your base has been destroyed"
+  },
+  {
+    "id": 3861,
+    "label": "Name:All03md",
+    "en": "Operation: Power Play"
+  },
+  {
+    "id": 3862,
+    "label": "LoadMsg:All03md",
+    "en": "Operation: Power Play - Location: Seattle, Washington"
+  },
+  {
+    "id": 3863,
+    "label": "LoadBrief:All03md",
+    "en": "Objective 1: Destroy Yuri's Nuclear Silo \n Objective 2: Liberate the MassiveSoft campus"
+  },
+  {
+    "id": 3864,
+    "label": "BRIEF:ALL03MD",
+    "en": "Now that we've destroyed Yuri's primary source of funds, the madman has decided to take a more direct approach. Yuri has set up a Nuclear Silo in Seattle and is using it to extort money and technical expertise from the MassiveSoft corporation. We must save the city and MassiveSoft from Yuri's nuclear threat. \n \n Objective 1: Destroy Yuri's Nuclear Silo \n Objective 2: Liberate the MassiveSoft campus"
+  },
+  {
+    "id": 3865,
+    "label": "MISSION:RescueMS",
+    "en": "Secondary Objective: Liberate the MassiveSoft Campus from Yuri's goons"
+  },
+  {
+    "id": 3866,
+    "label": "MISSION:KillNuke",
+    "en": "Objective: Destroy Yuri's Nuclear Silo"
+  },
+  {
+    "id": 3867,
+    "label": "Name:All04md",
+    "en": "Operation: Tomb Raided"
+  },
+  {
+    "id": 3868,
+    "label": "LoadMsg:All04md",
+    "en": "Operation: Tomb Raided - Location: Egypt"
+  },
+  {
+    "id": 3869,
+    "label": "MISSION:RescueEinstein",
+    "en": "Objective: Rescue Einstein from Yuri's secret base near the Great Pyramid"
+  },
+  {
+    "id": 3870,
+    "label": "MISSION:DestroyYuri04A",
+    "en": "Objective: Destroy Yuri's main base in the East"
+  },
+  {
+    "id": 3871,
+    "label": "MISSION:DerrickHint",
+    "en": "Hint: Send engineers into the oil derricks in the East to increase cash flow"
+  },
+  {
+    "id": 3872,
+    "label": "Brief:All04md",
+    "en": "Yuri has captured Einstein in an attempt to expedite the completion of his Psychic Dominator Technology. It is imperative we rescue Einstein immediately and then rid Egypt of all Yuri forces. \n \n Objective 1: Destroy Bio Reactors around Great Pyramid to rescue Einstein. \n Objective 2: Destroy Yuri's Base."
+  },
+  {
+    "id": 3873,
+    "label": "GUI:UnderParMsgAll04md",
+    "en": "With your speed and accuracy Einstein was rescued and Yuri's installation is no more. Yuri realizes now you're a force to be reckoned with."
+  },
+  {
+    "id": 3874,
+    "label": "GUI:OverParMsgAll04md",
+    "en": "You rescued Einstein but Yuri was able to withdraw key forces before his base was destroyed."
+  },
+  {
+    "id": 3875,
+    "label": "Name:All05md",
+    "en": "Operation: Clones Down Under"
+  },
+  {
+    "id": 3876,
+    "label": "LoadMsg:All05md",
+    "en": "Operation: Clones Down Under - Location: Sydney, Australia"
+  },
+  {
+    "id": 3877,
+    "label": "MISSION:BoomerAttack",
+    "en": "WARNING - Yuri is sending Boomer subs our way! Prepare for confrontation!"
+  },
+  {
+    "id": 3878,
+    "label": "MISSION:DestroyCloning",
+    "en": "Objective: Destroy Yuri's Cloning facility in the South"
+  },
+  {
+    "id": 3879,
+    "label": "MISSION:DestroyYuri05A",
+    "en": "Objective: Destroy Yuri's remaining forces."
+  },
+  {
+    "id": 3880,
+    "label": "Brief:All05md",
+    "en": "Yuri has established cloning facilities in Sydney, Australia. It is believed he plans to clone the world leaders. We must put an end to this operation at any cost. \n \n Objective 1: Find and destroy Yuri's Cloning Vats. \n Objective 2: Destroy Yuri's remaining forces."
+  },
+  {
+    "id": 3881,
+    "label": "GUI:UnderParMsgAll05md",
+    "en": "Yuri's cloning facilities are now rubble thanks to your incredible tactics. Well done!"
+  },
+  {
+    "id": 3882,
+    "label": "GUI:OverParMsgAll05md",
+    "en": "You have destroyed Yuri's cloning facilities, but the long battle has left Sydney devastated."
+  },
+  {
+    "id": 3883,
+    "label": "Name:All07md",
+    "en": "Operation: Brain Dead"
+  },
+  {
+    "id": 3884,
+    "label": "LoadMsg:All07md",
+    "en": "Operation: Brain Dead - Location: Antarctica"
+  },
+  {
+    "id": 3885,
+    "label": "LoadBrief:All07md",
+    "en": "Objective 1: Build a Soviet Radar Dish \n Objective 2: Destroy the Psychic Dominator in Antarctica \n Objective 3: Destroy all Yuri forces"
+  },
+  {
+    "id": 3886,
+    "label": "BRIEF:ALL07MD",
+    "en": "It's almost over, Commander. Yuri's plot lies in ruins. However, he still has one last Psychic Dominator located somewhere in his stronghold in Antarctica. Bring the abandoned Soviet Base on Tierra del Fuego back online and build a radar dish so that we can pinpoint Yuri's exact location. Then, with the combined might of Allied and Soviet forces, put an end to Yuri's plans once and for all. \n \n Objective 1: Build a Soviet Radar Dish \n Objective 2: Destroy the Psychic Dominator in Antarctica \n Objective 3: Destroy all Yuri forces"
+  },
+  {
+    "id": 3887,
+    "label": "MISSION:Fuego",
+    "en": "Objective: Use engineers to bring the Soviet base back online"
+  },
+  {
+    "id": 3888,
+    "label": "MISSION:Radar",
+    "en": "Objective: Build a Soviet Radar Dish"
+  },
+  {
+    "id": 3889,
+    "label": "MISSION:KillPD",
+    "en": "Objective: Destroy the Psychic Dominator on Antarctica"
+  },
+  {
+    "id": 3890,
+    "label": "MISSION:KillYuri",
+    "en": "Destroy all of Yuri's structures"
+  },
+  {
+    "id": 3891,
+    "label": "Name:Sov01md",
+    "en": "Operation: Time Shift"
+  },
+  {
+    "id": 3892,
+    "label": "GUI:ParTitleSov01md",
+    "en": "Your rank is: Junior Lieutenant"
+  },
+  {
+    "id": 3893,
+    "label": "Name:Sov02md",
+    "en": "Operation: Deja Vu"
+  },
+  {
+    "id": 3894,
+    "label": "GUI:ParTitleSov02md",
+    "en": "Your rank is: Lieutenant"
+  },
+  {
+    "id": 3895,
+    "label": "Name:Sov03md",
+    "en": "Operation: Brain Wash"
+  },
+  {
+    "id": 3896,
+    "label": "GUI:ParTitleSov03md",
+    "en": "Your rank is: Senior Lieutenant"
+  },
+  {
+    "id": 3897,
+    "label": "Name:Sov04md",
+    "en": "Operation: Romanov on the Run"
+  },
+  {
+    "id": 3898,
+    "label": "LoadMsg:Sov04md",
+    "en": "Operation: Romanov on the Run - Location: Morocco"
+  },
+  {
+    "id": 3899,
+    "label": "MISSION:FindRomanov",
+    "en": "Objective: Locate Premier Romanov before Yuri's troops do"
+  },
+  {
+    "id": 3900,
+    "label": "MISSION:RecoverRomanov",
+    "en": "Objective: Rescue Romanov from Yuri's control"
+  },
+  {
+    "id": 3901,
+    "label": "MISSION:DestroyYuri04S",
+    "en": "Objective: Destroy Yuri's base around the airport so Romanov can be safely evacuated"
+  },
+  {
+    "id": 3902,
+    "label": "MISSION:TakeRomanov",
+    "en": "Objective: Take Romanov to the airport where he can be transported away safely"
+  },
+  {
+    "id": 3903,
+    "label": "Brief:Sov04md",
+    "en": "Premier Romanov has been shot down by Yuri's forces. We must locate the Premier and take him to the airport so he can be rescued. Yuri has built a tough defense around the airport that we need to eliminate before the Premier's rescue will be secure. \n \n Objective 1: Locate Premier Romanov and protect him. \n Objective 2: Destroy Yuri's base guarding the airport. \n Objective 3: Take Romanov to the airport once it is safe."
+  },
+  {
+    "id": 3904,
+    "label": "GUI:UnderParMsgSov04md",
+    "en": "Premier Romanov has been rescued and safely evacuated thanks to your quick and decisive elimination of Yuri's base."
+  },
+  {
+    "id": 3905,
+    "label": "GUI:OverParMsgSov04md",
+    "en": "Premier Romanov has been rescued and safely evacuated but he is not happy. It took too long for you to rescue him."
+  },
+  {
+    "id": 3906,
+    "label": "Name:Sov05md",
+    "en": "Operation: Escape Velocity"
+  },
+  {
+    "id": 3907,
+    "label": "Name:Sov06md",
+    "en": "Operation: To The Moon"
+  },
+  {
+    "id": 3908,
+    "label": "LoadMsg:Sov06md",
+    "en": "Operation: To the Moon - Location: The Moon"
+  },
+  {
+    "id": 3909,
+    "label": "MISSION:BuildBase",
+    "en": "Objective: Find a location to set up base"
+  },
+  {
+    "id": 3910,
+    "label": "MISSION:DestroyLunarCommand",
+    "en": "Objective: Locate and destroy Yuri's Lunar Command Center"
+  },
+  {
+    "id": 3911,
+    "label": "MISSION:DestroyYuri06S",
+    "en": "Objective: Destroy all remaining Yuri buildings"
+  },
+  {
+    "id": 3912,
+    "label": "Brief:Sov06md",
+    "en": "Yuri plans to launch himself to the moon after initiating his Psychic Dominator wave over earth. We need to install a base on the moon so we can build an attack force capable of destroying Yuri's moon bases and his Lunar Command Center. \n \n Objective 1: Find a location to build a base. \n Objective 2: Locate and Destroy Yuri's Lunar Command Center. \n Objective 3: Destroy Yuri's remaining base."
+  },
+  {
+    "id": 3913,
+    "label": "GUI:UnderParMsgSov06md",
+    "en": "You moved so quickly that Yuri couldn't do anything but watch his lunar establishment crumble. The moon is now a part of the glorious Soviet state."
+  },
+  {
+    "id": 3914,
+    "label": "GUI:OverParMsgSov06md",
+    "en": "Yuri's lunar base has been destroyed. Congratulations, General."
+  },
+  {
+    "id": 3915,
+    "label": "Name:Sov07md",
+    "en": "Operation: Head Games"
+  },
+  {
+    "id": 3916,
+    "label": "GUI:UnderParMsgAll02md",
+    "en": "Great job, Commander. Your quick actions minimized civilian losses in the city and denied Yuri an important source of income to fund his plans. Hollywood agents are already offering deals for the rights to your life story."
+  },
+  {
+    "id": 3917,
+    "label": "GUI:OverParMsgAll02md",
+    "en": "Yuri has lost an important source of funds, but not without exacting a heavy price on the civilian population of Los Angeles."
+  },
+  {
+    "id": 3918,
+    "label": "MISSION:NukeHint",
+    "en": "HINT: Yuri also relies on Power Plants for his Nuclear Silo"
+  },
+  {
+    "id": 3919,
+    "label": "MISSION:Sniper",
+    "en": "Sniper reinforcements arriving"
+  },
+  {
+    "id": 3920,
+    "label": "MISSION:PowerAtk",
+    "en": "WARNING - Our Power Plants are under attack!"
+  },
+  {
+    "id": 3921,
+    "label": "MISSION:Virus",
+    "en": "Hint: Snipers have a longer range than the Virus"
+  },
+  {
+    "id": 3922,
+    "label": "MISSION:Virus2",
+    "en": "Hint: The Virus has a longer range than Snipers"
+  },
+  {
+    "id": 3923,
+    "label": "MISSION:Cloud",
+    "en": "WARNING - Infantry will take damage if standing within a Virus cloud"
+  },
+  {
+    "id": 3924,
+    "label": "MISSION:LowPower",
+    "en": "Capture Power Plants to bring the Weather Control Device online"
+  },
+  {
+    "id": 3925,
+    "label": "MISSION:Needle",
+    "en": "Hint: Garrison the Space Needle to survey the area"
+  },
+  {
+    "id": 3926,
+    "label": "MISSION:YuriMove",
+    "en": "WARNING - Yuri is attempting to engineer our Power Plants"
+  },
+  {
+    "id": 3927,
+    "label": "GUI:UnderParMsgAll03md",
+    "en": "Yuri's plot to blackmail the city of Seattle has been thwarted. Your lightning-fast response prevented heavy losses to the population. Yuri will have to look elsewhere to fund his war effort."
+  },
+  {
+    "id": 3928,
+    "label": "GUI:OverParMsgAll03md",
+    "en": "Though Yuri has been driven from Seattle, the city paid a heavy price for your victory. Much of Seattle now lies in radioactive ruins, and the software market has been thrown into disarray."
+  },
+  {
+    "id": 3929,
+    "label": "LoadMsg:All06md",
+    "en": "Operation: Trick or Treaty - Location: London, England"
+  },
+  {
+    "id": 3930,
+    "label": "LoadBrief:All06md",
+    "en": "Objective 1: Defend Parliament from assault. \n Objective 2: Destroy Yuri's Base."
+  },
+  {
+    "id": 3931,
+    "label": "Brief:All06md",
+    "en": "Having failed to clone the world leaders, Yuri plans to capture the real ones. Defend them at the Houses of Parliament in London, England...then deal with Yuri. \n \n Objective 1: Defend Parliament from assault. \n Objective 2: Destroy Yuri's Base."
+  },
+  {
+    "id": 3932,
+    "label": "MISSION:YuriTimer",
+    "en": "Yuri Forces Arriving In:"
+  },
+  {
+    "id": 3933,
+    "label": "MISSION:ParlHint",
+    "en": "Hint: Repair Parliament with an Engineer"
+  },
+  {
+    "id": 3934,
+    "label": "GUI:UnderParMsgAll06md",
+    "en": "Yuri never had a chance. The world leaders are safe and Yuri has been driven from London. Excellent work, General."
+  },
+  {
+    "id": 3935,
+    "label": "GUI:OverParMsgAll06md",
+    "en": "The day is won...but at what cost? The world leaders feared for their lives during the battle and fled at first chance. The treaty holds...for now."
+  },
+  {
+    "id": 3936,
+    "label": "MISSION:StopYuri",
+    "en": "Objective: Destroy all Yuri forces"
+  },
+  {
+    "id": 3937,
+    "label": "MISSION:MixUnits",
+    "en": "Hint: Combine Soviet infantry with our IFV's for more powerful units"
+  },
+  {
+    "id": 3938,
+    "label": "MISSION:PDHint",
+    "en": "Hint: Spread our units out so that the Psychic Dominator won't be able to mind control large masses of our forces."
+  },
+  {
+    "id": 3939,
+    "label": "MISSION:GMHint",
+    "en": "Hint: Spread out our infantry so that Yuri will not be able to use the Genetic Mutator on large groups of units."
+  },
+  {
+    "id": 3940,
+    "label": "GUI:UnderParMsgAll07md",
+    "en": "The whole world now knows your true brilliance as a commander. Your image is appearing on stamps in every nation across the globe, and a worldwide holiday has been declared in your honor."
+  },
+  {
+    "id": 3941,
+    "label": "GUI:OverParMsgAll07md",
+    "en": "The world will never know just how close it came to complete destruction. Let's hope we got every last one of Yuri's clones."
+  },
+  {
+    "id": 3942,
+    "label": "LoadBrief:Sov01md",
+    "en": "Objective 1: Destroy the Allied Navy and Grand Cannons. \n Objective 2: Destroy Pill Boxes around Time Machine to capture it. \n Objective 3: Capture 4 Power Plants to Power Time Machine. \n Objective 4: Take Control of Soviet Base and use it to Destroy the Psychic Dominator."
+  },
+  {
+    "id": 3943,
+    "label": "Brief:Sov01md",
+    "en": "The world is in ruin. Yuri is poised to rule unchallenged. Only a daring Allied plan to travel back in time stands between Yuri and total domination. But Yuri must pay for his betrayal at Soviet hands, not Allied. We must capture the Time Machine and travel back ourselves. \n \n Objective 1: Destroy the Allied Navy and Grand Cannons. \n Objective 2: Destroy Pill Boxes around Time Machine to capture it. \n Objective 3: Capture 4 Power Plants to Power Time Machine. \n Objective 4: Take Control of Soviet Base and use it to Destroy the Psychic Dominator."
+  },
+  {
+    "id": 3944,
+    "label": "MISSION:TmeTimer",
+    "en": "Time Machine Recharged in:"
+  },
+  {
+    "id": 3945,
+    "label": "MISSION:TranHint",
+    "en": "Hint: Build Amphibious Transports"
+  },
+  {
+    "id": 3946,
+    "label": "MISSION:RexyHelp",
+    "en": "Rexy is trapped! Won't you help him?"
+  },
+  {
+    "id": 3947,
+    "label": "MISSION:RexyFrnd",
+    "en": "Rexy is now your friend to the end!"
+  },
+  {
+    "id": 3948,
+    "label": "MISSION:WarnStct",
+    "en": "WARNING - Critical structure. Do not destroy!!!"
+  },
+  {
+    "id": 3949,
+    "label": "MISSION:MoreTrps",
+    "en": "More of our troops have arrived on the beach"
+  },
+  {
+    "id": 3950,
+    "label": "MISSION:MoreEngn",
+    "en": "Engineers have arrived near the Time Machine"
+  },
+  {
+    "id": 3951,
+    "label": "MISSION:YuriPowr",
+    "en": "Yuri is trying to capture the Power Plants!"
+  },
+  {
+    "id": 3952,
+    "label": "MISSION:YGotPowr",
+    "en": "Yuri captured a Power Plant!"
+  },
+  {
+    "id": 3953,
+    "label": "MISSION:HintPowr",
+    "en": "Hint: Capture Power Plants with Engineers"
+  },
+  {
+    "id": 3954,
+    "label": "MISSION:DomArmed",
+    "en": "The Psychic Dominator is now armed!!!"
+  },
+  {
+    "id": 3955,
+    "label": "MISSION:HintDom",
+    "en": "Hint: Capturing Power Plants will stop the Psychic Dominator"
+  },
+  {
+    "id": 3956,
+    "label": "MISSION:YuriHovr",
+    "en": "Yuri Hover Transports approaching!"
+  },
+  {
+    "id": 3957,
+    "label": "MISSION:LostAll",
+    "en": "All Soviet forces lost"
+  },
+  {
+    "id": 3958,
+    "label": "MISSION:NoTroops",
+    "en": "No remaining Soviet forces"
+  },
+  {
+    "id": 3959,
+    "label": "MISSION:LostStct",
+    "en": "Critical Structure Lost"
+  },
+  {
+    "id": 3960,
+    "label": "MISSION:LostUnit",
+    "en": "Critical Unit Lost"
+  },
+  {
+    "id": 3961,
+    "label": "GUI:UnderParMsgSov01md",
+    "en": "You have destroyed the Psychic Dominator before Yuri could react. Yuri does not yet realize our plans."
+  },
+  {
+    "id": 3962,
+    "label": "GUI:OverParMsgSov01md",
+    "en": "The Psychic Dominator has been destroyed...but Yuri is now aware of our plans."
+  },
+  {
+    "id": 3963,
+    "label": "LoadMsg:Sov03md",
+    "en": "Operation: Brain Wash - Location: London, England"
+  },
+  {
+    "id": 3964,
+    "label": "LoadBrief:Sov03md",
+    "en": "Objective 1: Destroy the Psychic Beacon. \n Objective 2: Destroy the Psychic Dominator. \n Objective 3: Finish off Yuri's forces."
+  },
+  {
+    "id": 3965,
+    "label": "Brief:Sov03md",
+    "en": "The Allies have discovered a Psychic Dominator in London, England. Yuri has taken control of the Allied strike force to help defend his near-complete Dominator. Free the Allies and join forces with them to defeat Yuri...but beware, the Dominator could become operational at any moment. \n \n Objective 1: Destroy the Psychic Beacon. \n Objective 2: Destroy the Psychic Dominator. \n Objective 3: Finish off Yuri's forces."
+  },
+  {
+    "id": 3966,
+    "label": "MISSION:WarnArmd",
+    "en": "WARNING - The Psychic Dominator is Armed!!!"
+  },
+  {
+    "id": 3967,
+    "label": "MISSION:WrnAmbsh",
+    "en": "WARNING - Possible Ambush Ahead!"
+  },
+  {
+    "id": 3968,
+    "label": "MISSION:WarnSnpe",
+    "en": "WARNING - Sniper detected!"
+  },
+  {
+    "id": 3969,
+    "label": "GUI:UnderParMsgSov03md",
+    "en": "The Psychic Dominator has been destroyed and the Allies believe we fought for a common good. Fools."
+  },
+  {
+    "id": 3970,
+    "label": "GUI:OverParMsgSov03md",
+    "en": "This Psychic Dominator has been neutralized, but I doubt the Allies will ever help us again."
+  },
+  {
+    "id": 3971,
+    "label": "LoadMsg:Sov05md",
+    "en": "Operation: Escape Velocity - Location: An uncharted island in the Pacific Ocean"
+  },
+  {
+    "id": 3972,
+    "label": "LoadBrief:Sov05md",
+    "en": "Objective 1: Pick a landing zone and construct a base. \n Objective 2: Locate and destroy Yuri's Submarine Pen. \n Objective 3: Finish off all remaining Yuri forces."
+  },
+  {
+    "id": 3973,
+    "label": "MISSION:SecrtLab",
+    "en": "Secret Laboratory Acquired!"
+  },
+  {
+    "id": 3974,
+    "label": "MISSION:ScrtTech",
+    "en": "Secret Technology Acquired!"
+  },
+  {
+    "id": 3975,
+    "label": "GUI:UnderParMsgSov05md",
+    "en": "Your swift attack will keep this secret island a secret forever. Yuri's forces are in full retreat. Press on, General--Defeat Yuri!"
+  },
+  {
+    "id": 3976,
+    "label": "GUI:OverParMsgSov05md",
+    "en": "Yuri's submarines are no longer a threat, but your lengthy siege has given Yuri ample time to form another devious plan."
+  },
+  {
+    "id": 3977,
+    "label": "LoadBrief:All04md",
+    "en": "Objective 1: Destroy Bio Reactors at Great Pyramid to rescue Einstein. \n Objective 2: Destroy Yuri's Base."
+  },
+  {
+    "id": 3978,
+    "label": "LoadBrief:All05md",
+    "en": "Objective 1: Find and destroy Yuri's Cloning Facilities. \n Objective 2: Destroy Yuri's remaining forces."
+  },
+  {
+    "id": 3979,
+    "label": "MISSION:All6Obj1",
+    "en": "Objective 1: Defend Parliament from Assault."
+  },
+  {
+    "id": 3980,
+    "label": "MISSION:All6Obj2",
+    "en": "Objective 2: Destroy Yuri's Base."
+  },
+  {
+    "id": 3981,
+    "label": "MISSION:Sov1Obj1",
+    "en": "Objective 1: Destroy the Allied Navy and Grand Cannons."
+  },
+  {
+    "id": 3982,
+    "label": "MISSION:Sov1Obj2",
+    "en": "Objective 2: Destroy Pill Boxes around Time Machine to capture it."
+  },
+  {
+    "id": 3983,
+    "label": "MISSION:Sov1Obj3",
+    "en": "Objective 3: Capture 4 Power Plants to Power Time Machine."
+  },
+  {
+    "id": 3984,
+    "label": "MISSION:Sov1Obj4",
+    "en": "Objective 4: Take Control of Soviet Base and use it to Destroy the Psychic Dominator."
+  },
+  {
+    "id": 3985,
+    "label": "MISSION:Sov1Obj5",
+    "en": "Objective: Defend the Time Machine until it can be reactivated."
+  },
+  {
+    "id": 3986,
+    "label": "MISSION:Sov1Obj6",
+    "en": "Find the Soviet Base."
+  },
+  {
+    "id": 3987,
+    "label": "MISSION:Sov1Obj7",
+    "en": "Destroy the Psychic Dominator."
+  },
+  {
+    "id": 3988,
+    "label": "MISSION:Obj1Comp",
+    "en": "Objective 1 Complete."
+  },
+  {
+    "id": 3989,
+    "label": "MISSION:Obj2Comp",
+    "en": "Objective 2 Complete."
+  },
+  {
+    "id": 3990,
+    "label": "MISSION:Obj3Comp",
+    "en": "Objective 3 Complete."
+  },
+  {
+    "id": 3991,
+    "label": "MISSION:Obj4Comp",
+    "en": "Objective 4 Complete."
+  },
+  {
+    "id": 3992,
+    "label": "MISSION:Obj5Comp",
+    "en": "Objective 5 Complete."
+  },
+  {
+    "id": 3993,
+    "label": "MISSION:Obj6Comp",
+    "en": "Objective 6 Complete."
+  },
+  {
+    "id": 3994,
+    "label": "MISSION:Obj7Comp",
+    "en": "Objective 7 Complete."
+  },
+  {
+    "id": 3995,
+    "label": "MISSION:Obj8Comp",
+    "en": "Objective 8 Complete."
+  },
+  {
+    "id": 3996,
+    "label": "MISSION:Obj9Comp",
+    "en": "Objective 9 Complete."
+  },
+  {
+    "id": 3997,
+    "label": "LoadMsg:Sov02md",
+    "en": "Operation: Deja Vu - Location: Black Forest, Germany"
+  },
+  {
+    "id": 3998,
+    "label": "LoadBrief:Sov02md",
+    "en": "Objective 1: Destroy the outposts guarding the German border. \n Objective 2: Destroy Einstein's Laboratory and Chronosphere"
+  },
+  {
+    "id": 3999,
+    "label": "Brief:Sov02md",
+    "en": "We lost the battle here in the Black Forest the first time around and were eventually defeated by the Allies with the help of Einstein's Chronosphere. This time, we must not fail. Destroy Einstein's Laboratory and Chronosphere to ensure Soviet victory in our war against the Allies. \n \n Objective 1: Destroy the outposts guarding the German border. \n Objective 2: Destroy Einstein's Laboratory and Chronosphere."
+  },
+  {
+    "id": 4000,
+    "label": "MISSION:Sov2Obj1",
+    "en": "Objective 1: Destroy the outposts guarding the German border."
+  },
+  {
+    "id": 4001,
+    "label": "MISSION:Sov2Obj2",
+    "en": "Objective 2: Destroy Einstein's Lab and Chronosphere."
+  },
+  {
+    "id": 4002,
+    "label": "MISSION:Mirage",
+    "en": "WARNING - Mirage Tanks spotted!"
+  },
+  {
+    "id": 4003,
+    "label": "MISSION:MirageHint",
+    "en": "Hint: Mirage tanks become visible if they move or fire."
+  },
+  {
+    "id": 4004,
+    "label": "MISSION:BattleFortress",
+    "en": "WARNING - The Battle Fortress can crush tanks. Destroy them before they can close in."
+  },
+  {
+    "id": 4005,
+    "label": "MISSION:IndustrialHint",
+    "en": "Hint: Build an Industrial Plant to speed up production."
+  },
+  {
+    "id": 4006,
+    "label": "MISSION:SpyPlaneHint",
+    "en": "Hint: Use the Spy Plane to uncover shroud."
+  },
+  {
+    "id": 4007,
+    "label": "MISSION:Sov3Obj2",
+    "en": "Objective 2: Destroy the Psychic Dominator."
+  },
+  {
+    "id": 4008,
+    "label": "MISSION:Sov3Obj3",
+    "en": "Objective 3: Finish off Yuri's forces."
+  },
+  {
+    "id": 4009,
+    "label": "LoadBrief:Sov04md",
+    "en": "Objective 1: Locate Premier Romanov and protect him. \n Objective 2: Destroy Yuri's base guarding the airport. \n Objective 3: Take Romanov to the airport once it is safe."
+  },
+  {
+    "id": 4010,
+    "label": "MISSION:Sov5Obj1",
+    "en": "Objective 1: Pick a landing zone and construct a base."
+  },
+  {
+    "id": 4011,
+    "label": "MISSION:Sov5Obj2",
+    "en": "Objective 2: Locate and destroy Yuri's Submarine Pen."
+  },
+  {
+    "id": 4012,
+    "label": "MISSION:Sov5Obj3",
+    "en": "Objective 3: Finish off all remaining Yuri land forces."
+  },
+  {
+    "id": 4013,
+    "label": "LoadBrief:Sov06md",
+    "en": "Objective 1: Find a location to build a base. \n Objective 2: Locate and Destroy Yuri's Lunar Command Center. \n Objective 3: Destroy Yuri's remaining base."
+  },
+  {
+    "id": 4014,
+    "label": "GUI:ParTitleALL14",
+    "en": "Your rank is: General of the Army"
+  },
+  {
+    "id": 4015,
+    "label": "LoadMsg:Sov01md",
+    "en": "Operation: Time Shift - Location: San Francisco, California"
+  },
+  {
+    "id": 4016,
+    "label": "GUI:YuriWebsite",
+    "en": "Community"
+  },
+  {
+    "id": 4017,
+    "label": "GUI:StartPosition",
+    "en": "Start"
+  },
+  {
+    "id": 4018,
+    "label": "GUI:NoneAsSymbols",
+    "en": "---"
+  },
+  {
+    "id": 4019,
+    "label": "GUI:FilterBuddies",
+    "en": "Only show chat from buddies."
+  },
+  {
+    "id": 4020,
+    "label": "GUI:FilterClan",
+    "en": "Only show chat from clan members."
+  },
+  {
+    "id": 4021,
+    "label": "GUI:MatchSameRes",
+    "en": "Match opponent's resolution."
+  },
+  {
+    "id": 4022,
+    "label": "GUI:WelcomeUpdate",
+    "en": "Profile last updated on %s at %s."
+  },
+  {
+    "id": 4023,
+    "label": "GUI:Matching",
+    "en": "Matching"
+  },
+  {
+    "id": 4024,
+    "label": "STT:MainButtonYuriWebsite",
+    "en": "Yuri's Revenge Homepage"
+  },
+  {
+    "id": 4025,
+    "label": "STT:HostComboStart",
+    "en": "Player's start position."
+  },
+  {
+    "id": 4026,
+    "label": "STT:HostComboTeam",
+    "en": "Player's team."
+  },
+  {
+    "id": 4027,
+    "label": "STT:WelcomeUpdate",
+    "en": "The last time this profile was updated."
+  },
+  {
+    "id": 4028,
+    "label": "STT:MatchSameRes",
+    "en": "Only match with players using the same screen resolution as you."
+  },
+  {
+    "id": 4029,
+    "label": "GUI:AutoLoginQueryTitle",
+    "en": "Auto Login"
+  },
+  {
+    "id": 4030,
+    "label": "STT:WOLOptionFilterClan",
+    "en": "Check to only show messages from clan members"
+  },
+  {
+    "id": 4031,
+    "label": "STT:WOLOptionFilterBuddies",
+    "en": "Check to only show messages from buddies"
+  },
+  {
+    "id": 4032,
+    "label": "TXT_FINDPAGE_NOT_ONLINE",
+    "en": "Not Online"
+  },
+  {
+    "id": 4033,
+    "label": "TXT_FINDPAGE_NOT_IN_CHANNEL",
+    "en": "Not in channel"
+  },
+  {
+    "id": 4034,
+    "label": "TXT_FINDPAGE_FIND_DISABLED",
+    "en": "Find Disabled"
+  },
+  {
+    "id": 4035,
+    "label": "Name:SpyP",
+    "en": "Spy Plane"
+  },
+  {
+    "id": 4036,
+    "label": "NAME:Austin",
+    "en": "Austin, TX (2-4)"
+  },
+  {
+    "id": 4037,
+    "label": "NAME:Triple",
+    "en": "Triple Crossed (3-6)"
+  },
+  {
+    "id": 4038,
+    "label": "NAME:Wimps",
+    "en": "No Wimps (2-4)"
+  },
+  {
+    "id": 4039,
+    "label": "Name:MntRush",
+    "en": "Mount Rush More (2-5)"
+  },
+  {
+    "id": 4040,
+    "label": "MISSION:MojoTip",
+    "en": "Mojo 1"
+  },
+  {
+    "id": 4041,
+    "label": "MISSION:Clones",
+    "en": "HINT: Use attack dogs to deal with Yuri Clones and Initiates"
+  },
+  {
+    "id": 4042,
+    "label": "MISSION:AllGone",
+    "en": "Our forces have been destroyed"
+  },
+  {
+    "id": 4043,
+    "label": "MISSION:GrabPowr",
+    "en": "HINT: Capture Power Plants to bring the Weather Control Device back online"
+  },
+  {
+    "id": 4044,
+    "label": "MISSION:ReinforcementsAll04md",
+    "en": "Reinforcements have arrived and await orders from your base"
+  },
+  {
+    "id": 4045,
+    "label": "MISSION:RobotTanks",
+    "en": "Hint: Robot Tanks are psychic immune"
+  },
+  {
+    "id": 4046,
+    "label": "MISSION:SniperDiscovered",
+    "en": "Look, there was a sniper lost in the desert! He's happy to be a part of your team!"
+  },
+  {
+    "id": 4047,
+    "label": "MISSION:ImportDino",
+    "en": "Thanks to ChronoSphere technology we were able import dinosaurs to help us defeat Yuri!"
+  },
+  {
+    "id": 4048,
+    "label": "MISSION:Mojo1All04md",
+    "en": "You can feel the presence of Mojo One"
+  },
+  {
+    "id": 4049,
+    "label": "MISSION:TopSecret",
+    "en": "You've discovered something no one has ever seen before!"
+  },
+  {
+    "id": 4050,
+    "label": "MISSION:BuildUp",
+    "en": "Build up your defenses quickly before Yuri's attack forces arrive!"
+  },
+  {
+    "id": 4051,
+    "label": "MISSION:Boomers",
+    "en": "WARNING - Boomer Subs spotted off the Antarctic coast"
+  },
+  {
+    "id": 4052,
+    "label": "MISSION:Lose1",
+    "en": "We have lost our foothold in Antarctica"
+  },
+  {
+    "id": 4053,
+    "label": "MISSION:Lose2",
+    "en": "All of our forces have been destroyed"
+  },
+  {
+    "id": 4054,
+    "label": "MISSION:Lose3",
+    "en": "We have lost the ability to build radar"
+  },
+  {
+    "id": 4055,
+    "label": "GUI:UnderParMsgSov02md",
+    "en": "Your ferocious assault on Einstein's Lab and the swift destruction of the Chronosphere have ensured that the Soviet people shall be victorious in the war. The Allies are already retreating on all fronts."
+  },
+  {
+    "id": 4056,
+    "label": "GUI:OverParMsgSov02md",
+    "en": "Though the Chronosphere was destroyed, Einstein had enough time to flee with his research papers and keep his Chronosphere project alive."
+  },
+  {
+    "id": 4057,
+    "label": "MISSION:PolarBears",
+    "en": "It looks like these bears were tired of the cold!"
+  },
+  {
+    "id": 4058,
+    "label": "LoadMsg:Sov07md",
+    "en": "Operation: Head Games - Location: Transylvania"
+  },
+  {
+    "id": 4059,
+    "label": "Brief:Sov07md",
+    "en": "Hoping to hide from your onslaught, Yuri has retreated to his ancestral home in Transylvania. We can not allow him any respite or he will only rally his forces and return again to threaten us all. Eliminate Yuri now and forever! \n \n Objective 1: Destroy Yuri's Fortress."
+  },
+  {
+    "id": 4060,
+    "label": "GUI:UnderParMsgSov07md",
+    "en": "The sheer ferocity of your attack and genius of your tactics left Yuri stunned. There is no doubt you have crushed him once and for all."
+  },
+  {
+    "id": 4061,
+    "label": "GUI:OverParMsgSov07md",
+    "en": "Though the battle was long, you have finally rid the world of Yuri."
+  },
+  {
+    "id": 4062,
+    "label": "MISSION:AllyBeacon",
+    "en": "Hint: Capture or Destroy the Psychic Beacon in the Allied Base to release them from Yuri's control."
+  },
+  {
+    "id": 4063,
+    "label": "MISSION:SovBeacon",
+    "en": "Hint: Neutralize the Psychic Beacon controlling the Soviet Base and they will rally to your side against Yuri."
+  },
+  {
+    "id": 4064,
+    "label": "MISSION:Sov07Obj01",
+    "en": "Objective: Destroy Yuri's Fortress."
+  },
+  {
+    "id": 4065,
+    "label": "MISSION:HiKBOAEO",
+    "en": "KBO AEO"
+  },
+  {
+    "id": 4066,
+    "label": "MISSION:ComboWarn01",
+    "en": "WARNING - Yuri has begun mixing the technologies at his disposal."
+  },
+  {
+    "id": 4067,
+    "label": "MISSION:ComboWarn02",
+    "en": "Make ready for these attacks."
+  },
+  {
+    "id": 4068,
+    "label": "MISSION:GeneWarn",
+    "en": "WARNING - Yuri's Genetic Mutator mutates normal soldiers, turning them into Brutes under Yuri's control."
+  },
+  {
+    "id": 4069,
+    "label": "GUI:ParTitleSov08md",
+    "en": "Your rank is: Marshal of the Soviet Union"
+  },
+  {
+    "id": 4070,
+    "label": "Name:CAML",
+    "en": "Camel"
+  },
+  {
+    "id": 4071,
+    "label": "Name:EINS",
+    "en": "Einstein"
+  },
+  {
+    "id": 4072,
+    "label": "Name:DNOA",
+    "en": "T-Rex"
+  },
+  {
+    "id": 4073,
+    "label": "Name:CLNT",
+    "en": "Flint Westwood"
+  },
+  {
+    "id": 4074,
+    "label": "Name:RMNV",
+    "en": "Premier Romanov"
+  },
+  {
+    "id": 4075,
+    "label": "Name:MUMY",
+    "en": "Mummy"
+  },
+  {
+    "id": 4076,
+    "label": "Name:STLN",
+    "en": "Sammy Stallion"
+  },
+  {
+    "id": 4077,
+    "label": "Name:ARND",
+    "en": "Arnnie Frankenfurter"
+  },
+  {
+    "id": 4078,
+    "label": "Name:CAEGYP03",
+    "en": "Sphinx"
+  },
+  {
+    "id": 4079,
+    "label": "Name:CALA01",
+    "en": "Mini Mall"
+  },
+  {
+    "id": 4080,
+    "label": "Name:CALA09",
+    "en": "Convenience Store"
+  },
+  {
+    "id": 4081,
+    "label": "Name:CALOND04",
+    "en": "British Parliament"
+  },
+  {
+    "id": 4082,
+    "label": "Name:CALOND06",
+    "en": "Tower of London"
+  },
+  {
+    "id": 4083,
+    "label": "Name:CALOND05",
+    "en": "Big Ben"
+  },
+  {
+    "id": 4084,
+    "label": "Name:CAMORR05",
+    "en": "Rick's Place"
+  },
+  {
+    "id": 4085,
+    "label": "Name:CASANF05",
+    "en": "Alcatraz"
+  },
+  {
+    "id": 4086,
+    "label": "Name:CASANF04",
+    "en": "Golden Gate Bridge"
+  },
+  {
+    "id": 4087,
+    "label": "Name:CASANF15",
+    "en": "Alcatraz Water Tower"
+  },
+  {
+    "id": 4088,
+    "label": "Name:CASEAT02",
+    "en": "MassiveSoft Campus"
+  },
+  {
+    "id": 4089,
+    "label": "Name:CASYDN03",
+    "en": "Sydney Opera House"
+  },
+  {
+    "id": 4090,
+    "label": "Name:CAEAST01",
+    "en": "Moai"
+  },
+  {
+    "id": 4091,
+    "label": "Name:CAEAST02",
+    "en": "Yuri Statue"
+  },
+  {
+    "id": 4092,
+    "label": "Name:CATRAN03",
+    "en": "Yuri's Fortress"
+  },
+  {
+    "id": 4093,
+    "label": "Name:CALA03",
+    "en": "Hollywood Sign"
+  },
+  {
+    "id": 4094,
+    "label": "Name:CALA04",
+    "en": "Hollywood Bowl"
+  },
+  {
+    "id": 4095,
+    "label": "Name:CALA05",
+    "en": "LAX"
+  },
+  {
+    "id": 4096,
+    "label": "Name:CALA06",
+    "en": "LAX Control Tower"
+  },
+  {
+    "id": 4097,
+    "label": "Name:CALA08",
+    "en": "Car Dealership"
+  },
+  {
+    "id": 4098,
+    "label": "Name:CASEAT01",
+    "en": "Seattle Space Needle"
+  },
+  {
+    "id": 4099,
+    "label": "Name:CASYDN02",
+    "en": "McRoo Burger"
+  },
+  {
+    "id": 4100,
+    "label": "Name:CATRAN01",
+    "en": "Crypt"
+  },
+  {
+    "id": 4101,
+    "label": "Name:LUNR",
+    "en": "Cosmonaut"
+  },
+  {
+    "id": 4102,
+    "label": "Name:CAMACH",
+    "en": "Tech Machine Shop"
+  },
+  {
+    "id": 4103,
+    "label": "Name:BlackCab",
+    "en": "Black Cab"
+  },
+  {
+    "id": 4104,
+    "label": "Name:YCAB",
+    "en": "Yellow Cab"
+  },
+  {
+    "id": 4105,
+    "label": "Name:DOLY",
+    "en": "Camera Dolly"
+  },
+  {
+    "id": 4106,
+    "label": "Name:CBLC",
+    "en": "Cable Car"
+  },
+  {
+    "id": 4107,
+    "label": "Name:FTRK",
+    "en": "Fire Truck"
+  },
+  {
+    "id": 4108,
+    "label": "Name:AMBU",
+    "en": "Ambulance"
+  },
+  {
+    "id": 4109,
+    "label": "Name:CALA07",
+    "en": "Movie Theater"
+  },
+  {
+    "id": 4110,
+    "label": "Name:YAROCK",
+    "en": "Unknown Building"
+  },
+  {
+    "id": 4111,
+    "label": "GUI:TeamGame",
+    "en": "Team Alliance"
+  },
+  {
+    "id": 4112,
+    "label": "STT:ModeTeamGame",
+    "en": "In 'Team Alliance' players should choose a start position near their allies."
+  },
+  {
+    "id": 4113,
+    "label": "GUI:TeamSelection",
+    "en": "Select a team."
+  },
+  {
+    "id": 4114,
+    "label": "GUI:StartSelection",
+    "en": "Select a start location."
+  },
+  {
+    "id": 4115,
+    "label": "Name:RVIEW",
+    "en": "Remote Viewing"
+  },
+  {
+    "id": 4116,
+    "label": "Name:YURIRAD",
+    "en": "Psychic Radar"
+  },
+  {
+    "id": 4117,
+    "label": "Name:Frank01",
+    "en": "This game mode requires more than one player."
+  },
+  {
+    "id": 4118,
+    "label": "Name:Frank02",
+    "en": "This game mode requires more than one human player."
+  },
+  {
+    "id": 4119,
+    "label": "Name:Frank03",
+    "en": "This game mode requires more than one team."
+  },
+  {
+    "id": 4120,
+    "label": "Name:Frank04",
+    "en": "You must be a registered user to get this map."
+  },
+  {
+    "id": 4121,
+    "label": "NAME:PtBlank",
+    "en": "Point Blank"
+  },
+  {
+    "id": 4122,
+    "label": "NAME:RushHr",
+    "en": "Rush Hour (2-4)"
+  },
+  {
+    "id": 4123,
+    "label": "NAME:HidVally",
+    "en": "Hidden Valley (2)"
+  },
+  {
+    "id": 4124,
+    "label": "NAME:DpFreeze",
+    "en": "Deep Freeze"
+  },
+  {
+    "id": 4125,
+    "label": "NAME:Oasis",
+    "en": "Oasis"
+  },
+  {
+    "id": 4126,
+    "label": "NAME:AcrssNile",
+    "en": "Across the Nile"
+  },
+  {
+    "id": 4127,
+    "label": "NAME:DthValley",
+    "en": "Death Valley"
+  },
+  {
+    "id": 4128,
+    "label": "NAME: Cntrpunch",
+    "en": "Counterpunch"
+  },
+  {
+    "id": 4129,
+    "label": "NAME:StParade",
+    "en": "Main Street Parade"
+  },
+  {
+    "id": 4130,
+    "label": "NAME:TrblWtr",
+    "en": "Troubled Waters"
+  },
+  {
+    "id": 4131,
+    "label": "NAME:SinkSwim",
+    "en": "Sink or Swim"
+  },
+  {
+    "id": 4132,
+    "label": "NAME: DsrtMrch",
+    "en": "Desert March"
+  },
+  {
+    "id": 4133,
+    "label": "NAME: DeathMrch",
+    "en": "Death March"
+  },
+  {
+    "id": 4134,
+    "label": "NAME:BldFeud",
+    "en": "Blood Feud (2)"
+  },
+  {
+    "id": 4135,
+    "label": "NAME:Buoy",
+    "en": "Buoyancy"
+  },
+  {
+    "id": 4136,
+    "label": "NAME:TrgtAcqrd",
+    "en": "Target Acquired"
+  },
+  {
+    "id": 4137,
+    "label": "NAME:MojoRise",
+    "en": "Mojo Rising"
+  },
+  {
+    "id": 4138,
+    "label": "NAME:MojoSpirit",
+    "en": "The Spirit of Mojo One"
+  },
+  {
+    "id": 4139,
+    "label": "NAME:BrdrSkirm",
+    "en": "Border Skirmish"
+  },
+  {
+    "id": 4140,
+    "label": "NAME:Footwork",
+    "en": "Fancy Footwork"
+  },
+  {
+    "id": 4141,
+    "label": "NAME:GoLong",
+    "en": "Going the Distance"
+  },
+  {
+    "id": 4142,
+    "label": "NAME:CubeWrld",
+    "en": "Cubicle World"
+  },
+  {
+    "id": 4143,
+    "label": "NAME:DeathDoor",
+    "en": "At Death's Door"
+  },
+  {
+    "id": 4144,
+    "label": "NAME:2Peaks",
+    "en": "Twin Peaks (2)"
+  },
+  {
+    "id": 4145,
+    "label": "NAME:IAmTheLaw",
+    "en": "Martial Law"
+  },
+  {
+    "id": 4146,
+    "label": "NAME:Riot",
+    "en": "Civilian Unrest"
+  },
+  {
+    "id": 4147,
+    "label": "NAME:Unrepent",
+    "en": "Unrepentant"
+  },
+  {
+    "id": 4148,
+    "label": "NAME:BridgeGap",
+    "en": "Bridging the Gap (2-6)"
+  },
+  {
+    "id": 4149,
+    "label": "NAME:CstleYuri",
+    "en": "Castle Yuri"
+  },
+  {
+    "id": 4150,
+    "label": "NAME:WolfnLndn",
+    "en": "Werewolves of London"
+  },
+  {
+    "id": 4151,
+    "label": "NAME:PolarOp",
+    "en": "Polar Opposites"
+  },
+  {
+    "id": 4152,
+    "label": "NAME:OpposeFrce",
+    "en": "Opposing Force"
+  },
+  {
+    "id": 4153,
+    "label": "NAME:Cityscape",
+    "en": "Cityscape"
+  },
+  {
+    "id": 4154,
+    "label": "NAME:UrbRenewal",
+    "en": "Urban Renewal"
+  },
+  {
+    "id": 4155,
+    "label": "NAME:Havoc",
+    "en": "Major Havoc"
+  },
+  {
+    "id": 4156,
+    "label": "NAME:Between",
+    "en": "A Hill Between (2)"
+  },
+  {
+    "id": 4157,
+    "label": "NAME:LandOrSea",
+    "en": "By Land or By Sea"
+  },
+  {
+    "id": 4158,
+    "label": "NAME:StormSiege",
+    "en": "Storm Siege"
+  },
+  {
+    "id": 4159,
+    "label": "NAME:Parts",
+    "en": "Component Parts"
+  },
+  {
+    "id": 4160,
+    "label": "NAME:CircuitBrd",
+    "en": "Circuit Board"
+  },
+  {
+    "id": 4161,
+    "label": "NAME:Bombing",
+    "en": "Air Strike"
+  },
+  {
+    "id": 4162,
+    "label": "NAME:CndtnRed",
+    "en": "Condition Red"
+  },
+  {
+    "id": 4163,
+    "label": "NAME:MojoLand",
+    "en": "Mojo's Landing"
+  },
+  {
+    "id": 4164,
+    "label": "NAME:IsleOLand",
+    "en": "Islands on the Land"
+  },
+  {
+    "id": 4165,
+    "label": "NAME:5ptHarness",
+    "en": "Five-point Harness"
+  },
+  {
+    "id": 4166,
+    "label": "NAME:CFodder2",
+    "en": "Canyon Fodder II"
+  },
+  {
+    "id": 4167,
+    "label": "NAME:Incoming",
+    "en": "Incoming"
+  },
+  {
+    "id": 4168,
+    "label": "NAME:SiloArmed",
+    "en": "Silos Armed"
+  },
+  {
+    "id": 4169,
+    "label": "NAME:YuriAgain",
+    "en": "Return of Yuri"
+  },
+  {
+    "id": 4170,
+    "label": "NAME:MojoDojo",
+    "en": "Mojo's Dojo"
+  },
+  {
+    "id": 4171,
+    "label": "NAME:HitDeck",
+    "en": "Hit the Deck"
+  },
+  {
+    "id": 4172,
+    "label": "NAME:HardDeck",
+    "en": "Hard Deck"
+  },
+  {
+    "id": 4173,
+    "label": "NAME:FaceDwn",
+    "en": "Face Down (2-4)"
+  },
+  {
+    "id": 4174,
+    "label": "NAME:PetCmetry",
+    "en": "Pet Cemetery"
+  },
+  {
+    "id": 4175,
+    "label": "NAME:CarWars",
+    "en": "Car Wars"
+  },
+  {
+    "id": 4176,
+    "label": "NAME:Fight",
+    "en": "Let There Be Fight (2)"
+  },
+  {
+    "id": 4177,
+    "label": "NAME:PathTaken",
+    "en": "The Path Most Taken"
+  },
+  {
+    "id": 4178,
+    "label": "NAME:MnkyTRex",
+    "en": "Crouching Monkey, Hidden T-Rex"
+  },
+  {
+    "id": 4179,
+    "label": "NAME:LostWrld",
+    "en": "The Time The World Forgot"
+  },
+  {
+    "id": 4180,
+    "label": "NAME:Heatwave",
+    "en": "Heat wave"
+  },
+  {
+    "id": 4181,
+    "label": "NAME:Frostbite",
+    "en": "Frostbite (2-4)"
+  },
+  {
+    "id": 4182,
+    "label": "NAME:Malaria",
+    "en": "Malaria"
+  },
+  {
+    "id": 4183,
+    "label": "NAME:LongNight",
+    "en": "The Longest Night"
+  },
+  {
+    "id": 4184,
+    "label": "NAME:Cityville",
+    "en": "Downtown, Cityville (2-4)"
+  },
+  {
+    "id": 4185,
+    "label": "NAME:KTourn1",
+    "en": "Korea Tournament 1"
+  },
+  {
+    "id": 4186,
+    "label": "NAME:KTourn2",
+    "en": "Korea Tournament 2"
+  },
+  {
+    "id": 4187,
+    "label": "NAME:ATourn1",
+    "en": "America Tournament 1"
+  },
+  {
+    "id": 4188,
+    "label": "NAME:ATourn2",
+    "en": "America Tournament 2"
+  },
+  {
+    "id": 4189,
+    "label": "NAME:GTourn1",
+    "en": "German Tournament 1"
+  },
+  {
+    "id": 4190,
+    "label": "NAME:GTourn2",
+    "en": "German Tournament 2"
+  },
+  {
+    "id": 4191,
+    "label": "NAME:ECntySde",
+    "en": "English Countryside"
+  },
+  {
+    "id": 4192,
+    "label": "NAME:CrisisCo",
+    "en": "Crisis in the Costwolds"
+  },
+  {
+    "id": 4193,
+    "label": "NAME:LondonFl",
+    "en": "London Falling"
+  },
+  {
+    "id": 4194,
+    "label": "NAME:RiverRam",
+    "en": "River Rampage"
+  },
+  {
+    "id": 4195,
+    "label": "NAME:RiverRai",
+    "en": "River Raid"
+  },
+  {
+    "id": 4196,
+    "label": "NAME:TowerTro",
+    "en": "Tower Trouble"
+  },
+  {
+    "id": 4197,
+    "label": "NAME:Warofthe",
+    "en": "War of the Roses"
+  },
+  {
+    "id": 4198,
+    "label": "NAME:ScarsofS",
+    "en": "Scars of Scotland"
+  },
+  {
+    "id": 4199,
+    "label": "NAME:Eygptian",
+    "en": "Egyptian Munitions"
+  }
+]

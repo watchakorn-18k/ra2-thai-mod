@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 2800,
+    "label": "STT:WOLManageAccount",
+    "en": "View and change account information"
+  },
+  {
+    "id": 2801,
+    "label": "STT:WOLMatchOutput",
+    "en": "Displays the status of your match request"
+  },
+  {
+    "id": 2802,
+    "label": "STT:WOLMyInformationName",
+    "en": "Select a stored account nickname"
+  },
+  {
+    "id": 2803,
+    "label": "STT:WOLMyInformationServer",
+    "en": "Select your prefered server"
+  },
+  {
+    "id": 2804,
+    "label": "STT:WOLMyInformationLocale",
+    "en": "Select your nationality"
+  },
+  {
+    "id": 2805,
+    "label": "STT:WOLMyInformationCountry",
+    "en": "Select which nationality you prefer to be in the game"
+  },
+  {
+    "id": 2806,
+    "label": "STT:WOLMyInformationColor",
+    "en": "Select which color you prefer to be in the game"
+  },
+  {
+    "id": 2807,
+    "label": "STT:WOLMyInformationAutoLogin",
+    "en": "Check this box if you wish to automatically use this account"
+  },
+  {
+    "id": 2808,
+    "label": "STT:WOLMyInformationWins",
+    "en": "You have won this many games"
+  },
+  {
+    "id": 2809,
+    "label": "STT:WOLMyInformationLosses",
+    "en": "You have lost this many games"
+  },
+  {
+    "id": 2810,
+    "label": "STT:WOLMyInformationDisconnects",
+    "en": "You have disconnected from a game this many times"
+  },
+  {
+    "id": 2811,
+    "label": "STT:WOLMyInformationRank",
+    "en": "This is your rank in the hall of fame"
+  },
+  {
+    "id": 2812,
+    "label": "STT:WOLMyInformationPoints",
+    "en": "You have this many points in the hall of fame"
+  },
+  {
+    "id": 2813,
+    "label": "STT:WOLMyInformationBack",
+    "en": "Return to Main Menu"
+  },
+  {
+    "id": 2814,
+    "label": "STT:WOLNewGameMaxPlayers",
+    "en": "Limit game to this many players"
+  },
+  {
+    "id": 2815,
+    "label": "STT:WOLNewGamePassword",
+    "en": "Enter a password if you want a private game"
+  },
+  {
+    "id": 2816,
+    "label": "STT:WOLNewGameTournament",
+    "en": "Check if you wish this game to be ranked"
+  },
+  {
+    "id": 2817,
+    "label": "STT:WOLNewGameClanTournament",
+    "en": "Check if you wish this to be a battle clan game"
+  },
+  {
+    "id": 2818,
+    "label": "STT:WOLNewGameCancel",
+    "en": "Cancel and return to previous screen"
+  },
+  {
+    "id": 2819,
+    "label": "STT:WOLOptionsPage",
+    "en": "Check if you wish to receive pages from other players"
+  },
+  {
+    "id": 2820,
+    "label": "STT:WOLOptionsLanguageFilter",
+    "en": "Check if you wish to filter out offensive language"
+  },
+  {
+    "id": 2821,
+    "label": "STT:WOLOptionsFind",
+    "en": "Check if you wish other players to be able to find you"
+  },
+  {
+    "id": 2822,
+    "label": "STT:WOLOptionsMusic",
+    "en": "Check to enable music"
+  },
+  {
+    "id": 2823,
+    "label": "STT:WOLOptionsShowAllInLobby",
+    "en": "Check to show all open games"
+  },
+  {
+    "id": 2824,
+    "label": "STT:WOLOptionsOk",
+    "en": "Accept these options"
+  },
+  {
+    "id": 2825,
+    "label": "STT:WOLOptionsCancel",
+    "en": "Do not accept these options"
+  },
+  {
+    "id": 2826,
+    "label": "STT:WOLWelcomeQuickMatch",
+    "en": "Set up a game automatically"
+  },
+  {
+    "id": 2827,
+    "label": "STT:WOLWelcomeCustomMatch",
+    "en": "Join a lobby to select an opponent"
+  },
+  {
+    "id": 2828,
+    "label": "STT:WOLWelcomeWDT",
+    "en": "Play a game for world domination"
+  },
+  {
+    "id": 2829,
+    "label": "STT:WOLWelcomeMyInformation",
+    "en": "Customize your Westwood Online account"
+  },
+  {
+    "id": 2830,
+    "label": "STT:WOLWelcomeBack",
+    "en": "Return to the Main Menu"
+  },
+  {
+    "id": 2831,
+    "label": "STT:WOLBeginNickMonth",
+    "en": "Select the month of your birthday"
+  },
+  {
+    "id": 2832,
+    "label": "STT:WOLBeginNickDay",
+    "en": "Enter the day of the month of your birthday"
+  },
+  {
+    "id": 2833,
+    "label": "STT:WOLBeginNickYear",
+    "en": "Enter the year of your birthday (4 digits)"
+  },
+  {
+    "id": 2834,
+    "label": "STT:WOLBeginNickEmail",
+    "en": "Enter your email address"
+  },
+  {
+    "id": 2835,
+    "label": "STT:WOLBeginNickNewsletter",
+    "en": "Check if you would like to receive news about our games"
+  },
+  {
+    "id": 2836,
+    "label": "STT:WOLBeginNickViewPrivacy",
+    "en": "View our privacy policy on our web site"
+  },
+  {
+    "id": 2837,
+    "label": "STT:WOLNewNickOk",
+    "en": "Request account with this nickname and password"
+  },
+  {
+    "id": 2838,
+    "label": "STT:WOLNewNickNickname",
+    "en": "Enter your desired nickname here"
+  },
+  {
+    "id": 2839,
+    "label": "STT:WOLNewNickPassword",
+    "en": "Enter your desired password here. Must be 8 characters"
+  },
+  {
+    "id": 2840,
+    "label": "STT:WOLNewNickVerify",
+    "en": "Re-enter your desired password here. Must be 8 characters"
+  },
+  {
+    "id": 2841,
+    "label": "STT:WOLNewNickParentEMail",
+    "en": "Enter your parent or guardian's email address here"
+  },
+  {
+    "id": 2842,
+    "label": "STT:WOLNewNickSellInfo",
+    "en": "Check here to allow us to share your information"
+  },
+  {
+    "id": 2843,
+    "label": "Name:ALL01",
+    "en": "Operation: Lone Guardian"
+  },
+  {
+    "id": 2844,
+    "label": "Name:ALL02",
+    "en": "Operation: Eagle Dawn"
+  },
+  {
+    "id": 2845,
+    "label": "Name:ALL03",
+    "en": "Operation: Hail to the Chief"
+  },
+  {
+    "id": 2846,
+    "label": "Name:ALL04",
+    "en": "Operation: Last Chance"
+  },
+  {
+    "id": 2847,
+    "label": "Name:ALL05",
+    "en": "Operation: Dark Night"
+  },
+  {
+    "id": 2848,
+    "label": "Name:ALL06",
+    "en": "Operation: Liberty"
+  },
+  {
+    "id": 2849,
+    "label": "Name:ALL07",
+    "en": "Operation: Deep Sea"
+  },
+  {
+    "id": 2850,
+    "label": "Name:ALL08",
+    "en": "Operation: Free Gateway"
+  },
+  {
+    "id": 2851,
+    "label": "Name:ALL09",
+    "en": "Operation: Sun Temple"
+  },
+  {
+    "id": 2852,
+    "label": "Name:ALL10",
+    "en": "Operation: Mirage"
+  },
+  {
+    "id": 2853,
+    "label": "Name:ALL11",
+    "en": "Operation: Fallout"
+  },
+  {
+    "id": 2854,
+    "label": "Name:ALL12",
+    "en": "Operation: Chrono Storm"
+  },
+  {
+    "id": 2855,
+    "label": "Name:Sov01",
+    "en": "Operation: Red Dawn"
+  },
+  {
+    "id": 2856,
+    "label": "Name:Sov02",
+    "en": "Operation: Hostile Shore"
+  },
+  {
+    "id": 2857,
+    "label": "Name:Sov03",
+    "en": "Operation: Big Apple"
+  },
+  {
+    "id": 2858,
+    "label": "Name:Sov04",
+    "en": "Operation: Home Front"
+  },
+  {
+    "id": 2859,
+    "label": "Name:Sov05",
+    "en": "Operation: City of Lights"
+  },
+  {
+    "id": 2860,
+    "label": "Name:Sov06",
+    "en": "Operation: Sub-Divide"
+  },
+  {
+    "id": 2861,
+    "label": "Name:Sov07",
+    "en": "Operation: Chrono Defense"
+  },
+  {
+    "id": 2862,
+    "label": "Name:Sov08",
+    "en": "Operation: Desecration"
+  },
+  {
+    "id": 2863,
+    "label": "Name:Sov09",
+    "en": "Operation: The Fox and the Hound"
+  },
+  {
+    "id": 2864,
+    "label": "Name:Sov10",
+    "en": "Operation: Weathered Alliance"
+  },
+  {
+    "id": 2865,
+    "label": "Name:Sov11",
+    "en": "Operation: Red Revolution"
+  },
+  {
+    "id": 2866,
+    "label": "Name:Sov12",
+    "en": "Operation: Polar Storm"
+  },
+  {
+    "id": 2867,
+    "label": "Name:TRN01",
+    "en": "Boot Camp - Day 1"
+  },
+  {
+    "id": 2868,
+    "label": "Name:TRN02",
+    "en": "Boot Camp - Day 2"
+  },
+  {
+    "id": 2869,
+    "label": "Name:Texas_DMZ",
+    "en": "Texas DMZ"
+  },
+  {
+    "id": 2870,
+    "label": "Name:European_Theater",
+    "en": "European Theater"
+  },
+  {
+    "id": 2871,
+    "label": "Name:Guardians_of_the_East",
+    "en": "Guardians of the East"
+  },
+  {
+    "id": 2872,
+    "label": "Name:African_Warlords",
+    "en": "African Warlords"
+  },
+  {
+    "id": 2873,
+    "label": "Name:Red_Storm",
+    "en": "Red Storm"
+  },
+  {
+    "id": 2874,
+    "label": "LoadMsg:Sov01",
+    "en": "Operation: Red Dawn - Location: Washington DC"
+  },
+  {
+    "id": 2875,
+    "label": "LoadMsg:Sov02",
+    "en": "Operation: Hostile Shore - Location: Florida Coast"
+  },
+  {
+    "id": 2876,
+    "label": "LoadMsg:Sov03",
+    "en": "Operation: Big Apple - Location: New York City"
+  },
+  {
+    "id": 2877,
+    "label": "LoadMsg:Sov04",
+    "en": "Operation: Home Front - Location: Vladivostok"
+  },
+  {
+    "id": 2878,
+    "label": "LoadMsg:Sov05",
+    "en": "Operation: City of Lights - Location: Paris, France"
+  },
+  {
+    "id": 2879,
+    "label": "LoadMsg:Sov06",
+    "en": "Operation: Sub-Divide - Location: Pearl Harbor, Hawaii"
+  },
+  {
+    "id": 2880,
+    "label": "LoadMsg:Sov07",
+    "en": "Operation: Chrono Defense - Location: Ural Mountains, Russia"
+  },
+  {
+    "id": 2881,
+    "label": "LoadMsg:Sov08",
+    "en": "Operation: Desecration - Location: Washington DC"
+  },
+  {
+    "id": 2882,
+    "label": "LoadMsg:Sov09",
+    "en": "Operation: The Fox and the Hound - Location: San Antonio, Texas"
+  },
+  {
+    "id": 2883,
+    "label": "LoadMsg:Sov10",
+    "en": "Operation: Weathered Alliance - Location: US Virgin Islands"
+  },
+  {
+    "id": 2884,
+    "label": "LoadMsg:Sov11",
+    "en": "Operation: Red Revolution - Location: Moscow"
+  },
+  {
+    "id": 2885,
+    "label": "LoadMsg:Sov12",
+    "en": "Operation: Polar Storm - Location: Point Hope, Alaska"
+  },
+  {
+    "id": 2886,
+    "label": "LoadMsg:ALL01",
+    "en": "Operation: Lone Guardian - Location: New York"
+  },
+  {
+    "id": 2887,
+    "label": "LoadMsg:ALL02",
+    "en": "Operation: Eagle Dawn - Location: Air Force Academy, Colorado"
+  },
+  {
+    "id": 2888,
+    "label": "LoadMsg:ALL03",
+    "en": "Operation: Hail to the Chief - Location: Washington DC"
+  },
+  {
+    "id": 2889,
+    "label": "LoadMsg:ALL04",
+    "en": "Operation: Last Chance - Location: Chicago"
+  },
+  {
+    "id": 2890,
+    "label": "LoadMsg:ALL05",
+    "en": "Operation: Dark Night - Location: Polish/German Border"
+  },
+  {
+    "id": 2891,
+    "label": "LoadMsg:ALL06",
+    "en": "Operation: Liberty - Location: Washington DC"
+  },
+  {
+    "id": 2892,
+    "label": "LoadMsg:ALL07",
+    "en": "Operation: Deep Sea - Location: Pearl Harbor, Hawaii"
+  },
+  {
+    "id": 2893,
+    "label": "LoadMsg:ALL08",
+    "en": "Operation: Free Gateway - Location: Saint Louis, Missouri"
+  },
+  {
+    "id": 2894,
+    "label": "LoadMsg:ALL09",
+    "en": "Operation: Sun Temple - Location: Tulum, Mexico"
+  },
+  {
+    "id": 2895,
+    "label": "LoadMsg:ALL10",
+    "en": "Operation: Mirage - Location: Black Forest, Germany"
+  },
+  {
+    "id": 2896,
+    "label": "LoadMsg:ALL11",
+    "en": "Operation: Fallout - Location: Florida Keys"
+  },
+  {
+    "id": 2897,
+    "label": "LoadMsg:ALL12",
+    "en": "Operation: Chrono Storm - Location: Moscow"
+  },
+  {
+    "id": 2898,
+    "label": "LoadMsg:TRN01",
+    "en": "Operation: Basic Battle Training - Location: Top Secret"
+  },
+  {
+    "id": 2899,
+    "label": "LoadMsg:TRN02",
+    "en": "Operation: Advanced Battle Training - Location: Top Secret"
+  },
+  {
+    "id": 2900,
+    "label": "LoadBrief:Sov01",
+    "en": "Objective 1: Destroy the Pentagon."
+  },
+  {
+    "id": 2901,
+    "label": "LoadBrief:Sov02",
+    "en": "Objective 1: Force a landing and set up a base. \n Objective 2: Destroy all enemy forces."
+  },
+  {
+    "id": 2902,
+    "label": "LoadBrief:Sov03",
+    "en": "Objective 1: Capture the American Battle Lab. \n Objective 2: Build and defend a Psychic Beacon."
+  },
+  {
+    "id": 2903,
+    "label": "LoadBrief:Sov04",
+    "en": "Objective 1: Establish a base. Defend the homeland. \n Objective 2: Destroy all enemy forces."
+  },
+  {
+    "id": 2904,
+    "label": "LoadBrief:Sov05",
+    "en": "Objective 1: Energize the PARIS TOWER with 3 TESLA TROOPERS. \n Objective 2: Defend the PARIS TOWER from Allied attack. \n Objective 3: Defeat all remaining Allied troops."
+  },
+  {
+    "id": 2905,
+    "label": "LoadBrief:Sov06",
+    "en": "Objective 1: Establish a base in the Hawaiian Islands. \n Objective 2: Destroy the Allied Navy."
+  },
+  {
+    "id": 2906,
+    "label": "LoadBrief:Sov07",
+    "en": "Objective 1: Defend your Battle Lab at all costs."
+  },
+  {
+    "id": 2907,
+    "label": "LoadBrief:Sov08",
+    "en": "Objective 1: Capture the White House."
+  },
+  {
+    "id": 2908,
+    "label": "LoadBrief:Sov09",
+    "en": "Objective 1: Use Mind-Control to capture the President."
+  },
+  {
+    "id": 2909,
+    "label": "LoadBrief:Sov10",
+    "en": "Objective 1: Capture the American Battle Lab to locate the Weather Control Device. \n Objective 2: Destroy the Weather Control Device."
+  },
+  {
+    "id": 2910,
+    "label": "LoadBrief:Sov11",
+    "en": "Objective 1: Destroy Yuri's headquarters - The Kremlin."
+  },
+  {
+    "id": 2911,
+    "label": "LoadBrief:Sov12",
+    "en": "Objective 1: Destroy the Chronosphere."
+  },
+  {
+    "id": 2912,
+    "label": "LoadBrief:ALL01",
+    "en": "Objective 1: Destroy the Soviet Dreadnought fleet. \n Objective 2: Make contact with Fort Bradley. \n Objective 3: Keep Tanya alive."
+  },
+  {
+    "id": 2913,
+    "label": "LoadBrief:ALL02",
+    "en": "Objective 1: Re-capture the Air Force Academy Chapel. \n Objective 2: Destroy all Soviet forces. \n Objective 3: Keep Tanya alive."
+  },
+  {
+    "id": 2914,
+    "label": "LoadBrief:ALL03",
+    "en": "Objective 1: Destroy the Psychic Beacon."
+  },
+  {
+    "id": 2915,
+    "label": "LoadBrief:ALL04",
+    "en": "Objective 1: Force a shore landing and establish a base. \n Objective 2: Destroy the Psychic Amplifier before it comes online."
+  },
+  {
+    "id": 2916,
+    "label": "LoadBrief:ALL05",
+    "en": "Objective 1: Infiltrate the Soviet Battle Lab. \n Objective 2: Neutralize the 2 Soviet Nuclear Missile Silos. \n Objective 3: Keep Tanya alive."
+  },
+  {
+    "id": 2917,
+    "label": "LoadBrief:ALL06",
+    "en": "Objective 1: Reinforce and assume command of Allied forces at the Pentagon. \n Objective 2: Destroy all Soviet forces in Washington."
+  },
+  {
+    "id": 2918,
+    "label": "LoadBrief:ALL07",
+    "en": "Objective 1: Destroy all Soviet forces."
+  },
+  {
+    "id": 2919,
+    "label": "LoadBrief:ALL08",
+    "en": "Objective 1: Destroy the Soviet Psychic Beacon. \n Objective 2: Destroy all Soviet forces within St. Louis. \n Objective 3: Don't get Tanya killed."
+  },
+  {
+    "id": 2920,
+    "label": "LoadBrief:ALL09",
+    "en": "Objective 1: Capture or Destroy any Soviet attempts to replicate our Prism Technology. \n Objective 2: Eradicate the Soviet base defending their research site."
+  },
+  {
+    "id": 2921,
+    "label": "LoadBrief:ALL10",
+    "en": "Objective 1: Ensure the safety of Professor Einstein's laboratory. \n Objective 2: Destroy all Soviet forces."
+  },
+  {
+    "id": 2922,
+    "label": "LoadBrief:ALL11",
+    "en": "Objective 1: Build a Chronosphere. \n Objective 2: Neutralize the Soviet Nuclear threat on Cuba."
+  },
+  {
+    "id": 2923,
+    "label": "LoadBrief:ALL12",
+    "en": "Objective 1: Clear the area so Chrono Reinforcements can arrive. \n Objective 2: Eliminate Romanov's Elite Black Guard around the Kremlin."
+  },
+  {
+    "id": 2924,
+    "label": "TXT_WAITING",
+    "en": "Waiting"
+  },
+  {
+    "id": 2925,
+    "label": "TXT_ABORTED",
+    "en": "Aborted"
+  },
+  {
+    "id": 2926,
+    "label": "TXT_NEED_TWO",
+    "en": "This game mode is restricted to two players."
+  },
+  {
+    "id": 2927,
+    "label": "TXT_COOP_NEED_TWO",
+    "en": "Cooperative mode only allows two players."
+  },
+  {
+    "id": 2928,
+    "label": "TXT_COOP_SAVE_SUCCESS",
+    "en": "Campaign progress saved."
+  },
+  {
+    "id": 2929,
+    "label": "TXT_COOP_SAVE_FAILED",
+    "en": "Failed to save campaign progress."
+  },
+  {
+    "id": 2930,
+    "label": "TXT_COOP_USE_SAVE",
+    "en": "Use Saved Campaign"
+  },
+  {
+    "id": 2931,
+    "label": "TXT_BEACON_MESSAGE",
+    "en": "Beacon Message:"
+  },
+  {
+    "id": 2932,
+    "label": "TXT_BEACON_HELP1",
+    "en": "Select a beacon and hit 'enter' key to enter text"
+  },
+  {
+    "id": 2933,
+    "label": "TXT_BEACON_HELP2",
+    "en": "Select a beacon and hit 'delete' key to remove"
+  },
+  {
+    "id": 2934,
+    "label": "MISSION:TRN01cc",
+    "en": "Move your troops across the bridge"
+  },
+  {
+    "id": 2935,
+    "label": "MISSION:TRN02iAlt",
+    "en": "Objective 2: Deploy your MCV into a Construction Yard"
+  },
+  {
+    "id": 2936,
+    "label": "MISSION:ALL01j",
+    "en": "Secondary Objective Complete"
+  },
+  {
+    "id": 2937,
+    "label": "MISSION:ALL01k",
+    "en": "New Objective Received"
+  },
+  {
+    "id": 2938,
+    "label": "MISSION:ALL01l",
+    "en": "HINT: Seals can SWIM and PLANT C4 like Tanya"
+  },
+  {
+    "id": 2939,
+    "label": "MISSION:ALL01m",
+    "en": "HINT: Cars can be used to CARRY INFANTRY. To remove passengers, double-click on the car"
+  },
+  {
+    "id": 2940,
+    "label": "MISSION:ALL01n",
+    "en": "HINT: Chrono Harvesters HARVEST ore and then automatically TELEPORT back to their refinery"
+  },
+  {
+    "id": 2941,
+    "label": "MISSION:ALL01o",
+    "en": "HINT: Select the infantry TAB to view additional PRODUCTION OPTIONS"
+  },
+  {
+    "id": 2942,
+    "label": "MISSION:ALL01p",
+    "en": "HINT: Order your ENGINEER into one of the REPAIR HUTS in order to fix the bridge"
+  },
+  {
+    "id": 2943,
+    "label": "MISSION:ALL01q",
+    "en": "--Battle Control Online--"
+  },
+  {
+    "id": 2944,
+    "label": "MISSION:ALL01r",
+    "en": "Additional troops gained"
+  },
+  {
+    "id": 2945,
+    "label": "MISSION:ALL01s",
+    "en": "HINT: To REMOVE your troops, DOUBLE-CLICK on the occupied building"
+  },
+  {
+    "id": 2946,
+    "label": "MISSION:ALL01t",
+    "en": "HINT: DOUBLE-CLICK the GI's to switch them between DEPLOYED and MOBILE states"
+  },
+  {
+    "id": 2947,
+    "label": "MISSION:ALL01u",
+    "en": "These GI's have deployed their heavy machine guns."
+  },
+  {
+    "id": 2948,
+    "label": "MISSION:ALL01v",
+    "en": "Tanya has died - CRITICAL UNIT LOST"
+  },
+  {
+    "id": 2949,
+    "label": "MISSION:ALL01w",
+    "en": "The STATUE OF LIBERTY has been destroyed - CRITICAL STRUCTURE LOST"
+  },
+  {
+    "id": 2950,
+    "label": "MISSION:ALL01x",
+    "en": "The STATUE OF LIBERTY is about to be destroyed - Hurry and destroy the Dreadnoughts!"
+  },
+  {
+    "id": 2951,
+    "label": "MISSION:ALL01y",
+    "en": "HINT: To REMOVE your troops, SELECT the occupied building, then click on it again."
+  },
+  {
+    "id": 2952,
+    "label": "MISSION:ALL02g",
+    "en": "Keep TANYA alive!"
+  },
+  {
+    "id": 2953,
+    "label": "MISSION:ALL02h",
+    "en": "TANYA has been KILLED!"
+  },
+  {
+    "id": 2954,
+    "label": "MISSION:ALL02i",
+    "en": "so the ROCKETEERS can destroy the SENTRY GUNS"
+  },
+  {
+    "id": 2955,
+    "label": "MISSION:All03a",
+    "en": "Objective 1: Destroy the Psychic Beacon"
+  },
+  {
+    "id": 2956,
+    "label": "MISSION:All03b",
+    "en": "You have salvaged Allied units abandoned after the Soviet invasion"
+  },
+  {
+    "id": 2957,
+    "label": "MISSION:All03c",
+    "en": "HINT: Beware of SOVIET TROOPS garrisoned in CIVILIAN STRUCTURES"
+  },
+  {
+    "id": 2958,
+    "label": "MISSION:All03d",
+    "en": "HINT: Be careful NOT to destroy the White House... we don't want to endanger the President"
+  },
+  {
+    "id": 2959,
+    "label": "MISSION:All03e",
+    "en": "MISSION FAILED: Nice job commander. You've managed to crush the President under a huge slab of concrete..."
+  },
+  {
+    "id": 2960,
+    "label": "MISSION:All03f",
+    "en": "HINT: Send an ENGINEER into a damaged CIVILIAN STRUCTURE to repair it"
+  },
+  {
+    "id": 2961,
+    "label": "MISSION:All03g",
+    "en": "HINT: Try putting different INFANTRY in your new IFV to use its morphing ability"
+  },
+  {
+    "id": 2962,
+    "label": "MISSION:All03h",
+    "en": "MISSION FAILED: President Dugan is but a flattened shell of a man"
+  },
+  {
+    "id": 2963,
+    "label": "MISSION:All03i",
+    "en": "Straggler units from across the Potomac have gathered up near the Lincoln Memorial"
+  },
+  {
+    "id": 2964,
+    "label": "MISSION:All03j",
+    "en": "A brave group of Allied survivors has scraped together a squad near the Smithsonian"
+  },
+  {
+    "id": 2965,
+    "label": "MISSION:All03k",
+    "en": "HINT: Order an ENGINEER into an IFV to transform it into a Mobile Repair Vehicle"
+  },
+  {
+    "id": 2966,
+    "label": "MISSION:All04d",
+    "en": "Reinforcements have just arrived from our Canadian base"
+  },
+  {
+    "id": 2967,
+    "label": "MISSION:All04e",
+    "en": "More reinforcements have just arrived from across Lake Michigan"
+  },
+  {
+    "id": 2968,
+    "label": "MISSION:All04f",
+    "en": "HINT: Enemy SUB PATROLS are all over Lake Michigan. Land your transports quickly to avoid losses"
+  },
+  {
+    "id": 2969,
+    "label": "MISSION:All04g",
+    "en": "Objective 2: Destroy the Psychic Amplifier before it comes online"
+  },
+  {
+    "id": 2970,
+    "label": "MISSION:All04h",
+    "en": "HINT: Send INFANTRY into the HOSPITAL to restore them to full health"
+  },
+  {
+    "id": 2971,
+    "label": "MISSION:All04i",
+    "en": "HINT: These OIL DERRICKS, if captured, will yield a steady flow of cash"
+  },
+  {
+    "id": 2972,
+    "label": "MISSION:All04j",
+    "en": "Clear the shore defenses with your Destroyers, then land and establish your base"
+  },
+  {
+    "id": 2973,
+    "label": "MISSION:All05a",
+    "en": "Objective 1: Infiltrate the Soviet Battle Lab with a Spy"
+  },
+  {
+    "id": 2974,
+    "label": "MISSION:All05b",
+    "en": "Objective 2: Eliminate the two Soviet Nuclear Missile Silos"
+  },
+  {
+    "id": 2975,
+    "label": "MISSION:All05c",
+    "en": "HINT: SPIES can disguise themselves as ENEMY TROOPS"
+  },
+  {
+    "id": 2976,
+    "label": "MISSION:All05d",
+    "en": "HINT: To disguise a SPY, select him and left click on an ENEMY SOLDIER"
+  },
+  {
+    "id": 2977,
+    "label": "MISSION:All05e",
+    "en": "Tesla Coil detected - CAUTION: EXTREME DANGER"
+  },
+  {
+    "id": 2978,
+    "label": "MISSION:All05f",
+    "en": "Additional Spies have arrived"
+  },
+  {
+    "id": 2979,
+    "label": "MISSION:All05g",
+    "en": "Allied patrol discovered"
+  },
+  {
+    "id": 2980,
+    "label": "MISSION:All05h",
+    "en": "Secondary Objective Complete - NEW OBJECTIVE RECEIVED"
+  },
+  {
+    "id": 2981,
+    "label": "MISSION:All05i",
+    "en": "Primary Objective Complete - MISSION SUCCESSFUL"
+  },
+  {
+    "id": 2982,
+    "label": "MISSION:All05j",
+    "en": "Bovine rescued"
+  },
+  {
+    "id": 2983,
+    "label": "MISSION:All05l",
+    "en": "The Battle Lab has been destroyed - CRITICAL STRUCTURE LOST"
+  },
+  {
+    "id": 2984,
+    "label": "MISSION:All05m",
+    "en": "First Nuclear Missile Silo destroyed - one remaining"
+  },
+  {
+    "id": 2985,
+    "label": "MISSION:All05n",
+    "en": "First Nuclear Missile Silo has been captured - one remaining"
+  },
+  {
+    "id": 2986,
+    "label": "MISSION:All05o",
+    "en": "HINT: Send a SPY into a TESLA REACTOR to shut down all base defenses"
+  },
+  {
+    "id": 2987,
+    "label": "MISSION:All05p",
+    "en": "Silo coordinates acquired successfully - Enlarging map size to compensate"
+  },
+  {
+    "id": 2988,
+    "label": "MISSION:All05r",
+    "en": "Somewhere in Poland..."
+  },
+  {
+    "id": 2989,
+    "label": "MISSION:All05s",
+    "en": "Signal Flare Detected"
+  },
+  {
+    "id": 2990,
+    "label": "MISSION:All07b",
+    "en": "WARNING - SOVIET ATTACK IMMINENT"
+  },
+  {
+    "id": 2991,
+    "label": "MISSION:All08T",
+    "en": "Time until Beacon affects Tanya:"
+  },
+  {
+    "id": 2992,
+    "label": "MISSION:All10a1",
+    "en": "HINT: When the MIRAGE TANK stops, it"
+  },
+  {
+    "id": 2993,
+    "label": "MISSION:All10a2",
+    "en": "cloaks itself as a TREE and waits to ambush"
+  },
+  {
+    "id": 2994,
+    "label": "MISSION:All10a3",
+    "en": "passing enemy forces"
+  },
+  {
+    "id": 2995,
+    "label": "MISSION:All10c",
+    "en": "WARNING: Einstein's Laboratory is under attack"
+  },
+  {
+    "id": 2996,
+    "label": "MISSION:All10e",
+    "en": "Objective 2: Destroy all Soviet invaders"
+  },
+  {
+    "id": 2997,
+    "label": "MISSION:All11d",
+    "en": "Objective 1: Construct a Chronosphere"
+  },
+  {
+    "id": 2998,
+    "label": "MISSION:All12h",
+    "en": "Tanya lost"
+  },
+  {
+    "id": 2999,
+    "label": "MISSION:All12i",
+    "en": "Kremlin Infiltrated - PRIMARY OBJECTIVE COMPLETE"
+  },
+  {
+    "id": 3000,
+    "label": "MISSION:Sov02h",
+    "en": "Build a NAVAL YARD so you can construct SUBMARINES"
+  },
+  {
+    "id": 3001,
+    "label": "MISSION:Sov03aa",
+    "en": "HINT: Capture the OIL DERRICKS for extra resources"
+  },
+  {
+    "id": 3002,
+    "label": "MISSION:Sov06c",
+    "en": "A small fleet of the new Soviet Dreadnought has arrived"
+  },
+  {
+    "id": 3003,
+    "label": "MISSION:Sov06d",
+    "en": "A small fleet of the new Soviet Dreadnought has arrived."
+  },
+  {
+    "id": 3004,
+    "label": "MISSION:Sov07k",
+    "en": "Allied Spy Sat maps were found in the Propaganda Truck wreckage... updating map."
+  },
+  {
+    "id": 3005,
+    "label": "MISSION:Sov08c",
+    "en": "Destroy monuments for bonuses from the Kremlin!"
+  },
+  {
+    "id": 3006,
+    "label": "MISSION:Sov08d",
+    "en": "Objective 1: Capture the White House"
+  },
+  {
+    "id": 3007,
+    "label": "MISSION:Sov11a",
+    "en": "Objective 1: Destroy the KREMLIN, where YURI is cowering"
+  },
+  {
+    "id": 3008,
+    "label": "MISSION:Sov11b",
+    "en": "WARNING: Enemy air armada detected"
+  },
+  {
+    "id": 3009,
+    "label": "MISSION:Sov11c",
+    "en": "WARNING: Yuri has detected our Nuclear Missile Silo - Defend it well"
+  },
+  {
+    "id": 3010,
+    "label": "MISSION:Sov11d",
+    "en": "HINT: To stop Kirov Airships, build lots of Flak Cannons"
+  },
+  {
+    "id": 3011,
+    "label": "MISSION:Sov11e",
+    "en": "Hey! You're not supposed to be here!"
+  },
+  {
+    "id": 3012,
+    "label": "MISSION:Sov11f",
+    "en": "11/21/98"
+  },
+  {
+    "id": 3013,
+    "label": "MISSION:Sov11g",
+    "en": "Power-up Crate discovered!"
+  },
+  {
+    "id": 3014,
+    "label": "MISSION:Sov11h",
+    "en": "NOX ROX!"
+  },
+  {
+    "id": 3015,
+    "label": "MISSION:Sov11i",
+    "en": "Warning, Iron Curtain device detected"
+  },
+  {
+    "id": 3016,
+    "label": "MISSION:Sov11j",
+    "en": "Warning, the Iron Curtain device has rendered some of Yuri's troops invulnerable"
+  },
+  {
+    "id": 3017,
+    "label": "MISSION:Sov11k",
+    "en": "TSC&ACC"
+  },
+  {
+    "id": 3018,
+    "label": "MISSION:Sov11l",
+    "en": "WARNING: Enemy Armor Brigade detected"
+  },
+  {
+    "id": 3019,
+    "label": "MISSION:Sov11m",
+    "en": "WARNING: Enemy Infantry Platoon detected"
+  },
+  {
+    "id": 3020,
+    "label": "MISSION:Sov11n",
+    "en": "WARNING: Enemy Naval Fleet detected"
+  },
+  {
+    "id": 3021,
+    "label": "COOP:Camp11",
+    "en": "The Soviets have invaded Texas! Stop them."
+  },
+  {
+    "id": 3022,
+    "label": "COOP:Camp11v",
+    "en": "Commander's Log -Texas, USA: The first Soviet unit to enter the United States was the Russian 2nd Motorized Rifle Division. They quickly set up bases in Southern Texas from which they could strike at US strategic assets all across the Southwest. American forces were quickly overwhelmed and it soon looked as though Russian and Cuban divisions would occupy all major cities in the southern US. Only a few diehard American commanders stood in the way."
+  },
+  {
+    "id": 3023,
+    "label": "COOP:Camp12",
+    "en": "Soviet and Cuban forces are striking into Alabama. Destroy them."
+  },
+  {
+    "id": 3024,
+    "label": "COOP:Camp12v",
+    "en": "Commander's Log - Alabama, USA: In the 2nd week of the war, despite massive loses, Soviet and Cuban forces attempted to link their battle lines in Alabama. Though their resources were nearly depleted, American commanders managed to put up a stiff resistance."
+  },
+  {
+    "id": 3025,
+    "label": "COOP:Camp13",
+    "en": "Cuban forces have invaded Florida. Push them back into the sea."
+  },
+  {
+    "id": 3026,
+    "label": "COOP:Camp13v",
+    "en": "Commander's Log - Florida, USA: While Russian forces raged across the Old South, Cuban forces quickly invaded Florida. Their first attacks were successful, however the Cubans met with grass-roots resistance when American commanders managed to procure a few MCVs from European blockade-runners."
+  },
+  {
+    "id": 3027,
+    "label": "COOP:Camp14",
+    "en": "Soviet forces threaten Atlanta. Find and destroy their supply base."
+  },
+  {
+    "id": 3028,
+    "label": "COOP:Camp14v",
+    "en": "Commander's Log - Georgia, USA: In the 4th week of the war, Russian and Cuban forces gathered in the Georgian countryside. Their mission was simple, gather resources, replenish two badly damaged Soviet divisions and then rage into the undefended city of Atlanta. The Soviet policy was clear, resistance must be punished and the American rebels must be taught a lesson. Before the Soviets were ready, a British spy sent word of the attack to American Commanders and battle was joined."
+  },
+  {
+    "id": 3029,
+    "label": "COOP:Camp15",
+    "en": "The Soviets have a network of bases along the Mexican border. Destroy them to end the war."
+  },
+  {
+    "id": 3030,
+    "label": "COOP:Camp15v",
+    "en": "Commander's Log - Texas, USA: As the Soviets were pushed back out of the United States, the last survivors of the battle for Texas laid siege to a mighty Russian battle fortress on the Mexican border. From this base the Soviets could make air and nuclear strikes deep into the United States. The Soviet base had to be destroyed, no matter what the price."
+  },
+  {
+    "id": 3031,
+    "label": "COOP:Camp21",
+    "en": "Strike a blow for freedom, your forces are in Romania, destroy all Soviet forces."
+  },
+  {
+    "id": 3032,
+    "label": "COOP:Camp21v",
+    "en": "Commander's Log - Eastern Europe: While the Soviets were striking against America, the Europeans remained silent. When the Soviets nuked Chicago, the Europeans prayed the war would not come to their shores, but when the Soviets attacked Paris, even the most cautious commander knew that the time had come for war. It was a combined French and German force that struck the first blow into Eastern Europe, led by the most aggressive European commanders on the continent."
+  },
+  {
+    "id": 3033,
+    "label": "COOP:Camp22",
+    "en": "The Soviets have counterattacked into Germany. You must hold the line."
+  },
+  {
+    "id": 3034,
+    "label": "COOP:Camp22v",
+    "en": "Commander's Log - Eastern Europe: Despite their initial success, the Allies soon found themselves surrounded on all sides by entrenched Soviet forces. Soviet units quickly cut off any chance of retreat in Romania and the Allied expeditionary force was forced to fight their way back to friendly battle lines."
+  },
+  {
+    "id": 3035,
+    "label": "COOP:Camp23",
+    "en": "You have been ordered to seize control of the Black Sea and her harbors."
+  },
+  {
+    "id": 3036,
+    "label": "COOP:Camp23v",
+    "en": "Commander's Log - Romania: As weeks stretched into months, the Allies tired as Europe was once again a grim battleground for the most powerful nations on earth. Eager to take the battle to the enemy, the Allies sent their best commanders into the Mediterranean to seize control of vital island strongholds and prepare large fleets for an attack into the Black Sea."
+  },
+  {
+    "id": 3037,
+    "label": "COOP:Camp24",
+    "en": "In a surprise attack, your forces have been sent into Poland. Crush the unprepared Soviets."
+  },
+  {
+    "id": 3038,
+    "label": "COOP:Camp24v",
+    "en": "Commander's Log - Poland: With the Soviets distracted by a major amphibious landing on their own shores, Allied forces seized the opportunity to make a major armored attack into Poland. In the 4th month the Allies lead their forces across the Rhine at the dead of night in the middle of winter, taking the Soviet bases completely by surprise."
+  },
+  {
+    "id": 3039,
+    "label": "COOP:Camp25",
+    "en": "The drive into Russia has begun. Your forces are in the Ukraine and face a desperate Red Army."
+  },
+  {
+    "id": 3040,
+    "label": "COOP:Camp25v",
+    "en": "Commander's Log - Ukraine, Soviet Union: With most of Europe still weak from battle, two European commanders took it upon themselves to put an end to the war in Europe by striking against the main Soviet Headquarters inside the Russian border. Without authorization or approval from their governments, these commanders gathered what forces remained and struck what they hoped would be a final blow."
+  },
+  {
+    "id": 3041,
+    "label": "COOP:Camp31",
+    "en": "Destroy all Soviet forces along the Sea of Japan."
+  },
+  {
+    "id": 3042,
+    "label": "COOP:Camp31v",
+    "en": "Commander's Log - Japan: The Korean government remained neutral during the first few months of the war until a Korean reporter learned that the Soviets had used Psychic Technology to mind control key members of the Korean leadership. When the story broke Korea went to war, and her commanders were to fight in almost every country in the Far East. The first attack took the Soviets almost completely by surprise as the Koreans fought along the coast of Japan for naval supremacy of the Pacific."
+  },
+  {
+    "id": 3043,
+    "label": "COOP:Camp32",
+    "en": "Defend Vietnam from Soviet aggression."
+  },
+  {
+    "id": 3044,
+    "label": "COOP:Camp32v",
+    "en": "Commander's Log - Vietnam: As the Soviets continued to spread across South East Asia, consuming the small countries that stood in their way, the Korean Army dispatched two divisions to Vietnam to defend it against a major Soviet strike force. The Korean commanders were outnumbered almost two to one and knew that only superior leadership would save them from certain defeat."
+  },
+  {
+    "id": 3045,
+    "label": "COOP:Camp33",
+    "en": "Your home nation, Korea is threatened, defend your lands at any cost."
+  },
+  {
+    "id": 3046,
+    "label": "COOP:Camp33v",
+    "en": "Commander's Log - Republic of Korea: Three weeks after declaring war on the Soviet Union, Korean commanders faced an invasion of their own country by a secret Soviet division hidden from their intelligence network by powerful psychic technology. Using what forces remained in country the Koreans marched to their own border and prepared to make the Soviets pay for every inch of ground."
+  },
+  {
+    "id": 3047,
+    "label": "COOP:Camp34",
+    "en": "Invade the frozen wastes of eastern Russia and destroy the Soviet bases."
+  },
+  {
+    "id": 3048,
+    "label": "COOP:Camp34v",
+    "en": "Commander's Log - Harbin, Soviet Union: With most of the Soviet forces in the Far East neutralized or destroyed the Korean High Command ordered their generals to take the fight to the enemy and Korean forces invaded the frozen wastes of Eastern Russia."
+  },
+  {
+    "id": 3049,
+    "label": "COOP:Camp35",
+    "en": "Complete your invasion of Siberia and destroy the Soviet supply bases that fuel war effort."
+  },
+  {
+    "id": 3050,
+    "label": "COOP:Camp35v",
+    "en": "Commander's Log - Siberia, Soviet Union: Despite massive losses to battle and the bitter cold, the Korean invasion force was not deterred and moved quickly against the oil fields of eastern Siberia. With the invasion in America going poorly for the Soviets and the European Allies attacking into Russia herself, the Koreans had a unique opportunity to deliver a crippling blow to the Soviet war machine. Korea had a chance to make a huge difference in the overall war."
+  },
+  {
+    "id": 3051,
+    "label": "COOP:Camp41",
+    "en": "Your legions have invaded Italy. Destroy all who oppose you."
+  },
+  {
+    "id": 3052,
+    "label": "COOP:Camp41v",
+    "en": "Commander's Log - Italy: While the Russians managed to persuade a few pariah warlord states to join their cause, most were only in the war for their own gain. It was a chance for many warlord nations to prey upon their neighbors, to expand their borders and to seize the resources they needed to maintain their failing economies. While Soviet forces fought around the globe, Iraq and Libya seized the opportunity for a joint invasion of southern Italy. Only a pitiful few French and English forces opposed them."
+  },
+  {
+    "id": 3053,
+    "label": "COOP:Camp42",
+    "en": "Greece is our next target. Destroy any Allies who dare to oppose our conquest."
+  },
+  {
+    "id": 3054,
+    "label": "COOP:Camp42v",
+    "en": "Commander's Log - Greece: As the English and French rallied their forces at the Alps the combined forces of the Iraqi and Libyan armies smashed into Greece. The Grecian army was overrun in a matter of days but a combined French and British force brought by boat from India and French Malaysia managed to put up a token resistance."
+  },
+  {
+    "id": 3055,
+    "label": "COOP:Camp43",
+    "en": "The French and English have counterattacked in Italy. Destroy their advanced bases."
+  },
+  {
+    "id": 3056,
+    "label": "COOP:Camp43v",
+    "en": "Commander's Log - Italy: Their supply lines overextended and their armies scattered across southern Europe, the Libyans and Iraqis were vulnerable to an Allied counterattack. In the 3rd week of the war the French and English attacked, striking at the ports of southern Italy in an attempt to cut-off Iraqi forces from their naval supply lines."
+  },
+  {
+    "id": 3057,
+    "label": "COOP:Camp44",
+    "en": "The Allies have paradropped into the fertile plane just outside Baghdad. Destroy them."
+  },
+  {
+    "id": 3058,
+    "label": "COOP:Camp44v",
+    "en": "Commander's Log - Iraq: After their failed attack, the Allies tried one last desperate gamble in the 4th week of the war. While Libyan death squads hunted down Allied troops in the Italy war-zone, the English and French took what forces they had remaining and made a massive airdrop in the fertile river basin outside of Baghdad, hoping to set up bases to siege the city."
+  },
+  {
+    "id": 3059,
+    "label": "COOP:Camp45",
+    "en": "The French have built a massive fortress in northern Greece. This is the last point of resistance."
+  },
+  {
+    "id": 3060,
+    "label": "COOP:Camp45v",
+    "en": "Commander's Log - Greece: Assisted by French base defenses, the Allies built a massive fortress in their last remaining stronghold of northern Greece. The French and English held out for nearly three weeks before the Iraqi and Libyan armies sent in their most battle-hardened commanders to find a way to break through the Allied defenses."
+  },
+  {
+    "id": 3061,
+    "label": "COOP:Camp51",
+    "en": "Destroy the Russian fleets and naval bases in the North Sea."
+  },
+  {
+    "id": 3062,
+    "label": "COOP:Camp51v",
+    "en": "Commander's Log - North Sea: While the Soviet army was busy crushing American resistance on the Eastern Seaboard, the Soviet Navy fought a bloody battle to cross the North Atlantic and deliver supplies and reinforcements to their troops. The first battles were fought on tiny islands in the North Sea where combined Allied forces attempted to hold back the Soviet battle groups and destroy any bases the Soviets managed to build."
+  },
+  {
+    "id": 3063,
+    "label": "COOP:Camp52",
+    "en": "The Soviets have invaded Norway. We must save this ally from Soviet dominion."
+  },
+  {
+    "id": 3064,
+    "label": "COOP:Camp52v",
+    "en": "Commander's Log - Norway: The initial Allied success prompted an immediate and brutal response from the Soviets. Threatened by superior Allied naval forces, the Soviets invaded the neutral countries of Sweden and Norway to lay claim to the warm water ports that would allow them to build large fleets and strike anywhere along the northern coast of Europe. The Allies gathered their best commanders and with only a handful of forces, sent them into Norway to hold back the Soviet horde."
+  },
+  {
+    "id": 3065,
+    "label": "COOP:Camp53",
+    "en": "A secret Soviet base has been discovered in the British Isles. Destroy it before it is too late."
+  },
+  {
+    "id": 3066,
+    "label": "COOP:Camp53v",
+    "en": "Commander's Log - British Isles: As the Soviets became more desperate to deliver war materials to their failing armies in America, they began to try more devious means of breaking the Allied blockade in the North Atlantic. In the 3rd month of the war, a small Soviet force made a secret landing in northern Britain and set up a base. By the time the Allies discovered the Soviet presence, it was nearly too late."
+  },
+  {
+    "id": 3067,
+    "label": "COOP:Camp54",
+    "en": "The Soviets have swept into Germany. Stop their advance and destroy their forces."
+  },
+  {
+    "id": 3068,
+    "label": "COOP:Camp54v",
+    "en": "Commander's Log - Germany: As the war entered its 4th month the Allies grew bold and began major attacks into Poland from Austria, striking against Soviet bases and liberating thousands of Polish civilians. The Soviets responded quickly with three armored divisions that swept into eastern Germany, cutting off the Allied attackers. The battle quickly degenerated into a chaotic base versus base duel, with the outcome sure to change the course of the war in Europe."
+  },
+  {
+    "id": 3069,
+    "label": "COOP:Camp55",
+    "en": "Victory is close at hand, destroy the Soviet naval bases in the Baltic to end the war for the North Atlantic."
+  },
+  {
+    "id": 3070,
+    "label": "COOP:Camp55v",
+    "en": "Commander's Log - Northern Baltic Sea: Victory after victory had brought the Allies into the Northern Baltic where they hoped to destroy the Soviet naval bases that continually reinforced the Soviet North Atlantic fleet. The Allies were only able to spare a few forces from their blockade groups for the assault, leaving them outnumbered three to one in what they hoped would be the final battle of the North Atlantic campaign."
+  },
+  {
+    "id": 3071,
+    "label": "EXTRA:Extra01",
+    "en": "Do not translate."
+  },
+  {
+    "id": 3072,
+    "label": "DESC:C1M1",
+    "en": "Campaign 1 Map 1"
+  },
+  {
+    "id": 3073,
+    "label": "DESC:C1M2",
+    "en": "Campaign 1 Map 2"
+  },
+  {
+    "id": 3074,
+    "label": "DESC:C1M3",
+    "en": "Campaign 1 Map 3"
+  },
+  {
+    "id": 3075,
+    "label": "DESC:C1M4",
+    "en": "Campaign 1 Map 4"
+  },
+  {
+    "id": 3076,
+    "label": "DESC:C1M5",
+    "en": "Campaign 1 Map 5"
+  },
+  {
+    "id": 3077,
+    "label": "DESC:C2M1",
+    "en": "Campaign 2 Map 1"
+  },
+  {
+    "id": 3078,
+    "label": "DESC:C2M2",
+    "en": "Campaign 2 Map 2"
+  },
+  {
+    "id": 3079,
+    "label": "DESC:C2M3",
+    "en": "Campaign 2 Map 3"
+  },
+  {
+    "id": 3080,
+    "label": "DESC:C2M4",
+    "en": "Campaign 2 Map 4"
+  },
+  {
+    "id": 3081,
+    "label": "DESC:C2M5",
+    "en": "Campaign 2 Map 5"
+  },
+  {
+    "id": 3082,
+    "label": "DESC:C3M1",
+    "en": "Campaign 3 Map 1"
+  },
+  {
+    "id": 3083,
+    "label": "DESC:C3M2",
+    "en": "Campaign 3 Map 2"
+  },
+  {
+    "id": 3084,
+    "label": "DESC:C3M3",
+    "en": "Campaign 3 Map 3"
+  },
+  {
+    "id": 3085,
+    "label": "DESC:C3M4",
+    "en": "Campaign 3 Map 4"
+  },
+  {
+    "id": 3086,
+    "label": "DESC:C3M5",
+    "en": "Campaign 3 Map 5"
+  },
+  {
+    "id": 3087,
+    "label": "DESC:C4M1",
+    "en": "Campaign 4 Map 1"
+  },
+  {
+    "id": 3088,
+    "label": "DESC:C4M2",
+    "en": "Campaign 4 Map 2"
+  },
+  {
+    "id": 3089,
+    "label": "DESC:C4M3",
+    "en": "Campaign 4 Map 3"
+  },
+  {
+    "id": 3090,
+    "label": "DESC:C4M4",
+    "en": "Campaign 4 Map 4"
+  },
+  {
+    "id": 3091,
+    "label": "DESC:C4M5",
+    "en": "Campaign 4 Map 5"
+  },
+  {
+    "id": 3092,
+    "label": "DESC:C5M1",
+    "en": "Campaign 5 Map 1"
+  },
+  {
+    "id": 3093,
+    "label": "DESC:C5M2",
+    "en": "Campaign 5 Map 2"
+  },
+  {
+    "id": 3094,
+    "label": "DESC:C5M3",
+    "en": "Campaign 5 Map 3"
+  },
+  {
+    "id": 3095,
+    "label": "DESC:C5M4",
+    "en": "Campaign 5 Map 4"
+  },
+  {
+    "id": 3096,
+    "label": "DESC:C5M5",
+    "en": "Campaign 5 Map 5"
+  },
+  {
+    "id": 3097,
+    "label": "MSG:PlanningModeMergeX",
+    "en": "Click on this node to merge the selected units into this plan. Merging units will execute the commands after the merge node."
+  },
+  {
+    "id": 3098,
+    "label": "MSG:PlanningModeLoopX",
+    "en": "Click on this node to create a patrol loop. The patrol loop will persist as long as it has at least one member."
+  },
+  {
+    "id": 3099,
+    "label": "MSG:PlanningModeDeleteX",
+    "en": "Click this node to select it. A selected node may be deleted using the delete key."
+  },
+  {
+    "id": 3100,
+    "label": "MSG:PlanningModeAlreadyInLoopX",
+    "en": "Cannot connect to this node because the selected units are already in a patrol loop."
+  },
+  {
+    "id": 3101,
+    "label": "MSG:PlanningModeMixedLoopX",
+    "en": "Cannot make loop with branch that does not contain the entire selection."
+  },
+  {
+    "id": 3102,
+    "label": "MSG:PlanningModeNoPatrolLoop1",
+    "en": "Did not create patrol loop because at least one participant"
+  },
+  {
+    "id": 3103,
+    "label": "MSG:PlanningModeNoPatrolLoop2",
+    "en": "does not support attack move."
+  },
+  {
+    "id": 3104,
+    "label": "MSG:PlanningModeNoPatrolLoopX",
+    "en": "Did not create patrol loop because at least one participant does not support attack move."
+  },
+  {
+    "id": 3105,
+    "label": "MSG:PlanningModeNoJoinPatrol1",
+    "en": "Cannot join patrol, because at least one unit in the selection"
+  },
+  {
+    "id": 3106,
+    "label": "MSG:PlanningModeNoJoinPatrolX",
+    "en": "Cannot join patrol, because at least one unit in the selection does not support attack move."
+  },
+  {
+    "id": 3107,
+    "label": "MSG:PlanningModeNoMerge1",
+    "en": "Cannot merge, because at least one unit in the selection"
+  },
+  {
+    "id": 3108,
+    "label": "MSG:PlanningModeNoMergeX",
+    "en": "Cannot merge, because at least one unit in the selection does not support attack move."
+  },
+  {
+    "id": 3109,
+    "label": "MSG:PlanningModeInvalidNode1",
+    "en": "You have clicked on an invalid node location."
+  },
+  {
+    "id": 3110,
+    "label": "MSG:PlanningModeInvalidNode2",
+    "en": "Please select another nearby location."
+  },
+  {
+    "id": 3111,
+    "label": "MSG:PlanningModeInvalidNodeX",
+    "en": "You cannot place a waypoint here. Please select another location."
+  },
+  {
+    "id": 3112,
+    "label": "MSG:PlanningModeUnsupported",
+    "en": "A member of the selection does not support planning mode."
+  },
+  {
+    "id": 3113,
+    "label": "Name:CONA",
+    "en": "Excavator"
+  },
+  {
+    "id": 3114,
+    "label": "MISSION:All06a1",
+    "en": "Objective 1: Reinforce and take command"
+  },
+  {
+    "id": 3115,
+    "label": "MISSION:All06a2",
+    "en": "of Allied forces near the Pentagon"
+  },
+  {
+    "id": 3116,
+    "label": "MISSION:All06b1",
+    "en": "Objective 2: Eliminate all Soviet forces"
+  },
+  {
+    "id": 3117,
+    "label": "MISSION:All06b2",
+    "en": "occupying Washington, DC"
+  },
+  {
+    "id": 3118,
+    "label": "MISSION:All06c1",
+    "en": "HINT: The SERVICE DEPOT can safely remove"
+  },
+  {
+    "id": 3119,
+    "label": "MISSION:All06c2",
+    "en": "Soviet TERROR DRONES from infected vehicles"
+  },
+  {
+    "id": 3120,
+    "label": "MISSION:All06d1",
+    "en": "Pentagon forces transferred to your command"
+  },
+  {
+    "id": 3121,
+    "label": "MISSION:All07a1",
+    "en": "Objective 1: Destroy all Soviet forces"
+  },
+  {
+    "id": 3122,
+    "label": "MISSION:All07a2",
+    "en": "on or around the Hawaiian Islands"
+  },
+  {
+    "id": 3123,
+    "label": "MISSION:All07c1",
+    "en": "HINT: The GAP GENERATOR will conceal your"
+  },
+  {
+    "id": 3124,
+    "label": "MISSION:All07c2",
+    "en": "base from Soviet nuclear attack"
+  },
+  {
+    "id": 3125,
+    "label": "MISSION:All08a1",
+    "en": "Objective 1: Capture or Destroy the"
+  },
+  {
+    "id": 3126,
+    "label": "MISSION:All08a2",
+    "en": "Psychic Beacon before it affects your team"
+  },
+  {
+    "id": 3127,
+    "label": "MISSION:All08b1",
+    "en": "Objective 2: Drive all Soviet forces out"
+  },
+  {
+    "id": 3128,
+    "label": "MISSION:All08b2",
+    "en": "of St. Louis"
+  },
+  {
+    "id": 3129,
+    "label": "MISSION:All08c1",
+    "en": "WARNING: Soviet Desolators have irradiated"
+  },
+  {
+    "id": 3130,
+    "label": "MISSION:All08c2",
+    "en": "the ground at this location"
+  },
+  {
+    "id": 3131,
+    "label": "MISSION:All08d1",
+    "en": "WARNING: The Psychic Beacon has affected"
+  },
+  {
+    "id": 3132,
+    "label": "MISSION:All08d2",
+    "en": "your team"
+  },
+  {
+    "id": 3133,
+    "label": "MISSION:All10b1",
+    "en": "ALERT! Soviet Invasion Forces Detected. ALERT!"
+  },
+  {
+    "id": 3134,
+    "label": "MISSION:All10d1",
+    "en": "Objective 1: Defend Professor Einstein's"
+  },
+  {
+    "id": 3135,
+    "label": "MISSION:All10d2",
+    "en": "Laboratory"
+  },
+  {
+    "id": 3136,
+    "label": "MISSION:All11a1",
+    "en": "HINT: To make SQUID release a ship, you"
+  },
+  {
+    "id": 3137,
+    "label": "MISSION:All11a2",
+    "en": "must force your DOLPHINS to fire on the"
+  },
+  {
+    "id": 3138,
+    "label": "MISSION:All11a3",
+    "en": "AFFECTED SHIP"
+  },
+  {
+    "id": 3139,
+    "label": "MISSION:All11b1",
+    "en": "HINT: The CHRONOSPHERE will teleport all"
+  },
+  {
+    "id": 3140,
+    "label": "MISSION:All11b2",
+    "en": "VEHICLES within a small area across any distance"
+  },
+  {
+    "id": 3141,
+    "label": "MISSION:All11c1",
+    "en": "WARNING: Soviet Nuclear Missiles are now"
+  },
+  {
+    "id": 3142,
+    "label": "MISSION:All11c2",
+    "en": "being armed"
+  },
+  {
+    "id": 3143,
+    "label": "MISSION:All11e1",
+    "en": "Objective 2: Neutralize the Soviet Nuclear"
+  },
+  {
+    "id": 3144,
+    "label": "MISSION:All11e2",
+    "en": "Missile Silos"
+  },
+  {
+    "id": 3145,
+    "label": "MISSION:All11T",
+    "en": "Nuclear Strike in:"
+  },
+  {
+    "id": 3146,
+    "label": "LoadBrief:British",
+    "en": "The British Sniper can easily eliminate enemy infantry at great ranges."
+  },
+  {
+    "id": 3147,
+    "label": "LoadBriefShort:British",
+    "en": "Britain can train SNIPERS."
+  },
+  {
+    "id": 3148,
+    "label": "LoadBrief:USA",
+    "en": "The USA has the best paratroopers in the world. Build an Airforce Command Center to drop paratroopers anywhere on the battlefield."
+  },
+  {
+    "id": 3149,
+    "label": "LoadBriefShort:USA",
+    "en": "America can use PARADROPS."
+  }
+]

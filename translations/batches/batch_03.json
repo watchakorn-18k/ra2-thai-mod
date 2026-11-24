@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1050,
+    "label": "TXT_CRITICALLY_LOW",
+    "en": "Warning - you are critically low on free disk space for saving games. Do you want to play Yuri's Revenge anyway?"
+  },
+  {
+    "id": 1051,
+    "label": "TXT_TAB_SIDEBAR",
+    "en": "Sidebar"
+  },
+  {
+    "id": 1052,
+    "label": "TXT_SHADOW",
+    "en": "Unrevealed Terrain"
+  },
+  {
+    "id": 1053,
+    "label": "TXT_DEPLOY_OBJECT",
+    "en": "Deploy Object"
+  },
+  {
+    "id": 1054,
+    "label": "TXT_DEPLOY_OBJECT_DESC",
+    "en": "Deploy selected object(s)."
+  },
+  {
+    "id": 1055,
+    "label": "TXT_WAYPOINTMODE",
+    "en": "Waypoint Mode"
+  },
+  {
+    "id": 1056,
+    "label": "TXT_WAYPOINTMODE_DESC",
+    "en": "Toggle waypoint placement mode on / off."
+  },
+  {
+    "id": 1057,
+    "label": "TXT_ON",
+    "en": "On"
+  },
+  {
+    "id": 1058,
+    "label": "TXT_OFF",
+    "en": "Off"
+  },
+  {
+    "id": 1059,
+    "label": "TXT_MULTIPLAYER_GAME",
+    "en": "Multiplayer Game"
+  },
+  {
+    "id": 1060,
+    "label": "TXT_SCRNCAP",
+    "en": "Screen Capture"
+  },
+  {
+    "id": 1061,
+    "label": "TXT_SCRNCAP_DESC",
+    "en": "Take a snapshot of the game screen. (Saved as 'SCRNxxxx.PCX' file in Red Alert 2 run directory.)"
+  },
+  {
+    "id": 1062,
+    "label": "TXT_SENDING_GO",
+    "en": "Sending GO request - Please Wait..."
+  },
+  {
+    "id": 1063,
+    "label": "TXT_WAITING_GO",
+    "en": "Waiting for GO response - Please Wait..."
+  },
+  {
+    "id": 1064,
+    "label": "TXT_SENDING_GO_ACK",
+    "en": "Sending GO acknowlegement - Please Wait..."
+  },
+  {
+    "id": 1065,
+    "label": "TXT_CWAIT_STAR70",
+    "en": "*70"
+  },
+  {
+    "id": 1066,
+    "label": "TXT_CWAIT_70NUM",
+    "en": "70#"
+  },
+  {
+    "id": 1067,
+    "label": "TXT_CWAIT_1170",
+    "en": "1170"
+  },
+  {
+    "id": 1068,
+    "label": "TXT_EASY",
+    "en": "Easy"
+  },
+  {
+    "id": 1069,
+    "label": "TXT_HARD",
+    "en": "Hard"
+  },
+  {
+    "id": 1070,
+    "label": "TXT_UNABLE_READ_SCENARIO",
+    "en": "Unable to read scenario!"
+  },
+  {
+    "id": 1071,
+    "label": "TXT_ERROR_LOADING_GAME",
+    "en": "Error loading game!"
+  },
+  {
+    "id": 1072,
+    "label": "TXT_OBSOLETE_SAVEGAME",
+    "en": "[OBSOLETE]"
+  },
+  {
+    "id": 1073,
+    "label": "TXT_MUSTENTER_DESCRIPTION",
+    "en": "You must enter a description!"
+  },
+  {
+    "id": 1074,
+    "label": "TXT_ERROR_SAVING_GAME",
+    "en": "Error saving mission!"
+  },
+  {
+    "id": 1075,
+    "label": "TXT_DELETE_FILE_QUERY",
+    "en": "Delete this file?"
+  },
+  {
+    "id": 1076,
+    "label": "TXT_EMPTY_SLOT",
+    "en": "[EMPTY SLOT]"
+  },
+  {
+    "id": 1077,
+    "label": "TXT_MAP",
+    "en": "Map: %s"
+  },
+  {
+    "id": 1078,
+    "label": "TXT_PLAYER_CHANGED_LATENCY",
+    "en": "Player %s has changed the connection speed setting."
+  },
+  {
+    "id": 1079,
+    "label": "TXT_PLAYER_CHANGED_SPEED",
+    "en": "Player %s has changed the game speed setting."
+  },
+  {
+    "id": 1080,
+    "label": "TXT_REQUEST_DENIED",
+    "en": "Request denied."
+  },
+  {
+    "id": 1081,
+    "label": "TXT_UNABLE_PLAY_WAAUGH",
+    "en": "Unable to play; scenario not found."
+  },
+  {
+    "id": 1082,
+    "label": "TXT_NOTHING_TO_JOIN",
+    "en": "Nothing to join!"
+  },
+  {
+    "id": 1083,
+    "label": "TXT_NAME_ERROR",
+    "en": "You must enter a name!"
+  },
+  {
+    "id": 1084,
+    "label": "TXT_YOURGAME_OUTDATED",
+    "en": "Your game version is outdated."
+  },
+  {
+    "id": 1085,
+    "label": "TXT_DESTGAME_OUTDATED",
+    "en": "Destination game version is outdated."
+  },
+  {
+    "id": 1086,
+    "label": "TXT_THATGUYS_GAME",
+    "en": "%s's Game"
+  },
+  {
+    "id": 1087,
+    "label": "TXT_THATGUYS_GAME_BRACKET",
+    "en": "[%s's Game]"
+  },
+  {
+    "id": 1088,
+    "label": "TXT_REJECT",
+    "en": "Reject"
+  },
+  {
+    "id": 1089,
+    "label": "TXT_CANT_REJECT_SELF",
+    "en": "You can't reject yourself!"
+  },
+  {
+    "id": 1090,
+    "label": "TXT_SELECT_PLAYER_REJECT",
+    "en": "You must select a player to reject."
+  },
+  {
+    "id": 1091,
+    "label": "TXT_CREDITS_COLON",
+    "en": "Credits:"
+  },
+  {
+    "id": 1092,
+    "label": "TXT_ONLY_ONE",
+    "en": "You need more than one player to start."
+  },
+  {
+    "id": 1093,
+    "label": "TXT_OOPS",
+    "en": "Oops!"
+  },
+  {
+    "id": 1094,
+    "label": "TXT_FROM",
+    "en": "From %s:"
+  },
+  {
+    "id": 1095,
+    "label": "TXT_TO",
+    "en": "To %s:"
+  },
+  {
+    "id": 1096,
+    "label": "TXT_TO_ALL",
+    "en": "To All:"
+  },
+  {
+    "id": 1097,
+    "label": "TXT_MESSAGE",
+    "en": "Message:"
+  },
+  {
+    "id": 1098,
+    "label": "TXT_CONNECTION_LOST",
+    "en": "Connection to %s lost!"
+  },
+  {
+    "id": 1099,
+    "label": "TXT_LEFT_GAME",
+    "en": "%s has left the game."
+  },
+  {
+    "id": 1100,
+    "label": "TXT_PLAYER_DEFEATED",
+    "en": "%s has been defeated!"
+  },
+  {
+    "id": 1101,
+    "label": "TXT_NONAME",
+    "en": "[New Player]"
+  },
+  {
+    "id": 1102,
+    "label": "TXT_NAME_COLON",
+    "en": "Name:"
+  },
+  {
+    "id": 1103,
+    "label": "TXT_OUT_OF_SYNC",
+    "en": "Reconnection Error!"
+  },
+  {
+    "id": 1104,
+    "label": "TXT_PACKET_TOO_LATE",
+    "en": "Packet received too late!"
+  },
+  {
+    "id": 1105,
+    "label": "TXT_USER_SIGNED_OFF",
+    "en": "User signed off!"
+  },
+  {
+    "id": 1106,
+    "label": "TXT_POWER_DRAIN",
+    "en": "Power = %d \n Drain = %d"
+  },
+  {
+    "id": 1107,
+    "label": "TXT_STAND_BY",
+    "en": "Please Stand By..."
+  },
+  {
+    "id": 1108,
+    "label": "TXT_LOW_POWER",
+    "en": "Low Power - Production Slowed"
+  },
+  {
+    "id": 1109,
+    "label": "TXT_KILLS_COLON",
+    "en": "Kills:"
+  },
+  {
+    "id": 1110,
+    "label": "TXT_SPY_INFO",
+    "en": "Spy Info"
+  },
+  {
+    "id": 1111,
+    "label": "TXT_INFANTRY",
+    "en": "Infantry"
+  },
+  {
+    "id": 1112,
+    "label": "TXT_CIVILIAN_BUILDING",
+    "en": "Civilian Building"
+  },
+  {
+    "id": 1113,
+    "label": "TXT_TO_REPLAY",
+    "en": "Would you like to replay this mission?"
+  },
+  {
+    "id": 1114,
+    "label": "TXT_SURRENDER",
+    "en": "Surrender"
+  },
+  {
+    "id": 1115,
+    "label": "TXT_GAMENAME_MUSTBE_UNIQUE",
+    "en": "Your game name must be unique."
+  },
+  {
+    "id": 1116,
+    "label": "TXT_GAME_IS_CLOSED",
+    "en": "Game is closed."
+  },
+  {
+    "id": 1117,
+    "label": "TXT_NAME_MUSTBE_UNIQUE",
+    "en": "Your name must be unique."
+  },
+  {
+    "id": 1118,
+    "label": "TXT_RECONNECTING_TO",
+    "en": "Connection to %s has been interrupted. Attempting to reconnect."
+  },
+  {
+    "id": 1119,
+    "label": "TXT_WAITING_FOR_CONNECTIONS",
+    "en": "Waiting for all players to enter the game...."
+  },
+  {
+    "id": 1120,
+    "label": "TXT_TIME_ALLOWED",
+    "en": "Time allowed: %02d seconds"
+  },
+  {
+    "id": 1121,
+    "label": "TXT_JUST_YOU_AND_ME",
+    "en": "From Computer: It's just you and me now!"
+  },
+  {
+    "id": 1122,
+    "label": "TXT_HAS_ALLIED",
+    "en": "%s has allied with %s"
+  },
+  {
+    "id": 1123,
+    "label": "TXT_AT_WAR",
+    "en": "%s declares war on %s"
+  },
+  {
+    "id": 1124,
+    "label": "TXT_SCENARIOS_DO_NOT_MATCH",
+    "en": "Scenarios don't match."
+  },
+  {
+    "id": 1125,
+    "label": "TXT_QUEUE_FULL",
+    "en": "Data Queue Overflow"
+  },
+  {
+    "id": 1126,
+    "label": "TXT_SPECIAL_WARNING",
+    "en": "%s changed game options!"
+  },
+  {
+    "id": 1127,
+    "label": "TXT_WAITING_FOR_OPPONENT",
+    "en": "Waiting for Opponent"
+  },
+  {
+    "id": 1128,
+    "label": "TXT_GAME_WAS_SAVED",
+    "en": "Mission Saved"
+  },
+  {
+    "id": 1129,
+    "label": "TXT_SPACE_CANT_SAVE",
+    "en": "Insufficient disk space to save a game. Please delete unwanted saved games to free up some disk space and try again."
+  },
+  {
+    "id": 1130,
+    "label": "TXT_LOADING",
+    "en": "Mission is loading. Please wait..."
+  },
+  {
+    "id": 1131,
+    "label": "TXT_SAVING_GAME",
+    "en": "Mission saving - Please Wait..."
+  },
+  {
+    "id": 1132,
+    "label": "TXT_GAME_FULL",
+    "en": "Game is full."
+  },
+  {
+    "id": 1133,
+    "label": "TXT_MUST_SELECT_GAME",
+    "en": "You must select a game!"
+  },
+  {
+    "id": 1134,
+    "label": "TXT_S_PLAYING_S",
+    "en": "%s playing %s"
+  },
+  {
+    "id": 1135,
+    "label": "TXT_ONLY_HOST_CAN_MODIFY",
+    "en": "Only the host can modify this option."
+  },
+  {
+    "id": 1136,
+    "label": "TXT_GAME_CANCELLED",
+    "en": "Game was cancelled."
+  },
+  {
+    "id": 1137,
+    "label": "TXT_S_FORMED_NEW_GAME",
+    "en": "%s has formed a new game."
+  },
+  {
+    "id": 1138,
+    "label": "TXT_GAME_NOW_IN_PROGRESS",
+    "en": "%s's game is now in progress."
+  },
+  {
+    "id": 1139,
+    "label": "TXT_NO_DIAL_TONE",
+    "en": "No dial tone. Ensure your modem is connected to the phone line and try again."
+  },
+  {
+    "id": 1140,
+    "label": "TXT_CONNECTING",
+    "en": "Connecting..."
+  },
+  {
+    "id": 1141,
+    "label": "TXT_SELECT_SETTINGS",
+    "en": "Please select 'Settings' to setup default configuration"
+  },
+  {
+    "id": 1142,
+    "label": "TXT_ANSWERING",
+    "en": "Answering..."
+  },
+  {
+    "id": 1143,
+    "label": "TXT_INITIALIZING_MODEM",
+    "en": "Initializing Modem...Standby"
+  },
+  {
+    "id": 1144,
+    "label": "TXT_ERROR_NO_INIT",
+    "en": "Error - Modem did not respond to initialisation string."
+  },
+  {
+    "id": 1145,
+    "label": "TXT_ERROR_NO_DISABLE",
+    "en": "Error - Unable to disable modem auto answer."
+  },
+  {
+    "id": 1146,
+    "label": "TXT_ERROR_TOO_MANY",
+    "en": "Error - Too many errors initialising modem - Aborting."
+  },
+  {
+    "id": 1147,
+    "label": "TXT_ERROR_ERROR",
+    "en": "Error - Modem returned error status."
+  },
+  {
+    "id": 1148,
+    "label": "TXT_ERROR_TIMEOUT",
+    "en": "Error - Time out waiting for connect."
+  },
+  {
+    "id": 1149,
+    "label": "TXT_RECEIVING_SCENARIO",
+    "en": "Receiving scenario from host."
+  },
+  {
+    "id": 1150,
+    "label": "TXT_SENDING_SCENARIO",
+    "en": "Sending scenario to remote players."
+  },
+  {
+    "id": 1151,
+    "label": "TXT_NO_FLOW_CONTROL_RESPONSE",
+    "en": "Error - Modem failed to respond to flow control command. Your Windows configuration may be incorrect."
+  },
+  {
+    "id": 1152,
+    "label": "TXT_NO_COMP_DISABLE_RESPONSE",
+    "en": "Error - Modem failed to respond to compression disable command. Your Windows configuration may be incorrect."
+  },
+  {
+    "id": 1153,
+    "label": "TXT_NO_EC_DISABLE_RESPONSE",
+    "en": "Error - Modem failed to respond to error correction disable command. Your Windows configuration may be incorrect."
+  },
+  {
+    "id": 1154,
+    "label": "TXT_UNABLE_TO_OPEN_PORT",
+    "en": "Invalid Port or Port is in use"
+  },
+  {
+    "id": 1155,
+    "label": "TXT_INVALID_PORT_ADDRESS",
+    "en": "Invalid Port/Address. COM 1-4 OR ADDRESS"
+  },
+  {
+    "id": 1156,
+    "label": "TXT_IRQ_ALREADY_IN_USE",
+    "en": "IRQ already in use"
+  },
+  {
+    "id": 1157,
+    "label": "TXT_ERROR_IN_INITSTRING",
+    "en": "Error in the InitString"
+  },
+  {
+    "id": 1158,
+    "label": "TXT_MODEM_OR_LOOPBACK",
+    "en": "Not a Null Modem Cable Attached! It is a modem or loopback cable."
+  },
+  {
+    "id": 1159,
+    "label": "TXT_UNABLE_FIND_MODEM",
+    "en": "Unable to find modem. Check power and cables."
+  },
+  {
+    "id": 1160,
+    "label": "TXT_NULL_CONNERR_CHECK_CABLES",
+    "en": "Connection error! Check your cables. Attempting to Reconnect..."
+  },
+  {
+    "id": 1161,
+    "label": "TXT_MODEM_CONNERR_REDIALING",
+    "en": "Connection error! Redialing..."
+  },
+  {
+    "id": 1162,
+    "label": "TXT_MODEM_CONNERR_WAITING",
+    "en": "Connection error! Waiting for Call..."
+  },
+  {
+    "id": 1163,
+    "label": "TXT_WAITING_CONNECT",
+    "en": "Waiting to Connect..."
+  },
+  {
+    "id": 1164,
+    "label": "TXT_CUSTOM",
+    "en": "CUSTOM -"
+  },
+  {
+    "id": 1165,
+    "label": "TXT_COM1",
+    "en": "COM1 - 3F8"
+  },
+  {
+    "id": 1166,
+    "label": "TXT_COM2",
+    "en": "COM2 - 2F8"
+  },
+  {
+    "id": 1167,
+    "label": "TXT_COM3",
+    "en": "COM3 - 3E8"
+  },
+  {
+    "id": 1168,
+    "label": "TXT_COM4",
+    "en": "COM4 - 2E8"
+  },
+  {
+    "id": 1169,
+    "label": "TXT_NO_CARRIER",
+    "en": "No carrier."
+  },
+  {
+    "id": 1170,
+    "label": "TXT_SHIP_01",
+    "en": "UFull Name:ACoord:AHgt:AStr:AAce:ASpd:AAmmoAArm:AGrp:ACloak:APrice:¨ \n"
+  },
+  {
+    "id": 1171,
+    "label": "TXT_SHIP_02",
+    "en": "3 3 3 3 3 3 3 3 3 3 3 3 \n"
+  },
+  {
+    "id": 1172,
+    "label": "TXT_SHIP_03",
+    "en": "AOwner:Trigger:TarCom:ASTarCom:APFace:Path:AATry:ADelay:' \n"
+  },
+  {
+    "id": 1173,
+    "label": "TXT_SHIP_04",
+    "en": "3 3 3 3 3 3 3 3 3 \n"
+  },
+  {
+    "id": 1174,
+    "label": "TXT_SHIP_05",
+    "en": "ACargo:ATarget:Next:NavCom:SNavCom:SFace:PBrk:AHeadTo:AArchive:' \n"
+  },
+  {
+    "id": 1175,
+    "label": "TXT_SHIP_06",
+    "en": "3 3 3 3 3 3 3 3 3 3 \n"
+  },
+  {
+    "id": 1176,
+    "label": "TXT_SHIP_07",
+    "en": "ATmr:ASt:ARt:AStageRadio:Radio Message History:AAA' \n"
+  },
+  {
+    "id": 1177,
+    "label": "TXT_SHIP_08",
+    "en": "3 3 3 3 3 3 3 \n"
+  },
+  {
+    "id": 1178,
+    "label": "TXT_SHIP_09",
+    "en": "AMission:AAAQueue:' 3 \n"
+  },
+  {
+    "id": 1179,
+    "label": "TXT_SHIP_10",
+    "en": "3 3 3 3 \n"
+  },
+  {
+    "id": 1180,
+    "label": "TXT_SHIP_11",
+    "en": "AAA' \n"
+  },
+  {
+    "id": 1181,
+    "label": "TXT_SHIP_12",
+    "en": "3 3 \n"
+  },
+  {
+    "id": 1182,
+    "label": "TXT_SHIP_13",
+    "en": "AAAAAA' \n"
+  },
+  {
+    "id": 1183,
+    "label": "TXT_SHIP_14",
+    "en": "3Is Down 3AnimAttached3Primary 3Player Owned3Initiated 3Repairing 3 \n"
+  },
+  {
+    "id": 1184,
+    "label": "TXT_SHIP_15",
+    "en": "3To Damage 3Falling [ ]3Loaner 3Player Aware3Deploying 3ToSelfRepair3 \n"
+  },
+  {
+    "id": 1185,
+    "label": "TXT_SHIP_16",
+    "en": "3To Display 3Useless 3Locked 3Cpu Aware 3Firing 3 3 \n"
+  },
+  {
+    "id": 1186,
+    "label": "TXT_SHIP_17",
+    "en": "3In Limbo 3Ticked Off 3Recoil 3Lemon 3Rotating 3 3 \n"
+  },
+  {
+    "id": 1187,
+    "label": "TXT_SHIP_18",
+    "en": "3Selected 3Cloakable 3Tethered 3Invul [ ]3Driving 3 3 \n"
+  },
+  {
+    "id": 1188,
+    "label": "TXT_SHIP_19",
+    "en": "3To Look 3Unloading 3Formation 3 3 3 3 \n"
+  },
+  {
+    "id": 1189,
+    "label": "TXT_SHIP_20",
+    "en": "'Team:III¥Mmbrs:¥Qnt:¥Center:I¥Target:IOFormation:IIOIIIIIIIIIIIIOIIIIIIIIIIIIæ \n"
+  },
+  {
+    "id": 1190,
+    "label": "TXT_SHIP_21",
+    "en": "3 3 3 3 3 3 3Understrngth3Moving 3 \n"
+  },
+  {
+    "id": 1191,
+    "label": "TXT_SHIP_22",
+    "en": "AMission:AAAA'FullStrength3ForcedActive3 \n"
+  },
+  {
+    "id": 1192,
+    "label": "TXT_SHIP_23",
+    "en": "3 3 3HasBeen 3Reforming 3 \n"
+  },
+  {
+    "id": 1193,
+    "label": "TXT_SHIP_24",
+    "en": "AAAAU \n"
+  },
+  {
+    "id": 1194,
+    "label": "TXT_SHIP_25",
+    "en": "<- F11 Ship F12 ->"
+  },
+  {
+    "id": 1195,
+    "label": "TXT_NUCLEAR_BOMB",
+    "en": "Atom Bomb"
+  },
+  {
+    "id": 1196,
+    "label": "TXT_FIRESTORM",
+    "en": "Firestorm Defense Toggle"
+  },
+  {
+    "id": 1197,
+    "label": "TXT_LIGHTNING_STORM_APPROACHING",
+    "en": "Warning: Catastrophic lightning storm approaching."
+  },
+  {
+    "id": 1198,
+    "label": "TXT_LIGHTNING_STORM",
+    "en": "Warning: Catastrophic lightning storm manifesting!"
+  },
+  {
+    "id": 1199,
+    "label": "TXT_EM_PULSE",
+    "en": "EM Pulse"
+  },
+  {
+    "id": 1200,
+    "label": "TXT_FIRESTORM_ON",
+    "en": "Activated"
+  },
+  {
+    "id": 1201,
+    "label": "TXT_CHARGING",
+    "en": "Charging..."
+  },
+  {
+    "id": 1202,
+    "label": "TXT_YELLOW",
+    "en": "Yellow"
+  },
+  {
+    "id": 1203,
+    "label": "TXT_GRAY",
+    "en": "Gray"
+  },
+  {
+    "id": 1204,
+    "label": "TXT_RED",
+    "en": "Red"
+  },
+  {
+    "id": 1205,
+    "label": "TXT_PURPLE",
+    "en": "Purple"
+  },
+  {
+    "id": 1206,
+    "label": "TXT_BLUE",
+    "en": "Blue"
+  },
+  {
+    "id": 1207,
+    "label": "TXT_CYAN",
+    "en": "Cyan"
+  },
+  {
+    "id": 1208,
+    "label": "TXT_TAN",
+    "en": "Tan"
+  },
+  {
+    "id": 1209,
+    "label": "TXT_GREEN",
+    "en": "Green"
+  },
+  {
+    "id": 1210,
+    "label": "TXT_MODE",
+    "en": "Mode"
+  },
+  {
+    "id": 1211,
+    "label": "TXT_NOT_IN_LADDER",
+    "en": "Sorry, that player or rank is not in the ladder."
+  },
+  {
+    "id": 1212,
+    "label": "TXT_BYTES_W_TIME",
+    "en": "Bytes read: %d / %d. Time left: %d seconds"
+  },
+  {
+    "id": 1213,
+    "label": "TXT_BYTES_WO_TIME",
+    "en": "Bytes read: %d / %d."
+  },
+  {
+    "id": 1214,
+    "label": "TXT_FINDING_PATCH",
+    "en": "Finding Patch..."
+  },
+  {
+    "id": 1215,
+    "label": "TXT_NO_SERV_LIST",
+    "en": "Couldn't get the server list"
+  },
+  {
+    "id": 1216,
+    "label": "TXT_UPGRADEREQUIRED",
+    "en": "An upgrade is required for this game \n Do you want to download it now?"
+  },
+  {
+    "id": 1217,
+    "label": "TXT_DOWNLOADING_X_OF_Y",
+    "en": "Downloading file %d of %d..."
+  },
+  {
+    "id": 1218,
+    "label": "TXT_SERVER_ERROR",
+    "en": "Chat Server Error"
+  },
+  {
+    "id": 1219,
+    "label": "TXT_LOGIN_USED",
+    "en": "That login is already being used."
+  },
+  {
+    "id": 1220,
+    "label": "TXT_BADPASS",
+    "en": "That login or password was incorrect."
+  },
+  {
+    "id": 1221,
+    "label": "TXT_BANNED",
+    "en": "You've been temporarily banned. Would you like to open your web browser to get more information?"
+  },
+  {
+    "id": 1222,
+    "label": "TXT_CANT_CONNECT",
+    "en": "Could not connect to Westwood Online, check your Internet connection."
+  },
+  {
+    "id": 1223,
+    "label": "TXT_CHANCREATE_FAILED",
+    "en": "Could not create the channel"
+  },
+  {
+    "id": 1224,
+    "label": "TXT_CREATED_CHAN",
+    "en": "Created channel: %s"
+  },
+  {
+    "id": 1225,
+    "label": "TXT_CANT_JOINCHAN",
+    "en": "Error joining channel %X"
+  },
+  {
+    "id": 1226,
+    "label": "TXT_PAGESENT",
+    "en": "Page was successful."
+  },
+  {
+    "id": 1227,
+    "label": "TXT_PAGEDISABLED",
+    "en": "User has pages disabled"
+  },
+  {
+    "id": 1228,
+    "label": "TXT_PAGEUSERGONE",
+    "en": "User isn't logged in"
+  },
+  {
+    "id": 1229,
+    "label": "TXT_PAGEFAILED",
+    "en": "Couldn't page user"
+  },
+  {
+    "id": 1230,
+    "label": "TXT_FINDOK",
+    "en": "User is in channel %s"
+  },
+  {
+    "id": 1231,
+    "label": "TXT_FINDNONE",
+    "en": "User isn't in any channels"
+  },
+  {
+    "id": 1232,
+    "label": "TXT_FINDDISABLED",
+    "en": "User has find disabled"
+  },
+  {
+    "id": 1233,
+    "label": "TXT_FINDFAILED",
+    "en": "Find failed"
+  },
+  {
+    "id": 1234,
+    "label": "TXT_YOURE_DISCON",
+    "en": "You've been disconnected from the server"
+  },
+  {
+    "id": 1235,
+    "label": "TXT_BANNEDTILL",
+    "en": "You've been banned from Westwood Online until %hs"
+  },
+  {
+    "id": 1236,
+    "label": "TXT_CHAN_BAN",
+    "en": "%s has been banned from the channel"
+  },
+  {
+    "id": 1237,
+    "label": "TXT_CHAN_UNBAN",
+    "en": "The channel ban on %s has been removed"
+  },
+  {
+    "id": 1238,
+    "label": "TXT_YOURE_KICKED",
+    "en": "You were kicked out of channel %s by %s"
+  },
+  {
+    "id": 1239,
+    "label": "TXT_USER_KICKED",
+    "en": "User %s was kicked out of channel %s by %s"
+  },
+  {
+    "id": 1240,
+    "label": "TXT_YOULEFT",
+    "en": "You left channel %s"
+  },
+  {
+    "id": 1241,
+    "label": "TXT_FETCHING_SERVLIST",
+    "en": "Fetching server list"
+  },
+  {
+    "id": 1242,
+    "label": "TXT_CONNECTING_SERVER",
+    "en": "Connecting to Westwood Online"
+  },
+  {
+    "id": 1243,
+    "label": "TXT_REQ_CHANLIST",
+    "en": "Requesting channel list"
+  },
+  {
+    "id": 1244,
+    "label": "TXT_JOINLOB",
+    "en": "Joining Lobby"
+  },
+  {
+    "id": 1245,
+    "label": "TXT_JOININGCHAN",
+    "en": "Joining channel: %s"
+  },
+  {
+    "id": 1246,
+    "label": "TXT_SEARCHING",
+    "en": "SEARCHING..."
+  },
+  {
+    "id": 1247,
+    "label": "TXT_SEARCHING_FOR",
+    "en": "Searching for %s...."
+  },
+  {
+    "id": 1248,
+    "label": "TXT_ACCEPTFIRST",
+    "en": "All users must accept before the game can start."
+  },
+  {
+    "id": 1249,
+    "label": "TXT_NO_BOUND_NET_CARD",
+    "en": "IPX not available"
+  },
+  {
+    "id": 1250,
+    "label": "TXT_INVALID_SOCKET",
+    "en": "Socket number must be between 0 and 16383"
+  },
+  {
+    "id": 1251,
+    "label": "TXT_DESTNET_ADDR_ERROR",
+    "en": "Destination network address must be in the format xx.xx.xx.xx"
+  },
+  {
+    "id": 1252,
+    "label": "TXT_ABOUT_TO_TRY_MODE",
+    "en": "The display mode will be changed. If there is a problem with the new display mode then wait and the old mode will be restored."
+  },
+  {
+    "id": 1253,
+    "label": "TXT_APIMISSING",
+    "en": "The Westwood online support library is either missing or invalid. Please reinstall the shared internet components from your CD."
+  },
+  {
+    "id": 1254,
+    "label": "TXT_APIWRONGVERSION",
+    "en": "The installed version of the Westwood Online support library is too old. Please reinstall the shared internet components from your CD."
+  },
+  {
+    "id": 1255,
+    "label": "TXT_NOTCHANOP",
+    "en": "You must be a channel operator to do this."
+  },
+  {
+    "id": 1256,
+    "label": "TXT_NOSQUAD",
+    "en": "You are not in a Yuri's Revenge squad."
+  },
+  {
+    "id": 1257,
+    "label": "TXT_LAUNCHBROWSER",
+    "en": "Would you like to launch your web browser to visit this page?"
+  },
+  {
+    "id": 1258,
+    "label": "TXT_NOBROWSER",
+    "en": "You don't have a web browser associated with HTML files."
+  },
+  {
+    "id": 1259,
+    "label": "TXT_BAD_CHANNAME",
+    "en": "You can't make a channel with this name. Try removing spaces and other punctuation."
+  },
+  {
+    "id": 1260,
+    "label": "TXT_BAD_CHANKEY",
+    "en": "You can't make a channel with this password. Try removing spaces and other punctuation."
+  },
+  {
+    "id": 1261,
+    "label": "TXT_CANTCREATE_CHAN",
+    "en": "You cannot create this channel."
+  },
+  {
+    "id": 1262,
+    "label": "TXT_NAME_BLANK",
+    "en": "Your player name is blank, please enter a name."
+  },
+  {
+    "id": 1263,
+    "label": "TXT_GAME_CLOSED",
+    "en": "That game channel has closed"
+  },
+  {
+    "id": 1264,
+    "label": "TXT_CHANNEL_FULL",
+    "en": "That channel is full"
+  },
+  {
+    "id": 1265,
+    "label": "TXT_JOINBAN",
+    "en": "You've been banned from this channel"
+  },
+  {
+    "id": 1266,
+    "label": "TXT_ENTER_MESSAGE",
+    "en": "Please enter a message to send"
+  },
+  {
+    "id": 1267,
+    "label": "TXT_NOT_IN_CHAN",
+    "en": "You can't send a message when you're not in a channel"
+  },
+  {
+    "id": 1268,
+    "label": "TXT_WOL_CONNLOST",
+    "en": "Lost connection to Westwood Online, outside users will not be able to page you."
+  },
+  {
+    "id": 1269,
+    "label": "TXT_DSOUND_PROCEED",
+    "en": "Proceeding with audio disabled."
+  },
+  {
+    "id": 1270,
+    "label": "TXT_REQ_NICK",
+    "en": "Requesting new login..."
+  },
+  {
+    "id": 1271,
+    "label": "TXT_DISK_NAME",
+    "en": "Yuri's Revenge Disk %d"
+  },
+  {
+    "id": 1272,
+    "label": "TXT_CONFIRM_SAVE",
+    "en": "Overwrite existing save game?"
+  },
+  {
+    "id": 1273,
+    "label": "TXT_DISKFULL",
+    "en": "Warning - you are critically low on free disk space for saving games."
+  },
+  {
+    "id": 1274,
+    "label": "TXT_SIGNING_OFF",
+    "en": "Signing off - Please Wait..."
+  },
+  {
+    "id": 1275,
+    "label": "TXT_CD_DIALOG_1",
+    "en": "Please insert Yuri's Revenge CD into the CD-ROM drive."
+  },
+  {
+    "id": 1276,
+    "label": "TXT_CD_DIALOG_2",
+    "en": "Please insert CD %d (%s) into the CD-ROM drive."
+  },
+  {
+    "id": 1277,
+    "label": "TXT_RESET_HOTKEYS",
+    "en": "Are you sure you want to reset the hotkey assignments?"
+  },
+  {
+    "id": 1278,
+    "label": "TXT_DSOUND_CANT_CREATE",
+    "en": "Warning - Unable to create Direct Sound Object."
+  },
+  {
+    "id": 1279,
+    "label": "TXT_DSOUND_NO_COOP",
+    "en": "Warning - Unable to set Direct Sound cooperative level."
+  },
+  {
+    "id": 1280,
+    "label": "TXT_DSOUND_NO_PRIMARY",
+    "en": "Warning - Unable to create Direct Sound primary buffer."
+  },
+  {
+    "id": 1281,
+    "label": "TXT_DSOUND_INCOMPAT",
+    "en": "Warning - Your sound card does not meet the product's audio requirements."
+  },
+  {
+    "id": 1282,
+    "label": "TXT_JANUARY",
+    "en": "January"
+  },
+  {
+    "id": 1283,
+    "label": "TXT_FEBRUARY",
+    "en": "February"
+  },
+  {
+    "id": 1284,
+    "label": "TXT_MARCH",
+    "en": "March"
+  },
+  {
+    "id": 1285,
+    "label": "TXT_APRIL",
+    "en": "April"
+  },
+  {
+    "id": 1286,
+    "label": "TXT_MAY",
+    "en": "May"
+  },
+  {
+    "id": 1287,
+    "label": "TXT_JUNE",
+    "en": "June"
+  },
+  {
+    "id": 1288,
+    "label": "TXT_JULY",
+    "en": "July"
+  },
+  {
+    "id": 1289,
+    "label": "TXT_AUGUST",
+    "en": "August"
+  },
+  {
+    "id": 1290,
+    "label": "TXT_SEPTEMBER",
+    "en": "September"
+  },
+  {
+    "id": 1291,
+    "label": "TXT_OCTOBER",
+    "en": "October"
+  },
+  {
+    "id": 1292,
+    "label": "TXT_NOVEMBER",
+    "en": "November"
+  },
+  {
+    "id": 1293,
+    "label": "TXT_DECEMBER",
+    "en": "December"
+  },
+  {
+    "id": 1294,
+    "label": "TXT_RELEASE_THE_HOUNDS",
+    "en": "Release"
+  },
+  {
+    "id": 1295,
+    "label": "TXT_RECONNECT_HELP1",
+    "en": "Click on a name to propose removing that player from the game."
+  },
+  {
+    "id": 1296,
+    "label": "TXT_RECONNECT_HELP2",
+    "en": "If all other players have connection times in the red then you have probably been"
+  },
+  {
+    "id": 1297,
+    "label": "TXT_RECONNECT_HELP3",
+    "en": "Check your connection to the internet. If you were disconnected from the internet"
+  },
+  {
+    "id": 1298,
+    "label": "TXT_RECONNECT_HELP4",
+    "en": "disconnected from the network."
+  },
+  {
+    "id": 1299,
+    "label": "TXT_RECONNECT_HELP5",
+    "en": "Click cancel to abort this game and return to the lobby."
+  },
+  {
+    "id": 1300,
+    "label": "TXT_RECONNECT_HELP2B",
+    "en": "disconnected from your internet service provider."
+  },
+  {
+    "id": 1301,
+    "label": "TXT_RECONNECT_HELP3B",
+    "en": "you can re-dial your provider and continue the game as normal provided the other"
+  },
+  {
+    "id": 1302,
+    "label": "TXT_RECONNECT_HELP3C",
+    "en": "players don't elect to remove you from the game.."
+  },
+  {
+    "id": 1303,
+    "label": "TXT_RECONNECT_KICK_SELF",
+    "en": "You can't propose removing yourself. Click cancel to leave the game."
+  },
+  {
+    "id": 1304,
+    "label": "TXT_RECONNECT_KICK_RECEIVED",
+    "en": "%s proposes kicking %s from the game."
+  },
+  {
+    "id": 1305,
+    "label": "TXT_BIOME_TUNDRA",
+    "en": "Tundra"
+  },
+  {
+    "id": 1306,
+    "label": "TXT_BIOME_TAIGA",
+    "en": "Taiga"
+  },
+  {
+    "id": 1307,
+    "label": "TXT_BIOME_DESERT",
+    "en": "Desert"
+  },
+  {
+    "id": 1308,
+    "label": "TXT_TIME_MORNING",
+    "en": "Morning"
+  },
+  {
+    "id": 1309,
+    "label": "TXT_TIME_AFTERNOON",
+    "en": "Afternoon"
+  },
+  {
+    "id": 1310,
+    "label": "TXT_TIME_DUSK",
+    "en": "Dusk"
+  },
+  {
+    "id": 1311,
+    "label": "TXT_TIME_NIGHT",
+    "en": "Night"
+  },
+  {
+    "id": 1312,
+    "label": "TXT_MAPSIZE_SMALL",
+    "en": "Small"
+  },
+  {
+    "id": 1313,
+    "label": "TXT_MAPSIZE_LARGE",
+    "en": "Large"
+  },
+  {
+    "id": 1314,
+    "label": "TXT_MAPSIZE_VERY_LARGE",
+    "en": "V.Large"
+  },
+  {
+    "id": 1315,
+    "label": "TXT_LOADING_GAME1B",
+    "en": "Compensating for ambient light values..."
+  },
+  {
+    "id": 1316,
+    "label": "TXT_CONSENT_REQUIRED",
+    "en": "Since you are under the age of 13 our privacy policy requires that you send us a parental consent form to continue. Press 'yes' to open your web browser to this page."
+  },
+  {
+    "id": 1317,
+    "label": "TXT_CLAN_NOSTART",
+    "en": "To start a BattleClan tournament game there needs to be an even number of people from two clans. Everyone in the game must be in a clan."
+  },
+  {
+    "id": 1318,
+    "label": "TXT_DISABLED",
+    "en": "Your account has been temporarily disabled. Make sure the Email address you registered with is correct. Would you like to open your web browser to get more information?"
+  },
+  {
+    "id": 1319,
+    "label": "TXT_SERIALBANNED",
+    "en": "(NOT USED ANYMORE)"
+  },
+  {
+    "id": 1320,
+    "label": "TXT_SERIALDUP",
+    "en": "Your Serial number is currently in use. Would you like to open your web browser to get more information?"
+  },
+  {
+    "id": 1321,
+    "label": "TXT_SEL_USER",
+    "en": "You must select a user to kick/ignore/ban them."
+  },
+  {
+    "id": 1322,
+    "label": "TXT_GOLD",
+    "en": "Gold"
+  },
+  {
+    "id": 1323,
+    "label": "TXT_ORANGE",
+    "en": "Orange"
+  },
+  {
+    "id": 1324,
+    "label": "TXT_SKY_BLUE",
+    "en": "Sky Blue"
+  },
+  {
+    "id": 1325,
+    "label": "TXT_PINK",
+    "en": "Pink"
+  },
+  {
+    "id": 1326,
+    "label": "TXT_COLOR_IN_USE",
+    "en": "The requested color is already taken."
+  },
+  {
+    "id": 1327,
+    "label": "TXT_NO_CLAN",
+    "en": "You must be in a BattleClan to join this game."
+  },
+  {
+    "id": 1328,
+    "label": "TXT_SERIAL_DUP",
+    "en": "There is already a player with your serial# in that game."
+  },
+  {
+    "id": 1329,
+    "label": "TXT_MISMATCH",
+    "en": "Game versions incompatible. To make sure you have the latest version, visit www.westwood.com"
+  },
+  {
+    "id": 1330,
+    "label": "TXT_NO_EXPANSION_SCENARIO",
+    "en": "Error - other player does not have this expansion scenario."
+  },
+  {
+    "id": 1331,
+    "label": "TXT_SCENARIO_ERROR",
+    "en": "Incompatable scenario file detected. The scenario may be corrupt."
+  },
+  {
+    "id": 1332,
+    "label": "TXT_INVALID",
+    "en": "Invalid option switch."
+  },
+  {
+    "id": 1333,
+    "label": "TXT_OPTION_HELP_01",
+    "en": "Red Alert 2 © 2000, 2001 Westwood Studios \n"
+  },
+  {
+    "id": 1334,
+    "label": "TXT_OPTION_HELP_02",
+    "en": "Parameters: \n"
+  },
+  {
+    "id": 1335,
+    "label": "TXT_OPTION_HELP_03",
+    "en": "-DESTNET = Specify Network Number of destination system \n"
+  },
+  {
+    "id": 1336,
+    "label": "TXT_OPTION_HELP_04",
+    "en": "-SOCKET = Network Socket ID (0 - 16383) \n"
+  },
+  {
+    "id": 1337,
+    "label": "TXT_OPTION_HELP_05",
+    "en": "-STEALTH = Hide multiplayer names ("
+  },
+  {
+    "id": 1338,
+    "label": "TXT_OPTION_HELP_06",
+    "en": "-MESSAGES = Allow messages from outside this game. \n"
+  },
+  {
+    "id": 1339,
+    "label": "TXT_MAP_ERROR",
+    "en": "Map Error!"
+  },
+  {
+    "id": 1340,
+    "label": "TXT_SCATTER",
+    "en": "Scatter"
+  },
+  {
+    "id": 1341,
+    "label": "TXT_SCATTER_DESC",
+    "en": "Scatter selected object(s)."
+  },
+  {
+    "id": 1342,
+    "label": "TXT_CENTER_VIEW",
+    "en": "Center View"
+  },
+  {
+    "id": 1343,
+    "label": "TXT_CENTER_VIEW_DESC",
+    "en": "Center the view about selected object(s)."
+  },
+  {
+    "id": 1344,
+    "label": "TXT_CENTER_BASE",
+    "en": "Center Base"
+  },
+  {
+    "id": 1345,
+    "label": "TXT_LINE_BUSY",
+    "en": "Line busy."
+  },
+  {
+    "id": 1346,
+    "label": "TXT_NUMBER_INVALID",
+    "en": "Number invalid."
+  },
+  {
+    "id": 1347,
+    "label": "TXT_DIALING",
+    "en": "Dialing..."
+  },
+  {
+    "id": 1348,
+    "label": "TXT_DIALING_CANCELED",
+    "en": "Dialing Canceled"
+  },
+  {
+    "id": 1349,
+    "label": "TXT_WAITING_FOR_CALL",
+    "en": "Waiting for Call..."
+  },
+  {
+    "id": 1350,
+    "label": "TXT_ANSWERING_CANCELED",
+    "en": "Answering Canceled"
+  },
+  {
+    "id": 1351,
+    "label": "TXT_SYSTEM_NOT_RESPONDING",
+    "en": "Other system not responding!"
+  },
+  {
+    "id": 1352,
+    "label": "TXT_NO_COMP_ENABLE_RESPONSE",
+    "en": "Error - Modem failed to respond to compression enable command. Your Windows configuration may be incorrect"
+  },
+  {
+    "id": 1353,
+    "label": "TXT_NO_EC_ENABLE_RESPONSE",
+    "en": "Error - Modem failed to respond to error correction enable command. Your Windows configuration may be incorrect."
+  },
+  {
+    "id": 1354,
+    "label": "TXT_CREATE_TEAM_DESC",
+    "en": "Creates Team %d from currently selected units."
+  },
+  {
+    "id": 1355,
+    "label": "TXT_SELECT_TEAM",
+    "en": "Select Team %2d"
+  },
+  {
+    "id": 1356,
+    "label": "TXT_SELECT_TEAM_DESC",
+    "en": "Select members of team %d."
+  },
+  {
+    "id": 1357,
+    "label": "TXT_ADD_SELECT_TEAM",
+    "en": "Add Select Team %2d"
+  },
+  {
+    "id": 1358,
+    "label": "TXT_ADD_SELECT_TEAM_DESC",
+    "en": "Select members of team %d without unselecting other units."
+  },
+  {
+    "id": 1359,
+    "label": "TXT_CENTER_TEAM",
+    "en": "Center Team %2d"
+  },
+  {
+    "id": 1360,
+    "label": "TXT_CENTER_TEAM_DESC",
+    "en": "Select and center view about team %d."
+  },
+  {
+    "id": 1361,
+    "label": "TXT_TAUNT",
+    "en": "Taunt"
+  },
+  {
+    "id": 1362,
+    "label": "TXT_TAUNT_NUMBER",
+    "en": "Taunt %2d"
+  },
+  {
+    "id": 1363,
+    "label": "TXT_TAUNT_DESC",
+    "en": "Send taunt %d to an opponent."
+  },
+  {
+    "id": 1364,
+    "label": "TXT_NEXT_OBJECT",
+    "en": "Next Object"
+  },
+  {
+    "id": 1365,
+    "label": "TXT_NEXT_OBJECT_DESC",
+    "en": "Select the next object."
+  },
+  {
+    "id": 1366,
+    "label": "TXT_PREV_OBJECT",
+    "en": "Previous Object"
+  },
+  {
+    "id": 1367,
+    "label": "TXT_PREV_OBJECT_DESC",
+    "en": "Select the previous object."
+  },
+  {
+    "id": 1368,
+    "label": "TXT_STOP_OBJECT",
+    "en": "Stop Object"
+  },
+  {
+    "id": 1369,
+    "label": "TXT_STOP_OBJECT_DESC",
+    "en": "Stop the selected object(s)."
+  },
+  {
+    "id": 1370,
+    "label": "TXT_GUARD_DESC",
+    "en": "Set the selected object(s) into 'guard area' mode."
+  },
+  {
+    "id": 1371,
+    "label": "TXT_VICTORIOUS",
+    "en": "You Are Victorious!"
+  },
+  {
+    "id": 1372,
+    "label": "TXT_CENTER_BASE_DESC",
+    "en": "Center the view about the player's base."
+  },
+  {
+    "id": 1373,
+    "label": "TXT_ALLIANCE",
+    "en": "Alliance"
+  },
+  {
+    "id": 1374,
+    "label": "TXT_ALLIANCE_DESC",
+    "en": "Toggle alliance with owner of selected object."
+  },
+  {
+    "id": 1375,
+    "label": "TXT_SELECT_VIEW",
+    "en": "Select View"
+  },
+  {
+    "id": 1376,
+    "label": "TXT_SELECT_VIEW_DESC",
+    "en": "Select all owned objects in the current view."
+  },
+  {
+    "id": 1377,
+    "label": "TXT_REPAIR_MODE",
+    "en": "Repair Mode"
+  },
+  {
+    "id": 1378,
+    "label": "TXT_REPAIR_MODE_DESC",
+    "en": "Toggle repair mode on / off."
+  },
+  {
+    "id": 1379,
+    "label": "TXT_SELL_MODE",
+    "en": "Sell Mode"
+  },
+  {
+    "id": 1380,
+    "label": "TXT_SELL_MODE_DESC",
+    "en": "Toggle sell mode on / off."
+  },
+  {
+    "id": 1381,
+    "label": "TXT_POWER_MODE",
+    "en": "Power Mode"
+  },
+  {
+    "id": 1382,
+    "label": "TXT_POWER_MODE_DESC",
+    "en": "Toggle power mode on / off."
+  },
+  {
+    "id": 1383,
+    "label": "TXT_RADAR_EVENT",
+    "en": "Go to Radar Event"
+  },
+  {
+    "id": 1384,
+    "label": "TXT_RADAR_EVENT_DESC",
+    "en": "Cycle through the last voice events on the Tactical Map"
+  },
+  {
+    "id": 1385,
+    "label": "TXT_RADAR_TOGGLE",
+    "en": "Radar Toggle"
+  },
+  {
+    "id": 1386,
+    "label": "TXT_RADAR_TOGGLE_DESC",
+    "en": "Toggle radar display mode on / off."
+  },
+  {
+    "id": 1387,
+    "label": "TXT_SIDEBAR_UP",
+    "en": "Sidebar Up"
+  },
+  {
+    "id": 1388,
+    "label": "TXT_SIDEBAR_UP_DESC",
+    "en": "Scrolls sidebar selection list upward."
+  },
+  {
+    "id": 1389,
+    "label": "TXT_LSIDEBAR_UP",
+    "en": "Structure List Up"
+  },
+  {
+    "id": 1390,
+    "label": "TXT_LSIDEBAR_UP_DESC",
+    "en": "Scroll sidebar structure selection list upward."
+  },
+  {
+    "id": 1391,
+    "label": "TXT_RSIDEBAR_UP",
+    "en": "Unit List Up"
+  },
+  {
+    "id": 1392,
+    "label": "TXT_RSIDEBAR_UP_DESC",
+    "en": "Scroll sidebar unit selection list upward."
+  },
+  {
+    "id": 1393,
+    "label": "TXT_SIDEBAR_PGUP",
+    "en": "Sidebar PageUp"
+  },
+  {
+    "id": 1394,
+    "label": "TXT_SIDEBAR_PGUP_DESC",
+    "en": "Page sidebar selection list upward."
+  },
+  {
+    "id": 1395,
+    "label": "TXT_LSIDEBAR_PGUP",
+    "en": "Structure List PageUp"
+  },
+  {
+    "id": 1396,
+    "label": "TXT_LSIDEBAR_PGUP_DESC",
+    "en": "Page sidebar structure selection list upward."
+  },
+  {
+    "id": 1397,
+    "label": "TXT_RSIDEBAR_PGUP",
+    "en": "Unit List PageUp"
+  },
+  {
+    "id": 1398,
+    "label": "TXT_RSIDEBAR_PGUP_DESC",
+    "en": "Page sidebar unit selection list upward."
+  },
+  {
+    "id": 1399,
+    "label": "TXT_SIDEBAR_DOWN",
+    "en": "Sidebar Down"
+  }
+]

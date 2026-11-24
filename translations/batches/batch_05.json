@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1750,
+    "label": "VOX:cevau38",
+    "en": "Sir, our Aircraft Carriers are the pride of the Allied navy. In a moments notice, the carrier's planes can take out any target quickly and from a very safe distance."
+  },
+  {
+    "id": 1751,
+    "label": "VOX:csof038",
+    "en": "Reinforcements have arrived."
+  },
+  {
+    "id": 1752,
+    "label": "VOX:csof074",
+    "en": "New technology acquired."
+  },
+  {
+    "id": 1753,
+    "label": "VOX:csof109",
+    "en": "War Miner offline."
+  },
+  {
+    "id": 1754,
+    "label": "VOX:csofu01",
+    "en": "The Soviet Construction Vehicle is essential and should be defended as such. You cannot create a Construction Yard without one."
+  },
+  {
+    "id": 1755,
+    "label": "VOX:csofu02",
+    "en": "The Allied Chrono Miner may have the greater speed of teleportation but our War Miner is heavily armored and heavily armed making it immune to most harassment attacks."
+  },
+  {
+    "id": 1756,
+    "label": "VOX:csofu03",
+    "en": "As the backbone of the Soviet assault force, the Rhino Heavy Tank should be used in all forward positions."
+  },
+  {
+    "id": 1757,
+    "label": "VOX:csofu04",
+    "en": "Soviet technology at its finest. Terror Drones can enter and destroy enemy vehicles from the inside."
+  },
+  {
+    "id": 1758,
+    "label": "VOX:csofu05",
+    "en": "The Flak Track is an effective anti-air defense unit, but its flak burst just as effective against ground targets if you don't mind the mess."
+  },
+  {
+    "id": 1759,
+    "label": "VOX:csofu06",
+    "en": "The V3 Launcher has extreme range capabilities coupled with devastating damage potential. Destruction guaranteed just don't leave it undefended."
+  },
+  {
+    "id": 1760,
+    "label": "VOX:csofu07",
+    "en": "The appropriately named Apocalypse Tank is war in a can. It can attack any ground or air targets and be expected to be the last unit standing."
+  },
+  {
+    "id": 1761,
+    "label": "VOX:csofu08",
+    "en": "They may be slow, but the Kirov Airships can take great punishment and deliver even more."
+  },
+  {
+    "id": 1762,
+    "label": "VOX:csofu09",
+    "en": "The Sea Scorpion is a fast-attack sea raider. It can't win the war for you but you can't win the war without it. It is your only anti-air defense on the water."
+  },
+  {
+    "id": 1763,
+    "label": "VOX:csofu10",
+    "en": "I don't agree with this kind of experimentation, but you cannot deny the results. A Giant Squid can immobilize and eventually destroy any sea vessel."
+  },
+  {
+    "id": 1764,
+    "label": "VOX:csofu11",
+    "en": "The Typhoon Attack Sub is undetectable by normal Allied units, but look out for Allied Dolphins and Destroyers."
+  },
+  {
+    "id": 1765,
+    "label": "VOX:csofu12",
+    "en": "Unlike the Allied naval transport, our Armored Transport is well armed. It will get your men and units to the target."
+  },
+  {
+    "id": 1766,
+    "label": "VOX:csofu13",
+    "en": "The Soviet Dreadnought can launch destructive missiles over great distances, but its fire rate is too slow for direct combat."
+  },
+  {
+    "id": 1767,
+    "label": "VOX:csofu14",
+    "en": "Our Soviet Conscripts may not be as well trained as the Allied GI, but we have the advantage of greater numbers."
+  },
+  {
+    "id": 1768,
+    "label": "VOX:csofu15",
+    "en": "The Tesla Troopers have powerful weapons, but they are useless against buildings. They also make excellent base defense as they can over-power Tesla Coils with their weapons."
+  },
+  {
+    "id": 1769,
+    "label": "VOX:csofu16",
+    "en": "The Soviet Engineer can repair buildings or capture enemy buildings, if you can get them past defenses."
+  },
+  {
+    "id": 1770,
+    "label": "VOX:csofu17",
+    "en": "Soviet attack dogs can smell out enemy Spies and deal with them quickly. Don't leave them out of your base defense teams."
+  },
+  {
+    "id": 1771,
+    "label": "VOX:csofu18",
+    "en": "Crazy Ivan can plant bombs on enemy buildings or perhaps a Conscript would agree to carry them for you."
+  },
+  {
+    "id": 1772,
+    "label": "VOX:csofu19",
+    "en": "The Allies cannot match our nuclear power. Deploy the Desolator to sterilize an area."
+  },
+  {
+    "id": 1773,
+    "label": "VOX:csofu20",
+    "en": "Our most top-secret weapon, the PsiCorps is useful for quickly turning Allied units to our side."
+  },
+  {
+    "id": 1774,
+    "label": "VOX:csofu21",
+    "en": "Commander, this Allied GI is a well trained soldier capable of quickly deploying a heavy machine gun when stationed within buildings or deployed with his sandbag nest."
+  },
+  {
+    "id": 1775,
+    "label": "VOX:csofu22",
+    "en": "This_thing_is the allied IFV. Any soldier that climbs inside will find his primary weapon's capabilities boosted. As with most Allied vehicles it is very quick."
+  },
+  {
+    "id": 1776,
+    "label": "VOX:csofu23",
+    "en": "Although similar to our own engineers in their ability to repair damaged buildings and bridges or even to steal another's building, the Allied engineers are nowhere near as well trained as our own engineers."
+  },
+  {
+    "id": 1777,
+    "label": "VOX:csofu24",
+    "en": "Comrade, this SEAL is a threat to all of our forces. They must be watched for at all times, whether on land or even at sea."
+  },
+  {
+    "id": 1778,
+    "label": "VOX:csofu25",
+    "en": "These arrogant Allied Spies believe their disguises will allow them to infiltrate our buildings. They will soon find that the only thing they can infiltrate is our faithful dogs' stomachs."
+  },
+  {
+    "id": 1779,
+    "label": "VOX:csofu26",
+    "en": "The Allied Rocketeers are men who hurl themselves through the air thanks to some jet-pack strapped to them in the hopes of wounding one of our tanks or buildings. Fools."
+  },
+  {
+    "id": 1780,
+    "label": "VOX:csofu27",
+    "en": "Commander, beware these Chrono Legionnaires. They use some unknown technology to teleport themselves anywhere and then simply erase our forces."
+  },
+  {
+    "id": 1781,
+    "label": "VOX:csofu28",
+    "en": "These dolphin nuisances are quick. They can sense the passage of our submarines and find our Squids and their squeal can do some damage as well."
+  },
+  {
+    "id": 1782,
+    "label": "VOX:csofu29",
+    "en": "Commander, the Allied Grizzly Tank is a smaller, quicker version of our own tanks, but its armor is not sufficient to stand up directly to our own."
+  },
+  {
+    "id": 1783,
+    "label": "VOX:csofu30",
+    "en": "Comrade, this `Prism' Tank of the Allies is a dangerous threat to our massed forces. Its directed energy weapon has no trouble harming many of our forces in a single shot."
+  },
+  {
+    "id": 1784,
+    "label": "VOX:csofu31",
+    "en": "Another annoying trick of the Allies, their Mirage Tank can mask itself a nearly any object nearby it and then remain concealed and fire upon us."
+  },
+  {
+    "id": 1785,
+    "label": "VOX:csofu32",
+    "en": "Sir, the enemy's Black Hawk transport must always be watched for. It can not be seen by radar, so you must keep a watchful eye ready to stop it."
+  },
+  {
+    "id": 1786,
+    "label": "VOX:csofu33",
+    "en": "The Allied Intruder is an airborne threat to any of our forces who do not have adequate anti-air support. It does not stand up well to flak, Commander."
+  },
+  {
+    "id": 1787,
+    "label": "VOX:csofu34",
+    "en": "Yet another parlor trick from that nuisance Einstein. The Allied Chrono Miner gathers ore from the field and then teleports itself and its small yield back to its refinery."
+  },
+  {
+    "id": 1788,
+    "label": "VOX:csofu35",
+    "en": "Compared to our own Armored Transport, this small transport is unimpressive. It delivers a small number of forces across the water."
+  },
+  {
+    "id": 1789,
+    "label": "VOX:csofu36",
+    "en": "These Allied Destroyers are a problem. They can detect us underwater as well as on the surface and are equipped to deal sufficient damage to both."
+  },
+  {
+    "id": 1790,
+    "label": "VOX:csofu37",
+    "en": "Commander, this is the Allies Aegis Cruiser. If you do not try to attack it from the air, then it will quickly be underwater and harmless."
+  },
+  {
+    "id": 1791,
+    "label": "VOX:csofu38",
+    "en": "Commander, these Allied Aircraft Carriers are dangerous if left alone to bomb us from a distance but they are not very good for close combat against submerged combatants."
+  },
+  {
+    "id": 1792,
+    "label": "VOX:csofu39",
+    "en": "Comrade, Tanya is a threat to all of our forces. They must be watched for at all times, whether on land or even at sea."
+  },
+  {
+    "id": 1793,
+    "label": "VOX:icfaata",
+    "en": "If you say so"
+  },
+  {
+    "id": 1794,
+    "label": "VOX:icfaatb",
+    "en": "Do I have to?"
+  },
+  {
+    "id": 1795,
+    "label": "VOX:icfaatc",
+    "en": "Is this a REAL gun?"
+  },
+  {
+    "id": 1796,
+    "label": "VOX:icfaatd",
+    "en": "Will I get hurt?"
+  },
+  {
+    "id": 1797,
+    "label": "VOX:icfadia",
+    "en": "<death sounds>"
+  },
+  {
+    "id": 1798,
+    "label": "VOX:icfafea",
+    "en": "I just bought this outfit."
+  },
+  {
+    "id": 1799,
+    "label": "VOX:icfafeb",
+    "en": "Hey, cut it out."
+  },
+  {
+    "id": 1800,
+    "label": "VOX:icfafec",
+    "en": "I was only kidding!"
+  },
+  {
+    "id": 1801,
+    "label": "VOX:icfamoa",
+    "en": "Can I bring my friends?"
+  },
+  {
+    "id": 1802,
+    "label": "VOX:icfamob",
+    "en": "Alright."
+  },
+  {
+    "id": 1803,
+    "label": "VOX:icfamoc",
+    "en": "Let's go!"
+  },
+  {
+    "id": 1804,
+    "label": "VOX:icfamod",
+    "en": "My feet hurt."
+  },
+  {
+    "id": 1805,
+    "label": "VOX:icfasea",
+    "en": "Yes."
+  },
+  {
+    "id": 1806,
+    "label": "VOX:icfaseb",
+    "en": "What do you want."
+  },
+  {
+    "id": 1807,
+    "label": "VOX:icfasec",
+    "en": "I like a man in uniform."
+  },
+  {
+    "id": 1808,
+    "label": "VOX:icfased",
+    "en": "Like my new hair cut?"
+  },
+  {
+    "id": 1809,
+    "label": "VOX:icfsata",
+    "en": "If I must."
+  },
+  {
+    "id": 1810,
+    "label": "VOX:icfsatb",
+    "en": "Will you watch my children?"
+  },
+  {
+    "id": 1811,
+    "label": "VOX:icfsatc",
+    "en": "It is my duty."
+  },
+  {
+    "id": 1812,
+    "label": "VOX:icfsatd",
+    "en": "For Romanov."
+  },
+  {
+    "id": 1813,
+    "label": "VOX:icfsfea",
+    "en": "I'm just a woman."
+  },
+  {
+    "id": 1814,
+    "label": "VOX:icfsfeb",
+    "en": "I knew this would happen."
+  },
+  {
+    "id": 1815,
+    "label": "VOX:icfsmoa",
+    "en": "I'll be late for bread line."
+  },
+  {
+    "id": 1816,
+    "label": "VOX:icfsmob",
+    "en": "But I was working."
+  },
+  {
+    "id": 1817,
+    "label": "VOX:icfsmoc",
+    "en": "No rest for Soviet women."
+  },
+  {
+    "id": 1818,
+    "label": "VOX:icfsmod",
+    "en": "Where are we going?"
+  },
+  {
+    "id": 1819,
+    "label": "VOX:icfssea",
+    "en": "Da."
+  },
+  {
+    "id": 1820,
+    "label": "VOX:icfsseb",
+    "en": "What is it?"
+  },
+  {
+    "id": 1821,
+    "label": "VOX:icfssec",
+    "en": "I'm cold."
+  },
+  {
+    "id": 1822,
+    "label": "VOX:icfssed",
+    "en": "Are you KGB?"
+  },
+  {
+    "id": 1823,
+    "label": "VOX:icfssee",
+    "en": "What a society."
+  },
+  {
+    "id": 1824,
+    "label": "VOX:ichrata",
+    "en": "They're history."
+  },
+  {
+    "id": 1825,
+    "label": "VOX:ichratb",
+    "en": "Deconstructing"
+  },
+  {
+    "id": 1826,
+    "label": "VOX:ichratc",
+    "en": "Never existed."
+  },
+  {
+    "id": 1827,
+    "label": "VOX:ichratd",
+    "en": "Removing."
+  },
+  {
+    "id": 1828,
+    "label": "VOX:ichrfea",
+    "en": "I don't have time for this!"
+  },
+  {
+    "id": 1829,
+    "label": "VOX:ichrfeb",
+    "en": "Let's get outa here!"
+  },
+  {
+    "id": 1830,
+    "label": "VOX:ichrfec",
+    "en": "Cover me!"
+  },
+  {
+    "id": 1831,
+    "label": "VOX:ichrsea",
+    "en": "Yes, Commander."
+  },
+  {
+    "id": 1832,
+    "label": "VOX:ichrseb",
+    "en": "Already there."
+  },
+  {
+    "id": 1833,
+    "label": "VOX:ichrsec",
+    "en": "I'm gone."
+  },
+  {
+    "id": 1834,
+    "label": "VOX:ichrsed",
+    "en": "Pick a spot."
+  },
+  {
+    "id": 1835,
+    "label": "VOX:ichrsee",
+    "en": "Without a trace."
+  },
+  {
+    "id": 1836,
+    "label": "VOX:ichrsef",
+    "en": "Woah, Deja-Vu."
+  },
+  {
+    "id": 1837,
+    "label": "VOX:iciaata",
+    "en": "I'll do it."
+  },
+  {
+    "id": 1838,
+    "label": "VOX:iciaatb",
+    "en": "I see 'em."
+  },
+  {
+    "id": 1839,
+    "label": "VOX:iciaatc",
+    "en": "You bet."
+  },
+  {
+    "id": 1840,
+    "label": "VOX:iciafea",
+    "en": "<sounds of terror>"
+  },
+  {
+    "id": 1841,
+    "label": "VOX:iciamoa",
+    "en": "OK."
+  },
+  {
+    "id": 1842,
+    "label": "VOX:iciamob",
+    "en": "I'm going."
+  },
+  {
+    "id": 1843,
+    "label": "VOX:iciamoc",
+    "en": "This is scary."
+  },
+  {
+    "id": 1844,
+    "label": "VOX:iciasea",
+    "en": "Yaah?"
+  },
+  {
+    "id": 1845,
+    "label": "VOX:iciaseb",
+    "en": "Huh?"
+  },
+  {
+    "id": 1846,
+    "label": "VOX:iciasec",
+    "en": "What should I do?"
+  },
+  {
+    "id": 1847,
+    "label": "VOX:icisata",
+    "en": "Firing."
+  },
+  {
+    "id": 1848,
+    "label": "VOX:icisatb",
+    "en": "For the common good."
+  },
+  {
+    "id": 1849,
+    "label": "VOX:icisatc",
+    "en": "I will do as you say."
+  },
+  {
+    "id": 1850,
+    "label": "VOX:icismoa",
+    "en": "I am going."
+  },
+  {
+    "id": 1851,
+    "label": "VOX:icismob",
+    "en": "It is, safe?"
+  },
+  {
+    "id": 1852,
+    "label": "VOX:icismoc",
+    "en": "I hear and obey."
+  },
+  {
+    "id": 1853,
+    "label": "VOX:icisseb",
+    "en": "Where should I go?"
+  },
+  {
+    "id": 1854,
+    "label": "VOX:icissec",
+    "en": "You're wish?"
+  },
+  {
+    "id": 1855,
+    "label": "VOX:iconata",
+    "en": "For home country."
+  },
+  {
+    "id": 1856,
+    "label": "VOX:iconatb",
+    "en": "Attacking."
+  },
+  {
+    "id": 1857,
+    "label": "VOX:iconatc",
+    "en": "You are sure?"
+  },
+  {
+    "id": 1858,
+    "label": "VOX:iconatd",
+    "en": "For mother Russia!"
+  },
+  {
+    "id": 1859,
+    "label": "VOX:iconfea",
+    "en": "Mommy!"
+  },
+  {
+    "id": 1860,
+    "label": "VOX:iconfeb",
+    "en": "<cry>"
+  },
+  {
+    "id": 1861,
+    "label": "VOX:iconfec",
+    "en": "We're being attacked!"
+  },
+  {
+    "id": 1862,
+    "label": "VOX:iconmoa",
+    "en": "Moving out."
+  },
+  {
+    "id": 1863,
+    "label": "VOX:iconmob",
+    "en": "Order received."
+  },
+  {
+    "id": 1864,
+    "label": "VOX:iconmoc",
+    "en": "For the Union."
+  },
+  {
+    "id": 1865,
+    "label": "VOX:iconmod",
+    "en": "Da!"
+  },
+  {
+    "id": 1866,
+    "label": "VOX:iconsea",
+    "en": "Waiting orders."
+  },
+  {
+    "id": 1867,
+    "label": "VOX:iconseb",
+    "en": "Comrad?"
+  },
+  {
+    "id": 1868,
+    "label": "VOX:iconsec",
+    "en": "Conscript reporting."
+  },
+  {
+    "id": 1869,
+    "label": "VOX:icraata",
+    "en": "Happy Birthday!"
+  },
+  {
+    "id": 1870,
+    "label": "VOX:icraatb",
+    "en": "Here, hold this."
+  },
+  {
+    "id": 1871,
+    "label": "VOX:icraatc",
+    "en": "I lost a bomb. Do you have it?"
+  },
+  {
+    "id": 1872,
+    "label": "VOX:icraatd",
+    "en": "Don't play with matches."
+  },
+  {
+    "id": 1873,
+    "label": "VOX:icramoa",
+    "en": "<small chuckle to himself>"
+  },
+  {
+    "id": 1874,
+    "label": "VOX:icramob",
+    "en": "I'm goin'."
+  },
+  {
+    "id": 1875,
+    "label": "VOX:icramoc",
+    "en": "Heh-heh-heh."
+  },
+  {
+    "id": 1876,
+    "label": "VOX:icramod",
+    "en": "What's over here?"
+  },
+  {
+    "id": 1877,
+    "label": "VOX:icramoe",
+    "en": "<whistles>"
+  },
+  {
+    "id": 1878,
+    "label": "VOX:icramof",
+    "en": "<maniacally mumbling to himself>"
+  },
+  {
+    "id": 1879,
+    "label": "VOX:icrasea",
+    "en": "<maniacal laughter>"
+  },
+  {
+    "id": 1880,
+    "label": "VOX:icraseb",
+    "en": "Yaah!"
+  },
+  {
+    "id": 1881,
+    "label": "VOX:icrasec",
+    "en": "K-BOOM!"
+  },
+  {
+    "id": 1882,
+    "label": "VOX:icrased",
+    "en": "Yaah? What's that?"
+  },
+  {
+    "id": 1883,
+    "label": "VOX:icrasee",
+    "en": "<maniacal delivery> Ivan's not home!"
+  },
+  {
+    "id": 1884,
+    "label": "VOX:icrasef",
+    "en": "It's too quiet here."
+  },
+  {
+    "id": 1885,
+    "label": "VOX:icteata",
+    "en": "Time for a showdown."
+  },
+  {
+    "id": 1886,
+    "label": "VOX:icteatb",
+    "en": "Fastest gun in the west."
+  },
+  {
+    "id": 1887,
+    "label": "VOX:icteatc",
+    "en": "Ready to draw."
+  },
+  {
+    "id": 1888,
+    "label": "VOX:icteatd",
+    "en": "Here's some fancy shootin'."
+  },
+  {
+    "id": 1889,
+    "label": "VOX:ictefea",
+    "en": "I'm bein' bushwhacked!"
+  },
+  {
+    "id": 1890,
+    "label": "VOX:ictefeb",
+    "en": "Varmit shot me!"
+  },
+  {
+    "id": 1891,
+    "label": "VOX:ictefec",
+    "en": "Gonna die in my boots!"
+  },
+  {
+    "id": 1892,
+    "label": "VOX:ictemoa",
+    "en": "Where's ma horse?"
+  },
+  {
+    "id": 1893,
+    "label": "VOX:ictemob",
+    "en": "Let's mosey."
+  },
+  {
+    "id": 1894,
+    "label": "VOX:ictemoc",
+    "en": "Gittin' along."
+  },
+  {
+    "id": 1895,
+    "label": "VOX:ictemod",
+    "en": "Hittin' the trail."
+  },
+  {
+    "id": 1896,
+    "label": "VOX:ictesea",
+    "en": "YeeeeHaaaa!"
+  },
+  {
+    "id": 1897,
+    "label": "VOX:icteseb",
+    "en": "I ain't yeller."
+  },
+  {
+    "id": 1898,
+    "label": "VOX:ictesec",
+    "en": "Like my belt buckle."
+  },
+  {
+    "id": 1899,
+    "label": "VOX:ictesed",
+    "en": "Hey partner!"
+  },
+  {
+    "id": 1900,
+    "label": "VOX:idesata",
+    "en": "Tagged for extinction."
+  },
+  {
+    "id": 1901,
+    "label": "VOX:idesatb",
+    "en": "Make it glow."
+  },
+  {
+    "id": 1902,
+    "label": "VOX:idesatc",
+    "en": "Let's heat `em up."
+  },
+  {
+    "id": 1903,
+    "label": "VOX:idesatd",
+    "en": "Here comes the sun."
+  },
+  {
+    "id": 1904,
+    "label": "VOX:idesate",
+    "en": "The end is near."
+  },
+  {
+    "id": 1905,
+    "label": "VOX:idesatf",
+    "en": "Let's make an oasis of death."
+  },
+  {
+    "id": 1906,
+    "label": "VOX:idesmoa",
+    "en": "Find a hot spot."
+  },
+  {
+    "id": 1907,
+    "label": "VOX:idesmob",
+    "en": "Scorched Earth."
+  },
+  {
+    "id": 1908,
+    "label": "VOX:idesmoc",
+    "en": "Spread the Doom."
+  },
+  {
+    "id": 1909,
+    "label": "VOX:idesmod",
+    "en": "There goes the neighborhood."
+  },
+  {
+    "id": 1910,
+    "label": "VOX:idesmoe",
+    "en": "It'll be a Silent Spring."
+  },
+  {
+    "id": 1911,
+    "label": "VOX:idessea",
+    "en": "Desolator ready."
+  },
+  {
+    "id": 1912,
+    "label": "VOX:idesseb",
+    "en": "<heavy breathing>"
+  },
+  {
+    "id": 1913,
+    "label": "VOX:idessec",
+    "en": "Ready for melt-down."
+  },
+  {
+    "id": 1914,
+    "label": "VOX:idessed",
+    "en": "Reactor ready."
+  },
+  {
+    "id": 1915,
+    "label": "VOX:idessee",
+    "en": "Mercury rising."
+  },
+  {
+    "id": 1916,
+    "label": "VOX:ienaata",
+    "en": "Analyzing schematics."
+  },
+  {
+    "id": 1917,
+    "label": "VOX:ienaatb",
+    "en": "Studying blue prints."
+  },
+  {
+    "id": 1918,
+    "label": "VOX:ienaatc",
+    "en": "Got the plans right here."
+  },
+  {
+    "id": 1919,
+    "label": "VOX:ienafea",
+    "en": "Get me outa here!"
+  },
+  {
+    "id": 1920,
+    "label": "VOX:ienafeb",
+    "en": "I'm unarmed"
+  },
+  {
+    "id": 1921,
+    "label": "VOX:ienafec",
+    "en": "<fear sounds>"
+  },
+  {
+    "id": 1922,
+    "label": "VOX:ienamoa",
+    "en": "Yes sir!"
+  },
+  {
+    "id": 1923,
+    "label": "VOX:ienamob",
+    "en": "Moving."
+  },
+  {
+    "id": 1924,
+    "label": "VOX:ienamoc",
+    "en": "I won't be late."
+  },
+  {
+    "id": 1925,
+    "label": "VOX:ienapow",
+    "en": "We'll have the power up in 30 seconds, sir."
+  },
+  {
+    "id": 1926,
+    "label": "VOX:ienasea",
+    "en": "Engineering."
+  },
+  {
+    "id": 1927,
+    "label": "VOX:ienaseb",
+    "en": "I have the tools."
+  },
+  {
+    "id": 1928,
+    "label": "VOX:ienasec",
+    "en": "I've got the knowledge."
+  },
+  {
+    "id": 1929,
+    "label": "VOX:ienased",
+    "en": "Need a repair?"
+  },
+  {
+    "id": 1930,
+    "label": "VOX:iensata",
+    "en": "Checking designs."
+  },
+  {
+    "id": 1931,
+    "label": "VOX:iensatb",
+    "en": "Examining diagrams."
+  },
+  {
+    "id": 1932,
+    "label": "VOX:iensmoa",
+    "en": "Yes Commander!"
+  },
+  {
+    "id": 1933,
+    "label": "VOX:iensmoc",
+    "en": "I will go."
+  },
+  {
+    "id": 1934,
+    "label": "VOX:iensseb",
+    "en": "Tools ready."
+  },
+  {
+    "id": 1935,
+    "label": "VOX:ienssec",
+    "en": "I have the information."
+  },
+  {
+    "id": 1936,
+    "label": "VOX:ienssee",
+    "en": "Something need fixing?"
+  },
+  {
+    "id": 1937,
+    "label": "VOX:ienssef",
+    "en": "I know how it works."
+  },
+  {
+    "id": 1938,
+    "label": "VOX:iflaata",
+    "en": "Flak_attack."
+  },
+  {
+    "id": 1939,
+    "label": "VOX:iflaatb",
+    "en": "This will be messy."
+  },
+  {
+    "id": 1940,
+    "label": "VOX:iflaatc",
+    "en": "Clouds of death."
+  },
+  {
+    "id": 1941,
+    "label": "VOX:iflaatd",
+    "en": "Flak you."
+  },
+  {
+    "id": 1942,
+    "label": "VOX:iflafea",
+    "en": "Can't see through the flak."
+  },
+  {
+    "id": 1943,
+    "label": "VOX:iflafeb",
+    "en": "There shooting me."
+  },
+  {
+    "id": 1944,
+    "label": "VOX:iflafec",
+    "en": "Help me Romanov."
+  },
+  {
+    "id": 1945,
+    "label": "VOX:iflafed",
+    "en": "I'm just one man."
+  },
+  {
+    "id": 1946,
+    "label": "VOX:iflamod",
+    "en": "This gun is heavy."
+  },
+  {
+    "id": 1947,
+    "label": "VOX:iflasea",
+    "en": "Flak trooper reporting."
+  },
+  {
+    "id": 1948,
+    "label": "VOX:iflaseb",
+    "en": "ready."
+  },
+  {
+    "id": 1949,
+    "label": "VOX:iflasec",
+    "en": "Orders comrad?"
+  },
+  {
+    "id": 1950,
+    "label": "VOX:iflased",
+    "en": "At least I have a job."
+  },
+  {
+    "id": 1951,
+    "label": "VOX:igiata",
+    "en": "Attacking!"
+  },
+  {
+    "id": 1952,
+    "label": "VOX:igiatb",
+    "en": "You got it!"
+  },
+  {
+    "id": 1953,
+    "label": "VOX:igiatc",
+    "en": "Enemy sighted!"
+  },
+  {
+    "id": 1954,
+    "label": "VOX:igiatd",
+    "en": "Let's do it!"
+  },
+  {
+    "id": 1955,
+    "label": "VOX:igiate",
+    "en": "Diggin' in!"
+  },
+  {
+    "id": 1956,
+    "label": "VOX:igiatf",
+    "en": "Safety first, sir!"
+  },
+  {
+    "id": 1957,
+    "label": "VOX:igifea",
+    "en": "We're pinned down!"
+  },
+  {
+    "id": 1958,
+    "label": "VOX:igimoa",
+    "en": "Move'n out!"
+  },
+  {
+    "id": 1959,
+    "label": "VOX:igimob",
+    "en": "Got it!"
+  },
+  {
+    "id": 1960,
+    "label": "VOX:igimoc",
+    "en": "On my way!"
+  },
+  {
+    "id": 1961,
+    "label": "VOX:igimod",
+    "en": "Double time!"
+  },
+  {
+    "id": 1962,
+    "label": "VOX:igimoe",
+    "en": "On the move!"
+  },
+  {
+    "id": 1963,
+    "label": "VOX:igimof",
+    "en": "Hooah!"
+  },
+  {
+    "id": 1964,
+    "label": "VOX:igisea",
+    "en": "Sir yes sir!"
+  },
+  {
+    "id": 1965,
+    "label": "VOX:igiseb",
+    "en": "Ready!"
+  },
+  {
+    "id": 1966,
+    "label": "VOX:igisec",
+    "en": "Squared away sir!"
+  },
+  {
+    "id": 1967,
+    "label": "VOX:igised",
+    "en": "Orders?"
+  },
+  {
+    "id": 1968,
+    "label": "VOX:igisee",
+    "en": "How `bout some action?"
+  },
+  {
+    "id": 1969,
+    "label": "VOX:igisef",
+    "en": "Can do!"
+  },
+  {
+    "id": 1970,
+    "label": "VOX:igiseg",
+    "en": "Who's next?"
+  },
+  {
+    "id": 1971,
+    "label": "VOX:uinst01",
+    "en": "Warning: Military Soft-Ware Detected, top-secret Clearance Required!"
+  },
+  {
+    "id": 1972,
+    "label": "VOX:uinst02",
+    "en": "Encryption code required. You have 30 seconds to comply."
+  },
+  {
+    "id": 1973,
+    "label": "VOX:uinst03",
+    "en": "Security Clearance complete. Customize combat software Commander."
+  },
+  {
+    "id": 1974,
+    "label": "VOX:uinst04",
+    "en": "Combat Software fully customized, proceed to military intelligence emergency briefing."
+  },
+  {
+    "id": 1975,
+    "label": "VOX:uinst05",
+    "en": "In 1946 this man, Albert Einstein used this device to go back in time and forever alter history."
+  },
+  {
+    "id": 1976,
+    "label": "VOX:uinst06",
+    "en": "This changed caused Jospeh Stalin to lead communist Russia in a major invasion of Europe."
+  },
+  {
+    "id": 1977,
+    "label": "VOX:uinst07",
+    "en": "At first the Soviet invasion was successful, and soon it appeared that the British would be the last free people in Europe."
+  },
+  {
+    "id": 1978,
+    "label": "VOX:uinst08",
+    "en": "But the European Allies rallied, and pushed back the Red menace finally smashing the communist war machine."
+  },
+  {
+    "id": 1979,
+    "label": "VOX:uinst09",
+    "en": "After Stalin's disappearance this man, Alexandre Romanov, came to power with the blessing of Allied commanders."
+  },
+  {
+    "id": 1980,
+    "label": "VOX:uinst10",
+    "en": "Romanov came from old aristocracy and though a member of the communist party, he was an advocate of peace."
+  },
+  {
+    "id": 1981,
+    "label": "VOX:uinst11",
+    "en": "Current satellite intelligence indicates that Romanov may not be acting in good faith."
+  },
+  {
+    "id": 1982,
+    "label": "VOX:uinst12",
+    "en": "Soviet warships have been spotted moving at high speed into the Atlantic."
+  },
+  {
+    "id": 1983,
+    "label": "VOX:uinst13",
+    "en": "This man, known only as _Yuri_ may be responsible for shutting down our entire covert intelligence network in the Soviet Union."
+  },
+  {
+    "id": 1984,
+    "label": "VOX:uinst14",
+    "en": "We have received almost no intelligence data from the Soviet Union in 6 months. Our agents are all missing or have been seen working with KGB operatives."
+  },
+  {
+    "id": 1985,
+    "label": "VOX:uinst15",
+    "en": "All of this data can only mean one thing commander. Invasion."
+  },
+  {
+    "id": 1986,
+    "label": "VOX:uinst16",
+    "en": "The following are technical specs on current battlefield weapon systems. Observe carefully commander, you may have to command these units in combat."
+  },
+  {
+    "id": 1987,
+    "label": "VOX:irocata",
+    "en": "He's got no place to hide."
+  },
+  {
+    "id": 1988,
+    "label": "VOX:irocatb",
+    "en": "I can see 'em"
+  },
+  {
+    "id": 1989,
+    "label": "VOX:irocatc",
+    "en": "I got 'em"
+  },
+  {
+    "id": 1990,
+    "label": "VOX:irocatd",
+    "en": "Clear out the place"
+  },
+  {
+    "id": 1991,
+    "label": "VOX:irocate",
+    "en": "They won't see us comin."
+  },
+  {
+    "id": 1992,
+    "label": "VOX:irocfea",
+    "en": "I'm losing compression!"
+  },
+  {
+    "id": 1993,
+    "label": "VOX:irocfeb",
+    "en": "There's too much flak!"
+  },
+  {
+    "id": 1994,
+    "label": "VOX:irocfec",
+    "en": "My rocket's hit!"
+  },
+  {
+    "id": 1995,
+    "label": "VOX:irocmoa",
+    "en": "Pushin' away."
+  },
+  {
+    "id": 1996,
+    "label": "VOX:irocmob",
+    "en": "Igniting boosters."
+  },
+  {
+    "id": 1997,
+    "label": "VOX:irocmoc",
+    "en": "Riding High."
+  },
+  {
+    "id": 1998,
+    "label": "VOX:irocmod",
+    "en": "Up and over."
+  },
+  {
+    "id": 1999,
+    "label": "VOX:irocmoe",
+    "en": "Got a steady flow."
+  },
+  {
+    "id": 2000,
+    "label": "VOX:irocmof",
+    "en": "I'll take the high road."
+  },
+  {
+    "id": 2001,
+    "label": "VOX:irocmog",
+    "en": "Lifting off."
+  },
+  {
+    "id": 2002,
+    "label": "VOX:irocsea",
+    "en": "Rockets in the sky."
+  },
+  {
+    "id": 2003,
+    "label": "VOX:irocseb",
+    "en": "All Fired up!"
+  },
+  {
+    "id": 2004,
+    "label": "VOX:irocsec",
+    "en": "Check out the view."
+  },
+  {
+    "id": 2005,
+    "label": "VOX:irocsed",
+    "en": "I can go anywhere!"
+  },
+  {
+    "id": 2006,
+    "label": "VOX:irocsee",
+    "en": "Gotta clear view, sir."
+  },
+  {
+    "id": 2007,
+    "label": "VOX:irocsef",
+    "en": "Ready to soar."
+  },
+  {
+    "id": 2008,
+    "label": "VOX:irocseg",
+    "en": "Fuel tanks are filled"
+  },
+  {
+    "id": 2009,
+    "label": "VOX:iseaata",
+    "en": "Enemy in my sites!"
+  },
+  {
+    "id": 2010,
+    "label": "VOX:iseaatb",
+    "en": "I got `em."
+  },
+  {
+    "id": 2011,
+    "label": "VOX:iseaatc",
+    "en": "This is too easy."
+  },
+  {
+    "id": 2012,
+    "label": "VOX:iseaexa",
+    "en": "Special Delivery!"
+  },
+  {
+    "id": 2013,
+    "label": "VOX:iseaexb",
+    "en": "Goin' down!"
+  },
+  {
+    "id": 2014,
+    "label": "VOX:iseaexc",
+    "en": "Let's get it on!"
+  },
+  {
+    "id": 2015,
+    "label": "VOX:iseamoa",
+    "en": "Hoorah!"
+  },
+  {
+    "id": 2016,
+    "label": "VOX:iseamob",
+    "en": "Cover me."
+  },
+  {
+    "id": 2017,
+    "label": "VOX:iseamoc",
+    "en": "How about a swim?"
+  },
+  {
+    "id": 2018,
+    "label": "VOX:iseasea",
+    "en": "SEAL ready."
+  },
+  {
+    "id": 2019,
+    "label": "VOX:iseaseb",
+    "en": "I'm your man."
+  },
+  {
+    "id": 2020,
+    "label": "VOX:iseasec",
+    "en": "A lil' C4 knockin' at your door."
+  },
+  {
+    "id": 2021,
+    "label": "VOX:iseased",
+    "en": "Who's your daddy?"
+  },
+  {
+    "id": 2022,
+    "label": "VOX:iseawat",
+    "en": "Alright, the water's warm!"
+  },
+  {
+    "id": 2023,
+    "label": "VOX:isniata",
+    "en": "Takin' 'em out."
+  },
+  {
+    "id": 2024,
+    "label": "VOX:isniatb",
+    "en": "He's in my scope."
+  },
+  {
+    "id": 2025,
+    "label": "VOX:isniatc",
+    "en": "He's a dead man."
+  },
+  {
+    "id": 2026,
+    "label": "VOX:isnifea",
+    "en": "Run for cover!"
+  },
+  {
+    "id": 2027,
+    "label": "VOX:isnifeb",
+    "en": "I need support!"
+  },
+  {
+    "id": 2028,
+    "label": "VOX:isnifec",
+    "en": "I'm in too close!"
+  },
+  {
+    "id": 2029,
+    "label": "VOX:isnimoa",
+    "en": "Proceeding to vantage point."
+  },
+  {
+    "id": 2030,
+    "label": "VOX:isnimob",
+    "en": "Just gimme a clear view."
+  },
+  {
+    "id": 2031,
+    "label": "VOX:isnimoc",
+    "en": "I love to camp."
+  },
+  {
+    "id": 2032,
+    "label": "VOX:isnimod",
+    "en": "Just get me close enough."
+  },
+  {
+    "id": 2033,
+    "label": "VOX:isnimoe",
+    "en": "Settling in."
+  },
+  {
+    "id": 2034,
+    "label": "VOX:isnisea",
+    "en": "Sniper ready."
+  },
+  {
+    "id": 2035,
+    "label": "VOX:isniseb",
+    "en": "Give me a target."
+  },
+  {
+    "id": 2036,
+    "label": "VOX:isnisec",
+    "en": "Gimme a job."
+  },
+  {
+    "id": 2037,
+    "label": "VOX:isnised",
+    "en": "Eliminate 'em."
+  },
+  {
+    "id": 2038,
+    "label": "VOX:ispyata",
+    "en": "Operation underway."
+  },
+  {
+    "id": 2039,
+    "label": "VOX:ispyatb",
+    "en": "Disguise ready."
+  },
+  {
+    "id": 2040,
+    "label": "VOX:ispyatc",
+    "en": "Ready to infiltrate."
+  },
+  {
+    "id": 2041,
+    "label": "VOX:ispyatd",
+    "en": "Obtaining intelligence."
+  },
+  {
+    "id": 2042,
+    "label": "VOX:ispyfea",
+    "en": "They found me out!"
+  },
+  {
+    "id": 2043,
+    "label": "VOX:ispyfeb",
+    "en": "I've been spotted!"
+  },
+  {
+    "id": 2044,
+    "label": "VOX:ispymoa",
+    "en": "For King and Country."
+  },
+  {
+    "id": 2045,
+    "label": "VOX:ispymob",
+    "en": "Indeed."
+  },
+  {
+    "id": 2046,
+    "label": "VOX:ispymoc",
+    "en": "On my way."
+  },
+  {
+    "id": 2047,
+    "label": "VOX:ispymod",
+    "en": "Yes commander."
+  },
+  {
+    "id": 2048,
+    "label": "VOX:ispymoe",
+    "en": "Under cover."
+  },
+  {
+    "id": 2049,
+    "label": "VOX:ispysea",
+    "en": "Commander?"
+  },
+  {
+    "id": 2050,
+    "label": "VOX:ispyseb",
+    "en": "Mission sir?"
+  },
+  {
+    "id": 2051,
+    "label": "VOX:ispysec",
+    "en": "Gimme a plan."
+  },
+  {
+    "id": 2052,
+    "label": "VOX:ispysed",
+    "en": "Agent ready."
+  },
+  {
+    "id": 2053,
+    "label": "VOX:itanata",
+    "en": "Cha-Ching!"
+  },
+  {
+    "id": 2054,
+    "label": "VOX:itanatc",
+    "en": "Locked and loaded."
+  },
+  {
+    "id": 2055,
+    "label": "VOX:itanatd",
+    "en": "Yaah Baby!"
+  },
+  {
+    "id": 2056,
+    "label": "VOX:itanmoa",
+    "en": "I'm there."
+  },
+  {
+    "id": 2057,
+    "label": "VOX:itanmob",
+    "en": "How about a target?!"
+  },
+  {
+    "id": 2058,
+    "label": "VOX:itanmod",
+    "en": "Moving out boss."
+  },
+  {
+    "id": 2059,
+    "label": "VOX:itanmoe",
+    "en": "I'm on it."
+  },
+  {
+    "id": 2060,
+    "label": "VOX:itanmof",
+    "en": "Shake it baby!"
+  },
+  {
+    "id": 2061,
+    "label": "VOX:itansea",
+    "en": "Anytime boss."
+  },
+  {
+    "id": 2062,
+    "label": "VOX:itanseb",
+    "en": "You got an order?"
+  },
+  {
+    "id": 2063,
+    "label": "VOX:itansec",
+    "en": "Where's the party?"
+  },
+  {
+    "id": 2064,
+    "label": "VOX:itansed",
+    "en": "Show me the way."
+  },
+  {
+    "id": 2065,
+    "label": "VOX:itansee",
+    "en": "How 'bout some action."
+  },
+  {
+    "id": 2066,
+    "label": "VOX:iterata",
+    "en": "Adios amigos!"
+  },
+  {
+    "id": 2067,
+    "label": "VOX:iteratb",
+    "en": "Here's a hot papaya!"
+  },
+  {
+    "id": 2068,
+    "label": "VOX:iteratc",
+    "en": "For the republic!"
+  },
+  {
+    "id": 2069,
+    "label": "VOX:iteratd",
+    "en": "Traitors must be eliminated!"
+  },
+  {
+    "id": 2070,
+    "label": "VOX:iterfea",
+    "en": "Take me back to Havana!"
+  },
+  {
+    "id": 2071,
+    "label": "VOX:iterfeb",
+    "en": "Aiiii!"
+  },
+  {
+    "id": 2072,
+    "label": "VOX:iterfec",
+    "en": "I've been discovered!"
+  },
+  {
+    "id": 2073,
+    "label": "VOX:itermoa",
+    "en": "Vamos Muchachos!"
+  },
+  {
+    "id": 2074,
+    "label": "VOX:itermoc",
+    "en": "I go freely."
+  },
+  {
+    "id": 2075,
+    "label": "VOX:itersea",
+    "en": "What are your conditions?"
+  },
+  {
+    "id": 2076,
+    "label": "VOX:iterseb",
+    "en": "We must revolt."
+  },
+  {
+    "id": 2077,
+    "label": "VOX:itersec",
+    "en": "Need a smuggler?"
+  },
+  {
+    "id": 2078,
+    "label": "VOX:itesata",
+    "en": "2,000 volts coming up."
+  },
+  {
+    "id": 2079,
+    "label": "VOX:itesatb",
+    "en": "He's fried."
+  },
+  {
+    "id": 2080,
+    "label": "VOX:itesatc",
+    "en": "Completing circuit."
+  },
+  {
+    "id": 2081,
+    "label": "VOX:itesatd",
+    "en": "Let the juice flow."
+  },
+  {
+    "id": 2082,
+    "label": "VOX:itesate",
+    "en": "Commencing Shock therapy."
+  },
+  {
+    "id": 2083,
+    "label": "VOX:itesatf",
+    "en": "Congratulations! You've been discharged."
+  },
+  {
+    "id": 2084,
+    "label": "VOX:itesfea",
+    "en": "Ground yourselves!"
+  },
+  {
+    "id": 2085,
+    "label": "VOX:itesfeb",
+    "en": "Reinforcements!"
+  },
+  {
+    "id": 2086,
+    "label": "VOX:itesfec",
+    "en": "I'm hit!"
+  },
+  {
+    "id": 2087,
+    "label": "VOX:itesmoa",
+    "en": "Going to source."
+  },
+  {
+    "id": 2088,
+    "label": "VOX:itesmoc",
+    "en": "Yes comrade."
+  },
+  {
+    "id": 2089,
+    "label": "VOX:itesmod",
+    "en": "Surging forward."
+  },
+  {
+    "id": 2090,
+    "label": "VOX:itesmoe",
+    "en": "Electrician in the field."
+  },
+  {
+    "id": 2091,
+    "label": "VOX:itesmof",
+    "en": "Rubber shoes in motion."
+  },
+  {
+    "id": 2092,
+    "label": "VOX:itessea",
+    "en": "Tesla suit ready!"
+  },
+  {
+    "id": 2093,
+    "label": "VOX:itesseb",
+    "en": "Extra crispy."
+  },
+  {
+    "id": 2094,
+    "label": "VOX:itessec",
+    "en": "Charging up."
+  },
+  {
+    "id": 2095,
+    "label": "VOX:itessed",
+    "en": "Electrodes ready!"
+  },
+  {
+    "id": 2096,
+    "label": "VOX:itessee",
+    "en": "Checking connection."
+  },
+  {
+    "id": 2097,
+    "label": "VOX:iyurata",
+    "en": "He belongs to us."
+  },
+  {
+    "id": 2098,
+    "label": "VOX:iyuratb",
+    "en": "His mind is weak."
+  },
+  {
+    "id": 2099,
+    "label": "VOX:iyuratc",
+    "en": "There is no resistance."
+  }
+]

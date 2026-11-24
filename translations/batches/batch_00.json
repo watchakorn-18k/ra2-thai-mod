@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 0,
+    "label": "THEME:Intro",
+    "en": "Intro"
+  },
+  {
+    "id": 1,
+    "label": "THEME:MadRap",
+    "en": "Hell March"
+  },
+  {
+    "id": 2,
+    "label": "THEME:Defense",
+    "en": "Defense"
+  },
+  {
+    "id": 3,
+    "label": "THEME:Heroism",
+    "en": "Heroism"
+  },
+  {
+    "id": 4,
+    "label": "THEME:LoneTroop",
+    "en": "Lone Troop"
+  },
+  {
+    "id": 5,
+    "label": "THEME:NodCrush",
+    "en": "Crush"
+  },
+  {
+    "id": 6,
+    "label": "THEME:Pharotek",
+    "en": "Pharotek"
+  },
+  {
+    "id": 7,
+    "label": "THEME:Scout",
+    "en": "Scout"
+  },
+  {
+    "id": 8,
+    "label": "THEME:ScoreScreen",
+    "en": "Score Screen"
+  },
+  {
+    "id": 9,
+    "label": "THEME:MapSelection",
+    "en": "Map Selection"
+  },
+  {
+    "id": 10,
+    "label": "THEME:IonStormAmbient",
+    "en": "Ion Storm Ambient"
+  },
+  {
+    "id": 11,
+    "label": "DESC:E31",
+    "en": "Demo Map"
+  },
+  {
+    "id": 12,
+    "label": "DESC:E32",
+    "en": "Demo Map 2"
+  },
+  {
+    "id": 13,
+    "label": "DESC:TUT1",
+    "en": "Boot Camp - Select to learn how to play"
+  },
+  {
+    "id": 14,
+    "label": "DESC:ALL1",
+    "en": "Allied Campaign - Strength of Patriots"
+  },
+  {
+    "id": 15,
+    "label": "DESC:SOV1",
+    "en": "Soviet Campaign - March of Destruction"
+  },
+  {
+    "id": 16,
+    "label": "DESC:MP02T2",
+    "en": "Isle of War (2)"
+  },
+  {
+    "id": 17,
+    "label": "DESC:MP06T2",
+    "en": "Urban Rush (2)"
+  },
+  {
+    "id": 18,
+    "label": "DESC:MP11T2",
+    "en": "Pinch Point (2)"
+  },
+  {
+    "id": 19,
+    "label": "DESC:MP08T2",
+    "en": "Little Big Lake (2)"
+  },
+  {
+    "id": 20,
+    "label": "DESC:MP09T3",
+    "en": "Canyon Fodder (2-3)"
+  },
+  {
+    "id": 21,
+    "label": "DESC:MP01T4",
+    "en": "Twin Isles (2-4)"
+  },
+  {
+    "id": 22,
+    "label": "DESC:MP05T4",
+    "en": "Heartland (2-4)"
+  },
+  {
+    "id": 23,
+    "label": "DESC:MP03T4",
+    "en": "Anytown, Amerika (2-4)"
+  },
+  {
+    "id": 24,
+    "label": "DESC:MP10S4",
+    "en": "Depth Charge (2-4)"
+  },
+  {
+    "id": 25,
+    "label": "DESC:MP12S4",
+    "en": "Lake Blitzen (2-4)"
+  },
+  {
+    "id": 26,
+    "label": "DESC:MP13S4",
+    "en": "Montana DMZ (2-4)"
+  },
+  {
+    "id": 27,
+    "label": "DESC:MP13S4MW",
+    "en": "Montana MegaWealth (2-4)"
+  },
+  {
+    "id": 28,
+    "label": "DESC:MP14T2",
+    "en": "El Dorado (2)"
+  },
+  {
+    "id": 29,
+    "label": "DESC:MP15S4",
+    "en": "Snow Valley (2-4)"
+  },
+  {
+    "id": 30,
+    "label": "DESC:MP16S4",
+    "en": "Snowball's Chance (2-4)"
+  },
+  {
+    "id": 31,
+    "label": "DESC:MP17T6",
+    "en": "Malibu Cliffs (2-6)"
+  },
+  {
+    "id": 32,
+    "label": "DESC:MP18S3",
+    "en": "Cold War (2-3)"
+  },
+  {
+    "id": 33,
+    "label": "DESC:MP19T4",
+    "en": "Golden State Fwy (2-4)"
+  },
+  {
+    "id": 34,
+    "label": "DESC:MP20T6",
+    "en": "Wild Animal Park (2-6)"
+  },
+  {
+    "id": 35,
+    "label": "DESC:MP21S2",
+    "en": "Alaskan Oil Spill (2)"
+  },
+  {
+    "id": 36,
+    "label": "DESC:MP22S8",
+    "en": "Arctic Circle (2-8)"
+  },
+  {
+    "id": 37,
+    "label": "DESC:MP23T4",
+    "en": "Islands in the Stream (2-4)"
+  },
+  {
+    "id": 38,
+    "label": "DESC:MP25T6",
+    "en": "DEFCON 6 (2-6)"
+  },
+  {
+    "id": 39,
+    "label": "DESC:MP26S6",
+    "en": "Bering Strait (2-6)"
+  },
+  {
+    "id": 40,
+    "label": "DESC:MP27T8",
+    "en": "A Path Beyond II (2-8)"
+  },
+  {
+    "id": 41,
+    "label": "DESC:MP28U4",
+    "en": "Studio City (2-4)"
+  },
+  {
+    "id": 42,
+    "label": "DESC:MP29U4",
+    "en": "The Alamo (2)"
+  },
+  {
+    "id": 43,
+    "label": "DESC:MP30S6",
+    "en": "Siberian Wastes (2-6)"
+  },
+  {
+    "id": 44,
+    "label": "DESC:MP32S8",
+    "en": "Heck Freezes Over (2-8)"
+  },
+  {
+    "id": 45,
+    "label": "DESC:NoDescription",
+    "en": "No description"
+  },
+  {
+    "id": 46,
+    "label": "MSG:PingInfo",
+    "en": "Ping = %dms"
+  },
+  {
+    "id": 47,
+    "label": "MSG:Critical",
+    "en": "critical"
+  },
+  {
+    "id": 48,
+    "label": "MSG:HeavilyDamaged",
+    "en": "heavily damaged"
+  },
+  {
+    "id": 49,
+    "label": "MSG:Healthy",
+    "en": "healthy"
+  },
+  {
+    "id": 50,
+    "label": "MSG:Mixed",
+    "en": "Mixed"
+  },
+  {
+    "id": 51,
+    "label": "MSG:Elite",
+    "en": "elite"
+  },
+  {
+    "id": 52,
+    "label": "MSG:Veteran",
+    "en": "veteran"
+  },
+  {
+    "id": 53,
+    "label": "MSG:LittleExperience",
+    "en": "green"
+  },
+  {
+    "id": 54,
+    "label": "MSG:CannotCreateChannel",
+    "en": "You can't create a channel here"
+  },
+  {
+    "id": 55,
+    "label": "MSG:UnableMapSelect",
+    "en": "Unable to initiate Map Selection! \n"
+  },
+  {
+    "id": 56,
+    "label": "MSG:NoDescription",
+    "en": "No Description"
+  },
+  {
+    "id": 57,
+    "label": "MSG:NothingSelected",
+    "en": "Nothing selected"
+  },
+  {
+    "id": 58,
+    "label": "MSG:SelAcrossMap",
+    "en": "Selected across MAP"
+  },
+  {
+    "id": 59,
+    "label": "MSG:SelAcrossScreen",
+    "en": "Selected across SCREEN"
+  },
+  {
+    "id": 60,
+    "label": "MSG:NavEmpty",
+    "en": "Nothing in navigation set"
+  },
+  {
+    "id": 61,
+    "label": "MSG:NoUnitsSel",
+    "en": "No %s unit(s) selected"
+  },
+  {
+    "id": 62,
+    "label": "MSG:UnitsWorth",
+    "en": "%d x %s unit(s) worth $%d"
+  },
+  {
+    "id": 63,
+    "label": "MSG:BlackoutTimer",
+    "en": "Power Off-Line:"
+  },
+  {
+    "id": 64,
+    "label": "GUI:GameOptions",
+    "en": "Game Options"
+  },
+  {
+    "id": 65,
+    "label": "GUI:SaveMissionMenu",
+    "en": "Save Mission"
+  },
+  {
+    "id": 66,
+    "label": "GUI:DeleteMissionMenu",
+    "en": "Delete Mission"
+  },
+  {
+    "id": 67,
+    "label": "GUI:UseMap",
+    "en": "Use Map"
+  },
+  {
+    "id": 68,
+    "label": "GUI:GenerateMap",
+    "en": "Generate Map"
+  },
+  {
+    "id": 69,
+    "label": "GUI:ToolTip",
+    "en": "Tool Tip"
+  },
+  {
+    "id": 70,
+    "label": "GUI:SinglePlayer",
+    "en": "Single Player"
+  },
+  {
+    "id": 71,
+    "label": "GUI:WWOnline",
+    "en": "Internet"
+  },
+  {
+    "id": 72,
+    "label": "GUI:Network",
+    "en": "Network"
+  },
+  {
+    "id": 73,
+    "label": "GUI:Options",
+    "en": "Options"
+  },
+  {
+    "id": 74,
+    "label": "GUI:ExitGame",
+    "en": "Exit Game"
+  },
+  {
+    "id": 75,
+    "label": "GUI:Preferences",
+    "en": "Preferences"
+  },
+  {
+    "id": 76,
+    "label": "GUI:SneakPeeks",
+    "en": "Sneak Peeks"
+  },
+  {
+    "id": 77,
+    "label": "GUI:PlayMovies",
+    "en": "Play Movies"
+  },
+  {
+    "id": 78,
+    "label": "GUI:ViewCredits",
+    "en": "View Credits"
+  },
+  {
+    "id": 79,
+    "label": "GUI:NewCampaign",
+    "en": "New Campaign"
+  },
+  {
+    "id": 80,
+    "label": "GUI:LoadSavedGame",
+    "en": "Load Saved Game"
+  },
+  {
+    "id": 81,
+    "label": "GUI:ReplayScenario",
+    "en": "Replay Scenario"
+  },
+  {
+    "id": 82,
+    "label": "GUI:Skirmish",
+    "en": "Skirmish"
+  },
+  {
+    "id": 83,
+    "label": "GUI:Back",
+    "en": "Back"
+  },
+  {
+    "id": 84,
+    "label": "GUI:StartGame",
+    "en": "Start Game"
+  },
+  {
+    "id": 85,
+    "label": "GUI:SkirmishGame",
+    "en": "Skirmish Game"
+  },
+  {
+    "id": 86,
+    "label": "GUI:ChooseMap",
+    "en": "Customize Battle"
+  },
+  {
+    "id": 87,
+    "label": "GUI:MCVRepacks",
+    "en": "MCV Repacks"
+  },
+  {
+    "id": 88,
+    "label": "GUI:ShortGame",
+    "en": "Short Game"
+  },
+  {
+    "id": 89,
+    "label": "GUI:CratesAppear",
+    "en": "Crates Appear"
+  },
+  {
+    "id": 90,
+    "label": "GUI:Country",
+    "en": "Country"
+  },
+  {
+    "id": 91,
+    "label": "GUI:Color",
+    "en": "Color"
+  },
+  {
+    "id": 92,
+    "label": "GUI:Slowest",
+    "en": "Slowest"
+  },
+  {
+    "id": 93,
+    "label": "GUI:Slower",
+    "en": "Slower"
+  },
+  {
+    "id": 94,
+    "label": "GUI:Slow",
+    "en": "Slow"
+  },
+  {
+    "id": 95,
+    "label": "GUI:Normal",
+    "en": "Normal"
+  },
+  {
+    "id": 96,
+    "label": "GUI:Fast",
+    "en": "Fast"
+  },
+  {
+    "id": 97,
+    "label": "GUI:Faster",
+    "en": "Faster"
+  },
+  {
+    "id": 98,
+    "label": "GUI:Fastest",
+    "en": "Fastest"
+  },
+  {
+    "id": 99,
+    "label": "GUI:Low",
+    "en": "Low"
+  },
+  {
+    "id": 100,
+    "label": "GUI:Medium",
+    "en": "Medium"
+  },
+  {
+    "id": 101,
+    "label": "GUI:High",
+    "en": "High"
+  },
+  {
+    "id": 102,
+    "label": "GUI:None",
+    "en": "None"
+  },
+  {
+    "id": 103,
+    "label": "GUI:AI",
+    "en": "Computer"
+  },
+  {
+    "id": 104,
+    "label": "GUI:Random",
+    "en": "Random"
+  },
+  {
+    "id": 105,
+    "label": "GUI:Cancel",
+    "en": "Cancel"
+  },
+  {
+    "id": 106,
+    "label": "GUI:Ok",
+    "en": "Ok"
+  },
+  {
+    "id": 107,
+    "label": "GUI:AskAbortMission",
+    "en": "What would you like to do?"
+  },
+  {
+    "id": 108,
+    "label": "GUI:Delete",
+    "en": "Delete"
+  },
+  {
+    "id": 109,
+    "label": "GUI:Description",
+    "en": "Description"
+  },
+  {
+    "id": 110,
+    "label": "GUI:TimeStamp",
+    "en": "Time Stamp"
+  },
+  {
+    "id": 111,
+    "label": "GUI:Load",
+    "en": "Load"
+  },
+  {
+    "id": 112,
+    "label": "GUI:Difficulty",
+    "en": "Difficulty"
+  },
+  {
+    "id": 113,
+    "label": "GUI:Harder",
+    "en": "Harder"
+  },
+  {
+    "id": 114,
+    "label": "GUI:SelectCampaign",
+    "en": "Select Campaign"
+  },
+  {
+    "id": 115,
+    "label": "GUI:AlliedCampaign",
+    "en": "Allied Campaign"
+  },
+  {
+    "id": 116,
+    "label": "GUI:TutorialCampaign",
+    "en": "Boot Camp"
+  },
+  {
+    "id": 117,
+    "label": "GUI:SovietCampaign",
+    "en": "Soviet Campaign"
+  },
+  {
+    "id": 118,
+    "label": "GUI:SelectMission",
+    "en": "Select Mission"
+  },
+  {
+    "id": 119,
+    "label": "GUI:Restart",
+    "en": "Restart"
+  },
+  {
+    "id": 120,
+    "label": "GUI:Abort",
+    "en": "Abort"
+  },
+  {
+    "id": 121,
+    "label": "GUI:Progress",
+    "en": "Progress"
+  },
+  {
+    "id": 122,
+    "label": "GUI:ConfirmModeChange",
+    "en": "Click OK to keep this display mode or wait and your old display settings will be restored."
+  },
+  {
+    "id": 123,
+    "label": "GUI:Assign",
+    "en": "Assign"
+  },
+  {
+    "id": 124,
+    "label": "GUI:CustomizeKeyboard",
+    "en": "Customize Keyboard"
+  },
+  {
+    "id": 125,
+    "label": "GUI:Custom",
+    "en": "Custom"
+  },
+  {
+    "id": 126,
+    "label": "GUI:Category",
+    "en": "Category"
+  },
+  {
+    "id": 127,
+    "label": "GUI:Commands",
+    "en": "Commands"
+  },
+  {
+    "id": 128,
+    "label": "GUI:PressShortcut",
+    "en": "Assign new Hotkey"
+  },
+  {
+    "id": 129,
+    "label": "GUI:CurAssignedTo",
+    "en": "Currently assigned to"
+  },
+  {
+    "id": 130,
+    "label": "GUI:CurrentShortcut",
+    "en": "Current Hotkey"
+  },
+  {
+    "id": 131,
+    "label": "GUI:ResetAll",
+    "en": "Reset All"
+  },
+  {
+    "id": 132,
+    "label": "GUI:DisplayOptions",
+    "en": "Display Options"
+  },
+  {
+    "id": 133,
+    "label": "GUI:Display",
+    "en": "Display"
+  },
+  {
+    "id": 134,
+    "label": "GUI:ResolutionModes",
+    "en": "Resolution Modes"
+  },
+  {
+    "id": 135,
+    "label": "GUI:StretchFit",
+    "en": "Stretch Movies"
+  },
+  {
+    "id": 136,
+    "label": "GUI:Proceed",
+    "en": "Apply"
+  },
+  {
+    "id": 137,
+    "label": "GUI:GameSpeed",
+    "en": "Game Speed"
+  },
+  {
+    "id": 138,
+    "label": "GUI:ScrollRate",
+    "en": "Scroll Rate"
+  },
+  {
+    "id": 139,
+    "label": "GUI:VisualDetails",
+    "en": "Visual Details"
+  },
+  {
+    "id": 140,
+    "label": "GUI:HigherDetail",
+    "en": "Higher"
+  },
+  {
+    "id": 141,
+    "label": "GUI:SidebarText",
+    "en": "Sidebar Text"
+  },
+  {
+    "id": 142,
+    "label": "GUI:Tooltips",
+    "en": "Tooltips"
+  },
+  {
+    "id": 143,
+    "label": "GUI:TargetLines",
+    "en": "Target Lines"
+  },
+  {
+    "id": 144,
+    "label": "GUI:ShowHidden",
+    "en": "See Hidden Objects"
+  },
+  {
+    "id": 145,
+    "label": "GUI:ScrollCoasting",
+    "en": "Scroll Coasting"
+  },
+  {
+    "id": 146,
+    "label": "GUI:Sound",
+    "en": "Sound"
+  },
+  {
+    "id": 147,
+    "label": "GUI:KeyboardOptions",
+    "en": "Keyboard Options"
+  },
+  {
+    "id": 148,
+    "label": "GUI:Keyboard",
+    "en": "Keyboard"
+  },
+  {
+    "id": 149,
+    "label": "GUI:CampaignMenu",
+    "en": "Campaign"
+  },
+  {
+    "id": 150,
+    "label": "GUI:LoadMissionMenu",
+    "en": "Load Mission"
+  },
+  {
+    "id": 151,
+    "label": "GUI:CameoText",
+    "en": "Cameo Text"
+  },
+  {
+    "id": 152,
+    "label": "GUI:MainMenu",
+    "en": "Main Menu"
+  },
+  {
+    "id": 153,
+    "label": "GUI:Allies",
+    "en": "Allies"
+  },
+  {
+    "id": 154,
+    "label": "GUI:Soviets",
+    "en": "Soviets"
+  },
+  {
+    "id": 155,
+    "label": "GUI:Units",
+    "en": "Units"
+  },
+  {
+    "id": 156,
+    "label": "GUI:Killed",
+    "en": "Killed"
+  },
+  {
+    "id": 157,
+    "label": "GUI:Made",
+    "en": "Made"
+  },
+  {
+    "id": 158,
+    "label": "GUI:Buildings",
+    "en": "Buildings"
+  },
+  {
+    "id": 159,
+    "label": "GUI:Economy",
+    "en": "Economy"
+  },
+  {
+    "id": 160,
+    "label": "GUI:Harvested",
+    "en": "Harvested"
+  },
+  {
+    "id": 161,
+    "label": "GUI:Spent",
+    "en": "Spent"
+  },
+  {
+    "id": 162,
+    "label": "GUI:GameSettings",
+    "en": "Game Settings"
+  },
+  {
+    "id": 163,
+    "label": "GUI:Environment",
+    "en": "Terrain Type"
+  },
+  {
+    "id": 164,
+    "label": "GUI:Theater",
+    "en": "Climate"
+  },
+  {
+    "id": 165,
+    "label": "GUI:MapSize",
+    "en": "Map Size"
+  },
+  {
+    "id": 166,
+    "label": "GUI:Resources",
+    "en": "Resources"
+  },
+  {
+    "id": 167,
+    "label": "GUI:TimeOfDay",
+    "en": "Time of day"
+  },
+  {
+    "id": 168,
+    "label": "GUI:Players",
+    "en": "Players"
+  },
+  {
+    "id": 169,
+    "label": "GUI:Cliffs",
+    "en": "Cliffs"
+  },
+  {
+    "id": 170,
+    "label": "GUI:Accessability",
+    "en": "Accessibility"
+  },
+  {
+    "id": 171,
+    "label": "GUI:Hills",
+    "en": "Hills"
+  },
+  {
+    "id": 172,
+    "label": "GUI:TiberiumAmount",
+    "en": "Ore Amount"
+  },
+  {
+    "id": 173,
+    "label": "GUI:TiberiumFields",
+    "en": "Ore Fields"
+  },
+  {
+    "id": 174,
+    "label": "GUI:Water",
+    "en": "Water"
+  },
+  {
+    "id": 175,
+    "label": "GUI:Vegetation",
+    "en": "Vegetation"
+  },
+  {
+    "id": 176,
+    "label": "GUI:Cities",
+    "en": "Cities"
+  },
+  {
+    "id": 177,
+    "label": "GUI:MapWidth",
+    "en": "Map Width"
+  },
+  {
+    "id": 178,
+    "label": "GUI:MapHeight",
+    "en": "Map Height"
+  },
+  {
+    "id": 179,
+    "label": "GUI:SurpriseMe",
+    "en": "Surprise Me"
+  },
+  {
+    "id": 180,
+    "label": "GUI:Preview",
+    "en": "Preview"
+  },
+  {
+    "id": 181,
+    "label": "GUI:SaveMap",
+    "en": "Save Map"
+  },
+  {
+    "id": 182,
+    "label": "GUI:LoadMap",
+    "en": "Load Map"
+  },
+  {
+    "id": 183,
+    "label": "GUI:Save",
+    "en": "Save"
+  },
+  {
+    "id": 184,
+    "label": "GUI:Name",
+    "en": "Name"
+  },
+  {
+    "id": 185,
+    "label": "GUI:Side",
+    "en": "Side"
+  },
+  {
+    "id": 186,
+    "label": "GUI:Opponent",
+    "en": "Opponent"
+  },
+  {
+    "id": 187,
+    "label": "GUI:Map",
+    "en": "Map"
+  },
+  {
+    "id": 188,
+    "label": "GUI:TechLevel",
+    "en": "Tech Level"
+  },
+  {
+    "id": 189,
+    "label": "GUI:Credits",
+    "en": "Credits"
+  },
+  {
+    "id": 190,
+    "label": "GUI:UnitCount",
+    "en": "Unit Count"
+  },
+  {
+    "id": 191,
+    "label": "GUI:AILevel",
+    "en": "AI Skill Level"
+  },
+  {
+    "id": 192,
+    "label": "GUI:MultiEngineer",
+    "en": "Multi Engineer"
+  },
+  {
+    "id": 193,
+    "label": "GUI:Accept",
+    "en": "Accept"
+  },
+  {
+    "id": 194,
+    "label": "GUI:MultiplayerMap",
+    "en": "Multiplayer Map"
+  },
+  {
+    "id": 195,
+    "label": "GUI:SelectMultiplayerGame",
+    "en": "Select Multiplayer Game"
+  },
+  {
+    "id": 196,
+    "label": "GUI:SelectEngagement",
+    "en": "Select Engagement"
+  },
+  {
+    "id": 197,
+    "label": "GUI:GameType",
+    "en": "Game Type"
+  },
+  {
+    "id": 198,
+    "label": "GUI:GameMap",
+    "en": "Game Map"
+  },
+  {
+    "id": 199,
+    "label": "GUI:ModemSerial",
+    "en": "Modem / Serial"
+  },
+  {
+    "id": 200,
+    "label": "GUI:IPXOptions",
+    "en": "IPX Options"
+  },
+  {
+    "id": 201,
+    "label": "GUI:NetworkCard",
+    "en": "Network Card"
+  },
+  {
+    "id": 202,
+    "label": "GUI:SocketNumber",
+    "en": "Socket Number"
+  },
+  {
+    "id": 203,
+    "label": "GUI:DestinationNetwork",
+    "en": "Destination Network"
+  },
+  {
+    "id": 204,
+    "label": "GUI:YourSide",
+    "en": "Your Side"
+  },
+  {
+    "id": 205,
+    "label": "GUI:YourColor",
+    "en": "Your Color"
+  },
+  {
+    "id": 206,
+    "label": "GUI:KickUser",
+    "en": "Kick a user from your game"
+  },
+  {
+    "id": 207,
+    "label": "GUI:YourName",
+    "en": "Your Name"
+  },
+  {
+    "id": 208,
+    "label": "GUI:Games",
+    "en": "Games"
+  },
+  {
+    "id": 209,
+    "label": "GUI:Join",
+    "en": "Join"
+  },
+  {
+    "id": 210,
+    "label": "GUI:New",
+    "en": "New"
+  },
+  {
+    "id": 211,
+    "label": "GUI:GameControls",
+    "en": "Game Controls"
+  },
+  {
+    "id": 212,
+    "label": "GUI:RestateBriefing",
+    "en": "Restate Briefing"
+  },
+  {
+    "id": 213,
+    "label": "GUI:LoadGame",
+    "en": "Load Game"
+  },
+  {
+    "id": 214,
+    "label": "GUI:SaveGame",
+    "en": "Save Game"
+  },
+  {
+    "id": 215,
+    "label": "GUI:DeleteGame",
+    "en": "Delete Game"
+  },
+  {
+    "id": 216,
+    "label": "GUI:DeleteMap",
+    "en": "Delete Map"
+  },
+  {
+    "id": 217,
+    "label": "GUI:AbortMission",
+    "en": "Abort Mission"
+  },
+  {
+    "id": 218,
+    "label": "GUI:ResumeMission",
+    "en": "Resume Mission"
+  },
+  {
+    "id": 219,
+    "label": "GUI:HostScreen",
+    "en": "Host Screen"
+  },
+  {
+    "id": 220,
+    "label": "GUI:JoinScreen",
+    "en": "Join Screen"
+  },
+  {
+    "id": 221,
+    "label": "GUI:Lobby",
+    "en": "Lobby"
+  },
+  {
+    "id": 222,
+    "label": "GUI:GameNumber",
+    "en": "Game Number"
+  },
+  {
+    "id": 223,
+    "label": "GUI:Time",
+    "en": "Time"
+  },
+  {
+    "id": 224,
+    "label": "GUI:Losses",
+    "en": "Losses"
+  },
+  {
+    "id": 225,
+    "label": "GUI:Built",
+    "en": "Built"
+  },
+  {
+    "id": 226,
+    "label": "GUI:Score",
+    "en": "Score"
+  },
+  {
+    "id": 227,
+    "label": "GUI:InternetGameControls",
+    "en": "Internet Game Controls"
+  },
+  {
+    "id": 228,
+    "label": "GUI:Connection",
+    "en": "Connection"
+  },
+  {
+    "id": 229,
+    "label": "GUI:Better",
+    "en": "Better"
+  },
+  {
+    "id": 230,
+    "label": "GUI:Add",
+    "en": "Add"
+  },
+  {
+    "id": 231,
+    "label": "GUI:Edit",
+    "en": "Edit"
+  },
+  {
+    "id": 232,
+    "label": "GUI:PhoneNumber",
+    "en": "Phone Number"
+  },
+  {
+    "id": 233,
+    "label": "GUI:Dial",
+    "en": "Dial"
+  },
+  {
+    "id": 234,
+    "label": "GUI:PhoneList",
+    "en": "Phone List"
+  },
+  {
+    "id": 235,
+    "label": "GUI:PhonebookEntry",
+    "en": "Phonebook Entry"
+  },
+  {
+    "id": 236,
+    "label": "GUI:Number",
+    "en": "Number"
+  },
+  {
+    "id": 237,
+    "label": "GUI:Default",
+    "en": "Default"
+  },
+  {
+    "id": 238,
+    "label": "GUI:Settings",
+    "en": "Settings"
+  },
+  {
+    "id": 239,
+    "label": "GUI:WorkingPleaseWait",
+    "en": "Working - Please Wait"
+  },
+  {
+    "id": 240,
+    "label": "GUI:Player1",
+    "en": "Player 1"
+  },
+  {
+    "id": 241,
+    "label": "GUI:Player2",
+    "en": "Player 2"
+  },
+  {
+    "id": 242,
+    "label": "GUI:Player3",
+    "en": "Player 3"
+  },
+  {
+    "id": 243,
+    "label": "GUI:Player4",
+    "en": "Player 4"
+  },
+  {
+    "id": 244,
+    "label": "GUI:Player5",
+    "en": "Player 5"
+  },
+  {
+    "id": 245,
+    "label": "GUI:Player6",
+    "en": "Player 6"
+  },
+  {
+    "id": 246,
+    "label": "GUI:Player7",
+    "en": "Player 7"
+  },
+  {
+    "id": 247,
+    "label": "GUI:Player8",
+    "en": "Player 8"
+  },
+  {
+    "id": 248,
+    "label": "GUI:Battle",
+    "en": "Battle"
+  },
+  {
+    "id": 249,
+    "label": "GUI:FreeForAll",
+    "en": "Free For All"
+  },
+  {
+    "id": 250,
+    "label": "GUI:UnholyAlliance",
+    "en": "Unholy Alliance"
+  },
+  {
+    "id": 251,
+    "label": "GUI:Megawealth",
+    "en": "Megawealth"
+  },
+  {
+    "id": 252,
+    "label": "GUI:Siege",
+    "en": "Siege"
+  },
+  {
+    "id": 253,
+    "label": "GUI:TimeRemaining",
+    "en": "Time Remaining:"
+  },
+  {
+    "id": 254,
+    "label": "GUI:CreateRandomMap",
+    "en": "Random Map"
+  },
+  {
+    "id": 255,
+    "label": "GUI:IPXLan",
+    "en": "IPX (Lan)"
+  },
+  {
+    "id": 256,
+    "label": "GUI:UDPInternet",
+    "en": "UDP (Internet)"
+  },
+  {
+    "id": 257,
+    "label": "GUI:Answer",
+    "en": "Answer"
+  },
+  {
+    "id": 258,
+    "label": "GUI:NullModem",
+    "en": "Null Modem"
+  },
+  {
+    "id": 259,
+    "label": "GUI:Port",
+    "en": "Port"
+  },
+  {
+    "id": 260,
+    "label": "GUI:Baud",
+    "en": "Baud"
+  },
+  {
+    "id": 261,
+    "label": "GUI:SerialSettings",
+    "en": "Serial Settings"
+  },
+  {
+    "id": 262,
+    "label": "GUI:CallWaiting",
+    "en": "Call Waiting"
+  },
+  {
+    "id": 263,
+    "label": "GUI:PulseDial",
+    "en": "Pulse Dial"
+  },
+  {
+    "id": 264,
+    "label": "GUI:ToneDial",
+    "en": "Tone Dial"
+  },
+  {
+    "id": 265,
+    "label": "GUI:ErrorCorrection",
+    "en": "Error Correction"
+  },
+  {
+    "id": 266,
+    "label": "GUI:DataCompression",
+    "en": "Data Compression"
+  },
+  {
+    "id": 267,
+    "label": "GUI:InitString",
+    "en": "Init String"
+  },
+  {
+    "id": 268,
+    "label": "GUI:MultiplayMap",
+    "en": "Multiplay Map"
+  },
+  {
+    "id": 269,
+    "label": "GUI:MusicVolume",
+    "en": "Music Volume"
+  },
+  {
+    "id": 270,
+    "label": "GUI:SoundVolume",
+    "en": "Sound Volume"
+  },
+  {
+    "id": 271,
+    "label": "GUI:VoiceVolume",
+    "en": "Voice Volume"
+  },
+  {
+    "id": 272,
+    "label": "GUI:Play",
+    "en": "Play"
+  },
+  {
+    "id": 273,
+    "label": "GUI:Stop",
+    "en": "Stop"
+  },
+  {
+    "id": 274,
+    "label": "GUI:Shuffle",
+    "en": "Shuffle"
+  },
+  {
+    "id": 275,
+    "label": "GUI:Repeat",
+    "en": "Repeat"
+  },
+  {
+    "id": 276,
+    "label": "GUI:GetWOLAccount",
+    "en": "Get a Westwood Online login"
+  },
+  {
+    "id": 277,
+    "label": "GUI:Birthdate",
+    "en": "Birthdate"
+  },
+  {
+    "id": 278,
+    "label": "GUI:EmailAddress",
+    "en": "Email address: (Please double check this!)"
+  },
+  {
+    "id": 279,
+    "label": "GUI:GetNewsletter",
+    "en": "I would like to receive the Westwood Online newsletter by Email"
+  },
+  {
+    "id": 280,
+    "label": "GUI:ViewPrivacy",
+    "en": "Privacy policy"
+  },
+  {
+    "id": 281,
+    "label": "GUI:Continue",
+    "en": "Continue"
+  },
+  {
+    "id": 282,
+    "label": "GUI:DownloadingPatch",
+    "en": "Downloading patch"
+  },
+  {
+    "id": 283,
+    "label": "GUI:MaxPlayers",
+    "en": "Max Players"
+  },
+  {
+    "id": 284,
+    "label": "GUI:Min",
+    "en": "Min"
+  },
+  {
+    "id": 285,
+    "label": "GUI:Max",
+    "en": "Max"
+  },
+  {
+    "id": 286,
+    "label": "GUI:MaxPing",
+    "en": "Max Ping to Host"
+  },
+  {
+    "id": 287,
+    "label": "GUI:Tournament",
+    "en": "Tournament"
+  },
+  {
+    "id": 288,
+    "label": "GUI:BattleClan",
+    "en": "BattleClan"
+  },
+  {
+    "id": 289,
+    "label": "GUI:LadderRankHost",
+    "en": "Ladder Rank of Host"
+  },
+  {
+    "id": 290,
+    "label": "GUI:Official",
+    "en": "Official"
+  },
+  {
+    "id": 291,
+    "label": "GUI:Standard",
+    "en": "Standard"
+  },
+  {
+    "id": 292,
+    "label": "GUI:SelectedGameDetails",
+    "en": "Selected Game Details"
+  },
+  {
+    "id": 293,
+    "label": "GUI:ShowAll",
+    "en": "Show All"
+  },
+  {
+    "id": 294,
+    "label": "GUI:RefreshChannelList",
+    "en": "Refresh Channel List"
+  },
+  {
+    "id": 295,
+    "label": "GUI:PersonToFind",
+    "en": "Person to find or page:"
+  },
+  {
+    "id": 296,
+    "label": "GUI:TextToSend",
+    "en": "Text to send"
+  },
+  {
+    "id": 297,
+    "label": "GUI:Find",
+    "en": "Find"
+  },
+  {
+    "id": 298,
+    "label": "GUI:Page",
+    "en": "Page Buddy"
+  },
+  {
+    "id": 299,
+    "label": "GUI:PageClan",
+    "en": "Page Clan"
+  },
+  {
+    "id": 300,
+    "label": "GUI:Ladder",
+    "en": "Ladder"
+  },
+  {
+    "id": 301,
+    "label": "GUI:FindOrPage",
+    "en": "Find/Page"
+  },
+  {
+    "id": 302,
+    "label": "GUI:Kick",
+    "en": "Kick"
+  },
+  {
+    "id": 303,
+    "label": "GUI:Close",
+    "en": "Close"
+  },
+  {
+    "id": 304,
+    "label": "GUI:Ban",
+    "en": "Ban"
+  },
+  {
+    "id": 305,
+    "label": "GUI:Help",
+    "en": "Help"
+  },
+  {
+    "id": 306,
+    "label": "GUI:HostOptions",
+    "en": "Host Options"
+  },
+  {
+    "id": 307,
+    "label": "GUI:Search",
+    "en": "Search"
+  },
+  {
+    "id": 308,
+    "label": "GUI:Rank",
+    "en": "Rank"
+  },
+  {
+    "id": 309,
+    "label": "GUI:Points",
+    "en": "Points"
+  },
+  {
+    "id": 310,
+    "label": "GUI:NumberWins",
+    "en": "Wins"
+  },
+  {
+    "id": 311,
+    "label": "GUI:NumberDisconnects",
+    "en": "Disconnects"
+  },
+  {
+    "id": 312,
+    "label": "GUI:PlayerTourWeb",
+    "en": "Player Tournament Webpage"
+  },
+  {
+    "id": 313,
+    "label": "GUI:BatTourWeb",
+    "en": "BattleClan Tournament Webpage"
+  },
+  {
+    "id": 314,
+    "label": "GUI:<Back",
+    "en": "< Back"
+  },
+  {
+    "id": 315,
+    "label": "GUI:Next>",
+    "en": "Next >"
+  },
+  {
+    "id": 316,
+    "label": "GUI:Nickname",
+    "en": "Nickname"
+  },
+  {
+    "id": 317,
+    "label": "GUI:Password",
+    "en": "Password"
+  },
+  {
+    "id": 318,
+    "label": "GUI:Location",
+    "en": "Location"
+  },
+  {
+    "id": 319,
+    "label": "GUI:Unknown",
+    "en": "Unknown"
+  },
+  {
+    "id": 320,
+    "label": "GUI:SetLocation",
+    "en": "Set Location"
+  },
+  {
+    "id": 321,
+    "label": "GUI:StoreLogin",
+    "en": "Store Login"
+  },
+  {
+    "id": 322,
+    "label": "GUI:NewAccount",
+    "en": "New Account"
+  },
+  {
+    "id": 323,
+    "label": "GUI:Users",
+    "en": "Users"
+  },
+  {
+    "id": 324,
+    "label": "GUI:Up",
+    "en": "Up"
+  },
+  {
+    "id": 325,
+    "label": "GUI:Down",
+    "en": "Down"
+  },
+  {
+    "id": 326,
+    "label": "GUI:ActionMessage",
+    "en": "Action Message"
+  },
+  {
+    "id": 327,
+    "label": "GUI:RefreshChannels",
+    "en": "Refresh Channels"
+  },
+  {
+    "id": 328,
+    "label": "GUI:FindAGame",
+    "en": "Find a game"
+  },
+  {
+    "id": 329,
+    "label": "GUI:ViewTourLadder",
+    "en": "View the tournament ladder"
+  },
+  {
+    "id": 330,
+    "label": "GUI:GoBatWeb",
+    "en": "Go to the BattleClan Webpage"
+  },
+  {
+    "id": 331,
+    "label": "GUI:FindOrPageAnother",
+    "en": "Find/Page another user"
+  },
+  {
+    "id": 332,
+    "label": "GUI:IgnoreUser",
+    "en": "Ignore a user"
+  },
+  {
+    "id": 333,
+    "label": "GUI:KickUserFromChannel",
+    "en": "Kick a user from your channel"
+  },
+  {
+    "id": 334,
+    "label": "GUI:BanUserFromChannel",
+    "en": "Ban a user from your channel"
+  },
+  {
+    "id": 335,
+    "label": "GUI:CreateNewChan",
+    "en": "Create a new chat channel:"
+  },
+  {
+    "id": 336,
+    "label": "GUI:BattleClanTournament",
+    "en": "BattleClan Tournament"
+  },
+  {
+    "id": 337,
+    "label": "GUI:YourLocation",
+    "en": "Your Location"
+  },
+  {
+    "id": 338,
+    "label": "GUI:MinPasswordLen",
+    "en": "Your password must be 8 letters long."
+  },
+  {
+    "id": 339,
+    "label": "GUI:Re-enterPassword",
+    "en": "Re-enter Password:"
+  },
+  {
+    "id": 340,
+    "label": "GUI:ParentEmail",
+    "en": "Parent's Email address:"
+  },
+  {
+    "id": 341,
+    "label": "GUI:ShareInfo",
+    "en": "Yes, EA/Westwood can share the information I have provided with other companies so they can notify me of new products and special offers."
+  },
+  {
+    "id": 342,
+    "label": "GUI:AllowPages",
+    "en": "Allow incoming pages"
+  },
+  {
+    "id": 343,
+    "label": "GUI:FilterBadLan",
+    "en": "Filter bad language"
+  },
+  {
+    "id": 344,
+    "label": "GUI:AllowFinding",
+    "en": "Allow others to find me"
+  },
+  {
+    "id": 345,
+    "label": "GUI:PlayMusic",
+    "en": "Play music"
+  },
+  {
+    "id": 346,
+    "label": "GUI:ShowAllInLobby",
+    "en": "Show all games in my lobby"
+  },
+  {
+    "id": 347,
+    "label": "GUI:SoundOptions",
+    "en": "Sound Options"
+  },
+  {
+    "id": 348,
+    "label": "GUI:ChannelPassword",
+    "en": "Channel Password"
+  },
+  {
+    "id": 349,
+    "label": "GUI:AvailableServers",
+    "en": "Available Servers"
+  }
+]

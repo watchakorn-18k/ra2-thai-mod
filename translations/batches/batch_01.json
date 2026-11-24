@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 350,
+    "label": "GUI:WaitingResp",
+    "en": "Waiting for a response"
+  },
+  {
+    "id": 351,
+    "label": "GUI:Disconnect",
+    "en": "Disconnect"
+  },
+  {
+    "id": 352,
+    "label": "GUI:No",
+    "en": "No"
+  },
+  {
+    "id": 353,
+    "label": "GUI:Yes",
+    "en": "Yes"
+  },
+  {
+    "id": 354,
+    "label": "GUI:Player",
+    "en": "Player"
+  },
+  {
+    "id": 355,
+    "label": "GUI:Listeners",
+    "en": "Listeners"
+  },
+  {
+    "id": 356,
+    "label": "GUI:Kills",
+    "en": "Kills"
+  },
+  {
+    "id": 357,
+    "label": "GUI:Return",
+    "en": "Resume"
+  },
+  {
+    "id": 358,
+    "label": "GUI:Briefing",
+    "en": "Briefing"
+  },
+  {
+    "id": 359,
+    "label": "GUI:LeaveGame",
+    "en": "Quit Game"
+  },
+  {
+    "id": 360,
+    "label": "GUI:Open",
+    "en": "Open"
+  },
+  {
+    "id": 361,
+    "label": "GUI:Closed",
+    "en": "Closed"
+  },
+  {
+    "id": 362,
+    "label": "GUI:Waiting",
+    "en": "Waiting..."
+  },
+  {
+    "id": 363,
+    "label": "ERROR:NameIsReservedWord",
+    "en": "You have chosen a reserved word as your name! Please choose another."
+  },
+  {
+    "id": 364,
+    "label": "ERROR:CannotMap",
+    "en": "Error! Command needs this modifier(s)."
+  },
+  {
+    "id": 365,
+    "label": "ERROR:CannotRemap",
+    "en": "Error! Remap base key first."
+  },
+  {
+    "id": 366,
+    "label": "STT:MainButtonSinglePlayer",
+    "en": "Play a Story Campaign or Skirmish Game."
+  },
+  {
+    "id": 367,
+    "label": "STT:MainButtonWWOnline",
+    "en": "Play a game on the Internet."
+  },
+  {
+    "id": 368,
+    "label": "STT:MainButtonNetwork",
+    "en": "Play a Local Area Network game with your friends."
+  },
+  {
+    "id": 369,
+    "label": "STT:MainButtonOptions",
+    "en": "Adjust game difficulty, audio / visual settings, and controls."
+  },
+  {
+    "id": 370,
+    "label": "STT:MainButtonExitGame",
+    "en": "Quit Yuri's Revenge."
+  },
+  {
+    "id": 371,
+    "label": "STT:SingleButtonNewCampaign",
+    "en": "Begin a single player Story Campaign."
+  },
+  {
+    "id": 372,
+    "label": "STT:SingleButtonLoadSavedGame",
+    "en": "Load a previously saved game."
+  },
+  {
+    "id": 373,
+    "label": "STT:SingleButtonReplayScenario",
+    "en": "Replay a mission."
+  },
+  {
+    "id": 374,
+    "label": "STT:SingleButtonSkirmish",
+    "en": "Play against the computer head-to-head."
+  },
+  {
+    "id": 375,
+    "label": "STT:SingleButtonBack",
+    "en": "Return to the Main Menu."
+  },
+  {
+    "id": 376,
+    "label": "STT:CampaignAnimAllied",
+    "en": "Play the Allied Story Campaign."
+  },
+  {
+    "id": 377,
+    "label": "STT:CampaignAnimTutorial",
+    "en": "Play the Tutorial Campaign."
+  },
+  {
+    "id": 378,
+    "label": "STT:CampaignAnimSoviet",
+    "en": "Play the Soviet Story Campaign."
+  },
+  {
+    "id": 379,
+    "label": "STT:CampaignSliderDifficulty",
+    "en": "Selects the difficulty level of the campaign."
+  },
+  {
+    "id": 380,
+    "label": "STT:CampaignButtonLoad",
+    "en": "Loads the selected mission."
+  },
+  {
+    "id": 381,
+    "label": "STT:CampaignList",
+    "en": "Click on the mission you'd like to play."
+  },
+  {
+    "id": 382,
+    "label": "STT:CampaignButtonBack",
+    "en": "Return to the Single Player Menu."
+  },
+  {
+    "id": 383,
+    "label": "STT:LoadButtonLoad",
+    "en": "Loads the selected saved game."
+  },
+  {
+    "id": 384,
+    "label": "STT:LoadList",
+    "en": "Lists the games available for loading."
+  },
+  {
+    "id": 385,
+    "label": "STT:LoadButtonBack",
+    "en": "Returns to the previous menu."
+  },
+  {
+    "id": 386,
+    "label": "STT:SkirmishEditPlayer",
+    "en": "Enter your name here."
+  },
+  {
+    "id": 387,
+    "label": "STT:SkirmishComboAIPlayer",
+    "en": "Add an opponent."
+  },
+  {
+    "id": 388,
+    "label": "STT:SkirmishPictureFlag",
+    "en": "Player's national flag."
+  },
+  {
+    "id": 389,
+    "label": "STT:SkirmishComboCountry",
+    "en": "Select a nationality."
+  },
+  {
+    "id": 390,
+    "label": "STT:SkirmishComboColor",
+    "en": "Select a color."
+  },
+  {
+    "id": 391,
+    "label": "STT:SkirmishSliderSpeed",
+    "en": "Controls unit speed and build times."
+  },
+  {
+    "id": 392,
+    "label": "STT:SkirmishSliderCredits",
+    "en": "Controls the cash available at the start of the game."
+  },
+  {
+    "id": 393,
+    "label": "STT:SkirmishSliderTech",
+    "en": "Controls the maximum tech level available in the game."
+  },
+  {
+    "id": 394,
+    "label": "STT:SkirmishSliderUnit",
+    "en": "Controls the number of starting units."
+  },
+  {
+    "id": 395,
+    "label": "STT:SkirmishButtonChooseMap",
+    "en": "Use this to select a battlefield."
+  },
+  {
+    "id": 396,
+    "label": "STT:SkirmishCBoxRedeploys",
+    "en": "Players have the ability to move their ConYard after it's deployed."
+  },
+  {
+    "id": 397,
+    "label": "STT:SkirmishCBoxShortGame",
+    "en": "Players win when all enemy buildings are destroyed."
+  },
+  {
+    "id": 398,
+    "label": "STT:SkirmishCBoxCrates",
+    "en": "Random Power-Up Crates will appear."
+  },
+  {
+    "id": 399,
+    "label": "STT:SkirmishMapThumbnail",
+    "en": "Displays a satellite image of the chosen battlefield."
+  },
+  {
+    "id": 400,
+    "label": "STT:SkirmishLabelGameType",
+    "en": "The name of the game type you have selected."
+  },
+  {
+    "id": 401,
+    "label": "STT:SkirmishLabelScenario",
+    "en": "The name of the battlefield you have selected."
+  },
+  {
+    "id": 402,
+    "label": "STT:SkirmishSliderAIDifficulty",
+    "en": "Controls the skill level of the Computer players."
+  },
+  {
+    "id": 403,
+    "label": "STT:SkirmishButtonStartGame",
+    "en": "Starts the game with the options you have selected."
+  },
+  {
+    "id": 404,
+    "label": "STT:SkirmishButtonBack",
+    "en": "Return to previous menu."
+  },
+  {
+    "id": 405,
+    "label": "STT:LobbyListUsers",
+    "en": "Available players."
+  },
+  {
+    "id": 406,
+    "label": "STT:LobbyListGames",
+    "en": "The games you can join."
+  },
+  {
+    "id": 407,
+    "label": "STT:LobbyEditOutput",
+    "en": "Messages from other players are listed here."
+  },
+  {
+    "id": 408,
+    "label": "STT:LobbyEditInput",
+    "en": "Type your message here and hit enter."
+  },
+  {
+    "id": 409,
+    "label": "STT:LobbyButtonNew",
+    "en": "Creates a new multiplayer game."
+  },
+  {
+    "id": 410,
+    "label": "STT:LobbyButtonJoin",
+    "en": "Join an existing multiplayer game."
+  },
+  {
+    "id": 411,
+    "label": "STT:HostPictureAcceptance",
+    "en": "The game can only begin when all players are checked-in."
+  },
+  {
+    "id": 412,
+    "label": "STT:HostComboPlayer",
+    "en": "'Open' allows a player to join. 'Closed' locks players out."
+  },
+  {
+    "id": 413,
+    "label": "STT:HostComboCountry",
+    "en": "Player's nationality."
+  },
+  {
+    "id": 414,
+    "label": "STT:HostComboColor",
+    "en": "Player's color."
+  },
+  {
+    "id": 415,
+    "label": "STT:HostSliderTech",
+    "en": "Limits your structure and unit technology tree."
+  },
+  {
+    "id": 416,
+    "label": "STT:HostCBoxRedeploys",
+    "en": "Players have the ability to move their ConYard."
+  },
+  {
+    "id": 417,
+    "label": "STT:HostEditInput",
+    "en": "Type your message here and hit return."
+  },
+  {
+    "id": 418,
+    "label": "STT:HostMapThumbnail",
+    "en": "Satellite view of the battlefield you have selected."
+  },
+  {
+    "id": 419,
+    "label": "STT:HostLabelScenario",
+    "en": "The name of the battlefield you have chosen."
+  },
+  {
+    "id": 420,
+    "label": "STT:HostButtonGo",
+    "en": "Starts the game. Everyone must check in first."
+  },
+  {
+    "id": 421,
+    "label": "STT:HostButtonChooseMap",
+    "en": "Select a battlefield."
+  },
+  {
+    "id": 422,
+    "label": "STT:HostButtonBack",
+    "en": "Return to the Network Lobby Menu."
+  },
+  {
+    "id": 423,
+    "label": "STT:GuestSliderSpeed",
+    "en": "Only the Game Host can control unit speed and build times."
+  },
+  {
+    "id": 424,
+    "label": "STT:GuestSliderCredits",
+    "en": "Only the Game Host can control the starting cash."
+  },
+  {
+    "id": 425,
+    "label": "STT:GuestSliderTech",
+    "en": "Enables host to control the maximum tech level available."
+  },
+  {
+    "id": 426,
+    "label": "STT:GuestSliderUnit",
+    "en": "Only the Game Host can control the number of starting units."
+  },
+  {
+    "id": 427,
+    "label": "STT:GuestCBoxRedeploys",
+    "en": "Only the Game Host can make Construction Yards mobile."
+  },
+  {
+    "id": 428,
+    "label": "STT:GuestCBoxShortGame",
+    "en": "Players only have to destroy all enemy buildings to win."
+  },
+  {
+    "id": 429,
+    "label": "STT:GuestCBoxCrates",
+    "en": "Only the Game Host can make Random Power-Up Crates appear."
+  },
+  {
+    "id": 430,
+    "label": "STT:GuestMapThumbnail",
+    "en": "Satellite view of the battlefield the Game Host has selected."
+  },
+  {
+    "id": 431,
+    "label": "STT:GuestLabelScenario",
+    "en": "The name of the battlefield the Game Host has selected."
+  },
+  {
+    "id": 432,
+    "label": "STT:GuestButtonAccept",
+    "en": "Hit this button when you are ready to play."
+  },
+  {
+    "id": 433,
+    "label": "STT:OptionsButtonPreferences",
+    "en": "Control user preferences."
+  },
+  {
+    "id": 434,
+    "label": "STT:OptionsButtonSneak",
+    "en": "View sneak previews!"
+  },
+  {
+    "id": 435,
+    "label": "STT:OptionsButtonMovies",
+    "en": "Replay Story Campaign movies."
+  },
+  {
+    "id": 436,
+    "label": "STT:OptionsButtonCredits",
+    "en": "Meet your friends at Westwood Studios!"
+  },
+  {
+    "id": 437,
+    "label": "STT:MainOptButtonGameSettings",
+    "en": "Enables you to modify the game settings."
+  },
+  {
+    "id": 438,
+    "label": "STT:MainOptButtonDisplay",
+    "en": "Changes your screen resolution."
+  },
+  {
+    "id": 439,
+    "label": "STT:MainOptButtonSound",
+    "en": "Enables you to modify your sound options."
+  },
+  {
+    "id": 440,
+    "label": "STT:MainOptButtonKeyboard",
+    "en": "Customize your keyboard game commands."
+  },
+  {
+    "id": 441,
+    "label": "STT:GameOptSliderSpeed",
+    "en": "Controls the game speed."
+  },
+  {
+    "id": 442,
+    "label": "STT:GameOptSliderScroll",
+    "en": "Controls the scroll speed of the mouse."
+  },
+  {
+    "id": 443,
+    "label": "STT:GameOptSliderVisual",
+    "en": "Controls the level of graphical detail displayed in the game."
+  },
+  {
+    "id": 444,
+    "label": "STT:GameOptSliderDifficulty",
+    "en": "Controls the difficulty of the game."
+  },
+  {
+    "id": 445,
+    "label": "STT:GameOptCBoxCameo",
+    "en": "Controls displaying unit names on build bar buttons."
+  },
+  {
+    "id": 446,
+    "label": "STT:GameOptCBoxTooltips",
+    "en": "Controls whether to show tooltips or not."
+  },
+  {
+    "id": 447,
+    "label": "STT:GameOptCBoxTargetLines",
+    "en": "Turns target lines from units on or off."
+  },
+  {
+    "id": 448,
+    "label": "STT:GameOptCBoxHidden",
+    "en": "Controls whether to show hidden units through buildings."
+  },
+  {
+    "id": 449,
+    "label": "STT:GameOptCBoxScrollCoasting",
+    "en": "Turns scroll coasting on or off."
+  },
+  {
+    "id": 450,
+    "label": "STT:GameOptButtonBack",
+    "en": "Return to the Options screen."
+  },
+  {
+    "id": 451,
+    "label": "STT:DisplayListModes",
+    "en": "Pick a resolution at which to play the game."
+  },
+  {
+    "id": 452,
+    "label": "STT:DisplayCBoxStretchMovies",
+    "en": "Turns movie stretching on or off."
+  },
+  {
+    "id": 453,
+    "label": "STT:DisplayButtonProceed",
+    "en": "Accept your display preferences changes."
+  },
+  {
+    "id": 454,
+    "label": "STT:DisplayButtonBack",
+    "en": "Return to the main Options screen."
+  },
+  {
+    "id": 455,
+    "label": "STT:SoundLiteSliderMusic",
+    "en": "Controls the music volume level."
+  },
+  {
+    "id": 456,
+    "label": "STT:SoundLiteSliderSound",
+    "en": "Controls the sound volume level."
+  },
+  {
+    "id": 457,
+    "label": "STT:SoundLiteSliderVoice",
+    "en": "Controls the voice volume level."
+  },
+  {
+    "id": 458,
+    "label": "STT:KeyboardComboCategory",
+    "en": "Pick a category of keyboard command."
+  },
+  {
+    "id": 459,
+    "label": "STT:KeyboardGroupDescription",
+    "en": "The description of your selected command."
+  },
+  {
+    "id": 460,
+    "label": "STT:KeyboardListCommands",
+    "en": "Available commands for the current category."
+  },
+  {
+    "id": 461,
+    "label": "STT:KeyboardLabelShortcut",
+    "en": "Displays the current Hotkey for this command."
+  },
+  {
+    "id": 462,
+    "label": "STT:KeyboardEditEntry",
+    "en": "Enter your new command Hotkey here."
+  },
+  {
+    "id": 463,
+    "label": "STT:KeyboardButtonAssign",
+    "en": "Assigns your chosen Hotkey command."
+  },
+  {
+    "id": 464,
+    "label": "STT:KeyboardLabelAssigned",
+    "en": "The command this hotkey is currently assigned to."
+  },
+  {
+    "id": 465,
+    "label": "STT:KeyboardButtonResetAll",
+    "en": "Resets all of your keyboard Hotkeys to default."
+  },
+  {
+    "id": 466,
+    "label": "STT:KeyboardButtonBack",
+    "en": "Return to the Options Menu."
+  },
+  {
+    "id": 467,
+    "label": "STT:BriefingLabelContent",
+    "en": "Your mission objectives."
+  },
+  {
+    "id": 468,
+    "label": "STT:BriefingButtonReturn",
+    "en": "Resume mission."
+  },
+  {
+    "id": 469,
+    "label": "STT:ConfirmExitButtonAbort",
+    "en": "Aborts the game."
+  },
+  {
+    "id": 470,
+    "label": "STT:ConfirmExitButtonRestart",
+    "en": "Restart the campaign mission."
+  },
+  {
+    "id": 471,
+    "label": "STT:ConfirmModeButtonOk",
+    "en": "Accept your video resolution change."
+  },
+  {
+    "id": 472,
+    "label": "STT:ConfirmModeButtonCancel",
+    "en": "Returns you to your previous video resolution."
+  },
+  {
+    "id": 473,
+    "label": "STT:DiplomacyLabelPlayer",
+    "en": "A player's name."
+  },
+  {
+    "id": 474,
+    "label": "STT:DiplomacyCBoxAllies",
+    "en": "Offer to join forces with this player."
+  },
+  {
+    "id": 475,
+    "label": "STT:DiplomacyCBoxListeners",
+    "en": "Enable your messages to be received by this player."
+  },
+  {
+    "id": 476,
+    "label": "STT:DiplomacyCBoxKills",
+    "en": "Displays the number of units destroyed by this player."
+  },
+  {
+    "id": 477,
+    "label": "STT:DiplomacyButtonReturn",
+    "en": "Return to battle."
+  },
+  {
+    "id": 478,
+    "label": "STT:IGGameOptSliderVisual",
+    "en": "Customize in-game graphical effects."
+  },
+  {
+    "id": 479,
+    "label": "STT:IGGameOptCBoxTooltips",
+    "en": "Turns help text on or off."
+  },
+  {
+    "id": 480,
+    "label": "STT:IGGameOptCBoxTargetLines",
+    "en": "Show targeting lines for unit movement and attack."
+  },
+  {
+    "id": 481,
+    "label": "STT:IGGameOptCBoxHidden",
+    "en": "Show units hidden behind buildings."
+  },
+  {
+    "id": 482,
+    "label": "STT:IGGameOptCBoxScrollCoast",
+    "en": "Tactical map slowly coasts to a stop."
+  },
+  {
+    "id": 483,
+    "label": "STT:IGGameOptButtonSound",
+    "en": "Controls sound volume level."
+  },
+  {
+    "id": 484,
+    "label": "STT:IGGameOptButtonKeyboard",
+    "en": "Enables you to customize your keyboard Hotkeys."
+  },
+  {
+    "id": 485,
+    "label": "STT:GenerateCBoxEnvironment",
+    "en": "Choose your battlefield."
+  },
+  {
+    "id": 486,
+    "label": "STT:GenerateCBoxTime",
+    "en": "Choose the time (day or night) of the engagement."
+  },
+  {
+    "id": 487,
+    "label": "STT:GenerateCBoxTheater",
+    "en": "Choose snow or temperate climate."
+  },
+  {
+    "id": 488,
+    "label": "STT:GenerateCBoxMapSize",
+    "en": "Choose the size of the battlefield."
+  },
+  {
+    "id": 489,
+    "label": "STT:GenerateCBoxResources",
+    "en": "Choose the amount of Ore on the map."
+  },
+  {
+    "id": 490,
+    "label": "STT:GenerateSliderNumPlayers",
+    "en": "The maximum number of opponents for this battlefield."
+  },
+  {
+    "id": 491,
+    "label": "STT:GenerateButtonSurprise",
+    "en": "Let us pick a battlefield for you!"
+  },
+  {
+    "id": 492,
+    "label": "STT:GenerateButtonPreview",
+    "en": "Preview the battlefield."
+  },
+  {
+    "id": 493,
+    "label": "STT:GenerateButtonLoadMap",
+    "en": "Loads a previously generated battlefield."
+  },
+  {
+    "id": 494,
+    "label": "STT:GenerateButtonSaveMap",
+    "en": "Saves this battlefield."
+  },
+  {
+    "id": 495,
+    "label": "STT:GenerateButtonDeleteMap",
+    "en": "Deletes a saved battlefield."
+  },
+  {
+    "id": 496,
+    "label": "STT:GenerateButtonUseMap",
+    "en": "Play on this battlefield."
+  },
+  {
+    "id": 497,
+    "label": "STT:GenerateButtonCancel",
+    "en": "Return to the Game Creation Menu."
+  },
+  {
+    "id": 498,
+    "label": "STT:MsnDltListMission",
+    "en": "Choose the battlefield you want to delete."
+  },
+  {
+    "id": 499,
+    "label": "STT:MsnDltButtonDelete",
+    "en": "Deletes the selected battlefield."
+  },
+  {
+    "id": 500,
+    "label": "STT:MsnDltButtonBack",
+    "en": "Returns to the previous Menu."
+  },
+  {
+    "id": 501,
+    "label": "STT:MsnSaveListMission",
+    "en": "The battlefields you have already saved."
+  },
+  {
+    "id": 502,
+    "label": "STT:MsnSaveEditName",
+    "en": "Name your saved battlefield."
+  },
+  {
+    "id": 503,
+    "label": "STT:MsnSaveButtonSave",
+    "en": "Saves the battlefield."
+  },
+  {
+    "id": 504,
+    "label": "STT:MPScoreLabelGame",
+    "en": "The number of the game you have just completed."
+  },
+  {
+    "id": 505,
+    "label": "STT:MPScoreLabelTime",
+    "en": "How long you fought in battle."
+  },
+  {
+    "id": 506,
+    "label": "STT:MPScoreLabelKills",
+    "en": "The number of units destroyed by a player."
+  },
+  {
+    "id": 507,
+    "label": "STT:MPScoreLabelLosses",
+    "en": "The number of units lost by this player."
+  },
+  {
+    "id": 508,
+    "label": "STT:MPScoreLabelBuilt",
+    "en": "The number of buildings and units built by this player."
+  },
+  {
+    "id": 509,
+    "label": "STT:MPScoreLabelScore",
+    "en": "The overall score of this player."
+  },
+  {
+    "id": 510,
+    "label": "STT:MPScoreButtonContinue",
+    "en": "Go to the next Menu."
+  },
+  {
+    "id": 511,
+    "label": "STT:IGSingleOptButtonControls",
+    "en": "Customize your controls."
+  },
+  {
+    "id": 512,
+    "label": "STT:IGSingleOptButtonLoad",
+    "en": "Load a saved mission and quit this one."
+  },
+  {
+    "id": 513,
+    "label": "STT:IGSingleOptButtonSave",
+    "en": "Save this mission."
+  },
+  {
+    "id": 514,
+    "label": "STT:IGSingleOptButtonAbort",
+    "en": "Abort this mission."
+  },
+  {
+    "id": 515,
+    "label": "STT:IGSingleOptButtonBack",
+    "en": "Resume this mission."
+  },
+  {
+    "id": 516,
+    "label": "STT:IGMultiOptButtonAbort",
+    "en": "Abort this game."
+  },
+  {
+    "id": 517,
+    "label": "STT:IGMultiOptButtonResume",
+    "en": "Return to the game."
+  },
+  {
+    "id": 518,
+    "label": "STT:ReconnectButtonPlayer",
+    "en": "Press this button to vote to boot this player."
+  },
+  {
+    "id": 519,
+    "label": "STT:ReconnectProgressPlayer",
+    "en": "Shows the time left before this player leaves the game."
+  },
+  {
+    "id": 520,
+    "label": "STT:ReconnectLabelTime",
+    "en": "Time remaining before the game times out."
+  },
+  {
+    "id": 521,
+    "label": "STT:ReconnectEditInfo",
+    "en": "Instructions."
+  },
+  {
+    "id": 522,
+    "label": "STT:ReconnectButtonLeaveGame",
+    "en": "Quit the game."
+  },
+  {
+    "id": 523,
+    "label": "STT:ScenarioListGameType",
+    "en": "Fight in one of these battle types."
+  },
+  {
+    "id": 524,
+    "label": "STT:ScenarioListMaps",
+    "en": "Fight on one of these battlefields."
+  },
+  {
+    "id": 525,
+    "label": "STT:ScenarioMapThumbnail",
+    "en": "Satellite view of current battlefield."
+  },
+  {
+    "id": 526,
+    "label": "STT:ScenarioButtonUseMap",
+    "en": "Use the currently selected battlefield."
+  },
+  {
+    "id": 527,
+    "label": "STT:ScenarioButtonRandom",
+    "en": "Create a random battlefield."
+  },
+  {
+    "id": 528,
+    "label": "STT:ScenarioButtonCancel",
+    "en": "Return to the Battle Creation Menu."
+  },
+  {
+    "id": 529,
+    "label": "STT:SoundOptListScore",
+    "en": "Lists the available music tracks."
+  },
+  {
+    "id": 530,
+    "label": "STT:SoundOptCBoxShuffle",
+    "en": "Shuffle the order of the music tracks that play."
+  },
+  {
+    "id": 531,
+    "label": "STT:SoundOptCBoxRepeat",
+    "en": "Repeat a single music track."
+  },
+  {
+    "id": 532,
+    "label": "STT:SoundOptButtonPlay",
+    "en": "Play a music track."
+  },
+  {
+    "id": 533,
+    "label": "STT:SoundOptButtonStop",
+    "en": "Stop a music track."
+  },
+  {
+    "id": 534,
+    "label": "STT:SoundOptButtonBack",
+    "en": "Return to the previous screen."
+  },
+  {
+    "id": 535,
+    "label": "STT:StandScoreUKillsLeft",
+    "en": "The units you killed during the scenario."
+  },
+  {
+    "id": 536,
+    "label": "STT:StandScoreUKillsRight",
+    "en": "The units the enemy killed during the scenario."
+  },
+  {
+    "id": 537,
+    "label": "STT:StandScoreUMadeLeft",
+    "en": "Units you made during the scenario."
+  },
+  {
+    "id": 538,
+    "label": "STT:StandScoreUMadeRight",
+    "en": "Units the enemy made during the scenario."
+  },
+  {
+    "id": 539,
+    "label": "STT:StandScoreBKillsLeft",
+    "en": "Buildings you killed during the scenario."
+  },
+  {
+    "id": 540,
+    "label": "STT:StandScoreBMadeLeft",
+    "en": "Buildings you made during the scenario."
+  },
+  {
+    "id": 541,
+    "label": "STT:StandScoreBMadeRight",
+    "en": "Buildings the enemy made during the scenario."
+  },
+  {
+    "id": 542,
+    "label": "STT:StandScoreCHarvLeft",
+    "en": "The credits you harvested during the scenario."
+  },
+  {
+    "id": 543,
+    "label": "STT:StandScoreCHarvRight",
+    "en": "The amount ore the enemy harvested."
+  },
+  {
+    "id": 544,
+    "label": "STT:StandScoreCSpentLeft",
+    "en": "The total credits you spent."
+  },
+  {
+    "id": 545,
+    "label": "STT:StandScoreCSpentRight",
+    "en": "The credits the enemy spent during the scenario."
+  },
+  {
+    "id": 546,
+    "label": "STT:StandScoreButtonReturn",
+    "en": "Continue to the next scenario."
+  },
+  {
+    "id": 547,
+    "label": "Tip:Rocket",
+    "en": "Rocket"
+  },
+  {
+    "id": 548,
+    "label": "Tip:Repair",
+    "en": "Repair"
+  },
+  {
+    "id": 549,
+    "label": "Tip:MachineGun",
+    "en": "Machine Gun"
+  },
+  {
+    "id": 550,
+    "label": "Tip:DiplomacyButton",
+    "en": "Diplomacy Button"
+  },
+  {
+    "id": 551,
+    "label": "Tip:BriefingButton",
+    "en": "Briefing Button"
+  },
+  {
+    "id": 552,
+    "label": "Tip:OptionsButton",
+    "en": "Options Button"
+  },
+  {
+    "id": 553,
+    "label": "Tip:Tab1",
+    "en": "Structures Tab"
+  },
+  {
+    "id": 554,
+    "label": "Tip:Tab2",
+    "en": "Armory Tab"
+  },
+  {
+    "id": 555,
+    "label": "Tip:Tab3",
+    "en": "Infantry Tab"
+  },
+  {
+    "id": 556,
+    "label": "Tip:Tab4",
+    "en": "Vehicles Tab"
+  },
+  {
+    "id": 557,
+    "label": "Tip:ScrollUp",
+    "en": "Up Scroll Arrow"
+  },
+  {
+    "id": 558,
+    "label": "Tip:ScrollDown",
+    "en": "Down Scroll Arrow"
+  },
+  {
+    "id": 559,
+    "label": "Tip:Disabled",
+    "en": "Disabled"
+  },
+  {
+    "id": 560,
+    "label": "Tip:ThumbClosed",
+    "en": "Click to show \n advanced commands"
+  },
+  {
+    "id": 561,
+    "label": "Tip:ThumbOpen",
+    "en": "Click to hide \n advanced commands"
+  },
+  {
+    "id": 562,
+    "label": "Tip:AttackMove",
+    "en": "Attack-Move"
+  },
+  {
+    "id": 563,
+    "label": "Tip:AutoDeploy",
+    "en": "Auto-Deploy"
+  },
+  {
+    "id": 564,
+    "label": "Tip:Beacon",
+    "en": "Beacon"
+  },
+  {
+    "id": 565,
+    "label": "Tip:Deploy",
+    "en": "Deploy"
+  },
+  {
+    "id": 566,
+    "label": "Tip:Guard",
+    "en": "Guard"
+  },
+  {
+    "id": 567,
+    "label": "Tip:PlanningMode",
+    "en": "Waypoints"
+  },
+  {
+    "id": 568,
+    "label": "Tip:Team01",
+    "en": "Team 01"
+  },
+  {
+    "id": 569,
+    "label": "Tip:Team02",
+    "en": "Team 02"
+  },
+  {
+    "id": 570,
+    "label": "Tip:Team03",
+    "en": "Team 03"
+  },
+  {
+    "id": 571,
+    "label": "Tip:TypeSelect",
+    "en": "Type Select"
+  },
+  {
+    "id": 572,
+    "label": "Name:Temperate",
+    "en": "Temperate"
+  },
+  {
+    "id": 573,
+    "label": "Name:Snow",
+    "en": "Snow"
+  },
+  {
+    "id": 574,
+    "label": "Name:Urban",
+    "en": "Urban"
+  },
+  {
+    "id": 575,
+    "label": "Name:General",
+    "en": "Yuri's Revenge -- Official Rules of Engagement"
+  },
+  {
+    "id": 576,
+    "label": "Name:British",
+    "en": "Great Britain"
+  },
+  {
+    "id": 577,
+    "label": "Name:French",
+    "en": "France"
+  },
+  {
+    "id": 578,
+    "label": "Name:Germans",
+    "en": "Germany"
+  },
+  {
+    "id": 579,
+    "label": "Name:Americans",
+    "en": "America"
+  },
+  {
+    "id": 580,
+    "label": "Name:Alliance",
+    "en": "Korea"
+  },
+  {
+    "id": 581,
+    "label": "Name:Russians",
+    "en": "Russia"
+  },
+  {
+    "id": 582,
+    "label": "Name:Confederation",
+    "en": "Cuba"
+  },
+  {
+    "id": 583,
+    "label": "Name:Africans",
+    "en": "Libya"
+  },
+  {
+    "id": 584,
+    "label": "Name:Arabs",
+    "en": "Iraq"
+  },
+  {
+    "id": 585,
+    "label": "Name:Special",
+    "en": "JP"
+  },
+  {
+    "id": 586,
+    "label": "Name:Neutral",
+    "en": "Civilian"
+  },
+  {
+    "id": 587,
+    "label": "Name:E1",
+    "en": "GI"
+  },
+  {
+    "id": 588,
+    "label": "Name:SNIPE",
+    "en": "Sniper"
+  },
+  {
+    "id": 589,
+    "label": "Name:FLAKT",
+    "en": "Flak Trooper"
+  },
+  {
+    "id": 590,
+    "label": "Name:E2",
+    "en": "Conscript"
+  },
+  {
+    "id": 591,
+    "label": "Name:SHK",
+    "en": "Tesla Trooper"
+  },
+  {
+    "id": 592,
+    "label": "Name:ENGINEER",
+    "en": "Engineer"
+  },
+  {
+    "id": 593,
+    "label": "Name:JUMPJET",
+    "en": "Rocketeer"
+  },
+  {
+    "id": 594,
+    "label": "Name:GHOST",
+    "en": "SEAL"
+  },
+  {
+    "id": 595,
+    "label": "Name:TANYA",
+    "en": "Tanya"
+  },
+  {
+    "id": 596,
+    "label": "Name:YURI",
+    "en": "Yuri"
+  },
+  {
+    "id": 597,
+    "label": "Name:IVAN",
+    "en": "Crazy Ivan"
+  },
+  {
+    "id": 598,
+    "label": "Name:DESO",
+    "en": "Desolator"
+  },
+  {
+    "id": 599,
+    "label": "Name:CLEG",
+    "en": "Chrono Legionnaire"
+  },
+  {
+    "id": 600,
+    "label": "Name:DOG",
+    "en": "Attack Dog"
+  },
+  {
+    "id": 601,
+    "label": "Name:COW",
+    "en": "Cow"
+  },
+  {
+    "id": 602,
+    "label": "Name:CTECH",
+    "en": "Technician"
+  },
+  {
+    "id": 603,
+    "label": "Name:WEEDGUY",
+    "en": "Chem Spray Infantry"
+  },
+  {
+    "id": 604,
+    "label": "Name:SPY",
+    "en": "Spy"
+  },
+  {
+    "id": 605,
+    "label": "Name:TERROR",
+    "en": "Terrorist"
+  },
+  {
+    "id": 606,
+    "label": "Name:CCOMAND",
+    "en": "Chrono Commando"
+  },
+  {
+    "id": 607,
+    "label": "Name:PTROOP",
+    "en": "Psi-Corps Trooper"
+  },
+  {
+    "id": 608,
+    "label": "Name:CIVAN",
+    "en": "Chrono Ivan"
+  },
+  {
+    "id": 609,
+    "label": "Name:YURIPR",
+    "en": "Yuri Prime"
+  },
+  {
+    "id": 610,
+    "label": "Name:HVR",
+    "en": "Hover Monkey"
+  },
+  {
+    "id": 611,
+    "label": "Name:APOC",
+    "en": "Apocalypse"
+  },
+  {
+    "id": 612,
+    "label": "Name:DTRUCK",
+    "en": "Demolition Truck"
+  },
+  {
+    "id": 613,
+    "label": "Name:TRUCKA",
+    "en": "Truck"
+  },
+  {
+    "id": 614,
+    "label": "Name:TRUCKB",
+    "en": "Truck (loaded)"
+  },
+  {
+    "id": 615,
+    "label": "Name:SUB",
+    "en": "Typhoon Attack Sub"
+  },
+  {
+    "id": 616,
+    "label": "Name:DLPH",
+    "en": "Dolphin"
+  },
+  {
+    "id": 617,
+    "label": "Name:AEGIS",
+    "en": "Aegis Cruiser"
+  },
+  {
+    "id": 618,
+    "label": "Name:CARRIER",
+    "en": "Aircraft Carrier"
+  },
+  {
+    "id": 619,
+    "label": "Name:CARRIERB",
+    "en": "Aircraft Carrier Nimitz"
+  },
+  {
+    "id": 620,
+    "label": "Name:DRED",
+    "en": "Dreadnought"
+  },
+  {
+    "id": 621,
+    "label": "Name:DREDB",
+    "en": "Dreadnought +3"
+  },
+  {
+    "id": 622,
+    "label": "Name:HYD",
+    "en": "Sea Scorpion"
+  },
+  {
+    "id": 623,
+    "label": "Name:DEST",
+    "en": "Destroyer"
+  },
+  {
+    "id": 624,
+    "label": "Name:V3",
+    "en": "V3 Launcher"
+  },
+  {
+    "id": 625,
+    "label": "Name:DRON",
+    "en": "Terror Drone"
+  },
+  {
+    "id": 626,
+    "label": "Name:SQD",
+    "en": "Giant Squid"
+  },
+  {
+    "id": 627,
+    "label": "Name:HORV",
+    "en": "War Miner"
+  },
+  {
+    "id": 628,
+    "label": "Name:CMON",
+    "en": "Chrono Miner(noback)"
+  },
+  {
+    "id": 629,
+    "label": "Name:CMIN",
+    "en": "Chrono Miner"
+  },
+  {
+    "id": 630,
+    "label": "Name:AMCV",
+    "en": "Allied Construction Vehicle"
+  },
+  {
+    "id": 631,
+    "label": "Name:SMCV",
+    "en": "Soviet Construction Vehicle"
+  },
+  {
+    "id": 632,
+    "label": "Name:LCRF",
+    "en": "Amphibious Transport"
+  },
+  {
+    "id": 633,
+    "label": "Name:HTK",
+    "en": "Flak Track"
+  },
+  {
+    "id": 634,
+    "label": "Name:BUS",
+    "en": "School Bus"
+  },
+  {
+    "id": 635,
+    "label": "Name:LOCOMOTIVE",
+    "en": "Locomotive"
+  },
+  {
+    "id": 636,
+    "label": "Name:TRAINCAR",
+    "en": "Train Car"
+  },
+  {
+    "id": 637,
+    "label": "Name:CARGOCAR",
+    "en": "Cargo Car"
+  },
+  {
+    "id": 638,
+    "label": "Name:PICK",
+    "en": "Pickup Truck"
+  },
+  {
+    "id": 639,
+    "label": "Name:CAR",
+    "en": "Automobile"
+  },
+  {
+    "id": 640,
+    "label": "Name:WINI",
+    "en": "Recreational Vehicle"
+  },
+  {
+    "id": 641,
+    "label": "Name:HTNK",
+    "en": "Rhino Heavy Tank"
+  },
+  {
+    "id": 642,
+    "label": "Name:LTNK",
+    "en": "Light Tank"
+  },
+  {
+    "id": 643,
+    "label": "Name:MTNK",
+    "en": "Grizzly Battle Tank"
+  },
+  {
+    "id": 644,
+    "label": "Name:MGTK",
+    "en": "Mirage Tank"
+  },
+  {
+    "id": 645,
+    "label": "Name:FV",
+    "en": "IFV"
+  },
+  {
+    "id": 646,
+    "label": "Name:TNKD",
+    "en": "Tank Destroyer"
+  },
+  {
+    "id": 647,
+    "label": "Name:HOWI",
+    "en": "Howitzer"
+  },
+  {
+    "id": 648,
+    "label": "Name:TTNK",
+    "en": "Tesla Tank"
+  },
+  {
+    "id": 649,
+    "label": "Name:SREF",
+    "en": "Prism Tank"
+  },
+  {
+    "id": 650,
+    "label": "Name:XCOMET",
+    "en": "Placeholder"
+  },
+  {
+    "id": 651,
+    "label": "Name:ORCA",
+    "en": "Harrier"
+  },
+  {
+    "id": 652,
+    "label": "Name:BEAGLE",
+    "en": "Black Eagle"
+  },
+  {
+    "id": 653,
+    "label": "Name:ORCATRAN",
+    "en": "Black Oops Transport BAD VERSION"
+  },
+  {
+    "id": 654,
+    "label": "Name:HIND",
+    "en": "Hind Transport"
+  },
+  {
+    "id": 655,
+    "label": "Name:TRNSPORT",
+    "en": "Carryall"
+  },
+  {
+    "id": 656,
+    "label": "Name:SHAD",
+    "en": "NightHawk Transport"
+  },
+  {
+    "id": 657,
+    "label": "Name:ZEP",
+    "en": "Kirov Airship"
+  },
+  {
+    "id": 658,
+    "label": "Name:HORNET",
+    "en": "Hornet"
+  },
+  {
+    "id": 659,
+    "label": "Name:DMISL",
+    "en": "Missile"
+  },
+  {
+    "id": 660,
+    "label": "Name:ASW",
+    "en": "Osprey"
+  },
+  {
+    "id": 661,
+    "label": "Name:V3ROCKET",
+    "en": "V3 Rocket"
+  },
+  {
+    "id": 662,
+    "label": "Name:APACHE",
+    "en": "Harpy"
+  },
+  {
+    "id": 663,
+    "label": "Name:PDPLANE",
+    "en": "Cargo Plane"
+  },
+  {
+    "id": 664,
+    "label": "Name:GATECH",
+    "en": "Allied Battle Lab"
+  },
+  {
+    "id": 665,
+    "label": "Name:GAWEAP",
+    "en": "Allied War Factory"
+  },
+  {
+    "id": 666,
+    "label": "Name:NAWEAP",
+    "en": "Soviet War Factory"
+  },
+  {
+    "id": 667,
+    "label": "Name:GACNST",
+    "en": "Allied Construction Yard"
+  },
+  {
+    "id": 668,
+    "label": "Name:NACNST",
+    "en": "Soviet Construction Yard"
+  },
+  {
+    "id": 669,
+    "label": "Name:GADPSA",
+    "en": "Deployed Sensor Array"
+  },
+  {
+    "id": 670,
+    "label": "Name:GAICBM",
+    "en": "Deployed ICBM"
+  },
+  {
+    "id": 671,
+    "label": "Name:GATICK",
+    "en": "Deployed Tick Tank"
+  },
+  {
+    "id": 672,
+    "label": "Name:GAARTY",
+    "en": "Deployed Artillery"
+  },
+  {
+    "id": 673,
+    "label": "Name:GAREFN",
+    "en": "Allied Ore Refinery"
+  },
+  {
+    "id": 674,
+    "label": "Name:NAREFN",
+    "en": "Soviet Ore Refinery"
+  },
+  {
+    "id": 675,
+    "label": "Name:GASILO",
+    "en": "Silo"
+  },
+  {
+    "id": 676,
+    "label": "Name:GAYARD",
+    "en": "Allied Shipyard"
+  },
+  {
+    "id": 677,
+    "label": "Name:NAYARD",
+    "en": "Soviet Shipyard"
+  },
+  {
+    "id": 678,
+    "label": "Name:GAAIRC",
+    "en": "Air Force Command Headquarters"
+  },
+  {
+    "id": 679,
+    "label": "Name:GAHPAD",
+    "en": "Airfield"
+  },
+  {
+    "id": 680,
+    "label": "Name:NAHPAD",
+    "en": "Helipad"
+  },
+  {
+    "id": 681,
+    "label": "Name:GARADR",
+    "en": "Command Center"
+  },
+  {
+    "id": 682,
+    "label": "Name:GASPYSAT",
+    "en": "SpySat Uplink"
+  },
+  {
+    "id": 683,
+    "label": "Name:GAGAP",
+    "en": "Gap Generator"
+  },
+  {
+    "id": 684,
+    "label": "Name:NASTLH",
+    "en": "Stealth Generator"
+  },
+  {
+    "id": 685,
+    "label": "Name:GAPOWR",
+    "en": "Power Plant"
+  },
+  {
+    "id": 686,
+    "label": "Name:NAPOWR",
+    "en": "Tesla Reactor"
+  },
+  {
+    "id": 687,
+    "label": "Name:NAAPWR",
+    "en": "Advanced Power Plant"
+  },
+  {
+    "id": 688,
+    "label": "Name:NATECH",
+    "en": "Soviet Battle Lab"
+  },
+  {
+    "id": 689,
+    "label": "Name:NAHAND",
+    "en": "Soviet Barracks"
+  },
+  {
+    "id": 690,
+    "label": "Name:GAOREP",
+    "en": "Ore Purifier"
+  },
+  {
+    "id": 691,
+    "label": "Name:NACLON",
+    "en": "Cloning Vats"
+  },
+  {
+    "id": 692,
+    "label": "Name:GAPILE",
+    "en": "Allied Barracks"
+  },
+  {
+    "id": 693,
+    "label": "Name:GADEPT",
+    "en": "Allied Repair Depot"
+  },
+  {
+    "id": 694,
+    "label": "Name:GAPAVE",
+    "en": "Pavement"
+  },
+  {
+    "id": 695,
+    "label": "Name:GAGREEN",
+    "en": "Green Building"
+  },
+  {
+    "id": 696,
+    "label": "Name:GASAND",
+    "en": "Sandbags"
+  },
+  {
+    "id": 697,
+    "label": "Name:GAWALL",
+    "en": "Allied Wall"
+  },
+  {
+    "id": 698,
+    "label": "Name:GAFWLL",
+    "en": "French Wall"
+  },
+  {
+    "id": 699,
+    "label": "Name:NAWALL",
+    "en": "Soviet Wall"
+  }
+]

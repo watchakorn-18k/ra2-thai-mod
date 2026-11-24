@@ -1,0 +1,1222 @@
+[
+  {
+    "id": 4200,
+    "label": "NAME:LittlePi",
+    "en": "Little Piece of Dune (2)"
+  },
+  {
+    "id": 4201,
+    "label": "NAME:DunePatr",
+    "en": "Dune Patrol (2)"
+  },
+  {
+    "id": 4202,
+    "label": "NAME:MoonPatr",
+    "en": "Moon Patrol"
+  },
+  {
+    "id": 4203,
+    "label": "NAME:MoonBrea",
+    "en": "Moon Breaker"
+  },
+  {
+    "id": 4204,
+    "label": "NAME:CraterCa",
+    "en": "Crater Canyon"
+  },
+  {
+    "id": 4205,
+    "label": "NAME:TampicoT",
+    "en": "Tampico Trauma"
+  },
+  {
+    "id": 4206,
+    "label": "NAME:Manhatta",
+    "en": "Manhattan Mayhem (2-4)"
+  },
+  {
+    "id": 4207,
+    "label": "NAME:BronxBom",
+    "en": "Bronx Bombers"
+  },
+  {
+    "id": 4208,
+    "label": "NAME:HarlemHo",
+    "en": "Harlem Hotspot"
+  },
+  {
+    "id": 4209,
+    "label": "NAME:Transylv",
+    "en": "Transylvania Trouble"
+  },
+  {
+    "id": 4210,
+    "label": "NAME:TnkRshHr",
+    "en": "Tank Rush Hour"
+  },
+  {
+    "id": 4211,
+    "label": "NAME:TeslaTer",
+    "en": "Tesla Termination"
+  },
+  {
+    "id": 4212,
+    "label": "NAME:Siberian",
+    "en": "Siberian Wasteland"
+  },
+  {
+    "id": 4213,
+    "label": "NAME:Harveste",
+    "en": "Harvester Home"
+  },
+  {
+    "id": 4214,
+    "label": "NAME:OreTruck",
+    "en": "Ore Truck Driver Blues"
+  },
+  {
+    "id": 4215,
+    "label": "NAME:SqueakyA",
+    "en": "Squeaky Axle"
+  },
+  {
+    "id": 4216,
+    "label": "NAME:SaharaMi",
+    "en": "Sahara Mirage (2)"
+  },
+  {
+    "id": 4217,
+    "label": "NAME:IslandRu",
+    "en": "Island Ruins"
+  },
+  {
+    "id": 4218,
+    "label": "NAME:YurisLeg",
+    "en": "Yuri's Legacy"
+  },
+  {
+    "id": 4219,
+    "label": "NAME:OnevsMan",
+    "en": "One vs Many (2-4)"
+  },
+  {
+    "id": 4220,
+    "label": "NAME:OpratAnn",
+    "en": "Operation: Annihilation"
+  },
+  {
+    "id": 4221,
+    "label": "NAME:TerrainF",
+    "en": "Terrain Feature"
+  },
+  {
+    "id": 4222,
+    "label": "NAME:LandAcce",
+    "en": "Land Access Denied"
+  },
+  {
+    "id": 4223,
+    "label": "NAME:NearOreF",
+    "en": "Near Ore Far (2-8)"
+  },
+  {
+    "id": 4224,
+    "label": "NAME:Runningt",
+    "en": "Running the Gauntlet (2)"
+  },
+  {
+    "id": 4225,
+    "label": "NAME:OpratDea",
+    "en": "Operation: Deathwatch"
+  },
+  {
+    "id": 4226,
+    "label": "NAME:Warmonge",
+    "en": "Warmonger"
+  },
+  {
+    "id": 4227,
+    "label": "NAME:Assaulta",
+    "en": "Assault and Pepper"
+  },
+  {
+    "id": 4228,
+    "label": "NAME:ExposedF",
+    "en": "Exposed Flanks (2-4)"
+  },
+  {
+    "id": 4229,
+    "label": "NAME:GroundZe",
+    "en": "Ground Zero (2-4)"
+  },
+  {
+    "id": 4230,
+    "label": "NAME:Claymore",
+    "en": "Claymore"
+  },
+  {
+    "id": 4231,
+    "label": "NAME:CodeBroa",
+    "en": "Codename: Broadsword"
+  },
+  {
+    "id": 4232,
+    "label": "NAME:LghtCavl",
+    "en": "Light Cavalry"
+  },
+  {
+    "id": 4233,
+    "label": "NAME:Valhalla",
+    "en": "Valhalla"
+  },
+  {
+    "id": 4234,
+    "label": "NAME:CagedTig",
+    "en": "Caged Tiger"
+  },
+  {
+    "id": 4235,
+    "label": "NAME:BlastRad",
+    "en": "Blast Radius"
+  },
+  {
+    "id": 4236,
+    "label": "NAME:Expanded",
+    "en": "Expanded Empire"
+  },
+  {
+    "id": 4237,
+    "label": "NAME:FallenEm",
+    "en": "Fallen Empire"
+  },
+  {
+    "id": 4238,
+    "label": "NAME:Shattere",
+    "en": "Shattered Ruins"
+  },
+  {
+    "id": 4239,
+    "label": "NAME:BattleCr",
+    "en": "Battle Creek"
+  },
+  {
+    "id": 4240,
+    "label": "NAME:MonsterM",
+    "en": "Monster Movie"
+  },
+  {
+    "id": 4241,
+    "label": "NAME:Ldntheda",
+    "en": "London, the day after (2-6)"
+  },
+  {
+    "id": 4242,
+    "label": "NAME:StatnTar",
+    "en": "Stationary Target"
+  },
+  {
+    "id": 4243,
+    "label": "NAME:DsgnTarg",
+    "en": "Designated Target"
+  },
+  {
+    "id": 4244,
+    "label": "NAME:HighExpR",
+    "en": "High Explosive Round"
+  },
+  {
+    "id": 4245,
+    "label": "NAME:FullAuto",
+    "en": "Full Auto"
+  },
+  {
+    "id": 4246,
+    "label": "NAME:ReactArm",
+    "en": "Reactive Armor"
+  },
+  {
+    "id": 4247,
+    "label": "NAME:TrnofLie",
+    "en": "A Tournament of Lies"
+  },
+  {
+    "id": 4248,
+    "label": "NAME:UnansCha",
+    "en": "Unanswered Challenge"
+  },
+  {
+    "id": 4249,
+    "label": "NAME:OpNgtStk",
+    "en": "Operation: Knight Stalker"
+  },
+  {
+    "id": 4250,
+    "label": "NAME:ArmorPRd",
+    "en": "Armor Piercing Round"
+  },
+  {
+    "id": 4251,
+    "label": "NAME:TgElimin",
+    "en": "Target Eliminated"
+  },
+  {
+    "id": 4252,
+    "label": "NAME:Joust",
+    "en": "Joust (2)"
+  },
+  {
+    "id": 4253,
+    "label": "NAME:Starfish",
+    "en": "Starfish (2-5)"
+  },
+  {
+    "id": 4254,
+    "label": "NAME:ThreeCrd",
+    "en": "Three's a Crowd (2-3)"
+  },
+  {
+    "id": 4255,
+    "label": "NAME:Six_Pack",
+    "en": "Six Pack (2-6)"
+  },
+  {
+    "id": 4256,
+    "label": "NAME:FouroDia",
+    "en": "The Four of Diamonds (2-4)"
+  },
+  {
+    "id": 4257,
+    "label": "NAME:Seven_Up",
+    "en": "Seven Up (2-7)"
+  },
+  {
+    "id": 4258,
+    "label": "NAME:AtetooMu",
+    "en": "Ate too Much (2-8)"
+  },
+  {
+    "id": 4259,
+    "label": "NAME:Cuplet",
+    "en": "Cuplet (2)"
+  },
+  {
+    "id": 4260,
+    "label": "NAME:Iamb",
+    "en": "Iambic Iam (2)"
+  },
+  {
+    "id": 4261,
+    "label": "NAME:Pentamet",
+    "en": "Pentameter (2-5)"
+  },
+  {
+    "id": 4262,
+    "label": "NAME:UnfairAd",
+    "en": "Unfair Advantage"
+  },
+  {
+    "id": 4263,
+    "label": "NAME:Crevasse",
+    "en": "Crevasse"
+  },
+  {
+    "id": 4264,
+    "label": "NAME:Ice_Age",
+    "en": "Ice Age"
+  },
+  {
+    "id": 4265,
+    "label": "NAME:IrvineCa",
+    "en": "Irvine, California"
+  },
+  {
+    "id": 4266,
+    "label": "THEME:BrainFreeze",
+    "en": "Brain Freeze"
+  },
+  {
+    "id": 4267,
+    "label": "THEME:Drok",
+    "en": "Drok"
+  },
+  {
+    "id": 4268,
+    "label": "THEME:Deceiver",
+    "en": "Deceiver"
+  },
+  {
+    "id": 4269,
+    "label": "THEME:PhatAttack",
+    "en": "Phat Attack"
+  },
+  {
+    "id": 4270,
+    "label": "MISSION:C11Obj",
+    "en": "Objective: Destroy all Soviet forces."
+  },
+  {
+    "id": 4271,
+    "label": "MISSION:C11Nuke",
+    "en": "Destroy the Soviets Nuclear Reactor."
+  },
+  {
+    "id": 4272,
+    "label": "MISSION:C12Obj",
+    "en": "Objective: Destroy all Yuri forces."
+  },
+  {
+    "id": 4273,
+    "label": "MISSION:C12Spy",
+    "en": "Hint: Use a Spy to shut down Yuri's power."
+  },
+  {
+    "id": 4274,
+    "label": "MISSION:C13Def",
+    "en": "Construct base defenses before enemy forces arrive."
+  },
+  {
+    "id": 4275,
+    "label": "MISSION:C13Timer",
+    "en": "Enemy forces arrive in:"
+  },
+  {
+    "id": 4276,
+    "label": "MISSION:C13Warn",
+    "en": "WARNING - Enemy troop movements detected."
+  },
+  {
+    "id": 4277,
+    "label": "MISSION:C13Obj",
+    "en": "Objective: Destroy all Yuri and Soviet forces."
+  },
+  {
+    "id": 4278,
+    "label": "MISSION:C21Timer",
+    "en": "Reinforcements arrive in:"
+  },
+  {
+    "id": 4279,
+    "label": "MISSION:C21Grand",
+    "en": "Destroy the Allied Grand Cannons."
+  },
+  {
+    "id": 4280,
+    "label": "MISSION:C21Obj",
+    "en": "Destroy all Allied forces."
+  },
+  {
+    "id": 4281,
+    "label": "MISSION:C22Gatt",
+    "en": "Destroy Yuri's Gattling Cannon defenses."
+  },
+  {
+    "id": 4282,
+    "label": "MISSION:C23Obj",
+    "en": "Objective: Destroy all Yuri and Allied forces."
+  },
+  {
+    "id": 4283,
+    "label": "MISSION:C23Lab",
+    "en": "Locate and capture Einstein's laboratory."
+  },
+  {
+    "id": 4284,
+    "label": "MISSION:C23Nuke",
+    "en": "Protect the Nuclear Reactors."
+  },
+  {
+    "id": 4285,
+    "label": "MISSION:C31Obj",
+    "en": "Objective: Destroy all Allied forces."
+  },
+  {
+    "id": 4286,
+    "label": "MISSION:C31Crate",
+    "en": "Hint: Destroy American monuments for a cash reward."
+  },
+  {
+    "id": 4287,
+    "label": "MISSION:C32Navy",
+    "en": "Build Boomer Submarines to destroy the Soviet Navy."
+  },
+  {
+    "id": 4288,
+    "label": "MISSION:C33Obj",
+    "en": "Objective: Destroy all Allied and Soviet forces."
+  },
+  {
+    "id": 4289,
+    "label": "MISSION:C33",
+    "en": "Hint: Target civilians with the Genetic Mutator to turn them into Brutes."
+  },
+  {
+    "id": 4290,
+    "label": "MISSION:C41Combo",
+    "en": "HINT:Try using combinations of Allied and Soviet units."
+  },
+  {
+    "id": 4291,
+    "label": "MISSION:C41Hsptl",
+    "en": "HINT: Capture the Tech Hospital to regenerate infantry health."
+  },
+  {
+    "id": 4292,
+    "label": "MISSION:C41Mshop",
+    "en": "HINT: Capture the Tech Machine Shop to regenerate vehicle armor."
+  },
+  {
+    "id": 4293,
+    "label": "MISSION:C41Rig",
+    "en": "HINT: Capture Tech Oil Derricks to increase cash flow."
+  },
+  {
+    "id": 4294,
+    "label": "MISSION:C41Air",
+    "en": "HINT: Capture the Tech Airport for Airborne reinforcements."
+  },
+  {
+    "id": 4295,
+    "label": "MISSION:ObjCompleteSov04md",
+    "en": "Objective Complete"
+  },
+  {
+    "id": 4296,
+    "label": "Brief:Sov05md",
+    "en": "We have uncovered Yuri's secret Submarine Base on an uncharted island in the Pacific Ocean. The threat of Yuri's Boomer Subs must be neutralized! \n \n Objective 1: Pick a landing zone and construct a base. \n Objective 2: Locate and destroy Yuri's Submarine Pen. \n Objective 3: Finish off all remaining Yuri forces."
+  },
+  {
+    "id": 4297,
+    "label": "LoadBrief:Sov07md",
+    "en": "Objective 1: Destroy Yuri's Fortress."
+  },
+  {
+    "id": 4298,
+    "label": "Name:CALA10",
+    "en": "Billboard"
+  },
+  {
+    "id": 4299,
+    "label": "Name:CAURB03",
+    "en": "Spotlight"
+  },
+  {
+    "id": 4300,
+    "label": "Name:CASTRT05",
+    "en": "Bus Stop"
+  },
+  {
+    "id": 4301,
+    "label": "Name:CABARR",
+    "en": "Hedgehog"
+  },
+  {
+    "id": 4302,
+    "label": "Name:CASIN03",
+    "en": "Construction Sign"
+  },
+  {
+    "id": 4303,
+    "label": "Name:CAURB02",
+    "en": "Fire Hydrant"
+  },
+  {
+    "id": 4304,
+    "label": "Name:CATIME02",
+    "en": "Time Machine"
+  },
+  {
+    "id": 4305,
+    "label": "Name:CAURB01",
+    "en": "Telephone Booth"
+  },
+  {
+    "id": 4306,
+    "label": "Name:DNOB",
+    "en": "Brachiosaurus"
+  },
+  {
+    "id": 4307,
+    "label": "Name:BPLN",
+    "en": "MiG"
+  },
+  {
+    "id": 4308,
+    "label": "Name:JEEP",
+    "en": "Jeep"
+  },
+  {
+    "id": 4309,
+    "label": "Name:YACOMD",
+    "en": "Yuri´s Command Center"
+  },
+  {
+    "id": 4310,
+    "label": "Name:RedBus",
+    "en": "Bus"
+  },
+  {
+    "id": 4311,
+    "label": "Name:Globe",
+    "en": "Globe Theater"
+  },
+  {
+    "id": 4312,
+    "label": "Name:All06md",
+    "en": "Operation: Trick or Treaty"
+  },
+  {
+    "id": 4313,
+    "label": "Name:CAPOWR",
+    "en": "Tech Power Plant"
+  },
+  {
+    "id": 4314,
+    "label": "MISSION:DominatorSelfDestruct",
+    "en": "Psychic Dominator Self Destruct"
+  },
+  {
+    "id": 4315,
+    "label": "MISSION:PsychicTowers",
+    "en": "WARNING - Psychic Towers can mind control enemy units that get too close to them!"
+  },
+  {
+    "id": 4316,
+    "label": "Name:Civilian_Plane",
+    "en": "Passenger Plane"
+  },
+  {
+    "id": 4317,
+    "label": "Name:PsyReveal",
+    "en": "Psychic Reveal"
+  },
+  {
+    "id": 4318,
+    "label": "GUI:TradeMarkTop",
+    "en": "Command & Conquer and Yuri's Revenge are trademarks or registered"
+  },
+  {
+    "id": 4319,
+    "label": "GUI:TradeMarkBottom",
+    "en": "trademarks of Electronic Arts Inc. in the U.S. and/or other countries."
+  },
+  {
+    "id": 4320,
+    "label": "TXT_CANNOT_ALLY",
+    "en": "Must have more than one team to start a game!"
+  },
+  {
+    "id": 4321,
+    "label": "MISSION:Sov1Obj2a",
+    "en": "Destroy the Pill Boxes surrounding the Time Machine."
+  },
+  {
+    "id": 4322,
+    "label": "Name:CALUNR01",
+    "en": "Lunar Lander"
+  },
+  {
+    "id": 4323,
+    "label": "THEME:DefendTheBase",
+    "en": "Defend the Base"
+  },
+  {
+    "id": 4324,
+    "label": "THEME:Tactics",
+    "en": "Tactics"
+  },
+  {
+    "id": 4325,
+    "label": "THEME:TranceLVania",
+    "en": "Trance L. Vania"
+  },
+  {
+    "id": 4326,
+    "label": "THEME:BullyKit",
+    "en": "Bully Kit"
+  },
+  {
+    "id": 4327,
+    "label": "TXT_AWAY_LOADING",
+    "en": "The user you just paged is loading a map and is unable to reply to pages."
+  },
+  {
+    "id": 4328,
+    "label": "TXT_AWAY_QUICKMATCH",
+    "en": "The user you just paged is in quickmatch and is unable to reply to pages."
+  },
+  {
+    "id": 4329,
+    "label": "TXT_AWAY_SCORESCREEN",
+    "en": "The user you just paged is at a score screen and is unable to reply to pages."
+  },
+  {
+    "id": 4330,
+    "label": "GUI:NextMission",
+    "en": "Next Mission:"
+  },
+  {
+    "id": 4331,
+    "label": "GUI:PreviousMission",
+    "en": "Previous Mission"
+  },
+  {
+    "id": 4332,
+    "label": "TXT_HOW_TO_REPLY",
+    "en": "Press the page user button (u by default) to reply to the message you just received."
+  },
+  {
+    "id": 4333,
+    "label": "CRD_TTL:EUROPEANLOCALIZATION",
+    "en": "EUROPEAN LOCALIZATION"
+  },
+  {
+    "id": 4334,
+    "label": "NAME:Escalation",
+    "en": "Escalation (2-4)"
+  },
+  {
+    "id": 4335,
+    "label": "GUI:PlayerLeftCoop",
+    "en": "%s has left the Coop Campaign."
+  },
+  {
+    "id": 4336,
+    "label": "GUI:BadgesOfHonor",
+    "en": "Badges of Honor"
+  },
+  {
+    "id": 4337,
+    "label": "STT:BadgesOfHonor",
+    "en": "Medals awarded for command excellence."
+  },
+  {
+    "id": 4338,
+    "label": "GUI:News",
+    "en": "News"
+  },
+  {
+    "id": 4339,
+    "label": "STT:WOLClan",
+    "en": "Go to the Battleclan Manager."
+  },
+  {
+    "id": 4340,
+    "label": "STT:WOLTournament",
+    "en": "View tournament rankings."
+  },
+  {
+    "id": 4341,
+    "label": "STT:WOLNews",
+    "en": "Get the latest news for Yuri's Revenge."
+  },
+  {
+    "id": 4342,
+    "label": "STT:AlliedCampaignIcon",
+    "en": "Click the Allied icon to start Allied campaign."
+  },
+  {
+    "id": 4343,
+    "label": "STT:SovietCampaignIcon",
+    "en": "Click the Soviet icon to start Soviet campaign."
+  },
+  {
+    "id": 4344,
+    "label": "Name:AllFinalMovie",
+    "en": "Allied Victory"
+  },
+  {
+    "id": 4345,
+    "label": "Name:SovFinalMovie",
+    "en": "Soviet Victory"
+  },
+  {
+    "id": 4346,
+    "label": "MSG:DominatorActive",
+    "en": "Psychic Dominator already active. Activation aborted."
+  },
+  {
+    "id": 4347,
+    "label": "TXT_INSERT_CD_DIALOG",
+    "en": "Please Insert Yuri's Revenge CD"
+  },
+  {
+    "id": 4348,
+    "label": "Name:All01mdSav",
+    "en": "Allied 01 - Time Lapse"
+  },
+  {
+    "id": 4349,
+    "label": "Name:All02mdSav",
+    "en": "Allied 02 - Hollywood and Vain"
+  },
+  {
+    "id": 4350,
+    "label": "Name:All03mdSav",
+    "en": "Allied 03 - Power Play"
+  },
+  {
+    "id": 4351,
+    "label": "Name:All04mdSav",
+    "en": "Allied 04 - Tomb Raided"
+  },
+  {
+    "id": 4352,
+    "label": "Name:All05mdSav",
+    "en": "Allied 05 - Clones Down Under"
+  },
+  {
+    "id": 4353,
+    "label": "Name:All06mdSav",
+    "en": "Allied 06 - Trick or Treaty"
+  },
+  {
+    "id": 4354,
+    "label": "Name:All07mdSav",
+    "en": "Allied 07 - Brain Dead"
+  },
+  {
+    "id": 4355,
+    "label": "Name:AllFinale",
+    "en": "Allied Finale"
+  },
+  {
+    "id": 4356,
+    "label": "Name:Sov01mdSav",
+    "en": "Soviet 01 - Time Shift"
+  },
+  {
+    "id": 4357,
+    "label": "Name:Sov02mdSav",
+    "en": "Soviet 02 - Deja Vu"
+  },
+  {
+    "id": 4358,
+    "label": "Name:Sov03mdSav",
+    "en": "Soviet 03 - Brain Wash"
+  },
+  {
+    "id": 4359,
+    "label": "Name:Sov04mdSav",
+    "en": "Soviet 04 - Romanov on the Run"
+  },
+  {
+    "id": 4360,
+    "label": "Name:Sov05mdSav",
+    "en": "Soviet 05 - Escape Velocity"
+  },
+  {
+    "id": 4361,
+    "label": "Name:Sov06mdSav",
+    "en": "Soviet 06 - To The Moon"
+  },
+  {
+    "id": 4362,
+    "label": "Name:Sov07mdSav",
+    "en": "Soviet 07 - Head Games"
+  },
+  {
+    "id": 4363,
+    "label": "Name:SovFinale",
+    "en": "Soviet Finale"
+  },
+  {
+    "id": 4364,
+    "label": "CRD_TTL:CustomerService",
+    "en": "Westwood Studios Customer Service"
+  },
+  {
+    "id": 4365,
+    "label": "Name:Hero1",
+    "en": "Cowboy"
+  },
+  {
+    "id": 4366,
+    "label": "Name:Hero2",
+    "en": "Bodybuilder"
+  },
+  {
+    "id": 4367,
+    "label": "Name:Hero3",
+    "en": "Hero"
+  },
+  {
+    "id": 4368,
+    "label": "DESC:MP09T3",
+    "en": "Canyon Fodder (3)"
+  },
+  {
+    "id": 4369,
+    "label": "STT:MainButtonExitGame",
+    "en": "Quit Red Alert 2."
+  },
+  {
+    "id": 4370,
+    "label": "Name:General",
+    "en": "Red Alert 2 -- Official Rules of Engagement"
+  },
+  {
+    "id": 4371,
+    "label": "GUI:WelcomeRA2Online",
+    "en": "Welcome to Red Alert 2 Online"
+  },
+  {
+    "id": 4372,
+    "label": "TXT_COPYRIGHT",
+    "en": "© 2000 ELECTRONIC ARTS INC. ALL RIGHTS RESERVED"
+  },
+  {
+    "id": 4373,
+    "label": "TXT_CD_ERROR1",
+    "en": "Red Alert 2 is unable to detect your CD ROM drive."
+  },
+  {
+    "id": 4374,
+    "label": "TXT_DLL_INVALID",
+    "en": "Red Alert 2 requires %s version %d.%d or newer. \n \nPlease consult the read me for instructions on how to \n obtain a newer version of %s."
+  },
+  {
+    "id": 4375,
+    "label": "TXT_MOUSE_REQUIRED",
+    "en": "A mouse is required for playing Red Alert 2."
+  },
+  {
+    "id": 4376,
+    "label": "TXT_SHORT_TITLE",
+    "en": "Red Alert 2"
+  },
+  {
+    "id": 4377,
+    "label": "TXT_CRITICALLY_LOW",
+    "en": "Warning - you are critically low on free disk space for saving games. Do you want to play Red Alert 2 anyway?"
+  },
+  {
+    "id": 4378,
+    "label": "TXT_ONLY_ONE",
+    "en": "Only one player?"
+  },
+  {
+    "id": 4379,
+    "label": "TXT_NOSQUAD",
+    "en": "You are not in a Red Alert 2 squad."
+  },
+  {
+    "id": 4380,
+    "label": "TXT_DISK_NAME",
+    "en": "Red Alert 2 Disk %d"
+  },
+  {
+    "id": 4381,
+    "label": "TXT_CD_DIALOG_1",
+    "en": "Please insert a Red Alert 2 CD into the CD-ROM drive."
+  },
+  {
+    "id": 4382,
+    "label": "TXT_SERIAL_DUP",
+    "en": "There are already 2 players with your serial# in that game."
+  },
+  {
+    "id": 4383,
+    "label": "TXT_OPTION_HELP_01",
+    "en": "Red Alert 2 © 2000, Westwood Studios \n"
+  },
+  {
+    "id": 4384,
+    "label": "TXT_RADAR_EVENT",
+    "en": "Goto Radar Event"
+  },
+  {
+    "id": 4385,
+    "label": "TXT_RADAR_EVENT_DESC",
+    "en": "Cycle through the last several Eva voice events on the Tactical Map"
+  },
+  {
+    "id": 4386,
+    "label": "TXT_GAME_RESTART",
+    "en": "Red Alert 2 will now restart to update itself."
+  },
+  {
+    "id": 4387,
+    "label": "GUI:ExitAreYouSure",
+    "en": "Are you sure you want to exit Red Alert 2?"
+  },
+  {
+    "id": 4388,
+    "label": "WOL:ResolutionLimited640",
+    "en": "This game is limited to a screen resolution of 640x480. Would you like to change screen resolution now?"
+  },
+  {
+    "id": 4389,
+    "label": "WOL:ResolutionLimited800",
+    "en": "This game is limited to a screen resolution of 800x600. Would you like to change screen resolution now?"
+  },
+  {
+    "id": 4390,
+    "label": "txt_defense_tab",
+    "en": "Select Armory Tab"
+  },
+  {
+    "id": 4391,
+    "label": "txt_defense_tab_desc",
+    "en": "Switch the command bar to the Armory Tab, and select the completed building if any."
+  },
+  {
+    "id": 4392,
+    "label": "txt_structure_tab_desc",
+    "en": "Switch the command bar to the Building Tab, and select the completed building if any."
+  },
+  {
+    "id": 4393,
+    "label": "CRD_TTL:WORLDWIDE_LOCALIZATON",
+    "en": "WORLDWIDE LOCALIZATON"
+  },
+  {
+    "id": 4394,
+    "label": "CRD_TTL:CHINA",
+    "en": "CHINA"
+  },
+  {
+    "id": 4395,
+    "label": "NAME:WEEK2",
+    "en": "Army of the Potomac"
+  },
+  {
+    "id": 4396,
+    "label": "NAME:WEEK4",
+    "en": "Russian Roulette"
+  },
+  {
+    "id": 4397,
+    "label": "NAME:WEEK6",
+    "en": "Lost Lake"
+  },
+  {
+    "id": 4398,
+    "label": "NAME:WEEK7",
+    "en": "Sea of Isolation"
+  },
+  {
+    "id": 4399,
+    "label": "NAME:WEEK8",
+    "en": "Oceanside"
+  },
+  {
+    "id": 4400,
+    "label": "NAME:WEEK9",
+    "en": "Pacific Heights"
+  },
+  {
+    "id": 4401,
+    "label": "NAME:WEEK10",
+    "en": "Bermuda Triangle"
+  },
+  {
+    "id": 4402,
+    "label": "NAME:WEEK14",
+    "en": "Tsunami"
+  },
+  {
+    "id": 4403,
+    "label": "NAME:WEEK15",
+    "en": "Valley of Gems"
+  },
+  {
+    "id": 4404,
+    "label": "NAME:WEEK16",
+    "en": "Streets of Gold"
+  },
+  {
+    "id": 4405,
+    "label": "NAME:WEEK22",
+    "en": "Mount Olympus"
+  },
+  {
+    "id": 4406,
+    "label": "NAME:WEEK26",
+    "en": "Sovereign Land"
+  },
+  {
+    "id": 4407,
+    "label": "NAME:WEEK27",
+    "en": "Shrapnel Mountain"
+  },
+  {
+    "id": 4408,
+    "label": "NAME:WEEK30",
+    "en": "Sinkhole"
+  },
+  {
+    "id": 4409,
+    "label": "NAME:WEEK35",
+    "en": "Bay of Pigs"
+  },
+  {
+    "id": 4410,
+    "label": "NAME:WEEK38",
+    "en": "Deadman's Ridge"
+  },
+  {
+    "id": 4411,
+    "label": "NAME:WEEK39",
+    "en": "City Under Siege"
+  },
+  {
+    "id": 4412,
+    "label": "NAME:WEEK41",
+    "en": "Kalifornia"
+  },
+  {
+    "id": 4413,
+    "label": "NAME:WEEK43",
+    "en": "Yuri's Plot"
+  },
+  {
+    "id": 4414,
+    "label": "NAME:WEEK44",
+    "en": "Carville's Convoy"
+  },
+  {
+    "id": 4415,
+    "label": "NAME:WEEK47",
+    "en": "Invasion Confirmed"
+  },
+  {
+    "id": 4416,
+    "label": "NAME:WEEK49",
+    "en": "Tanya's Training Grounds"
+  },
+  {
+    "id": 4417,
+    "label": "NAME:WEEK55",
+    "en": "Breakaway"
+  },
+  {
+    "id": 4418,
+    "label": "NAME:WEEK56",
+    "en": "Rockets Red Glare"
+  },
+  {
+    "id": 4419,
+    "label": "NAME:WEEK58",
+    "en": "Loaded Barrel"
+  },
+  {
+    "id": 4420,
+    "label": "NAME:WEEK59",
+    "en": "Killer Instinct"
+  },
+  {
+    "id": 4421,
+    "label": "NAME:WEEK60",
+    "en": "Territorial Imperative"
+  },
+  {
+    "id": 4422,
+    "label": "NAME:WEEK64",
+    "en": "Brink of Disaster"
+  },
+  {
+    "id": 4423,
+    "label": "NAME:WEEK73",
+    "en": "Hail Mary"
+  },
+  {
+    "id": 4424,
+    "label": "NAME:WEEK74",
+    "en": "No Rest for the Wicked"
+  },
+  {
+    "id": 4425,
+    "label": "NAME:WEEK76",
+    "en": "Stormy Weather"
+  },
+  {
+    "id": 4426,
+    "label": "NAME:WEEK78",
+    "en": "Dustbowl"
+  },
+  {
+    "id": 4427,
+    "label": "NAME:WEEK80",
+    "en": "Death trap"
+  },
+  {
+    "id": 4428,
+    "label": "NAME:WEEK82",
+    "en": "Skyscraper"
+  },
+  {
+    "id": 4429,
+    "label": "NAME:WEEK83",
+    "en": "Powder Keg"
+  },
+  {
+    "id": 4430,
+    "label": "NAME:WEEK85",
+    "en": "Roundhouse Kick"
+  },
+  {
+    "id": 4431,
+    "label": "NAME:WEEK86",
+    "en": "Country Swing"
+  },
+  {
+    "id": 4432,
+    "label": "NAME:WEEK91",
+    "en": "Tower of Power"
+  },
+  {
+    "id": 4433,
+    "label": "NAME:WEEK94",
+    "en": "Happy Trails"
+  },
+  {
+    "id": 4434,
+    "label": "NAME:WEEK96",
+    "en": "Head for the Hills"
+  },
+  {
+    "id": 4435,
+    "label": "NAME:WEEK109",
+    "en": "Arena"
+  },
+  {
+    "id": 4436,
+    "label": "NAME:WEEK118",
+    "en": "New Heights"
+  },
+  {
+    "id": 4437,
+    "label": "TXT_CD_DIALOG_A",
+    "en": "Please insert the Red Alert 2 Allied CD into the CD/ROM drive."
+  },
+  {
+    "id": 4438,
+    "label": "TXT_CD_DIALOG_S",
+    "en": "Please insert the Red Alert 2 Soviet CD into the CD/ROM drive."
+  },
+  {
+    "id": 4439,
+    "label": "GUI:OperatorIconDesc",
+    "en": "This player is a Westwood Studios or Red Alert 2 representative."
+  },
+  {
+    "id": 4440,
+    "label": "TXT_STRUCTURE_TAB",
+    "en": "Structure Tab"
+  },
+  {
+    "id": 4441,
+    "label": "TXT_STRUCTURE_TAB_DESC",
+    "en": "Set sidebar to Structure Tab and place any completed building."
+  },
+  {
+    "id": 4442,
+    "label": "TXT_DEFENSE_TAB",
+    "en": "Defense Tab"
+  },
+  {
+    "id": 4443,
+    "label": "TXT_DEVENSE_TAB_DESC",
+    "en": "Set sidebar to Defense Tab and place any completed defense building."
+  }
+]

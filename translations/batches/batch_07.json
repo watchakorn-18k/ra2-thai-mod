@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 2450,
+    "label": "VOX:wdoma08",
+    "en": "The Soviet Union forces control the majority of this territory"
+  },
+  {
+    "id": 2451,
+    "label": "VOX:wdoma09",
+    "en": "Insufficient data. Neither forces control this territory"
+  },
+  {
+    "id": 2452,
+    "label": "VOX:wdoma10",
+    "en": "Perhaps you should try another line of work, Commander."
+  },
+  {
+    "id": 2453,
+    "label": "VOX:wdoma11",
+    "en": "To reaffirm the goal is to defeat the Soviet Union, Commander."
+  },
+  {
+    "id": 2454,
+    "label": "VOX:wdoma12",
+    "en": "The Allies are not pleased with your performance. The President would like a word with you."
+  },
+  {
+    "id": 2455,
+    "label": "VOX:wdoma13",
+    "en": "A decisive victory Commander. The President will be pleased."
+  },
+  {
+    "id": 2456,
+    "label": "VOX:wdoma14",
+    "en": "Soviet forces have been decimated. Well done, Commander."
+  },
+  {
+    "id": 2457,
+    "label": "VOX:wdoma15",
+    "en": "You do your reputation justice, Commander."
+  },
+  {
+    "id": 2458,
+    "label": "VOX:wdoma16",
+    "en": "Status report, Commander. This territory is now controlled by the Allies. Evacuation to safe zone."
+  },
+  {
+    "id": 2459,
+    "label": "VOX:wdoma17",
+    "en": "Status report, Commander. This territory is now controlled by the Union. Evacuation to safe zone."
+  },
+  {
+    "id": 2460,
+    "label": "VOX:wdoma18",
+    "en": "Status report, Commander. This territory is now controlled by the Soviet Union. Relocating to new frontline position."
+  },
+  {
+    "id": 2461,
+    "label": "VOX:wdoma19",
+    "en": "Status report, Commander. This territory is now controlled by the Allies. Relocating to new frontline position."
+  },
+  {
+    "id": 2462,
+    "label": "VOX:wdoma20",
+    "en": "Status report, Commander. We were unable to advance through this territory."
+  },
+  {
+    "id": 2463,
+    "label": "VOX:wdoma21",
+    "en": "Status report, Commander. The battle is lost."
+  },
+  {
+    "id": 2464,
+    "label": "VOX:wdoma22",
+    "en": "Status report, Commander. We are victorious, all Soviet forces eliminated."
+  },
+  {
+    "id": 2465,
+    "label": "VOX:wdoma23",
+    "en": "Status report, Commander. We have stalemated with the Soviet Union."
+  },
+  {
+    "id": 2466,
+    "label": "VOX:wdoma24",
+    "en": "World Domination Progress Report, Commander. We are gaining ground on several key fronts."
+  },
+  {
+    "id": 2467,
+    "label": "VOX:wdoma25",
+    "en": "World Domination Progress Report, Commander. We were unable to stop the Soviet Union-s assult on several key fronts."
+  },
+  {
+    "id": 2468,
+    "label": "VOX:wdoma26",
+    "en": "World Domination Progress Report, Commander. Nothing new to report. Business as usual."
+  },
+  {
+    "id": 2469,
+    "label": "VOX:wdoms01",
+    "en": "Command presence acknowledged."
+  },
+  {
+    "id": 2470,
+    "label": "VOX:wdoms02",
+    "en": "Updating tactical map, stand by?"
+  },
+  {
+    "id": 2471,
+    "label": "VOX:wdoms03",
+    "en": "The Soviets are losing ground. We may lose to the Allies if this trend continues."
+  },
+  {
+    "id": 2472,
+    "label": "VOX:wdoms04",
+    "en": "The Soviets have made significant progress. The Allies are retreating."
+  },
+  {
+    "id": 2473,
+    "label": "VOX:wdoms05",
+    "en": "Choose a territory to attack"
+  },
+  {
+    "id": 2474,
+    "label": "VOX:wdoms06",
+    "en": "This sector is now under control of the Soviet Union."
+  },
+  {
+    "id": 2475,
+    "label": "VOX:wdoms07",
+    "en": "The Soviets have a firm grip in this territory."
+  },
+  {
+    "id": 2476,
+    "label": "VOX:wdoms08",
+    "en": "We are in danger of losing this territory."
+  },
+  {
+    "id": 2477,
+    "label": "VOX:wdoms09",
+    "en": "This territory is still under dispute."
+  },
+  {
+    "id": 2478,
+    "label": "VOX:wdoms10",
+    "en": "How embarrassing and weak minded."
+  },
+  {
+    "id": 2479,
+    "label": "VOX:wdoms11",
+    "en": "The Soviet Union does not take ineffective strategies lightly."
+  },
+  {
+    "id": 2480,
+    "label": "VOX:wdoms12",
+    "en": "You are not worthy to join the Soviet Union."
+  },
+  {
+    "id": 2481,
+    "label": "VOX:wdoms13",
+    "en": "Excellent, the Soviets grow stronger thanks to your victory."
+  },
+  {
+    "id": 2482,
+    "label": "VOX:wdoms14",
+    "en": "Romanov will be pleased with your efforts. You served the Union well."
+  },
+  {
+    "id": 2483,
+    "label": "VOX:wdoms15",
+    "en": "Perfect victory."
+  },
+  {
+    "id": 2484,
+    "label": "VOX:wdoms16",
+    "en": "Status report, Commander. This territory is now controlled by the Allies. Evacuating to safe zone."
+  },
+  {
+    "id": 2485,
+    "label": "VOX:wdoms17",
+    "en": "This territory is now controlled by the Allies."
+  },
+  {
+    "id": 2486,
+    "label": "VOX:wdoms19",
+    "en": "Status report, Commander. We were unable to advance through this territory. Perhaps you are in need of further training."
+  },
+  {
+    "id": 2487,
+    "label": "VOX:wdoms20",
+    "en": "Status report, Commander. We have been defeated"
+  },
+  {
+    "id": 2488,
+    "label": "VOX:wdoms21",
+    "en": "Status report, Commander. We are victorious, all Allied forces are vanquished.."
+  },
+  {
+    "id": 2489,
+    "label": "VOX:wdoms22",
+    "en": "Status report, Commander. We have stalemated with the Allies."
+  },
+  {
+    "id": 2490,
+    "label": "VOX:wdoms23",
+    "en": "World Domination Progress Report, Commander. Allied resistance is weakening in all fronts."
+  },
+  {
+    "id": 2491,
+    "label": "VOX:wdoms24",
+    "en": "World Domination Progress Report, Commander. We are loosing ground on all fronts."
+  },
+  {
+    "id": 2492,
+    "label": "VOX:wdoms25",
+    "en": "World Domination Progress Report, Commander. We are been unable to advance our position."
+  },
+  {
+    "id": 2493,
+    "label": "GUI:MeatGrind",
+    "en": "Meat Grinder"
+  },
+  {
+    "id": 2494,
+    "label": "GUI:NavalWar",
+    "en": "Naval War"
+  },
+  {
+    "id": 2495,
+    "label": "GUI:NukeWar",
+    "en": "Nuke War"
+  },
+  {
+    "id": 2496,
+    "label": "MISSION:All12a",
+    "en": "Objective 1: Clear the area so Chrono Reinforcements can arrive"
+  },
+  {
+    "id": 2497,
+    "label": "MISSION:All12b",
+    "en": "Objective 2: Eliminate Romanov's Elite Black Guard around the Kremlin."
+  },
+  {
+    "id": 2498,
+    "label": "MISSION:All12c",
+    "en": "Objective 2 Accomplished - Romanov has been captured"
+  },
+  {
+    "id": 2499,
+    "label": "MISSION:All12d",
+    "en": "Objective 1 Accomplished - Chrono Reinforcements can now arrive"
+  },
+  {
+    "id": 2500,
+    "label": "MISSION:All12e",
+    "en": "Alliance formed with Soviet Defectors"
+  },
+  {
+    "id": 2501,
+    "label": "MISSION:All12f",
+    "en": "Soviet resource stockpile detected"
+  },
+  {
+    "id": 2502,
+    "label": "MISSION:All12g",
+    "en": "Allied chrono reinforcements in transit, arriving soon"
+  },
+  {
+    "id": 2503,
+    "label": "THEME:200Meters",
+    "en": "200 Meters"
+  },
+  {
+    "id": 2504,
+    "label": "THEME:BlowItUp",
+    "en": "Blow It Up"
+  },
+  {
+    "id": 2505,
+    "label": "THEME:Destroy",
+    "en": "Destroy"
+  },
+  {
+    "id": 2506,
+    "label": "THEME:Burn",
+    "en": "Burn"
+  },
+  {
+    "id": 2507,
+    "label": "THEME:Probing",
+    "en": "Probing"
+  },
+  {
+    "id": 2508,
+    "label": "THEME:EagleHunter",
+    "en": "Eagle Hunter"
+  },
+  {
+    "id": 2509,
+    "label": "THEME:Fortification",
+    "en": "Fortification"
+  },
+  {
+    "id": 2510,
+    "label": "THEME:GiveEmHell",
+    "en": "Give 'Em Hell"
+  },
+  {
+    "id": 2511,
+    "label": "THEME:Grinder",
+    "en": "Grinder"
+  },
+  {
+    "id": 2512,
+    "label": "THEME:InDeep",
+    "en": "In Deep"
+  },
+  {
+    "id": 2513,
+    "label": "THEME:Industrofunk",
+    "en": "Industro Funk"
+  },
+  {
+    "id": 2514,
+    "label": "THEME:Jank",
+    "en": "Jank"
+  },
+  {
+    "id": 2515,
+    "label": "THEME:Tension",
+    "en": "Tension"
+  },
+  {
+    "id": 2516,
+    "label": "DESC:MP01DU",
+    "en": "South Pacific (2-4)"
+  },
+  {
+    "id": 2517,
+    "label": "DESC:MP04T8",
+    "en": "Glasnost (2-8)"
+  },
+  {
+    "id": 2518,
+    "label": "DESC:MP04DU",
+    "en": "Gettysburg Redress (2-8)"
+  },
+  {
+    "id": 2519,
+    "label": "DESC:MP04MW",
+    "en": "Santa Fe Trail (2-8)"
+  },
+  {
+    "id": 2520,
+    "label": "DESC:MP07T4",
+    "en": "Hammer and Sickle (2-4)"
+  },
+  {
+    "id": 2521,
+    "label": "DESC:MP09MW",
+    "en": "Three Mile Island (3)"
+  },
+  {
+    "id": 2522,
+    "label": "DESC:MP18DU",
+    "en": "Cold War (2-4)"
+  },
+  {
+    "id": 2523,
+    "label": "DESC:MP24T2",
+    "en": "Gold Rush (2)"
+  },
+  {
+    "id": 2524,
+    "label": "DESC:MP24DU",
+    "en": "Bonanza (2-4)"
+  },
+  {
+    "id": 2525,
+    "label": "DESC:MP27DU",
+    "en": "Vicious Circle (2-8)"
+  },
+  {
+    "id": 2526,
+    "label": "DESC:MP28DU",
+    "en": "LA Reservoir (2-4)"
+  },
+  {
+    "id": 2527,
+    "label": "DESC:MP28MW",
+    "en": "Windy City (2-4)"
+  },
+  {
+    "id": 2528,
+    "label": "DESC:MP31U2",
+    "en": "May Day (2)"
+  },
+  {
+    "id": 2529,
+    "label": "DESC:MP31DU",
+    "en": "Gates of Kiev (2)"
+  },
+  {
+    "id": 2530,
+    "label": "DESC:MP32DU",
+    "en": "Snowball Effect (2-8)"
+  },
+  {
+    "id": 2531,
+    "label": "DESC:MP33U4",
+    "en": "Paris Revisited (2-4)"
+  },
+  {
+    "id": 2532,
+    "label": "DESC:MP34U4",
+    "en": "DC Uprising (2-4)"
+  },
+  {
+    "id": 2533,
+    "label": "MSG:LightningStormActive",
+    "en": "Lightning storm already active. Activation aborted."
+  },
+  {
+    "id": 2534,
+    "label": "MSG:NoStationaryCommands",
+    "en": "Units cannot follow this order in a waypoint path."
+  },
+  {
+    "id": 2535,
+    "label": "MSG:PostTerminatingCommand",
+    "en": "Your last order to this unit terminated the waypoint path."
+  },
+  {
+    "id": 2536,
+    "label": "MSG:PostLoop",
+    "en": "You cannot give new orders to a unit once it has entered a patrol loop."
+  },
+  {
+    "id": 2537,
+    "label": "MSG:NodeMaximum",
+    "en": "You have reached the maximum number of waypoints allowed for this path."
+  },
+  {
+    "id": 2538,
+    "label": "MSG:PlanningModeIntro1",
+    "en": "Select units and queue commands on them to create a plan."
+  },
+  {
+    "id": 2539,
+    "label": "MSG:PlanningModeIntro2",
+    "en": "Select one or more units and left-click on the map to specify waypoints."
+  },
+  {
+    "id": 2540,
+    "label": "MSG:PlanningModeIntro3",
+    "en": "When you exit waypoint mode, your units will follow their waypoint path."
+  },
+  {
+    "id": 2541,
+    "label": "MSG:PlanningModeMerge1",
+    "en": "Click on this node to merge the selected units into this plan."
+  },
+  {
+    "id": 2542,
+    "label": "MSG:PlanningModeMerge2",
+    "en": "Merging units will execute the commands after the merge node."
+  },
+  {
+    "id": 2543,
+    "label": "MSG:PlanningModeLoop1",
+    "en": "Click on this node to create a patrol loop."
+  },
+  {
+    "id": 2544,
+    "label": "MSG:PlanningModeLoop2",
+    "en": "The patrol loop will persist as long as it has at least one member."
+  },
+  {
+    "id": 2545,
+    "label": "MSG:PlanningModeDelete1",
+    "en": "Click this node to select it."
+  },
+  {
+    "id": 2546,
+    "label": "MSG:PlanningModeDelete2",
+    "en": "A selected node may be deleted using the delete key."
+  },
+  {
+    "id": 2547,
+    "label": "MSG:PlanningModeOtherHouse",
+    "en": "This waypoint path belongs to your ally."
+  },
+  {
+    "id": 2548,
+    "label": "MSG:PlanningModeAlreadyInLoop1",
+    "en": "Cannot connect to this node because the selected units"
+  },
+  {
+    "id": 2549,
+    "label": "MSG:PlanningModeAlreadyInLoop2",
+    "en": "are already in a patrol loop."
+  },
+  {
+    "id": 2550,
+    "label": "MSG:PlanningModeTrailingNode",
+    "en": "Patrol loops must have 3 or more waypoints."
+  },
+  {
+    "id": 2551,
+    "label": "MSG:PlanningModeMixedLoop1",
+    "en": "Cannot make loop with branch that does not contain the"
+  },
+  {
+    "id": 2552,
+    "label": "MSG:PlanningModeMixedLoop2",
+    "en": "entire selection."
+  },
+  {
+    "id": 2553,
+    "label": "MSG:AttackMoveUnsupported",
+    "en": "A member of the selection does not support attack move."
+  },
+  {
+    "id": 2554,
+    "label": "MSG:AutoDeployUnsupported",
+    "en": "A member of the selection does not support auto deploy."
+  },
+  {
+    "id": 2555,
+    "label": "GUI:MoviesAndCredits",
+    "en": "Movies & Credits"
+  },
+  {
+    "id": 2556,
+    "label": "GUI:AIEasy",
+    "en": "Easy Enemy"
+  },
+  {
+    "id": 2557,
+    "label": "GUI:AINormal",
+    "en": "Medium Enemy"
+  },
+  {
+    "id": 2558,
+    "label": "GUI:AIHard",
+    "en": "Brutal Enemy"
+  },
+  {
+    "id": 2559,
+    "label": "GUI:Observe",
+    "en": "Observe"
+  },
+  {
+    "id": 2560,
+    "label": "GUI:UIOptions",
+    "en": "UI Options"
+  },
+  {
+    "id": 2561,
+    "label": "GUI:AudioOptions",
+    "en": "Audio Options"
+  },
+  {
+    "id": 2562,
+    "label": "GUI:SetResolution",
+    "en": "Set Game Resolution"
+  },
+  {
+    "id": 2563,
+    "label": "GUI:ParTime",
+    "en": "Par Time"
+  },
+  {
+    "id": 2564,
+    "label": "GUI:YourTime",
+    "en": "Your Time"
+  },
+  {
+    "id": 2565,
+    "label": "GUI:HeadsTaken",
+    "en": "Enemies Destroyed"
+  },
+  {
+    "id": 2566,
+    "label": "GUI:Duel",
+    "en": "Land Rush"
+  },
+  {
+    "id": 2567,
+    "label": "GUI:Cooperative",
+    "en": "Cooperative"
+  },
+  {
+    "id": 2568,
+    "label": "GUI:DateFormat",
+    "en": "(Month, DD, YYYY)"
+  },
+  {
+    "id": 2569,
+    "label": "GUI:ExitAreYouSure",
+    "en": "Are you sure you want to exit Yuri's Revenge?"
+  },
+  {
+    "id": 2570,
+    "label": "GUI:TalkToAll",
+    "en": "Talk To All"
+  },
+  {
+    "id": 2571,
+    "label": "GUI:TalkToAllies",
+    "en": "Talk To Allies"
+  },
+  {
+    "id": 2572,
+    "label": "GUI:GiveMoney",
+    "en": "Give Money"
+  },
+  {
+    "id": 2573,
+    "label": "GUI:GaveMoney",
+    "en": "%s gave %d credit(s) to %s"
+  },
+  {
+    "id": 2574,
+    "label": "GUI:NoUnderParTitle",
+    "en": "NOTE: Missing under par title."
+  },
+  {
+    "id": 2575,
+    "label": "GUI:NoUnderParMessage",
+    "en": "NOTE: Missing under par message."
+  },
+  {
+    "id": 2576,
+    "label": "GUI:NoOverParTitle",
+    "en": "NOTE: Missing over par title."
+  },
+  {
+    "id": 2577,
+    "label": "GUI:NoOverParMessage",
+    "en": "NOTE: Missing over par message."
+  },
+  {
+    "id": 2578,
+    "label": "GUI:ParTitleALL01",
+    "en": "Your rank is: Sergeant"
+  },
+  {
+    "id": 2579,
+    "label": "GUI:ParTitleALL02",
+    "en": "Your rank is: Staff Sergeant"
+  },
+  {
+    "id": 2580,
+    "label": "GUI:ParTitleALL04",
+    "en": "Your rank is: Sergeant Major"
+  },
+  {
+    "id": 2581,
+    "label": "GUI:ParTitleALL05",
+    "en": "Your rank is: 2nd Lieutenant"
+  },
+  {
+    "id": 2582,
+    "label": "GUI:ParTitleALL06",
+    "en": "Your rank is: 1st Lieutenant"
+  },
+  {
+    "id": 2583,
+    "label": "GUI:ParTitleALL07",
+    "en": "Your rank is: Captain"
+  },
+  {
+    "id": 2584,
+    "label": "GUI:ParTitleALL08",
+    "en": "Your rank is: Major"
+  },
+  {
+    "id": 2585,
+    "label": "GUI:ParTitleALL09",
+    "en": "Your rank is: Lieutenant Colonel"
+  },
+  {
+    "id": 2586,
+    "label": "GUI:ParTitleALL10",
+    "en": "Your rank is: Colonel"
+  },
+  {
+    "id": 2587,
+    "label": "GUI:ParTitleALL11",
+    "en": "Your rank is: Brigadier General"
+  },
+  {
+    "id": 2588,
+    "label": "GUI:ParTitleALL12",
+    "en": "Your rank is: General"
+  },
+  {
+    "id": 2589,
+    "label": "GUI:ParTitleALL13",
+    "en": "Your rank is: Theater Commander"
+  },
+  {
+    "id": 2590,
+    "label": "GUI:ParTitleSov01",
+    "en": "Your rank is: Ryadovoy (Private)"
+  },
+  {
+    "id": 2591,
+    "label": "GUI:ParTitleSov02",
+    "en": "Your rank is: Efreitor (Corporal)"
+  },
+  {
+    "id": 2592,
+    "label": "GUI:ParTitleSov03",
+    "en": "Your rank is: Mladhiy Serzhant (Sergeant)"
+  },
+  {
+    "id": 2593,
+    "label": "GUI:ParTitleSov04",
+    "en": "Your rank is: Starshiy Serzhant (Technical Sergeant)"
+  },
+  {
+    "id": 2594,
+    "label": "GUI:ParTitleSov05",
+    "en": "Your rank is: Starshina (Master Sergeant)"
+  },
+  {
+    "id": 2595,
+    "label": "GUI:ParTitleSov06",
+    "en": "Your rank is: Mladshiy Leytenant (Sergeant Major)"
+  },
+  {
+    "id": 2596,
+    "label": "GUI:ParTitleSov07",
+    "en": "Your rank is: Starshiy Leytenant (1st Lieutenant)"
+  },
+  {
+    "id": 2597,
+    "label": "GUI:ParTitleSov08",
+    "en": "Your rank is: Kapitan (Captain)"
+  },
+  {
+    "id": 2598,
+    "label": "GUI:ParTitleSov10",
+    "en": "Your rank is: Podpolkovnik (Lieutenant Colonel)"
+  },
+  {
+    "id": 2599,
+    "label": "GUI:ParTitleSov11",
+    "en": "Your rank is: Polkovnik (Colonel)"
+  },
+  {
+    "id": 2600,
+    "label": "GUI:ParTitleSov12",
+    "en": "Your rank is: Glaviy Marshal (General)"
+  },
+  {
+    "id": 2601,
+    "label": "GUI:ParTitleSov13",
+    "en": "Your rank is: Generalissimus (Supreme Commander)"
+  },
+  {
+    "id": 2602,
+    "label": "GUI:UnderParMsgALL01",
+    "en": "Your lightning counterattack blunted the Soviet invasion."
+  },
+  {
+    "id": 2603,
+    "label": "GUI:OverParMsgALL01",
+    "en": "You barely succeeded in holding back the Soviet advance."
+  },
+  {
+    "id": 2604,
+    "label": "GUI:UnderParMsgALL02",
+    "en": "Your tank blitz stunned the Soviets, ending the battle in a few short hours."
+  },
+  {
+    "id": 2605,
+    "label": "GUI:OverParMsgALL02",
+    "en": "Your grinding assault cost hundreds of lives but liberated the Air Force Academy."
+  },
+  {
+    "id": 2606,
+    "label": "GUI:UnderParMsgALL03",
+    "en": "The President was rescued long before the Soviets could discover any important military secrets."
+  },
+  {
+    "id": 2607,
+    "label": "GUI:OverParMsgALL03",
+    "en": "The President was rescued, though many military secrets were compromised."
+  },
+  {
+    "id": 2608,
+    "label": "GUI:UnderParMsgALL04",
+    "en": "The tragic loss of Chicago, however devastating, doesn't compare to the loss of our whole nation. Your quick destruction of the Psychic Amplifier meant that the Soviets never had time to fully test its power."
+  },
+  {
+    "id": 2609,
+    "label": "GUI:OverParMsgALL04",
+    "en": "The Psychic Amplifier was destroyed, but not before the Soviets gained valuable test data about it's effects. In spite of the tragic loss of Chicago, however, you've saved our entire nation from falling under the influence of the Soviets' most powerful psychic weapon."
+  },
+  {
+    "id": 2610,
+    "label": "GUI:UnderParMsgALL05",
+    "en": "Soviet commanders are still analyzing your attack, trying to discover the secrets of your advanced covert strategies."
+  },
+  {
+    "id": 2611,
+    "label": "GUI:OverParMsgALL05",
+    "en": "The missiles have been destroyed. Other Soviet missiles have been moved deep inside the USSR."
+  },
+  {
+    "id": 2612,
+    "label": "GUI:UnderParMsgALL06",
+    "en": "The precision with which you destroyed the Soviet forces and liberated Washington DC is one for the record books."
+  },
+  {
+    "id": 2613,
+    "label": "GUI:OverParMsgALL06",
+    "en": "Washington DC has been saved, but at a terrible price in men and materials."
+  },
+  {
+    "id": 2614,
+    "label": "GUI:UnderParMsgALL07",
+    "en": "You defended Pearl Harbor with such ferocity that the Pacific is ours."
+  },
+  {
+    "id": 2615,
+    "label": "GUI:OverParMsgALL07",
+    "en": "Pearl Harbor has been saved, but the Hawaiian islands have been devestated by the Soviet onslaught."
+  },
+  {
+    "id": 2616,
+    "label": "GUI:UnderParMsgALL08",
+    "en": "You saved Saint Louis before her citizens could come to any harm."
+  },
+  {
+    "id": 2617,
+    "label": "GUI:OverParMsgALL08",
+    "en": "Saint Louis was saved, but thousands of American citizens were permanently turned to the Soviet cause."
+  },
+  {
+    "id": 2618,
+    "label": "GUI:UnderParMsgALL09",
+    "en": "Soviet Soldiers have nicknamed you \"The Ghost\" for your skills at stealthy destruction."
+  },
+  {
+    "id": 2619,
+    "label": "GUI:OverParMsgALL09",
+    "en": "Thanks to you, our technology has been recovered."
+  },
+  {
+    "id": 2620,
+    "label": "GUI:UnderParMsgALL10",
+    "en": "Impressed by your efficiency, German Commanders have asked you to train their officers in strategy and command."
+  },
+  {
+    "id": 2621,
+    "label": "GUI:OverParMsgALL10",
+    "en": "The Black Forest lab has been saved, Einstein's work can continue."
+  },
+  {
+    "id": 2622,
+    "label": "GUI:UnderParMsgALL11",
+    "en": "Russian commanders fear your command more than whole Allied divisions. If one man can make a difference, you are that man."
+  },
+  {
+    "id": 2623,
+    "label": "GUI:OverParMsgALL11",
+    "en": "The Chronosphere is built. Thanks to your tireless effort, the Allies are ready for one final push to victory."
+  },
+  {
+    "id": 2624,
+    "label": "GUI:UnderParMsgALL12",
+    "en": "Your legendary command skills will go down in history. You are one of the greatest generals of all time."
+  },
+  {
+    "id": 2625,
+    "label": "GUI:OverParMsgALL12",
+    "en": "Romanov is captured, the war is won. Victory is yours."
+  },
+  {
+    "id": 2626,
+    "label": "GUI:UnderParMsgSov01",
+    "en": "The Pentagon was crushed so quickly that many important American generals were captured by our victorious soldiers, crippling their armed forces."
+  },
+  {
+    "id": 2627,
+    "label": "GUI:OverParMsgSov01",
+    "en": "Thanks to you, the Pentagon has been destroyed and the American military has been thrown into chaos."
+  },
+  {
+    "id": 2628,
+    "label": "GUI:UnderParMsgSov02",
+    "en": "The American fleet and Naval base were destroyed so quickly that your soldiers were able to capture several American officers."
+  },
+  {
+    "id": 2629,
+    "label": "GUI:OverParMsgSov02",
+    "en": "The American fleet was destroyed. While Soviet casualties were high, this is of no concern so long as you continue to bring victory."
+  },
+  {
+    "id": 2630,
+    "label": "GUI:UnderParMsgSov03",
+    "en": "The Psychic Beacon was built so quickly that an entire American Armored division was captured by its power before they could escape."
+  },
+  {
+    "id": 2631,
+    "label": "GUI:OverParMsgSov03",
+    "en": "You have spread the power of Premier Romanov. American civilians are eagerly joining our army."
+  },
+  {
+    "id": 2632,
+    "label": "GUI:UnderParMsgSov04",
+    "en": "The Korean invasion was repelled with such ferocity that some members of their government have spoken secretly to us of peace."
+  },
+  {
+    "id": 2633,
+    "label": "GUI:OverParMsgSov04",
+    "en": "In a long and bloody battle, you successfully defended mother Russia."
+  },
+  {
+    "id": 2634,
+    "label": "GUI:UnderParMsgSov05",
+    "en": "The French fear your command more than they fear our tanks. In Paris you are known only as 'The Butcher'."
+  },
+  {
+    "id": 2635,
+    "label": "GUI:OverParMsgSov05",
+    "en": "You turned the Paris Tower into a weapon of terror. You have 'punished' Europe sufficiently."
+  },
+  {
+    "id": 2636,
+    "label": "GUI:UnderParMsgSov06",
+    "en": "Allied Admirals now refuse to send their ships to sea, so quick was your destruction of Pearl Harbor."
+  },
+  {
+    "id": 2637,
+    "label": "GUI:OverParMsgSov06",
+    "en": "The Koreans and Americans have been successfully divided. The Pacific is ours."
+  },
+  {
+    "id": 2638,
+    "label": "GUI:UnderParMsgSov07",
+    "en": "Your ruthless efficiency has earned you great respect in the Red Army and made Soviet leadership fear your popularity."
+  },
+  {
+    "id": 2639,
+    "label": "GUI:OverParMsgSov07",
+    "en": "The battle lab is safe. The Allies will not dare strike inside mother Russia again."
+  },
+  {
+    "id": 2640,
+    "label": "GUI:UnderParMsgSov08",
+    "en": "Traitors beware: Your sudden and righteous attack on Washington D.C. has made your rivals fear your strategic skills."
+  },
+  {
+    "id": 2641,
+    "label": "GUI:OverParMsgSov08",
+    "en": "Vladimir has been punished for his crimes. Your victory has not gone unnoticed in this dark hour."
+  },
+  {
+    "id": 2642,
+    "label": "GUI:UnderParMsgSov09",
+    "en": "World leaders tremble in fear at the mention of our psychic troops. With you in command, no one is safe."
+  },
+  {
+    "id": 2643,
+    "label": "GUI:OverParMsgSov09",
+    "en": "The President is ours to command. You will be rewarded for your zeal."
+  },
+  {
+    "id": 2644,
+    "label": "GUI:UnderParMsgSov10",
+    "en": "Your strategic skills are becoming legendary. It is openly said among the men that it is you alone that will bring them victory."
+  },
+  {
+    "id": 2645,
+    "label": "GUI:OverParMsgSov10",
+    "en": "The Allies cannot hold out much longer against your heavy-handed assaults. You use the lives of your men well."
+  },
+  {
+    "id": 2646,
+    "label": "GUI:UnderParMsgSov11",
+    "en": "Already your name is known to school children as the greatest general the world has ever known."
+  },
+  {
+    "id": 2647,
+    "label": "GUI:OverParMsgSov11",
+    "en": "Yuri's defenses were weak and feeble. Your tank divisions swept him aside as you have swept aside so many others."
+  },
+  {
+    "id": 2648,
+    "label": "GUI:UnderParMsgSov12",
+    "en": "History will name you among the greatest commanders that has ever lived. Now the world is yours to rule."
+  },
+  {
+    "id": 2649,
+    "label": "GUI:OverParMsgSov12",
+    "en": "The Allies are beaten and the world is begging to be spared the carnage of your armed forces. Supreme power is yours alone."
+  },
+  {
+    "id": 2650,
+    "label": "STT:MainButtonMovies",
+    "en": "View movies and credits."
+  },
+  {
+    "id": 2651,
+    "label": "STT:MainOptButtonNetwork",
+    "en": "Customize your network configuration."
+  },
+  {
+    "id": 2652,
+    "label": "STT:MainOptCBoxStretch",
+    "en": "Expand movies to fill your screen in higher resolutions."
+  },
+  {
+    "id": 2653,
+    "label": "STT:MainOptComboModes",
+    "en": "Pick a screen resolution for your game."
+  },
+  {
+    "id": 2654,
+    "label": "STT:MainOptCBoxTooltips",
+    "en": "Show help descriptions for units, structures and buttons."
+  },
+  {
+    "id": 2655,
+    "label": "STT:MainOptSliderSound",
+    "en": "Controls the sound effects volume level."
+  },
+  {
+    "id": 2656,
+    "label": "STT:MultiOptComboCard",
+    "en": "Shows the network card address (advanced users only)."
+  },
+  {
+    "id": 2657,
+    "label": "STT:MultiOptEditSocketNum",
+    "en": "Edit your IPX socket number (advanced users only)."
+  },
+  {
+    "id": 2658,
+    "label": "STT:MultiOptEditDestAddr",
+    "en": "Edit your destination address (advanced users only)."
+  },
+  {
+    "id": 2659,
+    "label": "STT:MultiOptButtonOk",
+    "en": "Accept your changes."
+  },
+  {
+    "id": 2660,
+    "label": "STT:MultiOptButtonCancel",
+    "en": "Cancel your changes."
+  },
+  {
+    "id": 2661,
+    "label": "STT:ConfirmExitButtonLeave",
+    "en": "Abort and leave the game."
+  },
+  {
+    "id": 2662,
+    "label": "STT:ConfirmExitButtonObserve",
+    "en": "Surrender and observe the battle."
+  },
+  {
+    "id": 2663,
+    "label": "STT:StandScoreParTime",
+    "en": "The par time for this mission."
+  },
+  {
+    "id": 2664,
+    "label": "STT:StandScoreYourTime",
+    "en": "Your time for this mission."
+  },
+  {
+    "id": 2665,
+    "label": "STT:StandScoreTitle",
+    "en": "Your rank for completing the mission with this time."
+  },
+  {
+    "id": 2666,
+    "label": "STT:StandScoreMessage",
+    "en": "The text of your commendation."
+  },
+  {
+    "id": 2667,
+    "label": "STT:StandScoreKills",
+    "en": "The number of kills you achieved during the mission."
+  },
+  {
+    "id": 2668,
+    "label": "Tip:Cheer",
+    "en": "Cheer"
+  },
+  {
+    "id": 2669,
+    "label": "Cmnd:DeleteDesc",
+    "en": "Deletes the selected object."
+  },
+  {
+    "id": 2670,
+    "label": "Cmnd:PlanningModeDesc",
+    "en": "Queues orders on units in parallel and synchronizes their commencement."
+  },
+  {
+    "id": 2671,
+    "label": "Cmnd:AttackMove",
+    "en": "Attack Move"
+  },
+  {
+    "id": 2672,
+    "label": "Cmnd:AttackMoveDesc",
+    "en": "Commands units to attack any enemies along their movement path."
+  },
+  {
+    "id": 2673,
+    "label": "Cmnd:AutoDeploy",
+    "en": "Auto Deploy"
+  },
+  {
+    "id": 2674,
+    "label": "Cmnd:AutoDeployDesc",
+    "en": "Commands a unit to automatically deploy at the target."
+  },
+  {
+    "id": 2675,
+    "label": "Cmnd:CombatantSelect",
+    "en": "Combatant Select"
+  },
+  {
+    "id": 2676,
+    "label": "Cmnd:CombatantSelectDesc",
+    "en": "Selects all military units."
+  },
+  {
+    "id": 2677,
+    "label": "Cmnd:TypeSelectDesc",
+    "en": "Selects units by type. Works with heterogeneous selections."
+  },
+  {
+    "id": 2678,
+    "label": "Cmnd:HealthNavigation",
+    "en": "Health Navigation"
+  },
+  {
+    "id": 2679,
+    "label": "Cmnd:HealthNavigationDesc",
+    "en": "Navigates across the last selection by health level."
+  },
+  {
+    "id": 2680,
+    "label": "Cmnd:VetNavigation",
+    "en": "Veterancy Navigation"
+  },
+  {
+    "id": 2681,
+    "label": "Cmnd:VetNavigationDesc",
+    "en": "Navigates across the last selection by veterancy level."
+  },
+  {
+    "id": 2682,
+    "label": "Cmnd:TypeNavigation",
+    "en": "Type Navigation"
+  },
+  {
+    "id": 2683,
+    "label": "Cmnd:TypeNavigationDesc",
+    "en": "Navigates across the last selection by type (sorted by total cost)."
+  },
+  {
+    "id": 2684,
+    "label": "Cmnd:AllCheerDesc",
+    "en": "Commands your forces to exult over your great deeds."
+  },
+  {
+    "id": 2685,
+    "label": "Name:Alligator",
+    "en": "Alligator"
+  },
+  {
+    "id": 2686,
+    "label": "Name:NADEPT",
+    "en": "Soviet Repair Depot"
+  },
+  {
+    "id": 2687,
+    "label": "Name:CAEUR1",
+    "en": "Cottage"
+  },
+  {
+    "id": 2688,
+    "label": "Name:CAMIAM02",
+    "en": "Hotel"
+  },
+  {
+    "id": 2689,
+    "label": "Name:CAPRS03",
+    "en": "Generic World-Famous Museum"
+  },
+  {
+    "id": 2690,
+    "label": "Name:CAMEX01",
+    "en": "Mayan Pyramid"
+  },
+  {
+    "id": 2691,
+    "label": "Name:CARUS03",
+    "en": "Kremlin"
+  },
+  {
+    "id": 2692,
+    "label": "Name:CAPRS07",
+    "en": "Phone Booth"
+  },
+  {
+    "id": 2693,
+    "label": "Name:CAWASH15",
+    "en": "Lincoln Memorial"
+  },
+  {
+    "id": 2694,
+    "label": "Name:CAPARS11",
+    "en": "Paris Arch of Winning"
+  },
+  {
+    "id": 2695,
+    "label": "Name:CAPARS12",
+    "en": "Cathedral"
+  },
+  {
+    "id": 2696,
+    "label": "Name:CAFARM06",
+    "en": "Light House"
+  },
+  {
+    "id": 2697,
+    "label": "Name:CAMIAM04",
+    "en": "Lifeguard"
+  },
+  {
+    "id": 2698,
+    "label": "Name:NAPSYB",
+    "en": "Psychic Beacon"
+  },
+  {
+    "id": 2699,
+    "label": "Name:NAPSYA",
+    "en": "Psychic Amplifier"
+  },
+  {
+    "id": 2700,
+    "label": "Name:CAIND01",
+    "en": "Factory"
+  },
+  {
+    "id": 2701,
+    "label": "Name:CACOLO01",
+    "en": "Air Force Academy Chapel"
+  },
+  {
+    "id": 2702,
+    "label": "Name:CACHIG04",
+    "en": "Chicago Associates Center"
+  },
+  {
+    "id": 2703,
+    "label": "Name:CARUS07",
+    "en": "Red Square"
+  },
+  {
+    "id": 2704,
+    "label": "Name:CAWASH16",
+    "en": "Smithsonian Castle"
+  },
+  {
+    "id": 2705,
+    "label": "Name:CAWASH17",
+    "en": "Smithsonian Natural History Museum"
+  },
+  {
+    "id": 2706,
+    "label": "Name:CACHIG05",
+    "en": "Sears Tower"
+  },
+  {
+    "id": 2707,
+    "label": "Name:CAWASH19",
+    "en": "Iwo Jima Victory Monument"
+  },
+  {
+    "id": 2708,
+    "label": "Name:CANEWY20",
+    "en": "Warehouse"
+  },
+  {
+    "id": 2709,
+    "label": "Name:CAMSC01",
+    "en": "Mr. Yummy's Hot Dogs!"
+  },
+  {
+    "id": 2710,
+    "label": "Name:CAMSC02",
+    "en": "Umbrellas"
+  },
+  {
+    "id": 2711,
+    "label": "Name:CAMSC04",
+    "en": "Beach Towels"
+  },
+  {
+    "id": 2712,
+    "label": "Name:CAMSC06",
+    "en": "Camp Fire"
+  },
+  {
+    "id": 2713,
+    "label": "Name:CAMSC07",
+    "en": "Hut"
+  },
+  {
+    "id": 2714,
+    "label": "Name:CAWASH18",
+    "en": "Fountain"
+  },
+  {
+    "id": 2715,
+    "label": "Name:CAEURO05",
+    "en": "Statue"
+  },
+  {
+    "id": 2716,
+    "label": "Name:CAPARK01",
+    "en": "Park Bench"
+  },
+  {
+    "id": 2717,
+    "label": "Name:CAPARK02",
+    "en": "Swing Set"
+  },
+  {
+    "id": 2718,
+    "label": "Name:CAPARK03",
+    "en": "Merry-Go-Round"
+  },
+  {
+    "id": 2719,
+    "label": "Name:CAHSE02",
+    "en": "House"
+  },
+  {
+    "id": 2720,
+    "label": "Name:CASTL04",
+    "en": "Arch"
+  },
+  {
+    "id": 2721,
+    "label": "Name:CAHSE05",
+    "en": "Mobile Home"
+  },
+  {
+    "id": 2722,
+    "label": "Name:CAARMY01",
+    "en": "Army Tents"
+  },
+  {
+    "id": 2723,
+    "label": "Name:CAUSFGL",
+    "en": "US Flag"
+  },
+  {
+    "id": 2724,
+    "label": "Name:CAGARD01",
+    "en": "Guard Shack"
+  },
+  {
+    "id": 2725,
+    "label": "Name:CARUS01",
+    "en": "St. Basil's Cathedral"
+  },
+  {
+    "id": 2726,
+    "label": "Name:CAFRMA",
+    "en": "Farm House"
+  },
+  {
+    "id": 2727,
+    "label": "Name:CAFRMB",
+    "en": "Outhouse"
+  },
+  {
+    "id": 2728,
+    "label": "Name:CAWT01",
+    "en": "Water Tower"
+  },
+  {
+    "id": 2729,
+    "label": "Name:CATS01",
+    "en": "Grain Silo"
+  },
+  {
+    "id": 2730,
+    "label": "Name:CABARN02",
+    "en": "Barn"
+  },
+  {
+    "id": 2731,
+    "label": "Name:CAWA2A",
+    "en": "Pentagon"
+  },
+  {
+    "id": 2732,
+    "label": "WDT:TerritorySuffix",
+    "en": "\n --------- \n"
+  },
+  {
+    "id": 2733,
+    "label": "WOL:NewAccountFetch",
+    "en": "Contacting Account Server"
+  },
+  {
+    "id": 2734,
+    "label": "GUI:ManageAccount",
+    "en": "Manage Account"
+  },
+  {
+    "id": 2735,
+    "label": "GUI:LadderPoints",
+    "en": "Points :"
+  },
+  {
+    "id": 2736,
+    "label": "WOL:RequestingMatch",
+    "en": "Requesting Match"
+  },
+  {
+    "id": 2737,
+    "label": "WOL:MatchTimeout",
+    "en": "Error : Timed out waiting for game start"
+  },
+  {
+    "id": 2738,
+    "label": "WOL:MatchingServerUnavailable",
+    "en": "Error : Matching Server Not Found"
+  },
+  {
+    "id": 2739,
+    "label": "WOL:MatchGameStarting",
+    "en": "Game Starting..."
+  },
+  {
+    "id": 2740,
+    "label": "WOL:MatchFailRank",
+    "en": "Cannot locate opponent within your skill range..."
+  },
+  {
+    "id": 2741,
+    "label": "WOL:MatchFailPing",
+    "en": "Cannot locate opponent with acceptable connection speed..."
+  },
+  {
+    "id": 2742,
+    "label": "WOL:MatchFailWDTSide",
+    "en": "Cannot locate enemy in this territory"
+  },
+  {
+    "id": 2743,
+    "label": "WOL:MatchFailExit",
+    "en": "The matching server is unable to service you at this time"
+  },
+  {
+    "id": 2744,
+    "label": "WOL:MatchingPlayerPool",
+    "en": "There are currently %s players attempting to match"
+  },
+  {
+    "id": 2745,
+    "label": "WOL:MatchBadParameters",
+    "en": "Error : Received unrecognized parameters from match server"
+  },
+  {
+    "id": 2746,
+    "label": "WOL:MatchUnknownServerCommand",
+    "en": "Error : Unknown command from match server"
+  },
+  {
+    "id": 2747,
+    "label": "WOL:MatchFoundWith",
+    "en": "Found match with %hs"
+  },
+  {
+    "id": 2748,
+    "label": "WOL:MatchCreatingGame",
+    "en": "Creating Game..."
+  },
+  {
+    "id": 2749,
+    "label": "WOL:MatchWaitingForJoin",
+    "en": "Waiting for %hs to join game"
+  },
+  {
+    "id": 2750,
+    "label": "WOL:MatchErrorCreatingGame",
+    "en": "Error creating game"
+  },
+  {
+    "id": 2751,
+    "label": "WOL:MatchAttemptingToFindGame",
+    "en": "Searching for %hs's game"
+  },
+  {
+    "id": 2752,
+    "label": "WOL:MatchGameChannelNotFound",
+    "en": "Could not find %hs's game"
+  },
+  {
+    "id": 2753,
+    "label": "WOL:MatchJoinedGame",
+    "en": "Game Joined"
+  },
+  {
+    "id": 2754,
+    "label": "WOL:MatchErrorJoiningGame",
+    "en": "Error Joining Game"
+  },
+  {
+    "id": 2755,
+    "label": "WOL:GameFull",
+    "en": "The Selected Game is Full"
+  },
+  {
+    "id": 2756,
+    "label": "GUI:PreferredServer",
+    "en": "Preferred Server :"
+  },
+  {
+    "id": 2757,
+    "label": "GUI:Locale",
+    "en": "Locale :"
+  },
+  {
+    "id": 2758,
+    "label": "GUI:PreferredCountry",
+    "en": "Preferred Country"
+  },
+  {
+    "id": 2759,
+    "label": "GUI:PreferredColor",
+    "en": "Preferred Color"
+  },
+  {
+    "id": 2760,
+    "label": "GUI:BuddyName",
+    "en": "Buddy Name"
+  },
+  {
+    "id": 2761,
+    "label": "GUI:NewBuddy",
+    "en": "New Buddy :"
+  },
+  {
+    "id": 2762,
+    "label": "WOL:BuddyDisabledFind",
+    "en": "Find/Page Disabled"
+  },
+  {
+    "id": 2763,
+    "label": "WOL:BuddyOffline",
+    "en": "Offline"
+  },
+  {
+    "id": 2764,
+    "label": "WOL:BuddyOnline",
+    "en": "Online/Available"
+  },
+  {
+    "id": 2765,
+    "label": "WOL:BuddyPlayingGame",
+    "en": "Playing Game"
+  },
+  {
+    "id": 2766,
+    "label": "WOL:FetchingBuddyList",
+    "en": "Fetching Buddy List"
+  },
+  {
+    "id": 2767,
+    "label": "STT:EmoteButton",
+    "en": "Sends message as an emote."
+  },
+  {
+    "id": 2768,
+    "label": "STT:OptionInternetLatency",
+    "en": "Adjusts the expected latency (delay) across the internet"
+  },
+  {
+    "id": 2769,
+    "label": "STT:OptionInternetSpeedSlider",
+    "en": "Adjusts the desired speed of the game"
+  },
+  {
+    "id": 2770,
+    "label": "STT:OptionInternetGameControls",
+    "en": "Adjust game settings"
+  },
+  {
+    "id": 2771,
+    "label": "STT:OptionInternetAbortMission",
+    "en": "Quit this game"
+  },
+  {
+    "id": 2772,
+    "label": "STT:IDC_RESUME_MISSION",
+    "en": "Return to the game"
+  },
+  {
+    "id": 2773,
+    "label": "STT:WOLAutoLoginDoNotAsk",
+    "en": "Check this box if you do not wish to be asked this question again"
+  },
+  {
+    "id": 2774,
+    "label": "STT:WOLAutoLoginYes",
+    "en": "Automatically use this account."
+  },
+  {
+    "id": 2775,
+    "label": "STT:WOLAutoLoginNo",
+    "en": "Always enter nickname and password."
+  },
+  {
+    "id": 2776,
+    "label": "STT:WOLBuddyBuddyList",
+    "en": "Double-click buddy names to page or join them"
+  },
+  {
+    "id": 2777,
+    "label": "STT:WOLBuddyWins",
+    "en": "Your buddy has won this many games"
+  },
+  {
+    "id": 2778,
+    "label": "STT:WOLBuddyLosses",
+    "en": "Your buddy has lost this many games"
+  },
+  {
+    "id": 2779,
+    "label": "STT:WOLBuddyDisconnects",
+    "en": "Your buddy has disconnected from a game this many times"
+  },
+  {
+    "id": 2780,
+    "label": "STT:WOLBuddyRank",
+    "en": "Your buddy's rank in the hall of fame"
+  },
+  {
+    "id": 2781,
+    "label": "STT:WOLBuddyPoints",
+    "en": "Your buddy has this many points in the hall of fame"
+  },
+  {
+    "id": 2782,
+    "label": "STT:WOLBuddyCreateGame",
+    "en": "Create a game"
+  },
+  {
+    "id": 2783,
+    "label": "STT:WOLBuddyJoin",
+    "en": "Join the selected buddy's game or lobby"
+  },
+  {
+    "id": 2784,
+    "label": "STT:WOLBuddyPage",
+    "en": "Send a message to the selected buddy"
+  },
+  {
+    "id": 2785,
+    "label": "STT:WOLBuddyAdd",
+    "en": "Add a buddy to your list"
+  },
+  {
+    "id": 2786,
+    "label": "STT:WOLBuddyRemove",
+    "en": "Remove the selected buddy from your list"
+  },
+  {
+    "id": 2787,
+    "label": "STT:WOLBuddyRefresh",
+    "en": "Get the latest status of your buddies"
+  },
+  {
+    "id": 2788,
+    "label": "STT:WOLBuddyBack",
+    "en": "Return to previous screen"
+  },
+  {
+    "id": 2789,
+    "label": "STT:WOLLobbyRefreshChannels",
+    "en": "Refresh the list of open games"
+  },
+  {
+    "id": 2790,
+    "label": "STT:WOLLobbyChannelList",
+    "en": "Click on lobby to join"
+  },
+  {
+    "id": 2791,
+    "label": "STT:WOLBuddy",
+    "en": "Go to your buddy list"
+  },
+  {
+    "id": 2792,
+    "label": "STT:WOLCLANLADDER",
+    "en": "Review player and battle clan rankings"
+  },
+  {
+    "id": 2793,
+    "label": "STT:WOLLobbyOptions",
+    "en": "Set Westwood Online preferences"
+  },
+  {
+    "id": 2794,
+    "label": "STT:WOLLobbyBack",
+    "en": "Return to the Westwood Online menu"
+  },
+  {
+    "id": 2795,
+    "label": "STT:WOLLoginNickname",
+    "en": "Enter your Westwood Online nickname or select it from the list"
+  },
+  {
+    "id": 2796,
+    "label": "STT:WOLLoginPassword",
+    "en": "Enter your password here"
+  },
+  {
+    "id": 2797,
+    "label": "STT:WOLLoginLogin",
+    "en": "Enter Westwood Online with this nickname and password"
+  },
+  {
+    "id": 2798,
+    "label": "STT:WOLNewAccount",
+    "en": "Create a new Westwood Online account"
+  },
+  {
+    "id": 2799,
+    "label": "STT:WOLLoginForget",
+    "en": "Remove this account from this computer file"
+  }
+]

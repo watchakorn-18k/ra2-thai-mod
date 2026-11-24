@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 3500,
+    "label": "NAME:WEEK44",
+    "en": "Carville's Convoy (2-4)"
+  },
+  {
+    "id": 3501,
+    "label": "NAME:WEEK45",
+    "en": "Mr. President"
+  },
+  {
+    "id": 3502,
+    "label": "NAME:WEEK46",
+    "en": "Moscow on line 2"
+  },
+  {
+    "id": 3503,
+    "label": "NAME:WEEK47",
+    "en": "Invasion Confirmed (2-4)"
+  },
+  {
+    "id": 3504,
+    "label": "NAME:WEEK48",
+    "en": "Nuclear Threat"
+  },
+  {
+    "id": 3505,
+    "label": "NAME:WEEK49",
+    "en": "Tanya's Training Grounds (2-4)"
+  },
+  {
+    "id": 3506,
+    "label": "NAME:WEEK50",
+    "en": "Apocalypse on the Move"
+  },
+  {
+    "id": 3507,
+    "label": "NAME:WEEK51",
+    "en": "No more Flak"
+  },
+  {
+    "id": 3508,
+    "label": "NAME:WEEK52",
+    "en": "Fire Break"
+  },
+  {
+    "id": 3509,
+    "label": "NAME:WEEK53",
+    "en": "Shooting Star"
+  },
+  {
+    "id": 3510,
+    "label": "NAME:WEEK54",
+    "en": "Close Quarters"
+  },
+  {
+    "id": 3511,
+    "label": "NAME:WEEK55",
+    "en": "Breakaway (2-3)"
+  },
+  {
+    "id": 3512,
+    "label": "NAME:WEEK56",
+    "en": "Rockets Red Glare (2-4)"
+  },
+  {
+    "id": 3513,
+    "label": "NAME:WEEK57",
+    "en": "Red Badge"
+  },
+  {
+    "id": 3514,
+    "label": "NAME:WEEK58",
+    "en": "Loaded Barrel (2)"
+  },
+  {
+    "id": 3515,
+    "label": "NAME:WEEK59",
+    "en": "Killer Instinct (2-3)"
+  },
+  {
+    "id": 3516,
+    "label": "NAME:WEEK60",
+    "en": "Territorial Imperative (2-8)"
+  },
+  {
+    "id": 3517,
+    "label": "NAME:WEEK61",
+    "en": "Manifest Destiny"
+  },
+  {
+    "id": 3518,
+    "label": "NAME:WEEK62",
+    "en": "Monroe Doctrine"
+  },
+  {
+    "id": 3519,
+    "label": "NAME:WEEK63",
+    "en": "Element of Chance"
+  },
+  {
+    "id": 3520,
+    "label": "NAME:WEEK64",
+    "en": "Brink of Disaster (2-4)"
+  },
+  {
+    "id": 3521,
+    "label": "NAME:WEEK65",
+    "en": "Surprise Visit"
+  },
+  {
+    "id": 3522,
+    "label": "NAME:WEEK66",
+    "en": "Pop Quiz"
+  },
+  {
+    "id": 3523,
+    "label": "NAME:WEEK67",
+    "en": "Crunch Mode"
+  },
+  {
+    "id": 3524,
+    "label": "NAME:WEEK68",
+    "en": "Trash Compactor"
+  },
+  {
+    "id": 3525,
+    "label": "NAME:WEEK69",
+    "en": "Meat Grinder (2)"
+  },
+  {
+    "id": 3526,
+    "label": "NAME:WEEK70",
+    "en": "Blender"
+  },
+  {
+    "id": 3527,
+    "label": "NAME:WEEK71",
+    "en": "Proud and Few"
+  },
+  {
+    "id": 3528,
+    "label": "NAME:WEEK72",
+    "en": "Semper Fi"
+  },
+  {
+    "id": 3529,
+    "label": "NAME:WEEK73",
+    "en": "Hail Mary (2)"
+  },
+  {
+    "id": 3530,
+    "label": "NAME:WEEK74",
+    "en": "No Rest for the Wicked (2-4)"
+  },
+  {
+    "id": 3531,
+    "label": "NAME:WEEK75",
+    "en": "A Bridge Too Far"
+  },
+  {
+    "id": 3532,
+    "label": "NAME:WEEK76",
+    "en": "Stormy Weather (2-4)"
+  },
+  {
+    "id": 3533,
+    "label": "NAME:WEEK77",
+    "en": "Episode 1"
+  },
+  {
+    "id": 3534,
+    "label": "NAME:WEEK78",
+    "en": "Dustbowl (2)"
+  },
+  {
+    "id": 3535,
+    "label": "NAME:WEEK79",
+    "en": "Obedience Training"
+  },
+  {
+    "id": 3536,
+    "label": "NAME:WEEK80",
+    "en": "Death trap (2-8)"
+  },
+  {
+    "id": 3537,
+    "label": "NAME:WEEK81",
+    "en": "Deadman Walking"
+  },
+  {
+    "id": 3538,
+    "label": "NAME:WEEK82",
+    "en": "Skyscraper (5)"
+  },
+  {
+    "id": 3539,
+    "label": "NAME:WEEK83",
+    "en": "Powder Keg (2-8)"
+  },
+  {
+    "id": 3540,
+    "label": "NAME:WEEK84",
+    "en": "Angst Driven"
+  },
+  {
+    "id": 3541,
+    "label": "NAME:WEEK85",
+    "en": "Roundhouse Kick (2-4)"
+  },
+  {
+    "id": 3542,
+    "label": "NAME:WEEK86",
+    "en": "Country Swing (2-4)"
+  },
+  {
+    "id": 3543,
+    "label": "NAME:WEEK87",
+    "en": "Toxic Spill"
+  },
+  {
+    "id": 3544,
+    "label": "NAME:WEEK88",
+    "en": "Extinction Level Event"
+  },
+  {
+    "id": 3545,
+    "label": "NAME:WEEK89",
+    "en": "Lightning Rod"
+  },
+  {
+    "id": 3546,
+    "label": "NAME:WEEK90",
+    "en": "The Maze"
+  },
+  {
+    "id": 3547,
+    "label": "NAME:WEEK91",
+    "en": "Tower of Power (2-4)"
+  },
+  {
+    "id": 3548,
+    "label": "NAME:WEEK92",
+    "en": "Pack Animal"
+  },
+  {
+    "id": 3549,
+    "label": "NAME:WEEK93",
+    "en": "Riding Shotgun"
+  },
+  {
+    "id": 3550,
+    "label": "NAME:WEEK94",
+    "en": "Happy Trails (2)"
+  },
+  {
+    "id": 3551,
+    "label": "NAME:WEEK95",
+    "en": "Shiny New Tank"
+  },
+  {
+    "id": 3552,
+    "label": "NAME:WEEK96",
+    "en": "Head for the Hills (2-4)"
+  },
+  {
+    "id": 3553,
+    "label": "NAME:WEEK97",
+    "en": "Tourney"
+  },
+  {
+    "id": 3554,
+    "label": "NAME:WEEK98",
+    "en": "Matchmaker"
+  },
+  {
+    "id": 3555,
+    "label": "NAME:WEEK99",
+    "en": "Duel"
+  },
+  {
+    "id": 3556,
+    "label": "NAME:WEEK101",
+    "en": "Sanctioned Event 1"
+  },
+  {
+    "id": 3557,
+    "label": "NAME:WEEK102",
+    "en": "Sanctioned Event 2"
+  },
+  {
+    "id": 3558,
+    "label": "NAME:WEEK103",
+    "en": "Sanctioned Event 3"
+  },
+  {
+    "id": 3559,
+    "label": "NAME:WEEK104",
+    "en": "Sanctioned Event 4"
+  },
+  {
+    "id": 3560,
+    "label": "NAME:WEEK105",
+    "en": "Tournament 1"
+  },
+  {
+    "id": 3561,
+    "label": "NAME:WEEK106",
+    "en": "Tournament 2"
+  },
+  {
+    "id": 3562,
+    "label": "NAME:WEEK107",
+    "en": "Tournament 3"
+  },
+  {
+    "id": 3563,
+    "label": "NAME:WEEK108",
+    "en": "Tournament 4"
+  },
+  {
+    "id": 3564,
+    "label": "NAME:WEEK109",
+    "en": "Arena (2-4)"
+  },
+  {
+    "id": 3565,
+    "label": "NAME:WEEK110",
+    "en": "Scavenger Hunt"
+  },
+  {
+    "id": 3566,
+    "label": "NAME:WEEK111",
+    "en": "Capture the Flag"
+  },
+  {
+    "id": 3567,
+    "label": "NAME:WEEK112",
+    "en": "Olympics 1"
+  },
+  {
+    "id": 3568,
+    "label": "NAME:WEEK113",
+    "en": "Olympics 2"
+  },
+  {
+    "id": 3569,
+    "label": "NAME:WEEK114",
+    "en": "Olympics 3"
+  },
+  {
+    "id": 3570,
+    "label": "NAME:WEEK115",
+    "en": "Olympics 4"
+  },
+  {
+    "id": 3571,
+    "label": "NAME:WEEK116",
+    "en": "Clean Shave"
+  },
+  {
+    "id": 3572,
+    "label": "NAME:WEEK117",
+    "en": "Fallout Shelter"
+  },
+  {
+    "id": 3573,
+    "label": "NAME:WEEK118",
+    "en": "New Heights (2)"
+  },
+  {
+    "id": 3574,
+    "label": "MISSION:All03m",
+    "en": "HINT: Order GIs into nearby CIVILIAN BUILDINGS to fortify them."
+  },
+  {
+    "id": 3575,
+    "label": "MISSION:HINTGENERAL",
+    "en": "HINT: Order CONSCRIPTS into nearby CIVILIAN BUILDINGS to fortify them."
+  },
+  {
+    "id": 3576,
+    "label": "NAME:Camov01",
+    "en": "Movie Screen"
+  },
+  {
+    "id": 3577,
+    "label": "NAME:Camov02",
+    "en": "Concession Stand"
+  },
+  {
+    "id": 3578,
+    "label": "NAME:COOPDESC1",
+    "en": "- Texas DMZ - \n It's Americans versus Soviets in the Southwestern United States. Players must push the Soviets and their Cuban allies out of the Texas plains. The campaign ends with the destruction of a Russian fortress just inside the Mexican border. Difficulty is EASY."
+  },
+  {
+    "id": 3579,
+    "label": "NAME:COOPDESC2",
+    "en": "- European Theater - \n Knock on the Soviet's front door in Eastern Europe. Players choose between British, French and German Allies. The battle ends with an attack across the Russian border at a major Soviet outpost. Difficulty is EASY."
+  },
+  {
+    "id": 3580,
+    "label": "NAME:COOPDESC3",
+    "en": "- Guardians of the East - \n The Republic of Korea must thwart Soviet aggression in South East Asia. The campaign culminates with the Korean forces invading the snowy shoreline of eastern Russia. Difficulty is MODERATE."
+  },
+  {
+    "id": 3581,
+    "label": "NAME:COOPDESC4",
+    "en": "- African Warlords - \n Seize the oil fields of North Africa. Players control Iraqi and Libyan factions, fighting European Allies. Difficulty is MODERATE."
+  },
+  {
+    "id": 3582,
+    "label": "NAME:COOPDESC5",
+    "en": "- Red Storm - \n Players choose among the American and European Allies to fight the Russians in the North Sea and across Northern Europe. The campaign ends with a spectacular naval battle in the cold Baltic sea. Difficulty is HARD."
+  },
+  {
+    "id": 3583,
+    "label": "MISSION:All04k",
+    "en": "HINT: AIR UNITS are very effective for assaults on Soviet-occupied civilian structures"
+  },
+  {
+    "id": 3584,
+    "label": "MISSION:All04l",
+    "en": "Objective 1: Establish a base"
+  },
+  {
+    "id": 3585,
+    "label": "NAME:CABUNK01",
+    "en": "Bunker"
+  },
+  {
+    "id": 3586,
+    "label": "GUI:TauntsOn",
+    "en": "Taunts On"
+  },
+  {
+    "id": 3587,
+    "label": "STT:TauntsOn",
+    "en": "Enables sending and receiving of taunts."
+  },
+  {
+    "id": 3588,
+    "label": "GUI:StandaloneScore",
+    "en": "Mission Score"
+  },
+  {
+    "id": 3589,
+    "label": "GUI:MultiplayerScore",
+    "en": "Multiplayer Score"
+  },
+  {
+    "id": 3590,
+    "label": "TXT_POWER_DRAIN2",
+    "en": "Power = %d Drain = %d"
+  },
+  {
+    "id": 3591,
+    "label": "WOL:MatchFail",
+    "en": "Cannot locate a suitable opponent..."
+  },
+  {
+    "id": 3592,
+    "label": "STT:WOLLocaleOK",
+    "en": "Set My Location"
+  },
+  {
+    "id": 3593,
+    "label": "STT:WOLLocaleCancel",
+    "en": "Do Not Set My Location"
+  },
+  {
+    "id": 3594,
+    "label": "TXT_CD_DIALOG_A",
+    "en": "Please insert the Yuri's Revenge CD into the CD/ROM drive."
+  },
+  {
+    "id": 3595,
+    "label": "MSG:PlanningModeHeteroSel",
+    "en": "All selected units must be in the same waypoint path to be given a new waypoint."
+  },
+  {
+    "id": 3596,
+    "label": "MSG:PlanningModeNoBuildings",
+    "en": "You cannot use waypoints with buildings."
+  },
+  {
+    "id": 3597,
+    "label": "MSG:PlanningModeNoUnknowns",
+    "en": "You cannot use waypoints with one of these units."
+  },
+  {
+    "id": 3598,
+    "label": "GUI:FirstPlace",
+    "en": "First Place"
+  },
+  {
+    "id": 3599,
+    "label": "GUI:SecondPlace",
+    "en": "Second Place"
+  },
+  {
+    "id": 3600,
+    "label": "GUI:CampaignResults",
+    "en": "Campaign Results"
+  },
+  {
+    "id": 3601,
+    "label": "GUI:DifficultyString",
+    "en": "Difficulty: %s"
+  },
+  {
+    "id": 3602,
+    "label": "GUI:CampaignLabel",
+    "en": "Campaign: %d"
+  },
+  {
+    "id": 3603,
+    "label": "TXT_DIFFICULTY_EASY",
+    "en": "EASY"
+  },
+  {
+    "id": 3604,
+    "label": "TXT_DIFFICULTY_MEDIUM",
+    "en": "MEDIUM"
+  },
+  {
+    "id": 3605,
+    "label": "TXT_DIFFICULTY_BRUTAL",
+    "en": "BRUTAL"
+  },
+  {
+    "id": 3606,
+    "label": "STT:MPScoreLabelStatus",
+    "en": "The ready status of this player."
+  },
+  {
+    "id": 3607,
+    "label": "STT:MPScoreLabelCampaignName",
+    "en": "The name of the campaign."
+  },
+  {
+    "id": 3608,
+    "label": "STT:MPScoreLabelMapName",
+    "en": "The name of the map played."
+  },
+  {
+    "id": 3609,
+    "label": "STT:MPScoreLabelDifficulty",
+    "en": "The difficulty of the campaign."
+  },
+  {
+    "id": 3610,
+    "label": "STT:MPCampScoreContinue",
+    "en": "Continue to next map."
+  },
+  {
+    "id": 3611,
+    "label": "STT:MPCampScoreQuit",
+    "en": "Exit this campaign."
+  },
+  {
+    "id": 3612,
+    "label": "STT:MPCampEndCampaignNumber",
+    "en": "The number of the campaign played."
+  },
+  {
+    "id": 3613,
+    "label": "STT:MPCampEndTime",
+    "en": "Total time for the campaign."
+  },
+  {
+    "id": 3614,
+    "label": "STT:IGSingleOptButtonDelete",
+    "en": "Use this to delete saved missions."
+  },
+  {
+    "id": 3615,
+    "label": "GUI:MapSaved",
+    "en": "Map Saved"
+  },
+  {
+    "id": 3616,
+    "label": "MISSION:ALL11zz",
+    "en": "Order a SPY into an enemy NUKE to reset the count down."
+  },
+  {
+    "id": 3617,
+    "label": "MISSION:ALL12zz",
+    "en": "Romanov must be captured. Don't destroy the Kremlin!"
+  },
+  {
+    "id": 3618,
+    "label": "GUI:PlayMovie",
+    "en": "Play Movie"
+  },
+  {
+    "id": 3619,
+    "label": "GUI:SelectMovie",
+    "en": "Select Movie"
+  },
+  {
+    "id": 3620,
+    "label": "Name:IntroMovie",
+    "en": "Intro Movie"
+  },
+  {
+    "id": 3621,
+    "label": "ERROR:PlayerLeftGameAborted",
+    "en": "One of the players left the game during initialization. The game has been aborted."
+  },
+  {
+    "id": 3622,
+    "label": "GUI:WWBrand",
+    "en": "WESTWOOD STUDIOS IS AN ELECTRONIC ARTS BRAND"
+  },
+  {
+    "id": 3623,
+    "label": "MISSION:All04m",
+    "en": "Deploy your Mobile Construction Vehicle into a Construction Yard"
+  },
+  {
+    "id": 3624,
+    "label": "GUI:SkirmishScore",
+    "en": "Skirmish Score"
+  },
+  {
+    "id": 3625,
+    "label": "Name:APara",
+    "en": "Airborne"
+  },
+  {
+    "id": 3626,
+    "label": "Name:Tourney4",
+    "en": "Official Tournament Map A (2)"
+  },
+  {
+    "id": 3627,
+    "label": "Name:Tourney5",
+    "en": "Official Tournament Map B (2)"
+  },
+  {
+    "id": 3628,
+    "label": "STT:OptionInternetResumeMission",
+    "en": "Return to the mission."
+  },
+  {
+    "id": 3629,
+    "label": "STT:IGRLogin",
+    "en": "Enter your Westwood Online nickname"
+  },
+  {
+    "id": 3630,
+    "label": "STT:WOLAddBuddyQueryDoNotAsk",
+    "en": "Check this box if you do wish to be asked this question again"
+  },
+  {
+    "id": 3631,
+    "label": "STT:WOLAddBuddyQueryYes",
+    "en": "Add this player to your buddy list"
+  },
+  {
+    "id": 3632,
+    "label": "STT:WOLAddBuddyQueryNo",
+    "en": "Do not add this player to your buddy list"
+  },
+  {
+    "id": 3633,
+    "label": "GUI:Debug",
+    "en": "Information"
+  },
+  {
+    "id": 3634,
+    "label": "GUI:CursorCheat",
+    "en": "Coordinates"
+  },
+  {
+    "id": 3635,
+    "label": "DESC:CursorCheat",
+    "en": "Displays coordinates at the cursor."
+  },
+  {
+    "id": 3636,
+    "label": "STT:WOLOptionFilterAsian",
+    "en": "Display messages using Asian characters"
+  },
+  {
+    "id": 3637,
+    "label": "STT:WOLOptionFilterNonAsian",
+    "en": "Display messages using non-Asian characters"
+  },
+  {
+    "id": 3638,
+    "label": "GUI:WOLCheckStatus",
+    "en": "Network Status"
+  },
+  {
+    "id": 3639,
+    "label": "GUI:FilterAsianMessages",
+    "en": "Display Asian messages"
+  },
+  {
+    "id": 3640,
+    "label": "GUI:FilterNonAsianMessages",
+    "en": "Display non-asian messages"
+  },
+  {
+    "id": 3641,
+    "label": "TXT_LOB_7",
+    "en": "Chinese Bunker"
+  },
+  {
+    "id": 3642,
+    "label": "TXT_LOB_8",
+    "en": "Intl. Command"
+  },
+  {
+    "id": 3643,
+    "label": "WOL:MatchOpponentRank",
+    "en": "Opponent Rank = %d \n"
+  },
+  {
+    "id": 3644,
+    "label": "WOL:MatchOpponentRankUnknown",
+    "en": "Opponent Rank Unknown"
+  },
+  {
+    "id": 3645,
+    "label": "WOL:MatchOpponentPingUnknown",
+    "en": "Opponent Ping Unknown"
+  },
+  {
+    "id": 3646,
+    "label": "WOL:MatchOpponentPing",
+    "en": "Opponent Ping = %dms \n"
+  },
+  {
+    "id": 3647,
+    "label": "WOL:AddBuddyQuery",
+    "en": "Add %hs to your buddy list?"
+  },
+  {
+    "id": 3648,
+    "label": "GUI:To",
+    "en": "To"
+  },
+  {
+    "id": 3649,
+    "label": "GUI:Amount",
+    "en": "Amount"
+  },
+  {
+    "id": 3650,
+    "label": "GUI:Current",
+    "en": "Current"
+  },
+  {
+    "id": 3651,
+    "label": "GUI:Give",
+    "en": "Give"
+  },
+  {
+    "id": 3652,
+    "label": "TXT_PAGE_COMMAND",
+    "en": "/page"
+  },
+  {
+    "id": 3653,
+    "label": "TXT_ONLINE_COMMAND",
+    "en": "/on"
+  },
+  {
+    "id": 3654,
+    "label": "GUI:NormalGameIconDesc",
+    "en": "This game will not be recorded in the Westwood Ladder rankings."
+  },
+  {
+    "id": 3655,
+    "label": "GUI:TournamentGameIconDesc",
+    "en": "This game will be recorded in the Westwood Ladder rankings."
+  },
+  {
+    "id": 3656,
+    "label": "GUI:ClanGameIconDesc",
+    "en": "This game is a BattleClan game."
+  },
+  {
+    "id": 3657,
+    "label": "GUI:ResolutionLimitIconDesc",
+    "en": "This game is locked to a specific resolution."
+  },
+  {
+    "id": 3658,
+    "label": "GUI:ObserverAllowedIconDesc",
+    "en": "This game allows an Observer to participate."
+  },
+  {
+    "id": 3659,
+    "label": "GUI:PasswordIconDesc",
+    "en": "This game requires a password to enter."
+  },
+  {
+    "id": 3660,
+    "label": "GUI:OperatorIconDesc",
+    "en": "This player is a Westwood Studios or Yuri's Revenge representative."
+  },
+  {
+    "id": 3661,
+    "label": "TXT_OBSERVER_CANT_PAGE",
+    "en": "An observer is not allowed to page a player in the same game."
+  },
+  {
+    "id": 3662,
+    "label": "TXT_SCOUT",
+    "en": "Scout map"
+  },
+  {
+    "id": 3663,
+    "label": "TXT_SCOUT_DESC",
+    "en": "Order unit to randomly explore map."
+  },
+  {
+    "id": 3664,
+    "label": "TXT_STRUCTURE_TAB",
+    "en": "Select Structures Tab"
+  },
+  {
+    "id": 3665,
+    "label": "TXT_STRUCTURE_TAB_DESC",
+    "en": "Switch the command bar to the Building Tab and select the completed building if any."
+  },
+  {
+    "id": 3666,
+    "label": "TXT_DEFENSE_TAB",
+    "en": "Select Defense Tab"
+  },
+  {
+    "id": 3667,
+    "label": "TXT_USER_FOUND",
+    "en": "%s is in channel %s."
+  },
+  {
+    "id": 3668,
+    "label": "TXT_USER_NOT_IN_CHANNEL",
+    "en": "%s is not in a channel."
+  },
+  {
+    "id": 3669,
+    "label": "TXT_USER_NOT_ONLINE",
+    "en": "%s is not logged in to Westwood Online."
+  },
+  {
+    "id": 3670,
+    "label": "TXT_USER_FIND_DISABLED",
+    "en": "%s will not respond to Find command."
+  },
+  {
+    "id": 3671,
+    "label": "TXT_REPLY_COMMAND",
+    "en": "/reply"
+  },
+  {
+    "id": 3672,
+    "label": "TXT_REPLY_COMMAND_SHORT",
+    "en": "/r"
+  },
+  {
+    "id": 3673,
+    "label": "TXT_NO_AI_WITH_OBSERVER",
+    "en": "You cannot select a Computer Opponent when an observer is present"
+  },
+  {
+    "id": 3674,
+    "label": "TXT_OBSERVER_BOOTED_AI",
+    "en": "Observer Mode de-selected AI players"
+  },
+  {
+    "id": 3675,
+    "label": "GUI:GrayAbbrev",
+    "en": "OBS"
+  },
+  {
+    "id": 3676,
+    "label": "GUI:OpenObserver",
+    "en": "Open Observer"
+  },
+  {
+    "id": 3677,
+    "label": "Name:Observer",
+    "en": "Observer"
+  },
+  {
+    "id": 3678,
+    "label": "TXT_OBSERVER_CANT_SEND",
+    "en": "Observers can only send chat messages to all players"
+  },
+  {
+    "id": 3679,
+    "label": "TXT_NO_AI_OBSERVATION",
+    "en": "Cannot observe this configuration."
+  },
+  {
+    "id": 3680,
+    "label": "STT:PlayerColorObserver",
+    "en": "Click here to be an Observer."
+  },
+  {
+    "id": 3681,
+    "label": "STT:PlayerSideObserver",
+    "en": "The Observer can view the entire battlefield."
+  },
+  {
+    "id": 3682,
+    "label": "STT:PlayerOpenObserver",
+    "en": "This slot is open to players who wish to observe."
+  },
+  {
+    "id": 3683,
+    "label": "STT:ObserverToggle",
+    "en": "Click here to observe games."
+  },
+  {
+    "id": 3684,
+    "label": "STT:LobbyButtonObserve",
+    "en": "Observe an existing multiplayer game"
+  },
+  {
+    "id": 3685,
+    "label": "TXT_LATENCY_ICON_TOOLTIP_PING",
+    "en": "Connection quality between %s and host is %s. Ping = %dms."
+  },
+  {
+    "id": 3686,
+    "label": "TXT_LATENCY_ICON_TOOLTIP_NOPING",
+    "en": "Connection quality between %s and host is %s. %s"
+  },
+  {
+    "id": 3687,
+    "label": "TXT_GOOD",
+    "en": "good"
+  },
+  {
+    "id": 3688,
+    "label": "TXT_FAIR",
+    "en": "fair"
+  },
+  {
+    "id": 3689,
+    "label": "TXT_POOR",
+    "en": "poor"
+  },
+  {
+    "id": 3690,
+    "label": "TXT_UNKNOWN",
+    "en": "unknown"
+  },
+  {
+    "id": 3691,
+    "label": "TXT_NO_ONE_WHOM_TO_REPLY",
+    "en": "You have not been paged yet. Unable to send reply."
+  },
+  {
+    "id": 3692,
+    "label": "TXT_NO_NAME_SPECIFIED",
+    "en": "You did not specify a person to send the page to."
+  },
+  {
+    "id": 3693,
+    "label": "TXT_CANT_SEND_BLANK_PAGE",
+    "en": "Unable to send blank page."
+  },
+  {
+    "id": 3694,
+    "label": "GUI:IconGlossary",
+    "en": "Description of icons used in Westwood Online"
+  },
+  {
+    "id": 3695,
+    "label": "GUI:LatencyIconDesc",
+    "en": "Connection quality between the player and the host."
+  },
+  {
+    "id": 3696,
+    "label": "TXT_PLAYER_TOOLTIP_UNR_C_CR",
+    "en": "Player's name, %s, BattleClan %s, Clan Rank = %d"
+  },
+  {
+    "id": 3697,
+    "label": "TXT_PLAYER_TOOLTIP_UNR_C_CUNR",
+    "en": "Player's name, %s, BattleClan %s, Clan Unranked"
+  },
+  {
+    "id": 3698,
+    "label": "TXT_PLAYER_TOOLTIP_R_C_CR",
+    "en": "Player's name, %s %d, BattleClan %s, Clan Rank = %d"
+  },
+  {
+    "id": 3699,
+    "label": "TXT_PLAYER_TOOLTIP_R_C_CUNR",
+    "en": "Player's name, %s %d, BattleClan %s, Clan Unranked"
+  },
+  {
+    "id": 3700,
+    "label": "TXT_PLAYER_TOOLTIP_UNR_NOC",
+    "en": "Player's name, %s"
+  },
+  {
+    "id": 3701,
+    "label": "TXT_PLAYER_TOOLTIP_R_NOC",
+    "en": "Player's name, %s %d"
+  },
+  {
+    "id": 3702,
+    "label": "TXT_NO_NAME",
+    "en": "You did not specify a valid user name."
+  },
+  {
+    "id": 3703,
+    "label": "GUI:AnimTextOn",
+    "en": "Scrolling text On"
+  },
+  {
+    "id": 3704,
+    "label": "STT:AnimTextOn",
+    "en": "Enables scrolling message text."
+  },
+  {
+    "id": 3705,
+    "label": "TXT_OBSERVER_FULL",
+    "en": "No room for observers."
+  },
+  {
+    "id": 3706,
+    "label": "TXT_TOO_MANY_PLAYERS",
+    "en": "Internet games can only have 4 players."
+  },
+  {
+    "id": 3707,
+    "label": "GUI:ConnectingToPlayers",
+    "en": "Connecting to other players"
+  },
+  {
+    "id": 3708,
+    "label": "TXT_FAILED_TO_TALK",
+    "en": "Unable to connect to other players \n"
+  },
+  {
+    "id": 3709,
+    "label": "TXT_TALK_REPORTED_PROBLEM",
+    "en": "Player %s had a problem connecting \n"
+  },
+  {
+    "id": 3710,
+    "label": "TXT_TALK_LOCAL_PROBLEM",
+    "en": "Unable to connect to player %s \n"
+  },
+  {
+    "id": 3711,
+    "label": "TXT_TALK_FORWARDER_PROBLEM_GUES",
+    "en": "Unable to connect to the game host \n"
+  },
+  {
+    "id": 3712,
+    "label": "TXT_TALK_FORWARDER_PROBLEM_HOST",
+    "en": "Player %s was unable to connect to the game host \n"
+  },
+  {
+    "id": 3713,
+    "label": "TXT_TALK_HOST_ABORTED",
+    "en": "The game host reported a connection problem between players \n"
+  },
+  {
+    "id": 3714,
+    "label": "GUI:HostMapTransfer",
+    "en": "%s does not have the unofficial map %s. It will be transfered at game start."
+  },
+  {
+    "id": 3715,
+    "label": "GUI:JoinerMapTransfer",
+    "en": "You do not have the unofficial map %s. It will be transfered to your computer at game start."
+  },
+  {
+    "id": 3716,
+    "label": "TXT_DISCON_ABORT",
+    "en": "You have disconnected too many times from a tournament game. This game will count as a loss."
+  },
+  {
+    "id": 3717,
+    "label": "TXT_DETECTING_FIREWALL_SETTINGS",
+    "en": "Detecting firewall settings"
+  },
+  {
+    "id": 3718,
+    "label": "GUI:LANSettings",
+    "en": "LAN Settings"
+  },
+  {
+    "id": 3719,
+    "label": "GUI:FirewallSettings",
+    "en": "Internet Firewall Settings"
+  },
+  {
+    "id": 3720,
+    "label": "GUI:FirewallSendDelay",
+    "en": "Send delay"
+  },
+  {
+    "id": 3721,
+    "label": "GUI:PortNumber",
+    "en": "Port number"
+  },
+  {
+    "id": 3722,
+    "label": "STT:MultiOptPortNumber",
+    "en": "Edit your local port number (advanced users only)."
+  },
+  {
+    "id": 3723,
+    "label": "STT:MultiOptSendDelay",
+    "en": "Other players delay before sending to you (advanced users only)."
+  },
+  {
+    "id": 3724,
+    "label": "TXT_FIREWALL_SETTINGS_WARNING1",
+    "en": "Warning: \n The 'Send delay' option is only required for a very limited number of firewalls and may cause connection problems if used unnecessarily."
+  },
+  {
+    "id": 3725,
+    "label": "TXT_FIREWALL_SETTINGS_WARNING2",
+    "en": "Warning: \n Specifying a local port number requires your firewall to be configured with static forwarding rules. \n Most firewalls and NATs are supported automatically without changing this value."
+  },
+  {
+    "id": 3726,
+    "label": "TXT_PORT_NUMBER_ERROR",
+    "en": "Port number should be between 0 and 65535"
+  },
+  {
+    "id": 3727,
+    "label": "GUI:MapTransfer",
+    "en": "Transferring map..."
+  },
+  {
+    "id": 3728,
+    "label": "STT:PlayerSideYuriCountry",
+    "en": "Yuri's side is unique."
+  },
+  {
+    "id": 3729,
+    "label": "LoadBrief:YuriCountry",
+    "en": "Yuri uses mind-control and genetic mutation to corrupt the battlefield. His special units can seize the forces and structures of his enemies."
+  },
+  {
+    "id": 3730,
+    "label": "LoadBriefShort:YuriCountry",
+    "en": "Yuri has own tech tree."
+  },
+  {
+    "id": 3731,
+    "label": "Name:INIT",
+    "en": "Initiate"
+  },
+  {
+    "id": 3732,
+    "label": "Name:Virus",
+    "en": "Virus"
+  },
+  {
+    "id": 3733,
+    "label": "Name:Brute",
+    "en": "Brute"
+  },
+  {
+    "id": 3734,
+    "label": "Name:YuriClone",
+    "en": "Yuri Clone"
+  },
+  {
+    "id": 3735,
+    "label": "Name:Lasher",
+    "en": "Lasher Light Tank"
+  },
+  {
+    "id": 3736,
+    "label": "Name:GattTank",
+    "en": "Gattling Tank"
+  },
+  {
+    "id": 3737,
+    "label": "Name:ChaosDrone",
+    "en": "Chaos Drone"
+  },
+  {
+    "id": 3738,
+    "label": "Name:MasterMind",
+    "en": "Master Mind"
+  },
+  {
+    "id": 3739,
+    "label": "Name:Magnetron",
+    "en": "Magnetron"
+  },
+  {
+    "id": 3740,
+    "label": "Name:YMCV",
+    "en": "Yuri MCV"
+  },
+  {
+    "id": 3741,
+    "label": "Name:Boomer",
+    "en": "Boomer"
+  },
+  {
+    "id": 3742,
+    "label": "Name:BioR",
+    "en": "Bio Reactor"
+  },
+  {
+    "id": 3743,
+    "label": "Name:YBarracks",
+    "en": "Yuri Barracks"
+  },
+  {
+    "id": 3744,
+    "label": "Name:YWarfactory",
+    "en": "Yuri War Factory"
+  },
+  {
+    "id": 3745,
+    "label": "Name:YBlab",
+    "en": "Yuri Battle Lab"
+  },
+  {
+    "id": 3746,
+    "label": "Name:Ynaval",
+    "en": "Yuri Naval Yard"
+  },
+  {
+    "id": 3747,
+    "label": "Name:YAPSYT",
+    "en": "Psychic Tower"
+  },
+  {
+    "id": 3748,
+    "label": "Name:GattCannon",
+    "en": "Gattling Cannon"
+  },
+  {
+    "id": 3749,
+    "label": "Name:Citadel",
+    "en": "Citadel Walls"
+  },
+  {
+    "id": 3750,
+    "label": "Name:YAPPET",
+    "en": "Psychic Dominator"
+  },
+  {
+    "id": 3751,
+    "label": "Name:Battlefortress",
+    "en": "Battle Fortress"
+  },
+  {
+    "id": 3752,
+    "label": "Name:GuardianGI",
+    "en": "Guardian GI"
+  },
+  {
+    "id": 3753,
+    "label": "Name:SiegeChopper",
+    "en": "Siege Chopper"
+  },
+  {
+    "id": 3754,
+    "label": "Name:Boris",
+    "en": "Boris"
+  },
+  {
+    "id": 3755,
+    "label": "Name:IndustrialPlant",
+    "en": "Industrial Plant"
+  },
+  {
+    "id": 3756,
+    "label": "Name:NATBNK",
+    "en": "Tank Bunker"
+  },
+  {
+    "id": 3757,
+    "label": "GUI:PageButton",
+    "en": "Page"
+  },
+  {
+    "id": 3758,
+    "label": "STT:WOLPageButton",
+    "en": "Page a user"
+  },
+  {
+    "id": 3759,
+    "label": "GUI:PlayersortClan",
+    "en": "Clan"
+  },
+  {
+    "id": 3760,
+    "label": "STT:WOLPlayersortClan",
+    "en": "Sort player list by clan"
+  },
+  {
+    "id": 3761,
+    "label": "GUI:PlayersortAlpha",
+    "en": "Alpha"
+  },
+  {
+    "id": 3762,
+    "label": "STT:WOLPlayersortRank",
+    "en": "Sort player list by rank"
+  },
+  {
+    "id": 3763,
+    "label": "STT:WOLPlayersortAlpha",
+    "en": "Sort player list alphabetically"
+  },
+  {
+    "id": 3764,
+    "label": "GUI:GamesortPing",
+    "en": "Ping"
+  },
+  {
+    "id": 3765,
+    "label": "STT:WOLGamesortPing",
+    "en": "Sort game list by ping"
+  },
+  {
+    "id": 3766,
+    "label": "STT:WOLGamesortAlpha",
+    "en": "Sort game list alphabetically"
+  },
+  {
+    "id": 3767,
+    "label": "GUI:GamesortReslock",
+    "en": "Resolution/Observer"
+  },
+  {
+    "id": 3768,
+    "label": "STT:WOLGamesortReslock",
+    "en": "Sort games according to the observer and resolution lock options"
+  },
+  {
+    "id": 3769,
+    "label": "STT:WOLGamesortPassword",
+    "en": "Sort games by the password option"
+  },
+  {
+    "id": 3770,
+    "label": "GUI:GamesortGametype",
+    "en": "Game type"
+  },
+  {
+    "id": 3771,
+    "label": "STT:WOLGamesortGametype",
+    "en": "Sort games by game type"
+  },
+  {
+    "id": 3772,
+    "label": "GUI:QuickCoop",
+    "en": "Quick Co-op"
+  },
+  {
+    "id": 3773,
+    "label": "STT:QuickCoop",
+    "en": "Set up a cooperative game automatically"
+  },
+  {
+    "id": 3774,
+    "label": "GUI:ObsRank",
+    "en": "Rank %s"
+  },
+  {
+    "id": 3775,
+    "label": "GUI:ObsKills",
+    "en": "%s Enemies Killed"
+  },
+  {
+    "id": 3776,
+    "label": "GUI:ObsUnits",
+    "en": "%s Units Alive"
+  },
+  {
+    "id": 3777,
+    "label": "GUI:ObsCredits",
+    "en": "$%s"
+  },
+  {
+    "id": 3778,
+    "label": "Name:Yuri_Coop",
+    "en": "Yuri Campaign"
+  },
+  {
+    "id": 3779,
+    "label": "Name:World_Coop",
+    "en": "World Alliance"
+  },
+  {
+    "id": 3780,
+    "label": "NAME:Arena33",
+    "en": "Arena 33 Forever (2-6)"
+  },
+  {
+    "id": 3781,
+    "label": "NAME:ValGirl",
+    "en": "Death Valley Girl (2-4)"
+  },
+  {
+    "id": 3782,
+    "label": "NAME:DinoWars",
+    "en": "Dino Wars (2-8)"
+  },
+  {
+    "id": 3783,
+    "label": "NAME:DinoZoo",
+    "en": "Dinosaur Zoo (2-8)"
+  },
+  {
+    "id": 3784,
+    "label": "NAME:2xTrble",
+    "en": "Double Trouble (2-4)"
+  },
+  {
+    "id": 3785,
+    "label": "NAME:DryHeat",
+    "en": "Dry Heat (2-4)"
+  },
+  {
+    "id": 3786,
+    "label": "NAME:EastVsBest",
+    "en": "East vs Best (2-6)"
+  },
+  {
+    "id": 3787,
+    "label": "NAME:4Crners",
+    "en": "Four Corners (2-4)"
+  },
+  {
+    "id": 3788,
+    "label": "NAME:Oades",
+    "en": "Isle Of Oades (2-4)"
+  },
+  {
+    "id": 3789,
+    "label": "NAME:MonValley",
+    "en": "Monument Valley (2-6)"
+  },
+  {
+    "id": 3790,
+    "label": "NAME:MoonBase",
+    "en": "Moon Base (2-4)"
+  },
+  {
+    "id": 3791,
+    "label": "NAME:OffDef",
+    "en": "Offense Defense (2-4)"
+  },
+  {
+    "id": 3792,
+    "label": "NAME:OttersRevenge",
+    "en": "Otters Revenge (2-4)"
+  },
+  {
+    "id": 3793,
+    "label": "NAME:ForFires",
+    "en": "Return to Forest Fires"
+  },
+  {
+    "id": 3794,
+    "label": "NAME:SedonaPass",
+    "en": "Sedona Pass (2-6)"
+  },
+  {
+    "id": 3795,
+    "label": "NAME:SPoleSlug",
+    "en": "South Pole Slugfest (2-4)"
+  },
+  {
+    "id": 3796,
+    "label": "NAME:TopOTheHill",
+    "en": "Top o'the Hill (2-3)"
+  },
+  {
+    "id": 3797,
+    "label": "NAME:TourOfEgypt",
+    "en": "Tour Of Egypt (2-6)"
+  },
+  {
+    "id": 3798,
+    "label": "NAME:TrailerPark",
+    "en": "Trailer Park (2-8)"
+  },
+  {
+    "id": 3799,
+    "label": "NAME:TurfWar",
+    "en": "Turfwar (2-4)"
+  },
+  {
+    "id": 3800,
+    "label": "TXT_NAT_NO_PREVIEW",
+    "en": "Preview unavailable"
+  },
+  {
+    "id": 3801,
+    "label": "Name:YAGNTC",
+    "en": "Genetic Mutator"
+  },
+  {
+    "id": 3802,
+    "label": "Name:NABNKR",
+    "en": "Battle Bunker"
+  },
+  {
+    "id": 3803,
+    "label": "TXT_DEFENSE_TAB_DESC",
+    "en": "Switch the command bar to the Defense Tab and select the completed building if any."
+  },
+  {
+    "id": 3804,
+    "label": "TXT_INFANTRY_TAB",
+    "en": "Select Infantry Tab"
+  },
+  {
+    "id": 3805,
+    "label": "TXT_INFANTRY_TAB_DESC",
+    "en": "Switch the command bar to the Infantry Tab."
+  },
+  {
+    "id": 3806,
+    "label": "TXT_UNIT_TAB",
+    "en": "Select Vehicle Tab"
+  },
+  {
+    "id": 3807,
+    "label": "TXT_UNIT_TAB_DESC",
+    "en": "Switch the command bar to the Vehicle Tab."
+  },
+  {
+    "id": 3808,
+    "label": "NAME:COOPDESC11",
+    "en": "Soviet bases in Cuba pose a threat to the Continental United States so they must be eliminated. Commander 1 will take control of our secret Air Force Command near the coast. Commander 2 will secure the city of Havana."
+  },
+  {
+    "id": 3809,
+    "label": "NAME:COOPDESC12",
+    "en": "Yuri has managed to establish bases in the Hollywood Hills. Commander 1 will take charge of the area around LAX. Commander 2 will take command of the power and oil facilities just east of the freeway."
+  },
+  {
+    "id": 3810,
+    "label": "NAME:COOPDESC13",
+    "en": "You have successfully driven Yuri and his Russian allies back into the USSR. The time has come to finish them, Commanders. Establish your bases and end this war."
+  },
+  {
+    "id": 3811,
+    "label": "NAME:COOPDESC21",
+    "en": "The Americans believe they can hold Seattle. Crush thier defensive positions and let us move on to more glorious battles. Commander 1 will take command of our naval forces, while Commander 2 prepares for a crushing armored assault."
+  },
+  {
+    "id": 3812,
+    "label": "NAME:COOPDESC22",
+    "en": "The traitor Yuri is rebuilding his forces in the Egyptian desert. Commander 1 will take charge of our old base along the Nile. Commander 2 must protect our oil fields just south of Yuri's front lines."
+  },
+  {
+    "id": 3813,
+    "label": "NAME:COOPDESC23",
+    "en": "It appears the Black Forest of Germany will be the final resting place of both our enemies. Both seek out Einstein's laboratory in vain hope it will give them hope of survival. Intelligence has pin pointed the location of the nuclear reactors that must surely power Einstein's lab. Secure your positions and then seek out and destroy the enemies of the Soviet state once and for all."
+  },
+  {
+    "id": 3814,
+    "label": "NAME:COOPDESC31",
+    "en": "The Allies have constructed defenses around their precious White House. They hide behind their technology like scared children. Establish your bases and end their poor mindless attempts to hold us back."
+  },
+  {
+    "id": 3815,
+    "label": "NAME:COOPDESC32",
+    "en": "The Red Army has managed to steal the Allies prism technology and is trying to develop their own version of the Prism Tower at a secret research facility deep in the Yucatan jungle. We will launch a surprise attack on their base and squash the Soviets last hope for victory. Commander 1 will begin north of a small oil field. Commander two will begin just east of a local airport."
+  },
+  {
+    "id": 3816,
+    "label": "NAME:COOPDESC33",
+    "en": "The Allies and Soviets have allied against us. They have gathered the last of their forces in London. Commander 1 will control our oil derrick in the city and Commander 2 will control the hospital across the Thames. This victory will ensure Yuri's mastery of the world."
+  },
+  {
+    "id": 3817,
+    "label": "NAME:COOPDESC41",
+    "en": "In the wake of the Soviet invasion, Yuri has established two bases in the heart of New York City. No longer under Yuri's control, the Red Army has allied with the Americans to defeat the traitor."
+  },
+  {
+    "id": 3818,
+    "label": "Name:CASLAB",
+    "en": "Tech Secret Lab"
+  },
+  {
+    "id": 3819,
+    "label": "Name:DISK",
+    "en": "Floating Disc"
+  },
+  {
+    "id": 3820,
+    "label": "Name:SMIN",
+    "en": "Slave Miner"
+  },
+  {
+    "id": 3821,
+    "label": "Name:SLAV",
+    "en": "Slave"
+  },
+  {
+    "id": 3822,
+    "label": "Name:YACNST",
+    "en": "Yuri Construction Yard"
+  },
+  {
+    "id": 3823,
+    "label": "Name:Robotank",
+    "en": "Robot Tank"
+  },
+  {
+    "id": 3824,
+    "label": "Name:Robocont",
+    "en": "Robot Control Center"
+  },
+  {
+    "id": 3825,
+    "label": "Name:ForceShield",
+    "en": "Force Shield"
+  },
+  {
+    "id": 3826,
+    "label": "NAME:TestersMap",
+    "en": "Tester's Map"
+  },
+  {
+    "id": 3827,
+    "label": "GUI:UnderParMsgAll01md",
+    "en": "Your quick thinking caught both the Soviets and Yuri off guard. The Soviet invasion of San Francisco has been thwarted, and Yuri's plans have been thrown into disarray. Well done, Commander."
+  },
+  {
+    "id": 3828,
+    "label": "GUI:OverParMsgAll01md",
+    "en": "Though we have thwarted both the plans of the Soviets and Yuri, the population of San Francisco suffered terrible losses."
+  },
+  {
+    "id": 3829,
+    "label": "Name:All01md",
+    "en": "Operation: Time Lapse"
+  },
+  {
+    "id": 3830,
+    "label": "LoadMsg:All01md",
+    "en": "Operation: Time Lapse - Location: San Francisco, California"
+  },
+  {
+    "id": 3831,
+    "label": "BRIEF:ALL01MD",
+    "en": "It's only a matter of time before Yuri brings the Psychic Dominator on Alcatraz back online. Our only chance is to use Professor Einstein's Time Machine to send us back in time and stop Yuri before he can complete his worldwide network of Psychic Domnators. \n \n Objective 1: Capture Power Plants to power the Time Machine \n Objective 2: Defend the Time Machine \n Objective 3: Destroy the Psychic Dominator on Alcatraz"
+  },
+  {
+    "id": 3832,
+    "label": "LoadBrief:All01md",
+    "en": "Objective 1: Capture Power Plants to power the Time Machine \n Objective 2: Defend the Time Machine \n Objective 3: Destroy the Psychic Dominator on Alcatraz"
+  },
+  {
+    "id": 3833,
+    "label": "MISSION:GetPower",
+    "en": "Objective: Capture Power Plants to bring the Time Machine online"
+  },
+  {
+    "id": 3834,
+    "label": "MISSION:KillRuss",
+    "en": "Objective: Destroy all Soviet tanks"
+  },
+  {
+    "id": 3835,
+    "label": "MISSION:Alcatraz",
+    "en": "Objective: Swim Tanya to Alcatraz Island and destroy the Psychic Dominator"
+  },
+  {
+    "id": 3836,
+    "label": "MISSION:Soviets",
+    "en": "Objective: Clear the area of Soviet forces"
+  },
+  {
+    "id": 3837,
+    "label": "MISSION:Carriers",
+    "en": "Aircraft Carrier reinforcements have arrived"
+  },
+  {
+    "id": 3838,
+    "label": "MISSION:Seals",
+    "en": "SEAL reinforcements have arrived"
+  },
+  {
+    "id": 3839,
+    "label": "MISSION:TimeText",
+    "en": "Time Machine:"
+  },
+  {
+    "id": 3840,
+    "label": "MISSION:Swim",
+    "en": "Hint: Tanya can swim to Alcatraz Island"
+  },
+  {
+    "id": 3841,
+    "label": "MISSION:GrandC",
+    "en": "Hint: Use the Grand Cannons to take out the Nuclear Reactor on Alcatraz"
+  },
+  {
+    "id": 3842,
+    "label": "MISSION:GrandC2",
+    "en": "Hint: Use the Grand Cannons to take out Soviet Dreadnoughts"
+  },
+  {
+    "id": 3843,
+    "label": "MISSION:Tanya2",
+    "en": "Hint: Tanya can plant C4 charges on tanks"
+  },
+  {
+    "id": 3844,
+    "label": "MISSION:Soviet2",
+    "en": "WARNING - Soviet armor battallion detected"
+  },
+  {
+    "id": 3845,
+    "label": "MISSION:Attack",
+    "en": "WARNING - The Time Machine is under attack!"
+  },
+  {
+    "id": 3846,
+    "label": "MISSION:Attack2",
+    "en": "WARNING - Our Power Plants are under attack"
+  },
+  {
+    "id": 3847,
+    "label": "MISSION:Attack3",
+    "en": "WARNING - Do not attack Power Plants!"
+  },
+  {
+    "id": 3848,
+    "label": "MISSION:GattCann",
+    "en": "WARNING - Gattling Cannon detected"
+  },
+  {
+    "id": 3849,
+    "label": "MISSION:LoseTM",
+    "en": "The Time Machine has been destroyed"
+  }
+]

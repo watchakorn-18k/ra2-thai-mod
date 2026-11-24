@@ -1,0 +1,27 @@
+{
+  "name": "Red Alert 2 & Yuris Revenge Thai Language Mod",
+  "version": "1.0.0",
+  "credit": "porton007",
+  "files": {
+    "GAME.FNT": {
+      "sha256": "fe16179b3a6631b4b94c6e1035c12bb0c3210279d87ec8d753e1e2c52507edcd",
+      "size": 1609822
+    },
+    "ra2md.csf": {
+      "sha256": "3300518248bb194b62e08c88ad8b44f7d5fed588028b3e881d385dedbaf2e116",
+      "size": 486275
+    },
+    "ra2.csf": {
+      "sha256": "caccb7247bdccaacfd05ac8afe5229a2d073f4c09354a4931fc3133852fb38af",
+      "size": 411402
+    },
+    "ddraw.dll": {
+      "sha256": "85e0f7d530dfda134793a57cb3e76b0287dcc96892ee57162dd68f47283b03a9",
+      "size": 411648
+    },
+    "ddraw.ini": {
+      "sha256": "2bd718cf18db6aa24209319d0e07d9870b2b7fc26eb95d88444cb9f39555c826",
+      "size": 30540
+    }
+  }
+}

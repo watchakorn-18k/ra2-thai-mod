@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 3150,
+    "label": "LoadBrief:French",
+    "en": "The French Grand Cannon is the ultimate defensive gun, firing at long range for massive damage."
+  },
+  {
+    "id": 3151,
+    "label": "LoadBriefShort:French",
+    "en": "France can build the GRAND CANNON."
+  },
+  {
+    "id": 3152,
+    "label": "LoadBrief:Germans",
+    "en": "The German Tank Destroyer can easily eliminate enemy vehicles. Its advanced armor-piercing gun is weak against enemy infantry and structures."
+  },
+  {
+    "id": 3153,
+    "label": "LoadBriefShort:Germans",
+    "en": "Germany can build TANK DESTROYERS."
+  },
+  {
+    "id": 3154,
+    "label": "LoadBrief:Korea",
+    "en": "The Black Eagles are the most dangerous fighter pilots in the world. Korean forces are always well protected by these deadly air men and their lethal fighter-bombers."
+  },
+  {
+    "id": 3155,
+    "label": "LoadBriefShort:Korea",
+    "en": "Korea can build the BLACK EAGLE."
+  },
+  {
+    "id": 3156,
+    "label": "LoadBrief:Russia",
+    "en": "Russian Tesla Tanks fire a short range Tesla Bolt that can short circuit enemy vehicles and even arc over enemy walls."
+  },
+  {
+    "id": 3157,
+    "label": "LoadBriefShort:Russia",
+    "en": "Russia can build TESLA TANKS."
+  },
+  {
+    "id": 3158,
+    "label": "LoadBrief:Cuba",
+    "en": "The Cuban terrorist is a fanatic for the Soviet cause and will actually carry a bomb right up to the enemy before detonating it, destroying himself and anything nearby."
+  },
+  {
+    "id": 3159,
+    "label": "LoadBriefShort:Cuba",
+    "en": "Cuba can train TERRORISTS."
+  },
+  {
+    "id": 3160,
+    "label": "LoadBrief:Lybia",
+    "en": "The Libyan Demolition Truck self-destructs on an enemy target, setting off a small nuclear bomb."
+  },
+  {
+    "id": 3161,
+    "label": "LoadBriefShort:Lybia",
+    "en": "Libya can build DEMOLITION TRUCKS."
+  },
+  {
+    "id": 3162,
+    "label": "LoadBrief:Iraq",
+    "en": "The Iraqi Desolator can poison land with toxic radiation or annihilate enemy troops with his powerful Rad-Cannon."
+  },
+  {
+    "id": 3163,
+    "label": "LoadBriefShort:Iraq",
+    "en": "Iraq can train DESOLATORS."
+  },
+  {
+    "id": 3164,
+    "label": "GameTypeDesc:Battle",
+    "en": "Ally with other players and battle until one team is victorious."
+  },
+  {
+    "id": 3165,
+    "label": "GameTypeDesc:FFA",
+    "en": "Alliances are forbidden, there can be only one victor."
+  },
+  {
+    "id": 3166,
+    "label": "GameTypeDesc:MeatGrinder",
+    "en": "High-technology weapons are not available."
+  },
+  {
+    "id": 3167,
+    "label": "GameTypeDesc:NavalWar",
+    "en": "Fight for control of the high-seas."
+  },
+  {
+    "id": 3168,
+    "label": "GameTypeDesc:Unholy",
+    "en": "Begin with both a Soviet and Allied Mobile Construction Vehicle."
+  },
+  {
+    "id": 3169,
+    "label": "GameTypeDesc:LandRush",
+    "en": "Begin with only an MCV near your enemies. Rush to the best building locations."
+  },
+  {
+    "id": 3170,
+    "label": "GameTypeDesc:MegaWealth",
+    "en": "Capture Oil Derricks in order to make money."
+  },
+  {
+    "id": 3171,
+    "label": "GameTypeDesc:Cooperative",
+    "en": "Play campaign with a friend."
+  },
+  {
+    "id": 3172,
+    "label": "GUI:HostGameStartHost",
+    "en": "The other players have been notified that you want to start the game."
+  },
+  {
+    "id": 3173,
+    "label": "GUI:HostGameStartJoiner",
+    "en": "The host wants to start the game. Press the flashing Accept button."
+  },
+  {
+    "id": 3174,
+    "label": "GUI:EjectAIPlayers",
+    "en": "Choosing this map will eject one or more AI players from your game. To keep the players, choose a map with more slots, or have the players join in higher slots."
+  },
+  {
+    "id": 3175,
+    "label": "GUI:EjectPlayers",
+    "en": "Choosing this map will eject one or more AI or human players from your game. To keep the players, choose a map with more slots, or have the players join in higher slots."
+  },
+  {
+    "id": 3176,
+    "label": "GUI:ParTitleALL03",
+    "en": "Your rank is: Master Sergeant"
+  },
+  {
+    "id": 3177,
+    "label": "Name:CAWSH14",
+    "en": "Jefferson Memorial"
+  },
+  {
+    "id": 3178,
+    "label": "Name:VLADBOAT",
+    "en": "Vladimir's Command Ship"
+  },
+  {
+    "id": 3179,
+    "label": "MISSION:Sov06d1",
+    "en": "Use them for long range shore bombardment."
+  },
+  {
+    "id": 3180,
+    "label": "Name:PIGCAR",
+    "en": "Police Car"
+  },
+  {
+    "id": 3181,
+    "label": "Name:PRES",
+    "en": "President"
+  },
+  {
+    "id": 3182,
+    "label": "Name:CAMISC06",
+    "en": "V3 Ammunition"
+  },
+  {
+    "id": 3183,
+    "label": "Name:TAXI",
+    "en": "Taxi"
+  },
+  {
+    "id": 3184,
+    "label": "NAME:CruiseShip",
+    "en": "Cruise Ship"
+  },
+  {
+    "id": 3185,
+    "label": "NAME:PROPA",
+    "en": "Propaganda Truck"
+  },
+  {
+    "id": 3186,
+    "label": "NAME:LIMO",
+    "en": "Limousine"
+  },
+  {
+    "id": 3187,
+    "label": "NAME:CDEST",
+    "en": "Coast Guard Boat"
+  },
+  {
+    "id": 3188,
+    "label": "NAME:TUGBOAT",
+    "en": "Tug Boat"
+  },
+  {
+    "id": 3189,
+    "label": "Name:GATE1",
+    "en": "Gate"
+  },
+  {
+    "id": 3190,
+    "label": "Name:CAMIAM08",
+    "en": "Arizona Memorial"
+  },
+  {
+    "id": 3191,
+    "label": "Name:CAMISC12",
+    "en": "Practice Target"
+  },
+  {
+    "id": 3192,
+    "label": "Name:CAMISC13",
+    "en": "Derelict Tank"
+  },
+  {
+    "id": 3193,
+    "label": "NAME:CASTL05",
+    "en": "Stadium"
+  },
+  {
+    "id": 3194,
+    "label": "NAME:CUBANFLAG",
+    "en": "Cuban Flag"
+  },
+  {
+    "id": 3195,
+    "label": "NAME:RUSSIANFLAG",
+    "en": "Russian Flag"
+  },
+  {
+    "id": 3196,
+    "label": "NAME:FRENCHFLAG",
+    "en": "French Flag"
+  },
+  {
+    "id": 3197,
+    "label": "NAME:IRAQFLAG",
+    "en": "Iraqi Flag"
+  },
+  {
+    "id": 3198,
+    "label": "NAME:KOREAFLAG",
+    "en": "Korean Flag"
+  },
+  {
+    "id": 3199,
+    "label": "NAME:LYBIAFLAG",
+    "en": "Lybian Flag"
+  },
+  {
+    "id": 3200,
+    "label": "NAME:GERMANFLAG",
+    "en": "German Flag"
+  },
+  {
+    "id": 3201,
+    "label": "NAME:UKFLAG",
+    "en": "British Flag"
+  },
+  {
+    "id": 3202,
+    "label": "NAME:POLISHFLAG",
+    "en": "Polish Flag"
+  },
+  {
+    "id": 3203,
+    "label": "NAME:MAYANRUINS",
+    "en": "Mayan Ruins"
+  },
+  {
+    "id": 3204,
+    "label": "NAME:MAYANTEMPLE",
+    "en": "Mayan Temple"
+  },
+  {
+    "id": 3205,
+    "label": "Name:CAMISC05",
+    "en": "Pipes"
+  },
+  {
+    "id": 3206,
+    "label": "Name:CAMISC11",
+    "en": "Tires"
+  },
+  {
+    "id": 3207,
+    "label": "Name:CAMSC10",
+    "en": "McBurger Kong"
+  },
+  {
+    "id": 3208,
+    "label": "GUI:Generating",
+    "en": "Generating..."
+  },
+  {
+    "id": 3209,
+    "label": "TXT_SAVE_CAMP_AVAILABLE",
+    "en": "Saved campaign is available."
+  },
+  {
+    "id": 3210,
+    "label": "GUI:ReplyPage",
+    "en": "Send"
+  },
+  {
+    "id": 3211,
+    "label": "GUI:ReplyTo",
+    "en": "Send to:"
+  },
+  {
+    "id": 3212,
+    "label": "STT:WOLOptionsSoundOptions",
+    "en": "Set the sound options"
+  },
+  {
+    "id": 3213,
+    "label": "GUI:BuddyNickname",
+    "en": "Name of the buddy to add"
+  },
+  {
+    "id": 3214,
+    "label": "TXT_FETCHING_WDT",
+    "en": "Fetching World Domination Tour Information"
+  },
+  {
+    "id": 3215,
+    "label": "WDTNACampaign",
+    "en": "North America"
+  },
+  {
+    "id": 3216,
+    "label": "WDTEuropeCampaign",
+    "en": "Europe"
+  },
+  {
+    "id": 3217,
+    "label": "WDTAsiaCampaign",
+    "en": "Asia"
+  },
+  {
+    "id": 3218,
+    "label": "TXT_WOL_LOGGING_OUT",
+    "en": "Logging off from Westwood Online"
+  },
+  {
+    "id": 3219,
+    "label": "GUI:CreatingChannel",
+    "en": "Creating game channel"
+  },
+  {
+    "id": 3220,
+    "label": "GUI:LoginComplete",
+    "en": "Login complete"
+  },
+  {
+    "id": 3221,
+    "label": "WOL:LeavingChannel",
+    "en": "Leaving channel"
+  },
+  {
+    "id": 3222,
+    "label": "GUI:PageBuddy",
+    "en": "Send page to"
+  },
+  {
+    "id": 3223,
+    "label": "GUI:PageReceived",
+    "en": "Page received"
+  },
+  {
+    "id": 3224,
+    "label": "VOX:vintdid",
+    "en": "<quick descending scream>"
+  },
+  {
+    "id": 3225,
+    "label": "VOX:vintmoa",
+    "en": "Thrusters engaged."
+  },
+  {
+    "id": 3226,
+    "label": "VOX:vintmob",
+    "en": "Changing vector."
+  },
+  {
+    "id": 3227,
+    "label": "VOX:vintmoc",
+    "en": "Like the wind."
+  },
+  {
+    "id": 3228,
+    "label": "VOX:vintmod",
+    "en": "Willco."
+  },
+  {
+    "id": 3229,
+    "label": "VOX:vintseb",
+    "en": "Channel clear."
+  },
+  {
+    "id": 3230,
+    "label": "VOX:vintsec",
+    "en": "Destination?"
+  },
+  {
+    "id": 3231,
+    "label": "VOX:vintsed",
+    "en": "Pilot reporting."
+  },
+  {
+    "id": 3232,
+    "label": "VOX:vkirata",
+    "en": "Bombing bays ready."
+  },
+  {
+    "id": 3233,
+    "label": "VOX:vkiratb",
+    "en": "Target acquired."
+  },
+  {
+    "id": 3234,
+    "label": "VOX:vkiratc",
+    "en": "Closing on target."
+  },
+  {
+    "id": 3235,
+    "label": "VOX:vkiratd",
+    "en": "Bombardiers to your stations."
+  },
+  {
+    "id": 3236,
+    "label": "VOX:vkirdia",
+    "en": "Mayday! Mayday!"
+  },
+  {
+    "id": 3237,
+    "label": "VOX:vkirdib",
+    "en": "We're losing altitude!"
+  },
+  {
+    "id": 3238,
+    "label": "VOX:vkirdic",
+    "en": "She's gonna blow!"
+  },
+  {
+    "id": 3239,
+    "label": "VOX:vkirdid",
+    "en": "<descending scream>"
+  },
+  {
+    "id": 3240,
+    "label": "VOX:vkirfea",
+    "en": "Duck and cover!"
+  },
+  {
+    "id": 3241,
+    "label": "VOX:vkirmoa",
+    "en": "Setting new course."
+  },
+  {
+    "id": 3242,
+    "label": "VOX:vkirmob",
+    "en": "Maneuver props engaged."
+  },
+  {
+    "id": 3243,
+    "label": "VOX:vkirmoc",
+    "en": "Bearings set."
+  },
+  {
+    "id": 3244,
+    "label": "VOX:vkirsea",
+    "en": "Kirov reporting."
+  },
+  {
+    "id": 3245,
+    "label": "VOX:vkirseb",
+    "en": "Acknowledged."
+  },
+  {
+    "id": 3246,
+    "label": "VOX:vkirsec",
+    "en": "Airship ready."
+  },
+  {
+    "id": 3247,
+    "label": "VOX:vkirsed",
+    "en": "Helium mix optimal."
+  },
+  {
+    "id": 3248,
+    "label": "VOX:vwaaata",
+    "en": "Enemy spotted."
+  },
+  {
+    "id": 3249,
+    "label": "VOX:vwaaatc",
+    "en": "Battle-stations!"
+  },
+  {
+    "id": 3250,
+    "label": "VOX:vwaamoa",
+    "en": "Speed to full."
+  },
+  {
+    "id": 3251,
+    "label": "VOX:vwaamob",
+    "en": "Main engines engaged."
+  },
+  {
+    "id": 3252,
+    "label": "VOX:vwaamoc",
+    "en": "Rudder set for new heading."
+  },
+  {
+    "id": 3253,
+    "label": "VOX:vwaamod",
+    "en": "Aye commander."
+  },
+  {
+    "id": 3254,
+    "label": "VOX:vwaamoe",
+    "en": "Steady as she goes."
+  },
+  {
+    "id": 3255,
+    "label": "VOX:vwaasea",
+    "en": "Allied Ship reporting."
+  },
+  {
+    "id": 3256,
+    "label": "VOX:vwaaseb",
+    "en": "Navigation systems ready."
+  },
+  {
+    "id": 3257,
+    "label": "VOX:vwaasec",
+    "en": "Captain on the bridge."
+  },
+  {
+    "id": 3258,
+    "label": "VOX:vwasatb",
+    "en": "Fire at will."
+  },
+  {
+    "id": 3259,
+    "label": "VOX:vwasatc",
+    "en": "Close and fire!"
+  },
+  {
+    "id": 3260,
+    "label": "VOX:vwasatd",
+    "en": "Foolish Americans, their country is ours."
+  },
+  {
+    "id": 3261,
+    "label": "VOX:vwasmoa",
+    "en": "Captain confirming."
+  },
+  {
+    "id": 3262,
+    "label": "VOX:vwasmob",
+    "en": "Course set."
+  },
+  {
+    "id": 3263,
+    "label": "VOX:vwasmoc",
+    "en": "Navigating."
+  },
+  {
+    "id": 3264,
+    "label": "VOX:vwasmod",
+    "en": "Engines engaged."
+  },
+  {
+    "id": 3265,
+    "label": "VOX:vwassea",
+    "en": "Ship reporting."
+  },
+  {
+    "id": 3266,
+    "label": "VOX:vwasseb",
+    "en": "Vessel ready."
+  },
+  {
+    "id": 3267,
+    "label": "VOX:vwassec",
+    "en": "Yes Commander?"
+  },
+  {
+    "id": 3268,
+    "label": "VOX:isecsea",
+    "en": "I'll take the bullet."
+  },
+  {
+    "id": 3269,
+    "label": "VOX:isecseb",
+    "en": "Agent in the field."
+  },
+  {
+    "id": 3270,
+    "label": "VOX:isecsec",
+    "en": "Secret service here."
+  },
+  {
+    "id": 3271,
+    "label": "VOX:isecsed",
+    "en": "Need an escort?"
+  },
+  {
+    "id": 3272,
+    "label": "VOX:isecsee",
+    "en": "Assigment sir?"
+  },
+  {
+    "id": 3273,
+    "label": "VOX:isecsef",
+    "en": "What's your clearance level?"
+  },
+  {
+    "id": 3274,
+    "label": "VOX:isecmoa",
+    "en": "Securing the area."
+  },
+  {
+    "id": 3275,
+    "label": "VOX:isecmob",
+    "en": "Scanning perimeter."
+  },
+  {
+    "id": 3276,
+    "label": "VOX:isecmoc",
+    "en": "Right away sir."
+  },
+  {
+    "id": 3277,
+    "label": "VOX:isecmod",
+    "en": "Assignment recieved."
+  },
+  {
+    "id": 3278,
+    "label": "VOX:isecata",
+    "en": "He's doesn't belong here."
+  },
+  {
+    "id": 3279,
+    "label": "VOX:isecatb",
+    "en": "He's a threat."
+  },
+  {
+    "id": 3280,
+    "label": "VOX:isecatc",
+    "en": "No witnesses."
+  },
+  {
+    "id": 3281,
+    "label": "VOX:isecatd",
+    "en": "Shoot to kill."
+  },
+  {
+    "id": 3282,
+    "label": "VOX:isecate",
+    "en": "Executing assignment."
+  },
+  {
+    "id": 3283,
+    "label": "WDT:SmallMap",
+    "en": "Small Map"
+  },
+  {
+    "id": 3284,
+    "label": "WDT:MediumMap",
+    "en": "Medium Map"
+  },
+  {
+    "id": 3285,
+    "label": "WDT:LargeMap",
+    "en": "Large Map"
+  },
+  {
+    "id": 3286,
+    "label": "WDT:VeryLargeMap",
+    "en": "Very Large Map"
+  },
+  {
+    "id": 3287,
+    "label": "MSG:PlannerMaximum",
+    "en": "You have exceeded the maximum number of units allowed for all waypoint paths."
+  },
+  {
+    "id": 3288,
+    "label": "GUI:SuperWeaponsAllowed",
+    "en": "Superweapons"
+  },
+  {
+    "id": 3289,
+    "label": "GUI:BuildOffAlly",
+    "en": "Build Off Ally ConYards"
+  },
+  {
+    "id": 3290,
+    "label": "GUI:RandomEx",
+    "en": "Random (???)"
+  },
+  {
+    "id": 3291,
+    "label": "GUI:RandomAsSymbols",
+    "en": "???"
+  },
+  {
+    "id": 3292,
+    "label": "GUI:GoldAbbrev",
+    "en": "GLD"
+  },
+  {
+    "id": 3293,
+    "label": "GUI:RedAbbrev",
+    "en": "RED"
+  },
+  {
+    "id": 3294,
+    "label": "GUI:BlueAbbrev",
+    "en": "BLU"
+  },
+  {
+    "id": 3295,
+    "label": "GUI:GreenAbbrev",
+    "en": "GRN"
+  },
+  {
+    "id": 3296,
+    "label": "GUI:OrangeAbbrev",
+    "en": "ORA"
+  },
+  {
+    "id": 3297,
+    "label": "GUI:SkyBlueAbbrev",
+    "en": "SKY"
+  },
+  {
+    "id": 3298,
+    "label": "GUI:PurpleAbbrev",
+    "en": "PUR"
+  },
+  {
+    "id": 3299,
+    "label": "GUI:PinkAbbrev",
+    "en": "PNK"
+  },
+  {
+    "id": 3300,
+    "label": "GUI:Loading",
+    "en": "Loading"
+  },
+  {
+    "id": 3301,
+    "label": "GUI:LoadingEx",
+    "en": "Loading..."
+  },
+  {
+    "id": 3302,
+    "label": "GUI:DiplomacyMenu",
+    "en": "Diplomacy Options"
+  },
+  {
+    "id": 3303,
+    "label": "GUI:Chat",
+    "en": "Chat"
+  },
+  {
+    "id": 3304,
+    "label": "GUI:Version",
+    "en": "Version"
+  },
+  {
+    "id": 3305,
+    "label": "STT:PlayerNone",
+    "en": "There is no player in this slot."
+  },
+  {
+    "id": 3306,
+    "label": "STT:PlayerDumbAI",
+    "en": "An easy computer controlled opponent."
+  },
+  {
+    "id": 3307,
+    "label": "STT:PlayerSmartAI",
+    "en": "An average computer controlled opponent."
+  },
+  {
+    "id": 3308,
+    "label": "STT:PlayerGeniusAI",
+    "en": "A difficult computer controlled oppponent."
+  },
+  {
+    "id": 3309,
+    "label": "STT:PlayerHuman",
+    "en": "A human player."
+  },
+  {
+    "id": 3310,
+    "label": "STT:PlayerOpen",
+    "en": "This slot is open to players who wish to join."
+  },
+  {
+    "id": 3311,
+    "label": "STT:PlayerClosed",
+    "en": "This slot is closed to players who wish to join."
+  },
+  {
+    "id": 3312,
+    "label": "STT:PlayerSideRandom",
+    "en": "Choose to be a random nation."
+  },
+  {
+    "id": 3313,
+    "label": "STT:PlayerSideAmerica",
+    "en": "Americans can drop Paratroopers."
+  },
+  {
+    "id": 3314,
+    "label": "STT:PlayerSideKorea",
+    "en": "Koreans can build Black Eagle jets."
+  },
+  {
+    "id": 3315,
+    "label": "STT:PlayerSideFrance",
+    "en": "The French can build the Grand Cannon defensive turret."
+  },
+  {
+    "id": 3316,
+    "label": "STT:PlayerSideGermany",
+    "en": "The Germans can build Tank Destroyers."
+  },
+  {
+    "id": 3317,
+    "label": "STT:PlayerSideBritain",
+    "en": "The British can train Snipers."
+  },
+  {
+    "id": 3318,
+    "label": "STT:PlayerSideLibya",
+    "en": "Libyans can build Demolition Trucks."
+  },
+  {
+    "id": 3319,
+    "label": "STT:PlayerSideIraq",
+    "en": "Iraqis can train Desolators."
+  },
+  {
+    "id": 3320,
+    "label": "STT:PlayerSideCuba",
+    "en": "Cubans can train Terrorists."
+  },
+  {
+    "id": 3321,
+    "label": "STT:PlayerSideRussia",
+    "en": "Russians can build Tesla Tanks."
+  },
+  {
+    "id": 3322,
+    "label": "STT:PlayerColorRandom",
+    "en": "Choose to be a random color."
+  },
+  {
+    "id": 3323,
+    "label": "STT:PlayerColorGold",
+    "en": "Choose this to be yellow."
+  },
+  {
+    "id": 3324,
+    "label": "STT:PlayerColorRed",
+    "en": "Choose this to be red."
+  },
+  {
+    "id": 3325,
+    "label": "STT:PlayerColorBlue",
+    "en": "Choose this to be blue."
+  },
+  {
+    "id": 3326,
+    "label": "STT:PlayerColorGreen",
+    "en": "Choose this to be green."
+  },
+  {
+    "id": 3327,
+    "label": "STT:PlayerColorOrange",
+    "en": "Choose this to be orange."
+  },
+  {
+    "id": 3328,
+    "label": "STT:PlayerColorSkyBlue",
+    "en": "Choose this to be light blue."
+  },
+  {
+    "id": 3329,
+    "label": "STT:PlayerColorPurple",
+    "en": "Choose this to be purple."
+  },
+  {
+    "id": 3330,
+    "label": "STT:PlayerColorPink",
+    "en": "Choose this to be pink."
+  },
+  {
+    "id": 3331,
+    "label": "STT:ModeBattle",
+    "en": "In 'Battle' you may ally with other players."
+  },
+  {
+    "id": 3332,
+    "label": "STT:ModeMegawealth",
+    "en": "In 'Megawealth' you must capture Oil Derricks to earn money."
+  },
+  {
+    "id": 3333,
+    "label": "STT:ModeDuel",
+    "en": "In 'Land Rush' you must race other players to find a good base location."
+  },
+  {
+    "id": 3334,
+    "label": "STT:ModeMeatGrind",
+    "en": "In 'Meat-Grinder' players are limited to basic ground units."
+  },
+  {
+    "id": 3335,
+    "label": "STT:ModeNavalWar",
+    "en": "In 'Naval War' players are limited to naval units."
+  },
+  {
+    "id": 3336,
+    "label": "STT:ModeFreeForAll",
+    "en": "In a 'Free For All' players may not ally with each other."
+  },
+  {
+    "id": 3337,
+    "label": "STT:ModeUnholyAlliance",
+    "en": "In Unholy Alliance players begin with both a Soviet and Allied MCV."
+  },
+  {
+    "id": 3338,
+    "label": "STT:ModeSiege",
+    "en": "In a 'Siege' multiple players are pitted against a single player."
+  },
+  {
+    "id": 3339,
+    "label": "STT:ModeCooperative",
+    "en": "In 'Cooperative' 2 players play against computer controlled enemies."
+  },
+  {
+    "id": 3340,
+    "label": "Name:SecretService",
+    "en": "Secret Service"
+  },
+  {
+    "id": 3341,
+    "label": "MISSION:Sov6a",
+    "en": "Objective 1: Establish a base on the Hawaiian Islands"
+  },
+  {
+    "id": 3342,
+    "label": "MISSION:Sov06g",
+    "en": "Objective 2: Destroy the Allied fleet"
+  },
+  {
+    "id": 3343,
+    "label": "TXT_PLACE_BEACON",
+    "en": "Place Beacon"
+  },
+  {
+    "id": 3344,
+    "label": "TXT_PLACE_BEACON_DESC",
+    "en": "Used to place a communication beacon."
+  },
+  {
+    "id": 3345,
+    "label": "STT:SkirmishCBoxSWAllowed",
+    "en": "Super Weapons can be built."
+  },
+  {
+    "id": 3346,
+    "label": "STT:HostCBoxSWAllowed",
+    "en": "Check to allow super weapons to be built."
+  },
+  {
+    "id": 3347,
+    "label": "STT:GuestCBoxSWAllowed",
+    "en": "Only the Game Host can decide if super weapons can be built."
+  },
+  {
+    "id": 3348,
+    "label": "STT:SkirmishCBoxBuildOffAlly",
+    "en": "Check to allow players to build near their allies ConYards."
+  },
+  {
+    "id": 3349,
+    "label": "STT:HostCBoxBuildOffAlly",
+    "en": "Check to allow players to build near their allies' buildings."
+  },
+  {
+    "id": 3350,
+    "label": "STT:GuestCBoxBuildOffAlly",
+    "en": "Allows players to build near their allies' buildings."
+  },
+  {
+    "id": 3351,
+    "label": "DESC:MP35U4",
+    "en": "A City Divided (2-4)"
+  },
+  {
+    "id": 3352,
+    "label": "NAME:EinsteinLab",
+    "en": "Einstein's Laboratory"
+  },
+  {
+    "id": 3353,
+    "label": "NAME:CABANA",
+    "en": "Cabana Bar"
+  },
+  {
+    "id": 3354,
+    "label": "MISSION:Sov07L",
+    "en": "Enemy Forces Arriving In:"
+  },
+  {
+    "id": 3355,
+    "label": "WOL:RequestingNickname",
+    "en": "Requesting Nickname"
+  },
+  {
+    "id": 3356,
+    "label": "WOL:BuddyQuickMatching",
+    "en": "Quickmatching"
+  },
+  {
+    "id": 3357,
+    "label": "WOL:NoMatchingAgentFound",
+    "en": "Error: Matching Server Not Found"
+  },
+  {
+    "id": 3358,
+    "label": "WOL:ChannelJoinFailure",
+    "en": "Unable to join channel"
+  },
+  {
+    "id": 3359,
+    "label": "GUI:NoServersAvailable",
+    "en": "No servers available"
+  },
+  {
+    "id": 3360,
+    "label": "GUI:WOLNewNickname",
+    "en": "New Nickname"
+  },
+  {
+    "id": 3361,
+    "label": "WOL:GamePing",
+    "en": "Ping: %dms"
+  },
+  {
+    "id": 3362,
+    "label": "STT:WOLLoginRemember",
+    "en": "Remember this account"
+  },
+  {
+    "id": 3363,
+    "label": "WOL:QuickMatchResolutionQuery",
+    "en": "Quick Match games may only be played with a screen resolution of 640x480. Would you like to change screen resolution now?"
+  },
+  {
+    "id": 3364,
+    "label": "WOL:WDTResolutionQuery",
+    "en": "World Domination games may only be played with a screen resolution of 640x480. Would you like to change screen resolution now?"
+  },
+  {
+    "id": 3365,
+    "label": "WOL:ResolutionLimited640",
+    "en": "This game is limited to a screen resolution of 640x480. Would you like to change the in-game screen resolution now?"
+  },
+  {
+    "id": 3366,
+    "label": "WOL:ResolutionLimited800",
+    "en": "This game is limited to a screen resolution of 800x600. Would you like to change the in-game screen resolution now?"
+  },
+  {
+    "id": 3367,
+    "label": "WDT:FactionSelectToolTip",
+    "en": "Click on a logo to choose a side to fight for"
+  },
+  {
+    "id": 3368,
+    "label": "WDT:FactionSelectAlliesToolTip",
+    "en": "Click on logo to fight for the Allies"
+  },
+  {
+    "id": 3369,
+    "label": "WDT:FactionSelectSovietToolTip",
+    "en": "Click on logo to fight for the Soviets"
+  },
+  {
+    "id": 3370,
+    "label": "WDT:TerritorySelectToolTip",
+    "en": "Click on a white territory to engage in battle"
+  },
+  {
+    "id": 3371,
+    "label": "STT:WOLLimitScreenResolution",
+    "en": "Requires all players to use your screen resolution or lower"
+  },
+  {
+    "id": 3372,
+    "label": "MISSION:Sov1H",
+    "en": "Iwo Jima Victory Monument, Washington D.C."
+  },
+  {
+    "id": 3373,
+    "label": "WDT:TerritorySelDispToolTip",
+    "en": "Click to fight in this territory"
+  },
+  {
+    "id": 3374,
+    "label": "WOL:LimitScreenResolution",
+    "en": "Limit Screen Resolution"
+  },
+  {
+    "id": 3375,
+    "label": "TXT_WDT_NET_ERR",
+    "en": "Unable to connect to World Domination server."
+  },
+  {
+    "id": 3376,
+    "label": "TXT_UNKNOWN_PING",
+    "en": "Ping : ?"
+  },
+  {
+    "id": 3377,
+    "label": "TXT_SERIALUNKNOWN",
+    "en": "Your serial number appears to be invalid. Would you like to open your web browser to get more information?"
+  },
+  {
+    "id": 3378,
+    "label": "TXT_SKUSERIALMISMATCH",
+    "en": "Your serial number appears to belong to a different Westwood Studios game. Would you like to open your web browser to get more information?"
+  },
+  {
+    "id": 3379,
+    "label": "TXT_BAD_MAP",
+    "en": "The host has selected a modified map. This may give the host an unfair advantage. No preview available."
+  },
+  {
+    "id": 3380,
+    "label": "Name:PCOMMANDO",
+    "en": "Psi Commando"
+  },
+  {
+    "id": 3381,
+    "label": "MISSION:Sov10d",
+    "en": "MISSION CRITICAL STRUCTURE - Do not destroy!"
+  },
+  {
+    "id": 3382,
+    "label": "THEME:Power",
+    "en": "Power"
+  },
+  {
+    "id": 3383,
+    "label": "THEME:Motorized",
+    "en": "Motorized"
+  },
+  {
+    "id": 3384,
+    "label": "THEME:HM2",
+    "en": "HM2"
+  },
+  {
+    "id": 3385,
+    "label": "THEME:C&C In The House",
+    "en": "C&C In The House"
+  },
+  {
+    "id": 3386,
+    "label": "MISSION:Sov10b",
+    "en": "HINT: Build a NUCLEAR MISSILE SILO"
+  },
+  {
+    "id": 3387,
+    "label": "MISSION:Sov10c",
+    "en": "Objective 2: Destroy the Weather Control Device"
+  },
+  {
+    "id": 3388,
+    "label": "WOL:WDTTerritoryBack",
+    "en": "Return to the Faction Select menu"
+  },
+  {
+    "id": 3389,
+    "label": "WOL:WDTMatchBack",
+    "en": "Return to WDT Territory menu"
+  },
+  {
+    "id": 3390,
+    "label": "WOL:Locale01",
+    "en": "Rest of World"
+  },
+  {
+    "id": 3391,
+    "label": "WOL:Locale02",
+    "en": "United States"
+  },
+  {
+    "id": 3392,
+    "label": "WOL:Locale03",
+    "en": "Canada"
+  },
+  {
+    "id": 3393,
+    "label": "WOL:Locale04",
+    "en": "United Kingdom"
+  },
+  {
+    "id": 3394,
+    "label": "WOL:Locale07",
+    "en": "Spain"
+  },
+  {
+    "id": 3395,
+    "label": "WOL:Locale08",
+    "en": "Netherlands"
+  },
+  {
+    "id": 3396,
+    "label": "WOL:Locale09",
+    "en": "Belgium"
+  },
+  {
+    "id": 3397,
+    "label": "WOL:Locale10",
+    "en": "Austria"
+  },
+  {
+    "id": 3398,
+    "label": "WOL:Locale11",
+    "en": "Switzerland"
+  },
+  {
+    "id": 3399,
+    "label": "WOL:Locale12",
+    "en": "Italy"
+  },
+  {
+    "id": 3400,
+    "label": "WOL:Locale13",
+    "en": "Denmark"
+  },
+  {
+    "id": 3401,
+    "label": "WOL:Locale17",
+    "en": "Israel"
+  },
+  {
+    "id": 3402,
+    "label": "WOL:Locale18",
+    "en": "South Africa"
+  },
+  {
+    "id": 3403,
+    "label": "WOL:Locale20",
+    "en": "South Korea"
+  },
+  {
+    "id": 3404,
+    "label": "WOL:Locale21",
+    "en": "China"
+  },
+  {
+    "id": 3405,
+    "label": "WOL:Locale22",
+    "en": "Singapore"
+  },
+  {
+    "id": 3406,
+    "label": "WOL:Locale24",
+    "en": "Malaysia"
+  },
+  {
+    "id": 3407,
+    "label": "WOL:Locale25",
+    "en": "Australia"
+  },
+  {
+    "id": 3408,
+    "label": "WOL:Locale26",
+    "en": "New Zealand"
+  },
+  {
+    "id": 3409,
+    "label": "WOL:Locale27",
+    "en": "Brazil"
+  },
+  {
+    "id": 3410,
+    "label": "WOL:Locale28",
+    "en": "Thailand"
+  },
+  {
+    "id": 3411,
+    "label": "WOL:Locale29",
+    "en": "Argentina"
+  },
+  {
+    "id": 3412,
+    "label": "WOL:Locale31",
+    "en": "Greece"
+  },
+  {
+    "id": 3413,
+    "label": "WOL:Locale32",
+    "en": "Ireland"
+  },
+  {
+    "id": 3414,
+    "label": "WOL:Locale34",
+    "en": "Portugal"
+  },
+  {
+    "id": 3415,
+    "label": "WOL:Locale35",
+    "en": "Mexico"
+  },
+  {
+    "id": 3416,
+    "label": "WOL:Locale37",
+    "en": "Turkey"
+  },
+  {
+    "id": 3417,
+    "label": "WDT:AlliedHeldTooltip",
+    "en": "This territory is controlled by the Allies"
+  },
+  {
+    "id": 3418,
+    "label": "WDT:SovietHeldTooltip",
+    "en": "This territory is controlled by the Soviets"
+  },
+  {
+    "id": 3419,
+    "label": "MISSION:All08e",
+    "en": "Bonus Discovered. Timer Extended."
+  },
+  {
+    "id": 3420,
+    "label": "NAME:TOURNEY1",
+    "en": "Official Tournament Map (2)"
+  },
+  {
+    "id": 3421,
+    "label": "NAME:TOURNEY2",
+    "en": "Official Tournament Map (4)"
+  },
+  {
+    "id": 3422,
+    "label": "NAME:TOURNEY3",
+    "en": "Official Tournament Map (8)"
+  },
+  {
+    "id": 3423,
+    "label": "NAME:POLARBEAR",
+    "en": "Polar Bear"
+  },
+  {
+    "id": 3424,
+    "label": "NAME:MONKEY",
+    "en": "Monkey"
+  },
+  {
+    "id": 3425,
+    "label": "MISSION:ALL12y",
+    "en": "Special Agent Tanya has arrived."
+  },
+  {
+    "id": 3426,
+    "label": "MISSION:ALL12z",
+    "en": "Final Objective: Tanya will infiltrate the Kremlin and Capture Romanov"
+  },
+  {
+    "id": 3427,
+    "label": "CRD_TTL:PRODUCTION",
+    "en": "PRODUCTION"
+  },
+  {
+    "id": 3428,
+    "label": "CRD_TTL:DESIGN",
+    "en": "DESIGN"
+  },
+  {
+    "id": 3429,
+    "label": "CRD_TTL:GAME_ARTISTS",
+    "en": "GAME ARTISTS"
+  },
+  {
+    "id": 3430,
+    "label": "CRD_TTL:PROGRAMMING",
+    "en": "PROGRAMMING"
+  },
+  {
+    "id": 3431,
+    "label": "CRD_TTL:NETWORK_PROGRAMMING",
+    "en": "NETWORK PROGRAMMING"
+  },
+  {
+    "id": 3432,
+    "label": "CRD_TTL:CINEMATICS",
+    "en": "CINEMATICS"
+  },
+  {
+    "id": 3433,
+    "label": "CRD_TTL:IN-GAME_AUDIO",
+    "en": "IN-GAME AUDIO"
+  },
+  {
+    "id": 3434,
+    "label": "CRD_TTL:VIDEO_PRODUCTION_CREW",
+    "en": "VIDEO PRODUCTION CREW"
+  },
+  {
+    "id": 3435,
+    "label": "CRD_TTL:WS_LOCALIZATION",
+    "en": "WESTWOOD STUDIOS LOCALIZATION"
+  },
+  {
+    "id": 3436,
+    "label": "CRD_TTL:WS_QUALITY_ASSURANCE",
+    "en": "WESTWOOD STUDIOS QUALITY ASSURANCE"
+  },
+  {
+    "id": 3437,
+    "label": "CRD_TTL:MARKETING",
+    "en": "MARKETING"
+  },
+  {
+    "id": 3438,
+    "label": "CRD_TTL:SUPPORT",
+    "en": "SUPPORT"
+  },
+  {
+    "id": 3439,
+    "label": "CRD_TTL:Cast",
+    "en": "Cast"
+  },
+  {
+    "id": 3440,
+    "label": "CRD_TTL:WORLDWIDE_LOCALIZATON",
+    "en": "WORLDWIDE LOCALIZATION"
+  },
+  {
+    "id": 3441,
+    "label": "CRD_TTL:KOREA",
+    "en": "KOREA"
+  },
+  {
+    "id": 3442,
+    "label": "CRD_TTL:CHINA",
+    "en": "TAIWAN"
+  },
+  {
+    "id": 3443,
+    "label": "CRD_TTL:FRANCE",
+    "en": "FRANCE"
+  },
+  {
+    "id": 3444,
+    "label": "CRD_TTL:GERMANY",
+    "en": "GERMANY"
+  },
+  {
+    "id": 3445,
+    "label": "GUI:HostNoMap",
+    "en": "%s does not have %s."
+  },
+  {
+    "id": 3446,
+    "label": "GUI:JoinerNoMap",
+    "en": "You do not have %s. To make sure you have the latest maps, visit www.westwood.com."
+  },
+  {
+    "id": 3447,
+    "label": "MSG:PlanningModeIntro1Button",
+    "en": "You have entered waypoint mode. Press the waypoint button again to exit."
+  },
+  {
+    "id": 3448,
+    "label": "MSG:PlanningModeIntro1Key",
+    "en": "You have entered waypoint mode. Release the waypoint key to exit."
+  },
+  {
+    "id": 3449,
+    "label": "MSG:PlanningModeLoopHelp",
+    "en": "You have created a patrol loop. Units will follow this loop until given new orders."
+  },
+  {
+    "id": 3450,
+    "label": "MSG:PlanningModeDeleteHelp",
+    "en": "You have selected a waypoint. Press the delete key to remove it from the path."
+  },
+  {
+    "id": 3451,
+    "label": "MSG:PlanningModeNoStop",
+    "en": "Units in a waypoint path cannot be ordered to stop."
+  },
+  {
+    "id": 3452,
+    "label": "MSG:PlanningModeNoScatter",
+    "en": "Units in a waypoint path cannot be ordered to scatter."
+  },
+  {
+    "id": 3453,
+    "label": "MSG:PlanningModeNoDeploy",
+    "en": "Units in a waypoint path cannot be ordered to deploy."
+  },
+  {
+    "id": 3454,
+    "label": "MSG:PlanningModeNoGuardArea",
+    "en": "Units in a waypoint path cannot be ordered to guard their current location."
+  },
+  {
+    "id": 3455,
+    "label": "MSG:PlanningModeNoAircraft",
+    "en": "You cannot use waypoints with aircraft."
+  },
+  {
+    "id": 3456,
+    "label": "COOPERATIVEWIN",
+    "en": "YOU ARE VICTORIOUS!"
+  },
+  {
+    "id": 3457,
+    "label": "NAME:WEEK1",
+    "en": "Wall Street"
+  },
+  {
+    "id": 3458,
+    "label": "NAME:WEEK2",
+    "en": "Army of the Potomac (2-6)"
+  },
+  {
+    "id": 3459,
+    "label": "NAME:WEEK3",
+    "en": "Mutually Assured Destruction"
+  },
+  {
+    "id": 3460,
+    "label": "NAME:WEEK4",
+    "en": "Russian Roulette (2-8)"
+  },
+  {
+    "id": 3461,
+    "label": "NAME:WEEK5",
+    "en": "Lady of the Lake"
+  },
+  {
+    "id": 3462,
+    "label": "NAME:WEEK6",
+    "en": "Lost Lake (2-4)"
+  },
+  {
+    "id": 3463,
+    "label": "NAME:WEEK7",
+    "en": "Sea of Isolation (2-4)"
+  },
+  {
+    "id": 3464,
+    "label": "NAME:WEEK8",
+    "en": "Oceanside (2-4)"
+  },
+  {
+    "id": 3465,
+    "label": "NAME:WEEK9",
+    "en": "Pacific Heights (2-4)"
+  },
+  {
+    "id": 3466,
+    "label": "NAME:WEEK10",
+    "en": "Bermuda Triangle (2-6)"
+  },
+  {
+    "id": 3467,
+    "label": "NAME:WEEK11",
+    "en": "Sleep with the Fishes"
+  },
+  {
+    "id": 3468,
+    "label": "NAME:WEEK12",
+    "en": "Boat Show"
+  },
+  {
+    "id": 3469,
+    "label": "NAME:WEEK13",
+    "en": "Amerika's Cup"
+  },
+  {
+    "id": 3470,
+    "label": "NAME:WEEK14",
+    "en": "Tsunami (2-4)"
+  },
+  {
+    "id": 3471,
+    "label": "NAME:WEEK15",
+    "en": "Valley of Gems (2-4)"
+  },
+  {
+    "id": 3472,
+    "label": "NAME:WEEK16",
+    "en": "Streets of Gold (2-6)"
+  },
+  {
+    "id": 3473,
+    "label": "NAME:WEEK17",
+    "en": "Goldmine"
+  },
+  {
+    "id": 3474,
+    "label": "NAME:WEEK18",
+    "en": "Goldfinger"
+  },
+  {
+    "id": 3475,
+    "label": "NAME:WEEK19",
+    "en": "King Midas"
+  },
+  {
+    "id": 3476,
+    "label": "NAME:WEEK20",
+    "en": "Yellow Brick Road"
+  },
+  {
+    "id": 3477,
+    "label": "NAME:WEEK21",
+    "en": "Box Canyon"
+  },
+  {
+    "id": 3478,
+    "label": "NAME:WEEK22",
+    "en": "Mount Olympus (2-4)"
+  },
+  {
+    "id": 3479,
+    "label": "NAME:WEEK23",
+    "en": "Red Rocks"
+  },
+  {
+    "id": 3480,
+    "label": "NAME:WEEK24",
+    "en": "Cloudscape"
+  },
+  {
+    "id": 3481,
+    "label": "NAME:WEEK25",
+    "en": "Fodder Hills"
+  },
+  {
+    "id": 3482,
+    "label": "NAME:WEEK26",
+    "en": "Sovereign Land (2)"
+  },
+  {
+    "id": 3483,
+    "label": "NAME:WEEK27",
+    "en": "Shrapnel Mountain (2-4)"
+  },
+  {
+    "id": 3484,
+    "label": "NAME:WEEK28",
+    "en": "Xanadu"
+  },
+  {
+    "id": 3485,
+    "label": "NAME:WEEK29",
+    "en": "Megalopolis"
+  },
+  {
+    "id": 3486,
+    "label": "NAME:WEEK30",
+    "en": "Sinkhole (2-4)"
+  },
+  {
+    "id": 3487,
+    "label": "NAME:WEEK31",
+    "en": "Canyon View"
+  },
+  {
+    "id": 3488,
+    "label": "NAME:WEEK32",
+    "en": "POW Camp"
+  },
+  {
+    "id": 3489,
+    "label": "NAME:WEEK33",
+    "en": "Northwest Territory"
+  },
+  {
+    "id": 3490,
+    "label": "NAME:WEEK34",
+    "en": "Louisiana Purchase"
+  },
+  {
+    "id": 3491,
+    "label": "NAME:WEEK35",
+    "en": "Bay of Pigs (2-6)"
+  },
+  {
+    "id": 3492,
+    "label": "NAME:WEEK36",
+    "en": "Chicago Fire"
+  },
+  {
+    "id": 3493,
+    "label": "NAME:WEEK37",
+    "en": "Broadway and 42nd"
+  },
+  {
+    "id": 3494,
+    "label": "NAME:WEEK38",
+    "en": "Deadman's Ridge (2)"
+  },
+  {
+    "id": 3495,
+    "label": "NAME:WEEK39",
+    "en": "City Under Siege (2-4)"
+  },
+  {
+    "id": 3496,
+    "label": "NAME:WEEK40",
+    "en": "Wild West"
+  },
+  {
+    "id": 3497,
+    "label": "NAME:WEEK41",
+    "en": "Kalifornia (2-6)"
+  },
+  {
+    "id": 3498,
+    "label": "NAME:WEEK42",
+    "en": "Romanov's Revenge"
+  },
+  {
+    "id": 3499,
+    "label": "NAME:WEEK43",
+    "en": "Yuri's Plot (2-3)"
+  }
+]

@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 700,
+    "label": "Name:CABHUT",
+    "en": "Bridge Repair Hut"
+  },
+  {
+    "id": 701,
+    "label": "Name:NAPULS",
+    "en": "EMP Cannon"
+  },
+  {
+    "id": 702,
+    "label": "Name:GACTWR",
+    "en": "Component Tower"
+  },
+  {
+    "id": 703,
+    "label": "Name:GAKODK",
+    "en": "Kodiak"
+  },
+  {
+    "id": 704,
+    "label": "Name:NAIRON",
+    "en": "Iron Curtain Device"
+  },
+  {
+    "id": 705,
+    "label": "Name:GAWEAT",
+    "en": "Weather Controller"
+  },
+  {
+    "id": 706,
+    "label": "Name:GACSPH",
+    "en": "Chrono Sphere"
+  },
+  {
+    "id": 707,
+    "label": "Name:NARADR",
+    "en": "Radar Tower"
+  },
+  {
+    "id": 708,
+    "label": "Name:NAPSIS",
+    "en": "Psychic Sensor"
+  },
+  {
+    "id": 709,
+    "label": "Name:NAWAST",
+    "en": "Waste Facility"
+  },
+  {
+    "id": 710,
+    "label": "Name:TESLA",
+    "en": "Tesla Coil"
+  },
+  {
+    "id": 711,
+    "label": "Name:ATESLA",
+    "en": "Prism Tower"
+  },
+  {
+    "id": 712,
+    "label": "Name:NAMISL",
+    "en": "Nuclear Missile Silo"
+  },
+  {
+    "id": 713,
+    "label": "Name:GAVULC",
+    "en": "Vulcan Cannon"
+  },
+  {
+    "id": 714,
+    "label": "Name:GAROCK",
+    "en": "RPG Upgrade"
+  },
+  {
+    "id": 715,
+    "label": "Name:GACSAM",
+    "en": "SAM Upgrade"
+  },
+  {
+    "id": 716,
+    "label": "Name:GAPOWRUP",
+    "en": "Power Turbine"
+  },
+  {
+    "id": 717,
+    "label": "Name:GAPLUG1",
+    "en": "Threat Rating Node"
+  },
+  {
+    "id": 718,
+    "label": "Name:GAPLUG2",
+    "en": "Seeker Control"
+  },
+  {
+    "id": 719,
+    "label": "Name:GAPLUG3",
+    "en": "Ion Cannon Uplink"
+  },
+  {
+    "id": 720,
+    "label": "Name:GAFIRE",
+    "en": "Fire Storm Generator"
+  },
+  {
+    "id": 721,
+    "label": "Name:NAPOST",
+    "en": "Laser Fence Post"
+  },
+  {
+    "id": 722,
+    "label": "Name:NAFNCE",
+    "en": "Laser Fence Section"
+  },
+  {
+    "id": 723,
+    "label": "Name:NALASR",
+    "en": "Sentry Gun"
+  },
+  {
+    "id": 724,
+    "label": "Name:GAPILL",
+    "en": "Pill Box"
+  },
+  {
+    "id": 725,
+    "label": "Name:NASAM",
+    "en": "Patriot Missile"
+  },
+  {
+    "id": 726,
+    "label": "Name:GAFSDF",
+    "en": "Firestorm Wall Section"
+  },
+  {
+    "id": 727,
+    "label": "Name:ABAN01",
+    "en": "WS Logging Company"
+  },
+  {
+    "id": 728,
+    "label": "Name:ABAN02",
+    "en": "Panullo Hacienda"
+  },
+  {
+    "id": 729,
+    "label": "Name:ABAN03",
+    "en": "Abandoned Factory"
+  },
+  {
+    "id": 730,
+    "label": "Name:ABAN04",
+    "en": "City Hall"
+  },
+  {
+    "id": 731,
+    "label": "Name:ABAN05",
+    "en": "Hunting Lodge"
+  },
+  {
+    "id": 732,
+    "label": "Name:ABAN06",
+    "en": "Local Inn & Lodging"
+  },
+  {
+    "id": 733,
+    "label": "Name:ABAN07",
+    "en": "Church"
+  },
+  {
+    "id": 734,
+    "label": "Name:ABAN08",
+    "en": "Abandoned Wharehouse"
+  },
+  {
+    "id": 735,
+    "label": "Name:ABAN09",
+    "en": "Tall's Residence"
+  },
+  {
+    "id": 736,
+    "label": "Name:ABAN10",
+    "en": "Denzil's Last Chance Motel"
+  },
+  {
+    "id": 737,
+    "label": "Name:ABAN11",
+    "en": "Miele Manor"
+  },
+  {
+    "id": 738,
+    "label": "Name:ABAN12",
+    "en": "Kettler's Place"
+  },
+  {
+    "id": 739,
+    "label": "Name:ABAN13",
+    "en": "Long's Home"
+  },
+  {
+    "id": 740,
+    "label": "Name:ABAN14",
+    "en": "Local Store"
+  },
+  {
+    "id": 741,
+    "label": "Name:ABAN15",
+    "en": "Adam's House"
+  },
+  {
+    "id": 742,
+    "label": "Name:ABAN16",
+    "en": "Gas Station"
+  },
+  {
+    "id": 743,
+    "label": "Name:ABAN17",
+    "en": "Gas Pumps"
+  },
+  {
+    "id": 744,
+    "label": "Name:ABAN18",
+    "en": "Gas Station Sign"
+  },
+  {
+    "id": 745,
+    "label": "Name:CA0001",
+    "en": "Rade's Roadhouse"
+  },
+  {
+    "id": 746,
+    "label": "Name:CA0002",
+    "en": "Sandberg and Son's"
+  },
+  {
+    "id": 747,
+    "label": "Name:CA0003",
+    "en": "Temp Housing"
+  },
+  {
+    "id": 748,
+    "label": "Name:CA0004",
+    "en": "Waystation"
+  },
+  {
+    "id": 749,
+    "label": "Name:CA0005",
+    "en": "Ferbie's 4 Sale"
+  },
+  {
+    "id": 750,
+    "label": "Name:CA0006",
+    "en": "Deluxe Accomodations"
+  },
+  {
+    "id": 751,
+    "label": "Name:CA0007",
+    "en": "Field Generator"
+  },
+  {
+    "id": 752,
+    "label": "Name:CA0008",
+    "en": "Subterranean Dwelling"
+  },
+  {
+    "id": 753,
+    "label": "Name:CA0010",
+    "en": "Leary Traveller Inn"
+  },
+  {
+    "id": 754,
+    "label": "Name:CA0011",
+    "en": "Water Tank"
+  },
+  {
+    "id": 755,
+    "label": "Name:CA0012",
+    "en": "Greenhouse"
+  },
+  {
+    "id": 756,
+    "label": "Name:CA0013",
+    "en": "Water Purifier"
+  },
+  {
+    "id": 757,
+    "label": "Name:CA0014",
+    "en": "Observation Tower"
+  },
+  {
+    "id": 758,
+    "label": "Name:CA0015",
+    "en": "Port-A-Shack"
+  },
+  {
+    "id": 759,
+    "label": "Name:CA0016",
+    "en": "Port-A-Shack Deluxe"
+  },
+  {
+    "id": 760,
+    "label": "Name:CA0017",
+    "en": "Energy Transformer"
+  },
+  {
+    "id": 761,
+    "label": "Name:CA0018",
+    "en": "Solar Panel"
+  },
+  {
+    "id": 762,
+    "label": "Name:GAOLDCC1",
+    "en": "Old Construction Yard"
+  },
+  {
+    "id": 763,
+    "label": "Name:GAOLDCC2",
+    "en": "Old Temple"
+  },
+  {
+    "id": 764,
+    "label": "Name:GAOLDCC3",
+    "en": "Old Weapons Factory"
+  },
+  {
+    "id": 765,
+    "label": "Name:GAOLDCC4",
+    "en": "Old Refinery"
+  },
+  {
+    "id": 766,
+    "label": "Name:GAOLDCC5",
+    "en": "Old Advanced Power Plant"
+  },
+  {
+    "id": 767,
+    "label": "Name:GAOLDCC6",
+    "en": "Old Silos"
+  },
+  {
+    "id": 768,
+    "label": "Name:CAOUTP",
+    "en": "Tech Outpost"
+  },
+  {
+    "id": 769,
+    "label": "Name:CATHOSP",
+    "en": "Tech Hospital"
+  },
+  {
+    "id": 770,
+    "label": "Name:CAHOSP",
+    "en": "Civilian Hospital"
+  },
+  {
+    "id": 771,
+    "label": "Name:CAAIRP",
+    "en": "Tech Airport"
+  },
+  {
+    "id": 772,
+    "label": "Name:CAOILD",
+    "en": "Tech Oil Derrick"
+  },
+  {
+    "id": 773,
+    "label": "Name:CAARMR",
+    "en": "Civilian Armory"
+  },
+  {
+    "id": 774,
+    "label": "Name:CAPYR01",
+    "en": "Pyramid"
+  },
+  {
+    "id": 775,
+    "label": "Name:CAARAY",
+    "en": "Civilian Array"
+  },
+  {
+    "id": 776,
+    "label": "Name:GASPOT",
+    "en": "Light Tower"
+  },
+  {
+    "id": 777,
+    "label": "Name:CITY01",
+    "en": "Connelly Court Apts."
+  },
+  {
+    "id": 778,
+    "label": "Name:CITY02",
+    "en": "Lightner's Luxury Suites"
+  },
+  {
+    "id": 779,
+    "label": "Name:CITY03",
+    "en": "Office Building"
+  },
+  {
+    "id": 780,
+    "label": "Name:CITY04",
+    "en": "Westwood Stock Exchange"
+  },
+  {
+    "id": 781,
+    "label": "Name:CITY05",
+    "en": "Daily Sun Times"
+  },
+  {
+    "id": 782,
+    "label": "Name:CITY06",
+    "en": "YEO-CA Cola Corp."
+  },
+  {
+    "id": 783,
+    "label": "Name:CITY07",
+    "en": "Urban Housing"
+  },
+  {
+    "id": 784,
+    "label": "Name:CITY08",
+    "en": "Yee's Discount Liquor"
+  },
+  {
+    "id": 785,
+    "label": "Name:CITY09",
+    "en": "Abandoned Warehouse"
+  },
+  {
+    "id": 786,
+    "label": "Name:CITY10",
+    "en": "Urban Storefront"
+  },
+  {
+    "id": 787,
+    "label": "Name:CITY11",
+    "en": "Ambrose Lounge"
+  },
+  {
+    "id": 788,
+    "label": "Name:CITY12",
+    "en": "Bostic Tower"
+  },
+  {
+    "id": 789,
+    "label": "Name:CITY13",
+    "en": "Hewitt Hair Salon"
+  },
+  {
+    "id": 790,
+    "label": "Name:CITY14",
+    "en": "Business Offices"
+  },
+  {
+    "id": 791,
+    "label": "Name:CITY15",
+    "en": "2nd National Bank"
+  },
+  {
+    "id": 792,
+    "label": "Name:CITY16",
+    "en": "Highrise Hotel"
+  },
+  {
+    "id": 793,
+    "label": "Name:CITY17",
+    "en": "The Projects"
+  },
+  {
+    "id": 794,
+    "label": "Name:CITY18",
+    "en": "Archer Asylum"
+  },
+  {
+    "id": 795,
+    "label": "Name:CITY19",
+    "en": "Fill'er Up-Pump'N'Go"
+  },
+  {
+    "id": 796,
+    "label": "Name:CITY20",
+    "en": "Gas Pump"
+  },
+  {
+    "id": 797,
+    "label": "Name:CTVEGA",
+    "en": "Vega's Pyramid"
+  },
+  {
+    "id": 798,
+    "label": "Name:BBOARD01",
+    "en": "Eat at Rade's Roadhouse"
+  },
+  {
+    "id": 799,
+    "label": "Name:BBOARD02",
+    "en": "Drink YEO-CA Cola!"
+  },
+  {
+    "id": 800,
+    "label": "Name:BBOARD03",
+    "en": "Hamburgers $.99"
+  },
+  {
+    "id": 801,
+    "label": "Name:BBOARD04",
+    "en": "Visit Scenic Las Vegas"
+  },
+  {
+    "id": 802,
+    "label": "Name:BBOARD05",
+    "en": "Rooms $29 a nite"
+  },
+  {
+    "id": 803,
+    "label": "Name:BBOARD06",
+    "en": "Warhouse"
+  },
+  {
+    "id": 804,
+    "label": "Name:BBOARD07",
+    "en": "Alkaline's Battery Superstore"
+  },
+  {
+    "id": 805,
+    "label": "Name:BBOARD08",
+    "en": "Alex-gators petshop just ahead!"
+  },
+  {
+    "id": 806,
+    "label": "Name:BBOARD09",
+    "en": "TacticX games rock!"
+  },
+  {
+    "id": 807,
+    "label": "Name:BBOARD10",
+    "en": "WW Surf and Turf hits the spot!"
+  },
+  {
+    "id": 808,
+    "label": "Name:BBOARD11",
+    "en": "Only 11 miles to Zydeko's cafe!"
+  },
+  {
+    "id": 809,
+    "label": "Name:BBOARD12",
+    "en": "No escape from Archer's Asylum!"
+  },
+  {
+    "id": 810,
+    "label": "Name:BBOARD13",
+    "en": "Stop in at Hewitt's hair salon"
+  },
+  {
+    "id": 811,
+    "label": "Name:BBOARD14",
+    "en": "Billy Bob's Harvester school"
+  },
+  {
+    "id": 812,
+    "label": "Name:BBOARD15",
+    "en": "Pannullo's hacienda es bueno"
+  },
+  {
+    "id": 813,
+    "label": "Name:CTDAM",
+    "en": "Dam"
+  },
+  {
+    "id": 814,
+    "label": "Name:CAPARS01",
+    "en": "Paris Tower"
+  },
+  {
+    "id": 815,
+    "label": "Name:CACITY01",
+    "en": "Building"
+  },
+  {
+    "id": 816,
+    "label": "Name:CANEWY04",
+    "en": "Statue of Liberty"
+  },
+  {
+    "id": 817,
+    "label": "Name:CANEWY05",
+    "en": "World Trade Center"
+  },
+  {
+    "id": 818,
+    "label": "Name:CATECH01",
+    "en": "Communications Center"
+  },
+  {
+    "id": 819,
+    "label": "Name:CATEXS02",
+    "en": "Alamo"
+  },
+  {
+    "id": 820,
+    "label": "Name:CAWASH01",
+    "en": "White House"
+  },
+  {
+    "id": 821,
+    "label": "Name:CAFARM01",
+    "en": "Farm"
+  },
+  {
+    "id": 822,
+    "label": "Name:CAFARM02",
+    "en": "Farm Silo"
+  },
+  {
+    "id": 823,
+    "label": "Name:CALIT01E",
+    "en": "Light"
+  },
+  {
+    "id": 824,
+    "label": "Name:CAMISC01",
+    "en": "Barrels"
+  },
+  {
+    "id": 825,
+    "label": "Name:CAMISC02",
+    "en": "Barrel"
+  },
+  {
+    "id": 826,
+    "label": "Name:CAMISC03",
+    "en": "Dumpster"
+  },
+  {
+    "id": 827,
+    "label": "Name:CAMISC04",
+    "en": "Mailbox"
+  },
+  {
+    "id": 828,
+    "label": "Name:CAPOL01E",
+    "en": "Telephone Pole"
+  },
+  {
+    "id": 829,
+    "label": "Name:AMMOCRAT",
+    "en": "Ammo Crate"
+  },
+  {
+    "id": 830,
+    "label": "Name:GTGCAN",
+    "en": "Grand Cannon"
+  },
+  {
+    "id": 831,
+    "label": "Name:NANRCT",
+    "en": "Nuclear Reactor"
+  },
+  {
+    "id": 832,
+    "label": "Name:NAFLAK",
+    "en": "Flak Cannon"
+  },
+  {
+    "id": 833,
+    "label": "Name:CAWSH12",
+    "en": "Washington Monument"
+  },
+  {
+    "id": 834,
+    "label": "Name:Nuke",
+    "en": "Nuclear Missile"
+  },
+  {
+    "id": 835,
+    "label": "Name:Ion",
+    "en": "Ion Cannon"
+  },
+  {
+    "id": 836,
+    "label": "Name:Iron",
+    "en": "Iron Curtain"
+  },
+  {
+    "id": 837,
+    "label": "Name:Storm",
+    "en": "Weather Storm"
+  },
+  {
+    "id": 838,
+    "label": "Name:Chrono",
+    "en": "Chronosphere"
+  },
+  {
+    "id": 839,
+    "label": "Name:Chrono2",
+    "en": "Chrono Stage Two"
+  },
+  {
+    "id": 840,
+    "label": "Name:Para",
+    "en": "Paradrop"
+  },
+  {
+    "id": 841,
+    "label": "WDT:TerritoryPrefix",
+    "en": "--------- \n"
+  },
+  {
+    "id": 842,
+    "label": "WDT:ReviewingHistory",
+    "en": "Reviewing History..."
+  },
+  {
+    "id": 843,
+    "label": "WDT:ReviewingHistoryDay",
+    "en": "Day :"
+  },
+  {
+    "id": 844,
+    "label": "WDT:DefaultShortDescription",
+    "en": "World Domination Tour"
+  },
+  {
+    "id": 845,
+    "label": "WDT:FourPlayerOnly",
+    "en": "4 Players"
+  },
+  {
+    "id": 846,
+    "label": "WDT:TwoPlayerOnly",
+    "en": "2 Players"
+  },
+  {
+    "id": 847,
+    "label": "WDT:TechLevel",
+    "en": "Tech Level : %hs"
+  },
+  {
+    "id": 848,
+    "label": "WDT:NoBases",
+    "en": "No Bases"
+  },
+  {
+    "id": 849,
+    "label": "WDT:Bases",
+    "en": "Bases"
+  },
+  {
+    "id": 850,
+    "label": "WDT:NotShortGame",
+    "en": "Long Game"
+  },
+  {
+    "id": 851,
+    "label": "WDT:Credits",
+    "en": "Starting Credits : %hs"
+  },
+  {
+    "id": 852,
+    "label": "WDT:FogOfWar",
+    "en": "Fog of War"
+  },
+  {
+    "id": 853,
+    "label": "WDT:HarvesterTruce",
+    "en": "Harvester Truce"
+  },
+  {
+    "id": 854,
+    "label": "WDT:UnitCount",
+    "en": "Starting Units : %hs"
+  },
+  {
+    "id": 855,
+    "label": "WDT:NoRedeployMCV",
+    "en": "MCV Not Redeployable"
+  },
+  {
+    "id": 856,
+    "label": "WDT:RedeployableMCV",
+    "en": "MCV Redeployable"
+  },
+  {
+    "id": 857,
+    "label": "WDT:NoCrates",
+    "en": "No Goodie Crates"
+  },
+  {
+    "id": 858,
+    "label": "WDT:Crates",
+    "en": "Goodie Crates"
+  },
+  {
+    "id": 859,
+    "label": "WDT:NorthAmerica00",
+    "en": "North Pacific"
+  },
+  {
+    "id": 860,
+    "label": "WDT:NorthAmerica01",
+    "en": "Grand Forks"
+  },
+  {
+    "id": 861,
+    "label": "WDT:NorthAmerica02",
+    "en": "Montana"
+  },
+  {
+    "id": 862,
+    "label": "WDT:NorthAmerica03",
+    "en": "Black Hills"
+  },
+  {
+    "id": 863,
+    "label": "WDT:NorthAmerica04",
+    "en": "Lake Superior"
+  },
+  {
+    "id": 864,
+    "label": "WDT:NorthAmerica05",
+    "en": "Ontario"
+  },
+  {
+    "id": 865,
+    "label": "WDT:NorthAmerica06",
+    "en": "Ottowa"
+  },
+  {
+    "id": 866,
+    "label": "WDT:NorthAmerica07",
+    "en": "New England"
+  },
+  {
+    "id": 867,
+    "label": "WDT:NorthAmerica08",
+    "en": "Gulf of St. Lawrence"
+  },
+  {
+    "id": 868,
+    "label": "WDT:NorthAmerica09",
+    "en": "Nova Scotia"
+  },
+  {
+    "id": 869,
+    "label": "WDT:NorthAmerica10",
+    "en": "Pacific Coast"
+  },
+  {
+    "id": 870,
+    "label": "WDT:NorthAmerica11",
+    "en": "Cascades"
+  },
+  {
+    "id": 871,
+    "label": "WDT:NorthAmerica12",
+    "en": "Snake River"
+  },
+  {
+    "id": 872,
+    "label": "WDT:NorthAmerica13",
+    "en": "North Rockies"
+  },
+  {
+    "id": 873,
+    "label": "WDT:NorthAmerica14",
+    "en": "Western Gateway"
+  },
+  {
+    "id": 874,
+    "label": "WDT:NorthAmerica15",
+    "en": "Great Lakes"
+  },
+  {
+    "id": 875,
+    "label": "WDT:NorthAmerica16",
+    "en": "Appalachians"
+  },
+  {
+    "id": 876,
+    "label": "WDT:NorthAmerica17",
+    "en": "Southern Cal"
+  },
+  {
+    "id": 877,
+    "label": "WDT:NorthAmerica18",
+    "en": "Grand Canyon"
+  },
+  {
+    "id": 878,
+    "label": "WDT:NorthAmerica19",
+    "en": "Southern Rockies"
+  },
+  {
+    "id": 879,
+    "label": "WDT:NorthAmerica20",
+    "en": "Dodge"
+  },
+  {
+    "id": 880,
+    "label": "WDT:NorthAmerica21",
+    "en": "Ohio River"
+  },
+  {
+    "id": 881,
+    "label": "WDT:NorthAmerica22",
+    "en": "Roanoake"
+  },
+  {
+    "id": 882,
+    "label": "WDT:NorthAmerica23",
+    "en": "Panhandle"
+  },
+  {
+    "id": 883,
+    "label": "WDT:NorthAmerica24",
+    "en": "Texas Gulf"
+  },
+  {
+    "id": 884,
+    "label": "WDT:NorthAmerica25",
+    "en": "Gulf Coast"
+  },
+  {
+    "id": 885,
+    "label": "WDT:NorthAmerica26",
+    "en": "Savannah"
+  },
+  {
+    "id": 886,
+    "label": "WDT:NorthAmerica27",
+    "en": "Baja"
+  },
+  {
+    "id": 887,
+    "label": "WDT:NorthAmerica28",
+    "en": "Sierra Madre"
+  },
+  {
+    "id": 888,
+    "label": "WDT:NorthAmerica29",
+    "en": "Southern Gulf"
+  },
+  {
+    "id": 889,
+    "label": "WDT:Europe00",
+    "en": "Eire"
+  },
+  {
+    "id": 890,
+    "label": "WDT:Europe01",
+    "en": "Britannia"
+  },
+  {
+    "id": 891,
+    "label": "WDT:Europe02",
+    "en": "Norway"
+  },
+  {
+    "id": 892,
+    "label": "WDT:Europe03",
+    "en": "Sweden"
+  },
+  {
+    "id": 893,
+    "label": "WDT:Europe04",
+    "en": "Finland"
+  },
+  {
+    "id": 894,
+    "label": "WDT:Europe05",
+    "en": "Bay of Biscay"
+  },
+  {
+    "id": 895,
+    "label": "WDT:Europe06",
+    "en": "La Seine"
+  },
+  {
+    "id": 896,
+    "label": "WDT:Europe08",
+    "en": "Poland"
+  },
+  {
+    "id": 897,
+    "label": "WDT:Europe09",
+    "en": "Baltic"
+  },
+  {
+    "id": 898,
+    "label": "WDT:Europe10",
+    "en": "Belarus"
+  },
+  {
+    "id": 899,
+    "label": "WDT:Europe11",
+    "en": "Ukraine"
+  },
+  {
+    "id": 900,
+    "label": "WDT:Europe12",
+    "en": "North Atlantic"
+  },
+  {
+    "id": 901,
+    "label": "WDT:Europe13",
+    "en": "Ebro"
+  },
+  {
+    "id": 902,
+    "label": "WDT:Europe14",
+    "en": "Gulf of Lions"
+  },
+  {
+    "id": 903,
+    "label": "WDT:Europe15",
+    "en": "Alps"
+  },
+  {
+    "id": 904,
+    "label": "WDT:Europe16",
+    "en": "Liguria"
+  },
+  {
+    "id": 905,
+    "label": "WDT:Europe17",
+    "en": "Adriatic Coast"
+  },
+  {
+    "id": 906,
+    "label": "WDT:Europe18",
+    "en": "Danube Delta"
+  },
+  {
+    "id": 907,
+    "label": "WDT:Europe19",
+    "en": "Black Sea"
+  },
+  {
+    "id": 908,
+    "label": "WDT:Europe20",
+    "en": "Sierra Morena"
+  },
+  {
+    "id": 909,
+    "label": "WDT:Europe21",
+    "en": "Sardinia"
+  },
+  {
+    "id": 910,
+    "label": "WDT:Europe22",
+    "en": "Tyrrhenia"
+  },
+  {
+    "id": 911,
+    "label": "WDT:Europe23",
+    "en": "Aegean Coast"
+  },
+  {
+    "id": 912,
+    "label": "WDT:Europe24",
+    "en": "Asia Minor"
+  },
+  {
+    "id": 913,
+    "label": "WDT:Europe25",
+    "en": "Mesopotamia"
+  },
+  {
+    "id": 914,
+    "label": "WDT:Europe26",
+    "en": "Morocco"
+  },
+  {
+    "id": 915,
+    "label": "WDT:Europe27",
+    "en": "South Med"
+  },
+  {
+    "id": 916,
+    "label": "WDT:Europe28",
+    "en": "Sahara"
+  },
+  {
+    "id": 917,
+    "label": "WDT:Europe29",
+    "en": "Tunisia"
+  },
+  {
+    "id": 918,
+    "label": "WDT:Asia00",
+    "en": "Xinjiang"
+  },
+  {
+    "id": 919,
+    "label": "WDT:Asia01",
+    "en": "Gansu"
+  },
+  {
+    "id": 920,
+    "label": "WDT:Asia02",
+    "en": "Nei Mongol"
+  },
+  {
+    "id": 921,
+    "label": "WDT:Asia03",
+    "en": "Heilongjiang"
+  },
+  {
+    "id": 922,
+    "label": "WDT:Asia04",
+    "en": "Jilin"
+  },
+  {
+    "id": 923,
+    "label": "WDT:Asia05",
+    "en": "Liaoning"
+  },
+  {
+    "id": 924,
+    "label": "WDT:Asia06",
+    "en": "Republic of Korea"
+  },
+  {
+    "id": 925,
+    "label": "WDT:Asia07",
+    "en": "Japan"
+  },
+  {
+    "id": 926,
+    "label": "WDT:Asia08",
+    "en": "Japan Islands"
+  },
+  {
+    "id": 927,
+    "label": "WDT:Asia09",
+    "en": "Eastern Tibet"
+  },
+  {
+    "id": 928,
+    "label": "WDT:Asia10",
+    "en": "Xizang"
+  },
+  {
+    "id": 929,
+    "label": "WDT:Asia11",
+    "en": "Qinghai"
+  },
+  {
+    "id": 930,
+    "label": "WDT:Asia12",
+    "en": "Yunnan"
+  },
+  {
+    "id": 931,
+    "label": "WDT:Asia13",
+    "en": "Sichuan"
+  },
+  {
+    "id": 932,
+    "label": "WDT:Asia14",
+    "en": "Shaanxi"
+  },
+  {
+    "id": 933,
+    "label": "WDT:Asia15",
+    "en": "Shanxi"
+  },
+  {
+    "id": 934,
+    "label": "WDT:Asia16",
+    "en": "Hebei"
+  },
+  {
+    "id": 935,
+    "label": "WDT:Asia17",
+    "en": "Henan"
+  },
+  {
+    "id": 936,
+    "label": "WDT:Asia18",
+    "en": "Shandong"
+  },
+  {
+    "id": 937,
+    "label": "WDT:Asia19",
+    "en": "Jiangsu"
+  },
+  {
+    "id": 938,
+    "label": "WDT:Asia20",
+    "en": "Nanjing"
+  },
+  {
+    "id": 939,
+    "label": "WDT:Asia21",
+    "en": "Hubei"
+  },
+  {
+    "id": 940,
+    "label": "WDT:Asia22",
+    "en": "Hunan"
+  },
+  {
+    "id": 941,
+    "label": "WDT:Asia23",
+    "en": "Guangxi"
+  },
+  {
+    "id": 942,
+    "label": "WDT:Asia24",
+    "en": "Guangdong"
+  },
+  {
+    "id": 943,
+    "label": "WDT:Asia25",
+    "en": "Taiwan"
+  },
+  {
+    "id": 944,
+    "label": "WDT:Asia26",
+    "en": "South China Sea"
+  },
+  {
+    "id": 945,
+    "label": "WDT:Asia27",
+    "en": "Hainan"
+  },
+  {
+    "id": 946,
+    "label": "WDT:Asia28",
+    "en": "Philippines"
+  },
+  {
+    "id": 947,
+    "label": "WDT:Asia29",
+    "en": "Guizhou"
+  },
+  {
+    "id": 948,
+    "label": "GUI:LoginsScreen",
+    "en": "Westwood Online Login"
+  },
+  {
+    "id": 949,
+    "label": "GUI:Login",
+    "en": "Login"
+  },
+  {
+    "id": 950,
+    "label": "GUI:RememberAccount",
+    "en": "Remember Account Information"
+  },
+  {
+    "id": 951,
+    "label": "GUI:ForgetAccount",
+    "en": "Delete Account"
+  },
+  {
+    "id": 952,
+    "label": "GUI:AutoLoginQuery",
+    "en": "Do you want to automatically login with this account in the future?"
+  },
+  {
+    "id": 953,
+    "label": "GUI:DoNotAsk",
+    "en": "Don't ask me again"
+  },
+  {
+    "id": 954,
+    "label": "GUI:WOLWelcome",
+    "en": "Westwood Online"
+  },
+  {
+    "id": 955,
+    "label": "GUI:WelcomeRA2Online",
+    "en": "Welcome to Yuri's Revenge Online"
+  },
+  {
+    "id": 956,
+    "label": "GUI:QuickMatch",
+    "en": "Quick Match"
+  },
+  {
+    "id": 957,
+    "label": "GUI:CustomMatch",
+    "en": "Custom Match"
+  },
+  {
+    "id": 958,
+    "label": "GUI:PlayBuddy",
+    "en": "Buddy List"
+  },
+  {
+    "id": 959,
+    "label": "GUI:PlayWDT",
+    "en": "World Domination"
+  },
+  {
+    "id": 960,
+    "label": "GUI:MyInformation",
+    "en": "My Information"
+  },
+  {
+    "id": 961,
+    "label": "GUI:UserProfileLabel",
+    "en": "%hs's Profile"
+  },
+  {
+    "id": 962,
+    "label": "GUI:GameWins",
+    "en": "Wins :"
+  },
+  {
+    "id": 963,
+    "label": "GUI:GameLosses",
+    "en": "Losses :"
+  },
+  {
+    "id": 964,
+    "label": "GUI:LadderRank",
+    "en": "Rank :"
+  },
+  {
+    "id": 965,
+    "label": "GUI:Disconnects",
+    "en": "Disconnects :"
+  },
+  {
+    "id": 966,
+    "label": "GUI:MatchStatus",
+    "en": "Match Status"
+  },
+  {
+    "id": 967,
+    "label": "GUI:MatchingProgress2",
+    "en": "Matching..."
+  },
+  {
+    "id": 968,
+    "label": "GUI:MatchFound",
+    "en": "Match Found!"
+  },
+  {
+    "id": 969,
+    "label": "GUI:OpenGames",
+    "en": "Available Games"
+  },
+  {
+    "id": 970,
+    "label": "GUI:CreateGame",
+    "en": "Create Game"
+  },
+  {
+    "id": 971,
+    "label": "GUI:JoinGame",
+    "en": "Join Game"
+  },
+  {
+    "id": 972,
+    "label": "GUI:ClanAndLadder",
+    "en": "Clan/Ladder"
+  },
+  {
+    "id": 973,
+    "label": "GUI:Persona",
+    "en": "Persona :"
+  },
+  {
+    "id": 974,
+    "label": "GUI:AutoLogin",
+    "en": "Auto-login with this account"
+  },
+  {
+    "id": 975,
+    "label": "GUI:BuddyTitle",
+    "en": "Buddy Status"
+  },
+  {
+    "id": 976,
+    "label": "GUI:Status",
+    "en": "Status"
+  },
+  {
+    "id": 977,
+    "label": "GUI:AddBuddy",
+    "en": "Add Buddy"
+  },
+  {
+    "id": 978,
+    "label": "GUI:RemoveBuddy",
+    "en": "Remove Buddy"
+  },
+  {
+    "id": 979,
+    "label": "GUI:Refresh",
+    "en": "Refresh"
+  },
+  {
+    "id": 980,
+    "label": "Mission:ExtremeHam",
+    "en": "Extreme Ham"
+  },
+  {
+    "id": 981,
+    "label": "Brief:Error",
+    "en": "Oops, there's no briefing for this mission. Examine MISSION.INI and RA2.STR for examples of how to do this."
+  },
+  {
+    "id": 982,
+    "label": "Brief:SOV01",
+    "en": "It is your good fortune to be in the vanguard of the Soviet assault on the United States. Lead your troops through Washington and destroy the most hated symbol of American military power, the Pentagon. \n \n Objective 1: Destroy the Pentagon."
+  },
+  {
+    "id": 983,
+    "label": "Brief:SOV02",
+    "en": "The Americans have foolishly gathered a fleet in a small harbor on the eastern coast of Florida. Assisted by General Vladimir in his Dreadnought, you will force a landing on the hostile shore and set up a base. When ready, you will strike out against the capitalist pigs and crush them under the iron heel of Soviet justice. \n \n Objective 1: Force a landing and set up a base. \n \n Objective 2: Destroy all enemy forces."
+  },
+  {
+    "id": 984,
+    "label": "Brief:SOV03",
+    "en": "In order to complete our psychic beacon, we will need to capture some American technology. Lead your forces into New York and capture their Battle Lab. Then build a Psychic Beacon to take control of the city. \n \n Objective 1: Capture the American Battle Lab. \n \n Objective 2: Build and defend a Psychic Beacon."
+  },
+  {
+    "id": 985,
+    "label": "Brief:SOV04",
+    "en": "The foolish Koreans have decided to take sides with the failing Allies. Their cowardly attempt to invade our Eastern territories will surely fail. Defend the motherland and, when you are ready, push the Koreans back into the ocean. \n \n Objective 1: Establish a base. Defend the homeland. \n \n Objective 2: Destroy all enemy forces."
+  },
+  {
+    "id": 986,
+    "label": "Brief:SOV05",
+    "en": "The European nations are planning to join with the crippled Americans. We must not let this act of aggresion go unpunished. You will lay waste to their beautiful Paris. We will show the Allies the true meaning of power by turning their own precious monuments into weapons of mass destruction. \n \n Objective 1: Energize the PARIS TOWER with 3 TESLA TROOPERS. \n Objective 2: Defend the PARIS TOWER from Allied attack. \n Objective 3: Defeat all remaining Allied troops."
+  },
+  {
+    "id": 987,
+    "label": "Brief:SOV06",
+    "en": "The Americans are on their knees, begging for mercy. The last remnants of their fleet at Pearl Harbor waits helplessly for your relentless attack. However, we have news that the Koreans are not yet beaten and may attempt to join up with the American Navy. They must not succeed. \n \n Objective 1: Establish a base in the Hawaiian Islands. \n \n Objective 2: Destroy the Allied Navy."
+  },
+  {
+    "id": 988,
+    "label": "Brief:SOV07",
+    "en": "The Americans have engaged their Chronosphere; a device that allows them to move soldiers across great distances almost instantly. They can now strike anywhere they wish. You must defend our Battle Lab in the Ural mountains. The Americans will surely strike there soon in a desperate but doomed attempt to shut down our development of the ultimate battle tank. \n \n Objective 1: Defend your Battle Lab at all costs."
+  },
+  {
+    "id": 989,
+    "label": "Brief:SOV08",
+    "en": "Even in the hour of our greatest victory, General Vladimir has turned against us. Tempted by the soft American lifestyle, he has gone rogue and convinced many loyal communists to turn against us. You must go to Washington DC and dig Vladimir out of his wretched hole. \n \n Objective 1: Capture the White House."
+  },
+  {
+    "id": 990,
+    "label": "Brief:SOV09",
+    "en": "Our victory is near at hand. The President has successfully eluded us, but we have tracked him to a dirty little fort called 'The Alamo' in San Antonio, Texas. You must use our Psi-Corp Troopers to mind control the President and force him to surrender the United States. \n \n Objective 1: Use Mind-Control to capture the President."
+  },
+  {
+    "id": 991,
+    "label": "Brief:SOV10",
+    "en": "In their final desperate hours, the Allies have managed to produce one last bit of super-technology. They have a Weather Control Device which they can use to create terrible storms that can sink fleets and level cities. We believe they have hidden their doomsday weapon in the isolated US Virgin Islands. \n \n Objective 1: Capture the American Battle Lab to locate the Weather Control Device. \n \n Objective 2: Destroy the Weather Control Device."
+  },
+  {
+    "id": 992,
+    "label": "Brief:SOV11",
+    "en": "Yuri has turned against us. There is only one answer for such treason. \n \n Objective 1: Destroy Yuri's headquarters - The Kremlin."
+  },
+  {
+    "id": 993,
+    "label": "Brief:SOV12",
+    "en": "We have found the last feeble Allied stronghold. Their Chronosphere, now fully operational, can move soldiers anywhere in the world. They can strike at us in New York, in Prague, even in Moscow. Yuri's files show the device is located near Point Hope, Alaska. You must take what few forces we have in the area and lead an attack, before the Allies make use of their cowardly technology. This is the final hour, commander. Glory awaits. \n \n Objective 1: Destroy the Chronosphere."
+  },
+  {
+    "id": 994,
+    "label": "Brief:ALL01",
+    "en": "The Soviets have invaded. They outnumber us ten to one. You must assist special agent Tanya in New York. We are marshaling our forces as fast as we can, Commander, but we need time. A small American base, Fort Bradley, is in the New York area. If you can make contact, they may be able to assist in the defense of New York. Tanya will be moving through a chaotic battlefield. Keep your eye out for targets of opportunity and watch for new mission objectives. \n \n Objective 1: Destroy the Soviet Dreadnought fleet. \n \n Objective 2: Make contact with Fort Bradley. \n \n Objective 3: Keep Tanya alive."
+  },
+  {
+    "id": 995,
+    "label": "Brief:ALL02",
+    "en": "Soviet troops cover America like a foul plague. They have even penetrated our heartland to capture the Air Force Academy in Colorado. The Academy, its cadets, and the unique technology it contains are vital to our defense. Use Tanya to contact any American forces in the area, reclaim our Air Force Academy, and drive the Soviets from the area. \n \n Objective 1: Capture the Soviet-occupied Air Force Academy Chapel. \n \n Objective 2: Destroy all Soviet forces. \n \n Objective 3: Keep Tanya alive."
+  },
+  {
+    "id": 996,
+    "label": "Brief:ALL03",
+    "en": "The Soviets have invaded Washington DC and have used their evil psychic technology to mind control our leaders. You must rescue them by destroying the Psychic Beacon near the White House. \n \n Objective 1: Destroy the Psychic Beacon."
+  },
+  {
+    "id": 997,
+    "label": "Brief:ALL04",
+    "en": "Soviet forces continue to rampage across America. Our agents have discovered a large Psychic Amplifier in Chicago. If activated, this device will allow the Soviets to mind control all of North America. \n \n Objective 1: Force a shore landing and establish a base. \n \n Objective 2: Destroy the Psychic Amplifier before it comes online."
+  },
+  {
+    "id": 998,
+    "label": "Brief:ALL05",
+    "en": "European forces still refuse to fight with us, fearing a Soviet nuclear counterattack. We have discovered the location of their medium-range missiles in Poland. Special agent Tanya has secretly crossed the Polish border. You will direct her to destroy the Soviet Nuclear Missiles. \n \n Objective 1: Infiltrate the Soviet Battle Lab. \n \n Objective 2: Neutralize the 2 Soviet Nuclear Missile Silos. \n \n Objective 3: Keep Tanya alive."
+  },
+  {
+    "id": 999,
+    "label": "Brief:ALL06",
+    "en": "The Europeans have joined with us and the time has come to counterattack. We will retake Washington DC and then we will retake the rest of our nation from the Soviet scum. \n \n Objective 1: Reinforce and assume command of Allied forces at the Pentagon. \n \n Objective 2: Destroy all Soviet forces in Washington."
+  },
+  {
+    "id": 1000,
+    "label": "Brief:ALL07",
+    "en": "The Soviets still cover most of the globe. We must continue to fight them wherever they may be. A Soviet fleet has been discovered en route to Hawaii. Destroy this fleet and the Pacific will be ours. \n \n Objective 1: Destroy all Soviet forces."
+  },
+  {
+    "id": 1001,
+    "label": "Brief:ALL08",
+    "en": "Even as we cleanse America of Soviet forces, they continue to play with their psychic technology, desperately hoping that their little toys will destroy us. We have discovered a Psychic Beacon in St. Louis. Take special agent Tanya in and destroy the beacon. \n \n Objective 1: Destroy the Soviet Psychic Beacon. \n \n Objective 2: Destroy all Soviet forces within St. Louis. \n \n Objective 3: Don't get Tanya killed."
+  },
+  {
+    "id": 1002,
+    "label": "Brief:ALL09",
+    "en": "The Soviets captured one of our west coast bases and with it one of our Prism Towers. We believe they may be trying to replicate that technology at a secret Soviet research facility in the Yucatan. A SEAL strike team is standing by, Commander, awaiting your orders. \n \n Objective 1: Capture or Destroy any Soviet attempts to replicate our Prism Technology. \n \n Objective 2: Eradicate the Soviet base defending their research site."
+  },
+  {
+    "id": 1003,
+    "label": "Brief:ALL10",
+    "en": "Desperate for some success, Soviet forces have counterattacked our European allies in Germany, moving deep into the Black Forest. No doubt their commanders hope that they will find and capture Einstein's laboratory. Your special talents have been asked for. The Germans fear they will be defeated without your strategic skills. \n \n Objective 1: Ensure the safety of Professor Einstein's laboratory. \n \n Objective 2: Destroy all Soviet forces."
+  },
+  {
+    "id": 1004,
+    "label": "Brief:ALL11",
+    "en": "Einstein has found the perfect place for his Chronosphere. Unfortunately this location is very close to Soviet-controlled Cuba. Build the Chronosphere and clear the area of Soviet nuclear missiles. We are nearly ready for our final attack on Moscow. \n \n Objective 1: Build a Chronosphere. \n \n Objective 2: Neutralize the Soviet Nuclear threat on Cuba."
+  },
+  {
+    "id": 1005,
+    "label": "Brief:ALL12",
+    "en": "The war is nearly at an end. A hand-picked group of volunteers will use the Chronosphere to invade Moscow from across the world. Once you have secured the Kremlin, Tanya will capture Romanov and put an end to Soviet aggression. You are the only commander skilled enough to make this work. Your forces will be outnumbered at least ten to one. Good luck. \n \n Objective 1: Clear the area so Chrono Reinforcements can arrive. \n \n Objective 2: Eliminate Romanov's Elite Black Guard around the Kremlin."
+  },
+  {
+    "id": 1006,
+    "label": "Brief:TRN01",
+    "en": "This is basic training. Listen to your sergeant and do as he tells you."
+  },
+  {
+    "id": 1007,
+    "label": "Brief:TRN02",
+    "en": "This is the last day of your basic training. Time is short and the Soviets may attack soon. Listen to your sergeant, learn what you can, and prepare for battle."
+  },
+  {
+    "id": 1008,
+    "label": "TXT_COPYRIGHT",
+    "en": "© 2000, 2001 ELECTRONIC ARTS INC. ALL RIGHTS RESERVED"
+  },
+  {
+    "id": 1009,
+    "label": "TXT_TIME_FORMAT_HOURS",
+    "en": "Time: %02d:%02d:%02d"
+  },
+  {
+    "id": 1010,
+    "label": "TXT_TIME_FORMAT_NO_HOURS",
+    "en": "Time:%02d:%02d"
+  },
+  {
+    "id": 1011,
+    "label": "TXT_MONEY_FORMAT_1",
+    "en": "$%d"
+  },
+  {
+    "id": 1012,
+    "label": "TXT_MONEY_FORMAT_2",
+    "en": "%s $%d"
+  },
+  {
+    "id": 1013,
+    "label": "TXT_READY",
+    "en": "Ready"
+  },
+  {
+    "id": 1014,
+    "label": "TXT_HOLD",
+    "en": "On Hold"
+  },
+  {
+    "id": 1015,
+    "label": "TXT_PRIMARY",
+    "en": "Primary"
+  },
+  {
+    "id": 1016,
+    "label": "TXT_PRI",
+    "en": "Pri."
+  },
+  {
+    "id": 1017,
+    "label": "TXT_OK",
+    "en": "OK"
+  },
+  {
+    "id": 1018,
+    "label": "TXT_SCENARIO_WON",
+    "en": "Mission Accomplished"
+  },
+  {
+    "id": 1019,
+    "label": "TXT_SCENARIO_LOST",
+    "en": "Mission Failed"
+  },
+  {
+    "id": 1020,
+    "label": "TXT_IGNORE",
+    "en": "Ignore"
+  },
+  {
+    "id": 1021,
+    "label": "TXT_CLICK_CONTINUE",
+    "en": "Click to Continue"
+  },
+  {
+    "id": 1022,
+    "label": "TXT_MISSION_EFFICIENCY",
+    "en": "MISSION EFFICIENCY"
+  },
+  {
+    "id": 1023,
+    "label": "TXT_MISSION_TIME_LAPSE",
+    "en": "MISSION TIME LAPSE"
+  },
+  {
+    "id": 1024,
+    "label": "TXT_CURRENCY",
+    "en": "CURRENCY"
+  },
+  {
+    "id": 1025,
+    "label": "TXT_CASUALTIES",
+    "en": "CASUALTIES"
+  },
+  {
+    "id": 1026,
+    "label": "TXT_BEST_SCORES",
+    "en": "Best Scores"
+  },
+  {
+    "id": 1027,
+    "label": "TXT_STRUCTURES",
+    "en": "Structures"
+  },
+  {
+    "id": 1028,
+    "label": "TXT_VIDEO",
+    "en": "Video"
+  },
+  {
+    "id": 1029,
+    "label": "TXT_MORE",
+    "en": "-- More --"
+  },
+  {
+    "id": 1030,
+    "label": "TXT_INTERFACE",
+    "en": "Interface"
+  },
+  {
+    "id": 1031,
+    "label": "TXT_TEAM",
+    "en": "Team"
+  },
+  {
+    "id": 1032,
+    "label": "TXT_SELECTION",
+    "en": "Selection"
+  },
+  {
+    "id": 1033,
+    "label": "TXT_CONTROL",
+    "en": "Control"
+  },
+  {
+    "id": 1034,
+    "label": "TXT_CREATE_TEAM",
+    "en": "Create Team %2d"
+  },
+  {
+    "id": 1035,
+    "label": "TXT_CD_ERROR1",
+    "en": "Yuri's Revenge is unable to detect your CD ROM drive."
+  },
+  {
+    "id": 1036,
+    "label": "TXT_DLL_INVALID",
+    "en": "Yuri's Revenge requires %s version %d.%d or newer. \n \nPlease consult the read me for instructions on how to \n obtain a newer version of %s."
+  },
+  {
+    "id": 1037,
+    "label": "TXT_ENEMY_SOLDIER",
+    "en": "Enemy Soldier"
+  },
+  {
+    "id": 1038,
+    "label": "TXT_ENEMY_VEHICLE",
+    "en": "Enemy Unit"
+  },
+  {
+    "id": 1039,
+    "label": "TXT_ENEMY_STRUCTURE",
+    "en": "Enemy Structure"
+  },
+  {
+    "id": 1040,
+    "label": "TXT_INITGAME_FAILED",
+    "en": "Failed to initialize. Please reinstall."
+  },
+  {
+    "id": 1041,
+    "label": "TXT_PREPARECOM_FAILED",
+    "en": "One or more DLL files were missing \n or damaged. Please reinstall."
+  },
+  {
+    "id": 1042,
+    "label": "TXT_NO_SOUND_CARD",
+    "en": "No Sound Card Detected"
+  },
+  {
+    "id": 1043,
+    "label": "TXT_INVALIDMODE",
+    "en": "This product requires a 16bit pixel depth!"
+  },
+  {
+    "id": 1044,
+    "label": "TXT_LOST",
+    "en": "Game Over"
+  },
+  {
+    "id": 1045,
+    "label": "TXT_MOUSE_REQUIRED",
+    "en": "A mouse is required for playing Yuri's Revenge."
+  },
+  {
+    "id": 1046,
+    "label": "TXT_DSOUND_ACCESS",
+    "en": "Unable to play Direct Sound primary buffer."
+  },
+  {
+    "id": 1047,
+    "label": "TXT_DDRAW_UNKNOWN",
+    "en": "Unrecognized Direct Draw result code."
+  },
+  {
+    "id": 1048,
+    "label": "TXT_VIDEO_ERROR",
+    "en": "Error - Unable to set the video mode."
+  },
+  {
+    "id": 1049,
+    "label": "TXT_SHORT_TITLE",
+    "en": "Yuri's Revenge"
+  }
+]

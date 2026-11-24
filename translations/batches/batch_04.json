@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1400,
+    "label": "TXT_SIDEBAR_DOWN_DESC",
+    "en": "Scroll sidebar selection list downward."
+  },
+  {
+    "id": 1401,
+    "label": "TXT_LSIDEBAR_DOWN",
+    "en": "Structure List Down"
+  },
+  {
+    "id": 1402,
+    "label": "TXT_LSIDEBAR_DOWN_DESC",
+    "en": "Scroll sidebar structure selection list downward."
+  },
+  {
+    "id": 1403,
+    "label": "TXT_RSIDEBAR_DOWN",
+    "en": "Unit List Down"
+  },
+  {
+    "id": 1404,
+    "label": "TXT_RSIDEBAR_DOWN_DESC",
+    "en": "Scroll sidebar unit selection list downward."
+  },
+  {
+    "id": 1405,
+    "label": "TXT_SIDEBAR_PGDN",
+    "en": "Sidebar PageDown"
+  },
+  {
+    "id": 1406,
+    "label": "TXT_SIDEBAR_PGDN_DESC",
+    "en": "Page sidebar selection list downward."
+  },
+  {
+    "id": 1407,
+    "label": "TXT_LSIDEBAR_PGDN",
+    "en": "Structure List PageDown"
+  },
+  {
+    "id": 1408,
+    "label": "TXT_LSIDEBAR_PGDN_DESC",
+    "en": "Page sidebar structure selection list downward."
+  },
+  {
+    "id": 1409,
+    "label": "TXT_RSIDEBAR_PGDN",
+    "en": "Unit List PageDown"
+  },
+  {
+    "id": 1410,
+    "label": "TXT_RSIDEBAR_PGDN_DESC",
+    "en": "Page sidebar unit selection list downward."
+  },
+  {
+    "id": 1411,
+    "label": "TXT_OPTIONS_DESC",
+    "en": "Display game options dialog."
+  },
+  {
+    "id": 1412,
+    "label": "TXT_SCROLL_N",
+    "en": "Scroll North"
+  },
+  {
+    "id": 1413,
+    "label": "TXT_SCROLL_N_DESC",
+    "en": "Scroll tactical map to the north."
+  },
+  {
+    "id": 1414,
+    "label": "TXT_SCROLL_S",
+    "en": "Scroll South"
+  },
+  {
+    "id": 1415,
+    "label": "TXT_SCROLL_S_DESC",
+    "en": "Scroll tactical map to the south."
+  },
+  {
+    "id": 1416,
+    "label": "TXT_SCROLL_E",
+    "en": "Scroll East"
+  },
+  {
+    "id": 1417,
+    "label": "TXT_SCROLL_E_DESC",
+    "en": "Scroll tactical map to the east."
+  },
+  {
+    "id": 1418,
+    "label": "TXT_SCROLL_W",
+    "en": "Scroll West"
+  },
+  {
+    "id": 1419,
+    "label": "TXT_SCROLL_W_DESC",
+    "en": "Scroll tactical map to the west."
+  },
+  {
+    "id": 1420,
+    "label": "TXT_VIEW_BOOKMARK1",
+    "en": "View Bookmark 1"
+  },
+  {
+    "id": 1421,
+    "label": "TXT_VIEW_BOOKMARK1_DESC",
+    "en": "View bookmarked map position 1."
+  },
+  {
+    "id": 1422,
+    "label": "TXT_VIEW_BOOKMARK2",
+    "en": "View Bookmark 2"
+  },
+  {
+    "id": 1423,
+    "label": "TXT_VIEW_BOOKMARK2_DESC",
+    "en": "View bookmarked map position 2."
+  },
+  {
+    "id": 1424,
+    "label": "TXT_VIEW_BOOKMARK3",
+    "en": "View Bookmark 3"
+  },
+  {
+    "id": 1425,
+    "label": "TXT_VIEW_BOOKMARK3_DESC",
+    "en": "View bookmarked map position 3."
+  },
+  {
+    "id": 1426,
+    "label": "TXT_VIEW_BOOKMARK4",
+    "en": "View Bookmark 4"
+  },
+  {
+    "id": 1427,
+    "label": "TXT_VIEW_BOOKMARK4_DESC",
+    "en": "View bookmarked map position 4."
+  },
+  {
+    "id": 1428,
+    "label": "TXT_SET_BOOKMARK1",
+    "en": "Set Bookmark 1"
+  },
+  {
+    "id": 1429,
+    "label": "TXT_SET_BOOKMARK1_DESC",
+    "en": "Set view bookmark map position 1."
+  },
+  {
+    "id": 1430,
+    "label": "TXT_SET_BOOKMARK2",
+    "en": "Set Bookmark 2"
+  },
+  {
+    "id": 1431,
+    "label": "TXT_SET_BOOKMARK2_DESC",
+    "en": "Set view bookmark map position 2."
+  },
+  {
+    "id": 1432,
+    "label": "TXT_SET_BOOKMARK3",
+    "en": "Set Bookmark 3"
+  },
+  {
+    "id": 1433,
+    "label": "TXT_SET_BOOKMARK3_DESC",
+    "en": "Set view bookmark map position 3."
+  },
+  {
+    "id": 1434,
+    "label": "TXT_SET_BOOKMARK4",
+    "en": "Set Bookmark 4"
+  },
+  {
+    "id": 1435,
+    "label": "TXT_SET_BOOKMARK4_DESC",
+    "en": "Set view bookmark map position 4."
+  },
+  {
+    "id": 1436,
+    "label": "TXT_FOLLOW",
+    "en": "Follow"
+  },
+  {
+    "id": 1437,
+    "label": "TXT_FOLLOW_DESC",
+    "en": "Toggle follow state of selected object(s)."
+  },
+  {
+    "id": 1438,
+    "label": "TXT_DEL_WAYPOINT",
+    "en": "Delete Waypoint"
+  },
+  {
+    "id": 1439,
+    "label": "TXT_DEL_WAYPOINT_DESC",
+    "en": "Delete selected waypoint."
+  },
+  {
+    "id": 1440,
+    "label": "TXT_PAGEUSER",
+    "en": "Page User"
+  },
+  {
+    "id": 1441,
+    "label": "TXT_PAGEUSER_DESC",
+    "en": "Page a Westwood Online user. (Internet play only)"
+  },
+  {
+    "id": 1442,
+    "label": "TXT_SCENARIO_TOO_SMALL",
+    "en": "This map has a %d player max. The max includes human and computer players."
+  },
+  {
+    "id": 1443,
+    "label": "TXT_NEED_AT_LEAST_TWO_PLAYERS",
+    "en": "You need at least two players to start the game!"
+  },
+  {
+    "id": 1444,
+    "label": "TXT_DOWNLOAD_FAILED",
+    "en": "The download failed, please check your connection and try again later."
+  },
+  {
+    "id": 1445,
+    "label": "TXT_GAME_RESTART",
+    "en": "Yuri's Revenge will now restart to update itself."
+  },
+  {
+    "id": 1446,
+    "label": "TXT_PASSWORD_TOO_SHORT",
+    "en": "Your password must be exactly 8 letters long."
+  },
+  {
+    "id": 1447,
+    "label": "TXT_PASSWORD_VERIFY",
+    "en": "You need to enter the same password twice."
+  },
+  {
+    "id": 1448,
+    "label": "TXT_LOB_1",
+    "en": "USA Command"
+  },
+  {
+    "id": 1449,
+    "label": "TXT_LOB_2",
+    "en": "Korean Bunker"
+  },
+  {
+    "id": 1450,
+    "label": "TXT_LOB_3",
+    "en": "German Bunker"
+  },
+  {
+    "id": 1451,
+    "label": "TXT_LOB_4",
+    "en": "USA HQ"
+  },
+  {
+    "id": 1452,
+    "label": "TXT_LOB_5",
+    "en": "Korean HQ"
+  },
+  {
+    "id": 1453,
+    "label": "TXT_LOB_6",
+    "en": "French HQ"
+  },
+  {
+    "id": 1454,
+    "label": "TXT_NEW_GAME",
+    "en": "New Game"
+  },
+  {
+    "id": 1455,
+    "label": "TXT_NEW_CHAT",
+    "en": "New Chat"
+  },
+  {
+    "id": 1456,
+    "label": "TXT_GAME_CHAN",
+    "en": "C&C2 game channels"
+  },
+  {
+    "id": 1457,
+    "label": "TXT_OTHER_GAME",
+    "en": "Other game channels"
+  },
+  {
+    "id": 1458,
+    "label": "TXT_OFFICIAL_CHAT",
+    "en": "Official chat channels"
+  },
+  {
+    "id": 1459,
+    "label": "TXT_USER_CHAT",
+    "en": "User chat channels"
+  },
+  {
+    "id": 1460,
+    "label": "TXT_GAME_PASSWORD",
+    "en": "Game has a password"
+  },
+  {
+    "id": 1461,
+    "label": "TXT_LEAVE",
+    "en": "Quit"
+  },
+  {
+    "id": 1462,
+    "label": "TXT_OPER",
+    "en": "Channel Operator"
+  },
+  {
+    "id": 1463,
+    "label": "TXT_VOICE",
+    "en": "Voice"
+  },
+  {
+    "id": 1464,
+    "label": "TXT_IGNOREUSER",
+    "en": "Ignore User"
+  },
+  {
+    "id": 1465,
+    "label": "TXT_ACCEPTED",
+    "en": "Accepted"
+  },
+  {
+    "id": 1466,
+    "label": "TXT_JOINED_S",
+    "en": "You joined channel %s"
+  },
+  {
+    "id": 1467,
+    "label": "TXT_REQUIRED_FIELD",
+    "en": "A required field is missing, or invalid."
+  },
+  {
+    "id": 1468,
+    "label": "TXT_SCENARIO_COLON",
+    "en": "Scenario:"
+  },
+  {
+    "id": 1469,
+    "label": "TXT_TOURNEY_COLON",
+    "en": "Tournament:"
+  },
+  {
+    "id": 1470,
+    "label": "TXT_HOST_RANK",
+    "en": "Host Rank:"
+  },
+  {
+    "id": 1471,
+    "label": "TXT_UNRANKED",
+    "en": "Unranked"
+  },
+  {
+    "id": 1472,
+    "label": "TXT_CANT_KICK",
+    "en": "You cannot kick a player from a tournament game."
+  },
+  {
+    "id": 1473,
+    "label": "TXT_GDI",
+    "en": "Allied"
+  },
+  {
+    "id": 1474,
+    "label": "TXT_NOD",
+    "en": "Soviet"
+  },
+  {
+    "id": 1475,
+    "label": "TXT_GAME_ID",
+    "en": "Game# %d"
+  },
+  {
+    "id": 1476,
+    "label": "TXT_TOURNAMENT_GAME",
+    "en": "Tournament Game"
+  },
+  {
+    "id": 1477,
+    "label": "TXT_BATTLECLAN_GAME",
+    "en": "BattleClan Game"
+  },
+  {
+    "id": 1478,
+    "label": "TXT_GAME",
+    "en": "Game: %d"
+  },
+  {
+    "id": 1479,
+    "label": "TXT_WORST_CONNECTION",
+    "en": "Bad"
+  },
+  {
+    "id": 1480,
+    "label": "TXT_POOR_CONNECTION",
+    "en": "Poor"
+  },
+  {
+    "id": 1481,
+    "label": "TXT_WARNING_LOCALE_UNKNOWN",
+    "en": "You have not set your location. Click OK to continue anyway or cancel to go back and set your location."
+  },
+  {
+    "id": 1482,
+    "label": "TXT_DELETE_USER",
+    "en": "Are you sure you want to remove user '%s' from the login list?"
+  },
+  {
+    "id": 1483,
+    "label": "TXT_MAP_ARCHIPELAGO",
+    "en": "Archipelago"
+  },
+  {
+    "id": 1484,
+    "label": "TXT_MAP_CONTINENT",
+    "en": "Continent"
+  },
+  {
+    "id": 1485,
+    "label": "TXT_MAP_TEAM_CONTINENTS",
+    "en": "Team Continents"
+  },
+  {
+    "id": 1486,
+    "label": "TXT_MAP_INLAND",
+    "en": "Inland"
+  },
+  {
+    "id": 1487,
+    "label": "TXT_MAP_MOUNTAINOUS",
+    "en": "Mountainous"
+  },
+  {
+    "id": 1488,
+    "label": "TXT_RESOURCE_MODERATE",
+    "en": "Moderate"
+  },
+  {
+    "id": 1489,
+    "label": "TXT_RESOURCE_EXTREME",
+    "en": "Extreme"
+  },
+  {
+    "id": 1490,
+    "label": "MISSION:Objective1",
+    "en": "Objective 1 Complete"
+  },
+  {
+    "id": 1491,
+    "label": "MISSION:Objective2",
+    "en": "Objective 2 Complete"
+  },
+  {
+    "id": 1492,
+    "label": "MISSION:Objective3",
+    "en": "Objective 3 Complete"
+  },
+  {
+    "id": 1493,
+    "label": "MISSION:TRN01a",
+    "en": "Objective 1: Move GI down out of the base"
+  },
+  {
+    "id": 1494,
+    "label": "MISSION:TRN01b",
+    "en": "Objective 2: Select all GIs and head right to the bridge"
+  },
+  {
+    "id": 1495,
+    "label": "MISSION:TRN01c",
+    "en": "Objective 3: Select the ENGINEER and move him into the REPAIR HUT"
+  },
+  {
+    "id": 1496,
+    "label": "MISSION:TRN01d",
+    "en": "Objective 4: Move into the firing range and destroy the nearest target"
+  },
+  {
+    "id": 1497,
+    "label": "MISSION:TRN01e",
+    "en": "Objective 4 Complete"
+  },
+  {
+    "id": 1498,
+    "label": "MISSION:TRN01f",
+    "en": "Objective 5: Deploy(double-click) your men and destroy the far target"
+  },
+  {
+    "id": 1499,
+    "label": "MISSION:TRN01g",
+    "en": "Objective 5 Complete"
+  },
+  {
+    "id": 1500,
+    "label": "MISSION:TRN01h",
+    "en": "Objective 6: Continue up the path and destroy the derelict tank"
+  },
+  {
+    "id": 1501,
+    "label": "MISSION:TRN01i",
+    "en": "Objective 6: Destroy the derelict tank"
+  },
+  {
+    "id": 1502,
+    "label": "MISSION:TRN01j",
+    "en": "Objective 6 Complete"
+  },
+  {
+    "id": 1503,
+    "label": "MISSION:TRN01k",
+    "en": "Day One Training Complete"
+  },
+  {
+    "id": 1504,
+    "label": "MISSION:TRN02a",
+    "en": "Objective 1: Move your Mobile Construction Vehicle to open ground"
+  },
+  {
+    "id": 1505,
+    "label": "MISSION:TRN02b",
+    "en": "Objective 2: Deploy your Mobile Construction Vehicle into a Construction Yard"
+  },
+  {
+    "id": 1506,
+    "label": "MISSION:TRN02c",
+    "en": "Objective 3: Build a Power Plant"
+  },
+  {
+    "id": 1507,
+    "label": "MISSION:TRN02d",
+    "en": "Objective 4: Build an Ore Refinery"
+  },
+  {
+    "id": 1508,
+    "label": "MISSION:TRN02e",
+    "en": "Your new Chrono Miner will automatically begin to collect ore"
+  },
+  {
+    "id": 1509,
+    "label": "MISSION:TRN02f",
+    "en": "Objective 5: Build a Barracks"
+  },
+  {
+    "id": 1510,
+    "label": "MISSION:TRN02g",
+    "en": "Objective 6: Build a squad of GIs"
+  },
+  {
+    "id": 1511,
+    "label": "MISSION:TRN02h",
+    "en": "WARNING: Red Team invasion imminent"
+  },
+  {
+    "id": 1512,
+    "label": "MISSION:TRN02i",
+    "en": "Objective 7: Destroy Red Team's base"
+  },
+  {
+    "id": 1513,
+    "label": "MISSION:TRN02_Hint1",
+    "en": "Deploy your GIs near the entrance to your base for a better defense"
+  },
+  {
+    "id": 1514,
+    "label": "MISSION:TRN02_Hint2",
+    "en": "Send your troops to garrison inside the barn for better protection from enemy fire"
+  },
+  {
+    "id": 1515,
+    "label": "MISSION:TRN02_Hint3",
+    "en": "Now is not the time for potty breaks, Commander"
+  },
+  {
+    "id": 1516,
+    "label": "MISSION:TRN02_Hint4",
+    "en": "No time to sit, Commander"
+  },
+  {
+    "id": 1517,
+    "label": "MISSION:TRN02hAlt",
+    "en": "WARNING: The stench of Red Team is in the air"
+  },
+  {
+    "id": 1518,
+    "label": "MISSION:ALL01a",
+    "en": "Objective 1: Destroy all four Soviet DREADNOUGHTS"
+  },
+  {
+    "id": 1519,
+    "label": "MISSION:ALL01b",
+    "en": "Objective 2: Rendezvous with FORT BRADLEY"
+  },
+  {
+    "id": 1520,
+    "label": "MISSION:ALL01c",
+    "en": "HINT: Order your GI's to enter CIVILIAN BUILDINGS to fortify them"
+  },
+  {
+    "id": 1521,
+    "label": "MISSION:ALL01d",
+    "en": "HINT: Fuel barrels explode if destroyed"
+  },
+  {
+    "id": 1522,
+    "label": "MISSION:ALL01e",
+    "en": "HINT: Your base is out of power, build more power plants"
+  },
+  {
+    "id": 1523,
+    "label": "MISSION:ALL01f",
+    "en": "HINT: Construct a BARRACKS in order to produce ENGINEERS to repair the bridge"
+  },
+  {
+    "id": 1524,
+    "label": "MISSION:ALL01g",
+    "en": "HINT: GI's must DEPLOY to enter or exit their sandbagged foxholes"
+  },
+  {
+    "id": 1525,
+    "label": "MISSION:ALL01h",
+    "en": "Objective 3: Destroy the Soviet SUPPLY BASE"
+  },
+  {
+    "id": 1526,
+    "label": "MISSION:ALL01i",
+    "en": "WARNING: Soviet PARATROOPERS are incoming"
+  },
+  {
+    "id": 1527,
+    "label": "MISSION:ALL02a",
+    "en": "Head NORTH and make contact with American forces"
+  },
+  {
+    "id": 1528,
+    "label": "MISSION:ALL02b",
+    "en": "Objective 1: Use ENGINEERS to re-capture our base to the NORTH WEST"
+  },
+  {
+    "id": 1529,
+    "label": "MISSION:ALL02c",
+    "en": "Objective 2: Destroy all hostile forces"
+  },
+  {
+    "id": 1530,
+    "label": "MISSION:ALL02d",
+    "en": "HINT: Order an ENGINEER into any HOSTILE BUILDING to capture the building"
+  },
+  {
+    "id": 1531,
+    "label": "MISSION:ALL02e",
+    "en": "HINT: Order TANYA to destroy the FLAK CANNONS"
+  },
+  {
+    "id": 1532,
+    "label": "MISSION:ALL02f",
+    "en": "HINT: TANYA can swim"
+  },
+  {
+    "id": 1533,
+    "label": "MISSION:All04a",
+    "en": "Objective 1: Clear enemy shore defenses with your Destroyers, then land and establish a base"
+  },
+  {
+    "id": 1534,
+    "label": "MISSION:All04b",
+    "en": "Objective 2: Destroy the Soviet's Psychic Amplifier before it comes online"
+  },
+  {
+    "id": 1535,
+    "label": "MISSION:All04c",
+    "en": "Estimated time until Psychic Amplifier is online:"
+  },
+  {
+    "id": 1536,
+    "label": "MISSION:All09a",
+    "en": "Objective 1: Capture or Eliminate Soviet Research Facility within the Pyramid Ruins"
+  },
+  {
+    "id": 1537,
+    "label": "MISSION:All09b",
+    "en": "Objective 2: Destroy the Soviet base"
+  },
+  {
+    "id": 1538,
+    "label": "MISSION:All09c",
+    "en": "Objective 1 Accomplished"
+  },
+  {
+    "id": 1539,
+    "label": "MISSION:All09d",
+    "en": "Objective 2 Accomplished"
+  },
+  {
+    "id": 1540,
+    "label": "MISSION:Sov01a",
+    "en": "Objective 1: Destroy the Pentagon"
+  },
+  {
+    "id": 1541,
+    "label": "MISSION:Sov1b",
+    "en": "HINT: Order an ENGINEER into the BRIDGE HUT to repair the bridge"
+  },
+  {
+    "id": 1542,
+    "label": "MISSION:Sov1c",
+    "en": "HINT: Order your CONSCRIPTS to enter CIVILIAN BUILDINGS to fortify them"
+  },
+  {
+    "id": 1543,
+    "label": "MISSION:Sov1d",
+    "en": "HINT: FLAK TRACKS can carry TROOPS into battle"
+  },
+  {
+    "id": 1544,
+    "label": "MISSION:Sov1e",
+    "en": "HINT: Your base is OUT OF POWER, build Power Plants"
+  },
+  {
+    "id": 1545,
+    "label": "MISSION:Sov1f",
+    "en": "HINT: Fuel barrels EXPLODE if destroyed"
+  },
+  {
+    "id": 1546,
+    "label": "MISSION:Sov1g",
+    "en": "HINT: Capture the AIRPORT with an ENGINEER to allow your paratroopers to land in the area"
+  },
+  {
+    "id": 1547,
+    "label": "MISSION:Sov02a",
+    "en": "Objective 1: Force a beach landing and build a base"
+  },
+  {
+    "id": 1548,
+    "label": "MISSION:Sov02b",
+    "en": "Objective 2: Destroy all enemy forces"
+  },
+  {
+    "id": 1549,
+    "label": "MISSION:Sov02c",
+    "en": "Vladimir: Now is the time to strike"
+  },
+  {
+    "id": 1550,
+    "label": "MISSION:Sov02d",
+    "en": "Vladimir: What are you waiting for General? Do something!"
+  },
+  {
+    "id": 1551,
+    "label": "MISSION:Sov02e",
+    "en": "Enemy Fleet detected"
+  },
+  {
+    "id": 1552,
+    "label": "MISSION:Sov02f",
+    "en": "Vladimir has fled the battlefield!"
+  },
+  {
+    "id": 1553,
+    "label": "MISSION:Sov02g",
+    "en": "Your Mobile Construction Vehicle has landed. Double-click on it to create a Construction Yard"
+  },
+  {
+    "id": 1554,
+    "label": "MISSION:Sov03a",
+    "en": "Objective 1: Capture the Allied BATTLE LAB with an ENGINEER"
+  },
+  {
+    "id": 1555,
+    "label": "MISSION:Sov03b",
+    "en": "Technology gained - Build a PSYCHIC BEACON"
+  },
+  {
+    "id": 1556,
+    "label": "MISSION:Sov03bb",
+    "en": "Technology gained - PSYCHIC BEACON placed"
+  },
+  {
+    "id": 1557,
+    "label": "MISSION:Sov03c",
+    "en": "Objective 2: Defend the PSYCHIC BEACON from Allied attack"
+  },
+  {
+    "id": 1558,
+    "label": "MISSION:Sov03d",
+    "en": "Beacon Deployment in:"
+  },
+  {
+    "id": 1559,
+    "label": "MISSION:Sov03e",
+    "en": "Allied troops are now under Soviet control"
+  },
+  {
+    "id": 1560,
+    "label": "MISSION:Sov03f",
+    "en": "Objective 3: Defeat all remaining Allied troops"
+  },
+  {
+    "id": 1561,
+    "label": "MISSION:Sov04a",
+    "en": "Time until Allied invasion begins:"
+  },
+  {
+    "id": 1562,
+    "label": "MISSION:Sov04b",
+    "en": "Hint: Build Flak Cannons to engage Allied aircraft"
+  },
+  {
+    "id": 1563,
+    "label": "MISSION:Sov04c",
+    "en": "Allied Forces have landed!"
+  },
+  {
+    "id": 1564,
+    "label": "MISSION:Sov04d",
+    "en": "Objective 1: Establish a base to defend our motherland"
+  },
+  {
+    "id": 1565,
+    "label": "MISSION:Sov04e",
+    "en": "Objective 2: Drive the Allied invaders back into the sea"
+  },
+  {
+    "id": 1566,
+    "label": "MISSION:Sov05a",
+    "en": "Objective 1: Energize the PARIS TOWER with 3 TESLA TROOPERS"
+  },
+  {
+    "id": 1567,
+    "label": "MISSION:Sov05b",
+    "en": "Objective 2: Defend the PARIS TOWER from Allied attack"
+  },
+  {
+    "id": 1568,
+    "label": "MISSION:Sov05d",
+    "en": "HINT: Cars + Bombs = CarBombs!"
+  },
+  {
+    "id": 1569,
+    "label": "MISSION:Sov06b",
+    "en": "Estimated time until Korean Fleet arrives:"
+  },
+  {
+    "id": 1570,
+    "label": "MISSION:Sov07a",
+    "en": "Objective 1: Defend your Battle Lab against waves of Allied attackers"
+  },
+  {
+    "id": 1571,
+    "label": "MISSION:Sov07b",
+    "en": "General Carville has stationed a truck near one of our villages; He has been broadcasting capitalist propaganda in an attempt to turn our people against us"
+  },
+  {
+    "id": 1572,
+    "label": "MISSION:Sov07c",
+    "en": "I think we should send a few dogs to sniff out enemy spies"
+  },
+  {
+    "id": 1573,
+    "label": "MISSION:Sov07d",
+    "en": "The first wave of Allied troops have entered the Chronosphere"
+  },
+  {
+    "id": 1574,
+    "label": "MISSION:Sov07e",
+    "en": "Another Allied force has entered the Chronosphere"
+  },
+  {
+    "id": 1575,
+    "label": "MISSION:Sov07f",
+    "en": "The final Allied troops have entered the Chronosphere"
+  },
+  {
+    "id": 1576,
+    "label": "MISSION:Sov07g",
+    "en": "You've captured a powerful new enemy vehicle! Try putting different infantry inside to enhance the vehicle's abilities"
+  },
+  {
+    "id": 1577,
+    "label": "MISSION:Sov07h",
+    "en": "CRITICAL STRUCTURE LOST: Our Battle Lab has been captured"
+  },
+  {
+    "id": 1578,
+    "label": "MISSION:Sov07i",
+    "en": "CRITICAL STRUCTURE LOST: Spies have infiltrated our Battle Lab"
+  },
+  {
+    "id": 1579,
+    "label": "MISSION:Sov07j",
+    "en": "CRITICAL STRUCTURE LOST: Our Battle Lab has been destroyed"
+  },
+  {
+    "id": 1580,
+    "label": "MISSION:Sov08a",
+    "en": "Objective 1: Capture the White House so we can apprehend the traitor Vladimir"
+  },
+  {
+    "id": 1581,
+    "label": "MISSION:Sov08b",
+    "en": "Destroy monuments for cash bonuses from the Kremlin!"
+  },
+  {
+    "id": 1582,
+    "label": "MISSION:Sov09a",
+    "en": "Objective 1: Use Mind-Control to capture the President"
+  },
+  {
+    "id": 1583,
+    "label": "MISSION:Sov09b",
+    "en": "Use America's own soldiers against them"
+  },
+  {
+    "id": 1584,
+    "label": "MISSION:Sov09c",
+    "en": "Enemy bases detected"
+  },
+  {
+    "id": 1585,
+    "label": "MISSION:Sov09d",
+    "en": "Order spies to enter power plants to sabotage base power"
+  },
+  {
+    "id": 1586,
+    "label": "MISSION:Sov10a",
+    "en": "Objective 1: Capture the BATTLE LAB with an ENGINEER"
+  },
+  {
+    "id": 1587,
+    "label": "MISSION:Sov12a",
+    "en": "Build naval forces and invade the Allied base"
+  },
+  {
+    "id": 1588,
+    "label": "MISSION:Sov12b",
+    "en": "Move north and reclaim our captured Kirov airships"
+  },
+  {
+    "id": 1589,
+    "label": "MISSION:Sov12c",
+    "en": "Objective 1: Destroy the Allied CHRONOSPHERE"
+  },
+  {
+    "id": 1590,
+    "label": "VOX:ceva001",
+    "en": "Warning: Nuclear Silo detected."
+  },
+  {
+    "id": 1591,
+    "label": "VOX:ceva002",
+    "en": "Warning: Nuclear Missile Launched."
+  },
+  {
+    "id": 1592,
+    "label": "VOX:ceva003",
+    "en": "Nuclear Missile Ready."
+  },
+  {
+    "id": 1593,
+    "label": "VOX:ceva004",
+    "en": "Warning: Iron Curtain detected."
+  },
+  {
+    "id": 1594,
+    "label": "VOX:ceva005",
+    "en": "Warning: Iron Curtain activated."
+  },
+  {
+    "id": 1595,
+    "label": "VOX:ceva006",
+    "en": "Iron Curtain ready."
+  },
+  {
+    "id": 1596,
+    "label": "VOX:ceva007",
+    "en": "Warning: Chronosphere detected."
+  },
+  {
+    "id": 1597,
+    "label": "VOX:ceva008",
+    "en": "Warning: Chronosphere activated."
+  },
+  {
+    "id": 1598,
+    "label": "VOX:ceva009",
+    "en": "Chronosphere ready."
+  },
+  {
+    "id": 1599,
+    "label": "VOX:ceva010",
+    "en": "Warning: Weather Control Device detected."
+  },
+  {
+    "id": 1600,
+    "label": "VOX:ceva011",
+    "en": "Warning: Lightning Storm created."
+  },
+  {
+    "id": 1601,
+    "label": "VOX:ceva012",
+    "en": "Lightning Storm ready."
+  },
+  {
+    "id": 1602,
+    "label": "VOX:ceva014",
+    "en": "Mission failed."
+  },
+  {
+    "id": 1603,
+    "label": "VOX:ceva015",
+    "en": "Battle control terminated."
+  },
+  {
+    "id": 1604,
+    "label": "VOX:ceva016",
+    "en": "Establishing battlefield control_standby."
+  },
+  {
+    "id": 1605,
+    "label": "VOX:ceva017",
+    "en": "Primary objective achieved."
+  },
+  {
+    "id": 1606,
+    "label": "VOX:ceva018",
+    "en": "Secondary objective achieved."
+  },
+  {
+    "id": 1607,
+    "label": "VOX:ceva019",
+    "en": "Tertiary objective achieved."
+  },
+  {
+    "id": 1608,
+    "label": "VOX:ceva020",
+    "en": "Critical unit lost."
+  },
+  {
+    "id": 1609,
+    "label": "VOX:ceva021",
+    "en": "Critical structure lost."
+  },
+  {
+    "id": 1610,
+    "label": "VOX:ceva022",
+    "en": "You are victorious."
+  },
+  {
+    "id": 1611,
+    "label": "VOX:ceva023",
+    "en": "You have lost."
+  },
+  {
+    "id": 1612,
+    "label": "VOX:ceva024",
+    "en": "You have resigned."
+  },
+  {
+    "id": 1613,
+    "label": "VOX:ceva025",
+    "en": "Player resigned."
+  },
+  {
+    "id": 1614,
+    "label": "VOX:ceva026",
+    "en": "Player defeated."
+  },
+  {
+    "id": 1615,
+    "label": "VOX:ceva027",
+    "en": "20 minutes remaining."
+  },
+  {
+    "id": 1616,
+    "label": "VOX:ceva028",
+    "en": "10 minutes remaining."
+  },
+  {
+    "id": 1617,
+    "label": "VOX:ceva029",
+    "en": "5 minutes remaining."
+  },
+  {
+    "id": 1618,
+    "label": "VOX:ceva030",
+    "en": "4 minutes remaining."
+  },
+  {
+    "id": 1619,
+    "label": "VOX:ceva031",
+    "en": "3 minutes remaining."
+  },
+  {
+    "id": 1620,
+    "label": "VOX:ceva032",
+    "en": "2 minutes remaining."
+  },
+  {
+    "id": 1621,
+    "label": "VOX:ceva033",
+    "en": "1 minute remaining."
+  },
+  {
+    "id": 1622,
+    "label": "VOX:ceva034",
+    "en": "10, 9, 8, 7, 6, 5, 4, 3, 2, 1"
+  },
+  {
+    "id": 1623,
+    "label": "VOX:ceva035",
+    "en": "Timer started."
+  },
+  {
+    "id": 1624,
+    "label": "VOX:ceva036",
+    "en": "Timer stopped."
+  },
+  {
+    "id": 1625,
+    "label": "VOX:ceva037",
+    "en": "Ore Miner under attack"
+  },
+  {
+    "id": 1626,
+    "label": "VOX:ceva038",
+    "en": "Reinforcemenets have arrived."
+  },
+  {
+    "id": 1627,
+    "label": "VOX:ceva039",
+    "en": "New terrain discovered."
+  },
+  {
+    "id": 1628,
+    "label": "VOX:ceva040",
+    "en": "Incoming transmission."
+  },
+  {
+    "id": 1629,
+    "label": "VOX:ceva041",
+    "en": "Beacon detected."
+  },
+  {
+    "id": 1630,
+    "label": "VOX:ceva042",
+    "en": "Beacon placed."
+  },
+  {
+    "id": 1631,
+    "label": "VOX:ceva043",
+    "en": "Alliance formed."
+  },
+  {
+    "id": 1632,
+    "label": "VOX:ceva044",
+    "en": "Alliance broken."
+  },
+  {
+    "id": 1633,
+    "label": "VOX:ceva045",
+    "en": "Our ally is under attack."
+  },
+  {
+    "id": 1634,
+    "label": "VOX:ceva046",
+    "en": "Bridge repaired."
+  },
+  {
+    "id": 1635,
+    "label": "VOX:ceva047",
+    "en": "Unable to comply, building in progress."
+  },
+  {
+    "id": 1636,
+    "label": "VOX:ceva048",
+    "en": "Construction Complete."
+  },
+  {
+    "id": 1637,
+    "label": "VOX:ceva049",
+    "en": "New construction options."
+  },
+  {
+    "id": 1638,
+    "label": "VOX:ceva050",
+    "en": "Insufficient funds."
+  },
+  {
+    "id": 1639,
+    "label": "VOX:ceva051",
+    "en": "Canceled."
+  },
+  {
+    "id": 1640,
+    "label": "VOX:ceva052",
+    "en": "Building."
+  },
+  {
+    "id": 1641,
+    "label": "VOX:ceva053",
+    "en": "Low power."
+  },
+  {
+    "id": 1642,
+    "label": "VOX:ceva054",
+    "en": "Our base is under attack."
+  },
+  {
+    "id": 1643,
+    "label": "VOX:ceva055",
+    "en": "Primary building selected."
+  },
+  {
+    "id": 1644,
+    "label": "VOX:ceva056",
+    "en": "On hold."
+  },
+  {
+    "id": 1645,
+    "label": "VOX:ceva057",
+    "en": "Repairing."
+  },
+  {
+    "id": 1646,
+    "label": "VOX:ceva058",
+    "en": "Structure sold."
+  },
+  {
+    "id": 1647,
+    "label": "VOX:ceva059",
+    "en": "Base defenses off-line."
+  },
+  {
+    "id": 1648,
+    "label": "VOX:ceva060",
+    "en": "Building off-line."
+  },
+  {
+    "id": 1649,
+    "label": "VOX:ceva061",
+    "en": "Building online."
+  },
+  {
+    "id": 1650,
+    "label": "VOX:ceva062",
+    "en": "Unit Ready."
+  },
+  {
+    "id": 1651,
+    "label": "VOX:ceva063",
+    "en": "Cannot deploy here."
+  },
+  {
+    "id": 1652,
+    "label": "VOX:ceva064",
+    "en": "Unit lost."
+  },
+  {
+    "id": 1653,
+    "label": "VOX:ceva065",
+    "en": "Select target."
+  },
+  {
+    "id": 1654,
+    "label": "VOX:ceva066",
+    "en": "Training."
+  },
+  {
+    "id": 1655,
+    "label": "VOX:ceva067",
+    "en": "Armor upgraded."
+  },
+  {
+    "id": 1656,
+    "label": "VOX:ceva068",
+    "en": "Firepower upgraded."
+  },
+  {
+    "id": 1657,
+    "label": "VOX:ceva069",
+    "en": "Speed upgraded."
+  },
+  {
+    "id": 1658,
+    "label": "VOX:ceva070",
+    "en": "Unit repaired."
+  },
+  {
+    "id": 1659,
+    "label": "VOX:ceva071",
+    "en": "Unit sold"
+  },
+  {
+    "id": 1660,
+    "label": "VOX:ceva072",
+    "en": "Building Captured."
+  },
+  {
+    "id": 1661,
+    "label": "VOX:ceva073",
+    "en": "Building infiltrated."
+  },
+  {
+    "id": 1662,
+    "label": "VOX:ceva074",
+    "en": "New technology aquired."
+  },
+  {
+    "id": 1663,
+    "label": "VOX:ceva075",
+    "en": "Enemy Base Powered down."
+  },
+  {
+    "id": 1664,
+    "label": "VOX:ceva076",
+    "en": "Unit Fire-Power Upgraded"
+  },
+  {
+    "id": 1665,
+    "label": "VOX:ceva077",
+    "en": "Unit Armor Upgraded"
+  },
+  {
+    "id": 1666,
+    "label": "VOX:ceva078",
+    "en": "Unit Speed Upgraded"
+  },
+  {
+    "id": 1667,
+    "label": "VOX:ceva079",
+    "en": "Unit promoted"
+  },
+  {
+    "id": 1668,
+    "label": "VOX:ceva080",
+    "en": "Unit upgraded"
+  },
+  {
+    "id": 1669,
+    "label": "VOX:ceva081",
+    "en": "Fire Power Technology Stolen: All units gain firepower upgrade."
+  },
+  {
+    "id": 1670,
+    "label": "VOX:ceva082",
+    "en": "Armor Technology Stolen: All units gain armor upgrade."
+  },
+  {
+    "id": 1671,
+    "label": "VOX:ceva083",
+    "en": "New mission objective received."
+  },
+  {
+    "id": 1672,
+    "label": "VOX:ceva084",
+    "en": "Upgrade in progress."
+  },
+  {
+    "id": 1673,
+    "label": "VOX:ceva085",
+    "en": "Upgrade complete."
+  },
+  {
+    "id": 1674,
+    "label": "VOX:ceva086",
+    "en": "Ore Miner off-line."
+  },
+  {
+    "id": 1675,
+    "label": "VOX:ceva087",
+    "en": "Enemy Power Restored"
+  },
+  {
+    "id": 1676,
+    "label": "VOX:ceva088",
+    "en": "Building infiltrated: Technology stolen."
+  },
+  {
+    "id": 1677,
+    "label": "VOX:ceva089",
+    "en": "Building infiltrated: Radar sabotaged."
+  },
+  {
+    "id": 1678,
+    "label": "VOX:ceva090",
+    "en": "Building infiltrated: Cash stolen."
+  },
+  {
+    "id": 1679,
+    "label": "VOX:ceva091",
+    "en": "Building infiltrated: Power sabotaged."
+  },
+  {
+    "id": 1680,
+    "label": "VOX:ceva092",
+    "en": "Technology stolen."
+  },
+  {
+    "id": 1681,
+    "label": "VOX:ceva093",
+    "en": "Radar sabotaged."
+  },
+  {
+    "id": 1682,
+    "label": "VOX:ceva094",
+    "en": "Cash stolen."
+  },
+  {
+    "id": 1683,
+    "label": "VOX:ceva095",
+    "en": "Power sabotaged."
+  },
+  {
+    "id": 1684,
+    "label": "VOX:ceva096",
+    "en": "Warning: Enemy Air Armada detected."
+  },
+  {
+    "id": 1685,
+    "label": "VOX:ceva097",
+    "en": "Warning: Enemy Fleet detected."
+  },
+  {
+    "id": 1686,
+    "label": "VOX:ceva098",
+    "en": "Warning: Enemy Armor Battalion detected."
+  },
+  {
+    "id": 1687,
+    "label": "VOX:ceva099",
+    "en": "Warning: Enemy Infantry Battalion detected."
+  },
+  {
+    "id": 1688,
+    "label": "VOX:ceva100",
+    "en": "New rally point established."
+  },
+  {
+    "id": 1689,
+    "label": "VOX:ceva101",
+    "en": "Alliance requested."
+  },
+  {
+    "id": 1690,
+    "label": "VOX:ceva102",
+    "en": "Requesting alliance."
+  },
+  {
+    "id": 1691,
+    "label": "VOX:ceva103",
+    "en": "Enemy alliance formed."
+  },
+  {
+    "id": 1692,
+    "label": "VOX:ceva104",
+    "en": "New objective received."
+  },
+  {
+    "id": 1693,
+    "label": "VOX:ceva105",
+    "en": "Tech building captured."
+  },
+  {
+    "id": 1694,
+    "label": "VOX:ceva106",
+    "en": "Tech building lost."
+  },
+  {
+    "id": 1695,
+    "label": "VOX:ceva107",
+    "en": "Structure garrisoned."
+  },
+  {
+    "id": 1696,
+    "label": "VOX:ceva108",
+    "en": "Structure abandoned."
+  },
+  {
+    "id": 1697,
+    "label": "VOX:ceva109",
+    "en": "Chrono Miner offline."
+  },
+  {
+    "id": 1698,
+    "label": "VOX:ceva110",
+    "en": "10_"
+  },
+  {
+    "id": 1699,
+    "label": "VOX:ceva111",
+    "en": "9_"
+  },
+  {
+    "id": 1700,
+    "label": "VOX:ceva112",
+    "en": "8_"
+  },
+  {
+    "id": 1701,
+    "label": "VOX:ceva113",
+    "en": "7_"
+  },
+  {
+    "id": 1702,
+    "label": "VOX:ceva114",
+    "en": "6_"
+  },
+  {
+    "id": 1703,
+    "label": "VOX:ceva115",
+    "en": "5_"
+  },
+  {
+    "id": 1704,
+    "label": "VOX:ceva116",
+    "en": "4_"
+  },
+  {
+    "id": 1705,
+    "label": "VOX:ceva117",
+    "en": "3_"
+  },
+  {
+    "id": 1706,
+    "label": "VOX:ceva118",
+    "en": "2_"
+  },
+  {
+    "id": 1707,
+    "label": "VOX:ceva119",
+    "en": "1_"
+  },
+  {
+    "id": 1708,
+    "label": "VOX:ceva120",
+    "en": "Battle control online."
+  },
+  {
+    "id": 1709,
+    "label": "VOX:ceva121",
+    "en": "Reinforcements ready"
+  },
+  {
+    "id": 1710,
+    "label": "VOX:ceva122",
+    "en": "Weather Control Device offline"
+  },
+  {
+    "id": 1711,
+    "label": "VOX:ceva150",
+    "en": "Paratroopers ready."
+  },
+  {
+    "id": 1712,
+    "label": "VOX:ceva151",
+    "en": "Weather Control Device temporarily unavailable."
+  },
+  {
+    "id": 1713,
+    "label": "VOX:cevau01",
+    "en": "Like our own Construction Vehicle, the Soviets can use this MCV to place base anywhere."
+  },
+  {
+    "id": 1714,
+    "label": "VOX:cevau02",
+    "en": "The Soviet War Miner can easily hold off a small attack force. When hunting down the War Miner, send plenty of fire-power."
+  },
+  {
+    "id": 1715,
+    "label": "VOX:cevau03",
+    "en": "Simple Soviet technology. The Rhino Heavy Tank is slow, heavily armored and fitted with a devestating short range cannon."
+  },
+  {
+    "id": 1716,
+    "label": "VOX:cevau04",
+    "en": "The Soviet Terror Drone can easily penetrate the armor of our vehicles. Once inside a vehicle the Terror Drone will destroy it slowly from within. The only way to get a Terror Drone out of a vehicle is to move it to a Service Depot."
+  },
+  {
+    "id": 1717,
+    "label": "VOX:cevau05",
+    "en": "The Flak Track is standard Soviet air defense. Like all Soviet technology, it is slow and well armored."
+  },
+  {
+    "id": 1718,
+    "label": "VOX:cevau06",
+    "en": "The V3 is a powerful long-range artillery weapon. Beware commander, it can level your base in minutes without you ever getting a chance to even return fire."
+  },
+  {
+    "id": 1719,
+    "label": "VOX:cevau07",
+    "en": "The most powerful Soviet Tank ever built, the Apocalpyse is a small army all by itself and is equipped to handle both ground and air threats."
+  },
+  {
+    "id": 1720,
+    "label": "VOX:cevau08",
+    "en": "The most powerful air unit ever created, the Kirov can take a beating and drop an almost unlimitted number of heavy iron bombs."
+  },
+  {
+    "id": 1721,
+    "label": "VOX:cevau09",
+    "en": "The Sea Scorpion makes an excellent raider and can also be used to escort heavy Soviet warships."
+  },
+  {
+    "id": 1722,
+    "label": "VOX:cevau10",
+    "en": "The Soviets have somehow managed to pacify and control the Giant Squid found in the cold waters of the North Pacific. Beware commander, they can immobilize a ship and pull it under in a matter of minutes."
+  },
+  {
+    "id": 1723,
+    "label": "VOX:cevau11",
+    "en": "The Soviets use their Typhoon Attack Sub to raid our shipping and make surprise attacks on our fleets."
+  },
+  {
+    "id": 1724,
+    "label": "VOX:cevau12",
+    "en": "The Armored Transort is meant to carry a large number of troops across an ocean to our shores. It is often filled with Soviet troops and can be difficult to destroy."
+  },
+  {
+    "id": 1725,
+    "label": "VOX:cevau13",
+    "en": "The ultimate in Soviet long-range bombardment, the Dreadnought is powerful from a distance but can be easily destroyed at close range. The Dreadnought's missiles can also be shot down by patriot missiles."
+  },
+  {
+    "id": 1726,
+    "label": "VOX:cevau14",
+    "en": "The standard Soviet grunt, the Consript is poorly fed, poorly trained and poorly equipped for combat with your boys."
+  },
+  {
+    "id": 1727,
+    "label": "VOX:cevau15",
+    "en": "The Soviets have taken Tesla Technology to the final step, a man in a Tesla powered suit. These soldiers are excellent at destroying tanks and also seem to be able to power up Tesla Coils with their extra energy."
+  },
+  {
+    "id": 1728,
+    "label": "VOX:cevau16",
+    "en": "The Soviet Engineer is effective though he is more poorly trained than his American counter-part."
+  },
+  {
+    "id": 1729,
+    "label": "VOX:cevau17",
+    "en": "Beware these Soviet Attack Dogs, they can quickly sniff out our spies and ruin all of our attempts at covert operations."
+  },
+  {
+    "id": 1730,
+    "label": "VOX:cevau18",
+    "en": "This Soviet lunatic can and will place bombs on just about anything."
+  },
+  {
+    "id": 1731,
+    "label": "VOX:cevau19",
+    "en": "This soldier is equiped with a nuclear battlesuit. He can irradiate large patches of ground, making them impassible to infantry or light vehicles."
+  },
+  {
+    "id": 1732,
+    "label": "VOX:cevau20",
+    "en": "The Soviets have been experimenting with Psychic technology with some success. Their elite PsiCorps can cause our own loyal soldiers to turn against us."
+  },
+  {
+    "id": 1733,
+    "label": "VOX:cevau21",
+    "en": "Sir, our GI is the finest example of standard infantry soldier in the world. Whether deployed or garrisoning a city building, the GI's heavy machine gun can quickly neutralize any enemy infantry threat."
+  },
+  {
+    "id": 1734,
+    "label": "VOX:cevau22",
+    "en": "This, sir, is our IFV. It is a multipurpose raider capable of boosting the standard weapon capabilities of any infantryman inside."
+  },
+  {
+    "id": 1735,
+    "label": "VOX:cevau23",
+    "en": "Sir, this is an engineer. He can repair any Allied building and once inside an enemy building turn it to our side. He is much smarter than his Soviet counterpart."
+  },
+  {
+    "id": 1736,
+    "label": "VOX:cevau24",
+    "en": "Sir, the SEAL is the elite soldier. No enemy is safe from him, whether on land or water."
+  },
+  {
+    "id": 1737,
+    "label": "VOX:cevau25",
+    "en": "Commander, the spy's ability to mask himself as the enemy and pass through their ranks gives him the needed edge to infiltrate even the most well guarded enemy building. If only they didn't taste so good to their dogs_"
+  },
+  {
+    "id": 1738,
+    "label": "VOX:cevau26",
+    "en": "The Rocketeers are the brave men who strap maneuvering thrusters to their backs and then go out to hunt enemy tanks and air forces. They are very brave."
+  },
+  {
+    "id": 1739,
+    "label": "VOX:cevau27",
+    "en": "Commander, this is a Chrono Legionnaire. Using Professor Einstein's Chronal technology they teleport next to any enemy and utterly erase them from time."
+  },
+  {
+    "id": 1740,
+    "label": "VOX:cevau28",
+    "en": "Sir, these superbly trained dolphins are equipped with special array that allows them to concentrate their natural sonar to easily locate enemy submerged vessels or further concentrate their sonar to attack."
+  },
+  {
+    "id": 1741,
+    "label": "VOX:cevau29",
+    "en": "Although not as well armored as its Soviet counterpart, our Grizzly Battle tank is much faster and packs the same punch."
+  },
+  {
+    "id": 1742,
+    "label": "VOX:cevau30",
+    "en": "Commander, our Prism Tank is based on the Prof. Einstein's light enhancement process. It is most effective in dealing with the massive force tactics that the Soviets prefer to use."
+  },
+  {
+    "id": 1743,
+    "label": "VOX:cevau31",
+    "en": "Commander, our Mirage Tank's ability to hide itself among any natural objects around it make it the perfect ambush or covert surveillance vehicle."
+  },
+  {
+    "id": 1744,
+    "label": "VOX:cevau32",
+    "en": "The Black Hawk helicopter utilizes the most advanced stealth technologies slip past enemy lines without detection on radar."
+  },
+  {
+    "id": 1745,
+    "label": "VOX:cevau33",
+    "en": "Sir, the Intruder is a VTOL attack aircraft capable of delivery its ordinance on any target package you desire across the combat zone."
+  },
+  {
+    "id": 1746,
+    "label": "VOX:cevau34",
+    "en": "Another marvel of technology from Professor Einstein's bag of tricks. Our Chrono Miners can teleport safely and quickly straight back home after gathering their ore supply."
+  },
+  {
+    "id": 1747,
+    "label": "VOX:cevau35",
+    "en": "Commander, our landing craft is capable of quickly ferrying troops and armor across any body of water- wherever you need them- whenever you need them."
+  },
+  {
+    "id": 1748,
+    "label": "VOX:cevau36",
+    "en": "Commander, our Destroyer is the workhorse of the navy. No naval unit can long hide from it and once detected, it makes short work of the enemy."
+  },
+  {
+    "id": 1749,
+    "label": "VOX:cevau37",
+    "en": "Commander, there is no airborne threat that can evade the sight or missile of the Aegis Cruiser. It is the premier anti-air weapon."
+  }
+]
